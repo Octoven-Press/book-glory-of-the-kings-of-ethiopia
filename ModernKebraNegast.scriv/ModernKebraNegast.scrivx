@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-06-03 18:59:15 -0700" ModID="2C2A925C-1A4E-4D81-BF4B-483901020184">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-06-04 12:02:46 -0700" ModID="F039BF52-ADC3-475B-A75C-386BBAA4C8F0">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:44 -0700">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -16,13 +16,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F70224D6-3EC1-4DBC-8C02-BB68D87801E9" Type="Text" Created="2024-06-03 18:57:38 -0700" Modified="2024-06-03 18:57:40 -0700">
+                <BinderItem UUID="F70224D6-3EC1-4DBC-8C02-BB68D87801E9" Type="Text" Created="2024-06-03 18:57:38 -0700" Modified="2024-06-04 11:25:05 -0700">
                     <Title>Plate</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>382,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C3B623CF-F7EE-461D-85FC-FA01F06918E9" Type="Folder" Created="2024-06-03 18:56:23 -0700" Modified="2024-06-03 18:56:26 -0700">
@@ -63,49 +63,49 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="0200FC6D-8F3E-404A-979A-86C74CAD0569" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:19:56 -0700">
+                <BinderItem UUID="0200FC6D-8F3E-404A-979A-86C74CAD0569" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-04 12:02:46 -0700">
                     <Title>1</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>295,1</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="78E66A75-50C3-4433-B300-12FBBD573D34" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-06-03 16:19:53 -0700">
+                <BinderItem UUID="78E66A75-50C3-4433-B300-12FBBD573D34" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-06-04 11:59:56 -0700">
                     <Title>2</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>0,33</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A0401633-D8B7-4F1E-9BF6-98552D80F495" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-06-03 16:20:09 -0700">
+                <BinderItem UUID="A0401633-D8B7-4F1E-9BF6-98552D80F495" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-06-04 11:59:50 -0700">
                     <Title>3</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>0,30</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C8A8AF88-C980-48B7-852A-D41041EF5A0C" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:18 -0700">
+                <BinderItem UUID="C8A8AF88-C980-48B7-852A-D41041EF5A0C" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-04 12:01:10 -0700">
                     <Title>4</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>851,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="2FA11E4C-7FA3-4BD6-84C6-0EAAC8CA76E5" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-06-03 16:20:20 -0700">
+                <BinderItem UUID="2FA11E4C-7FA3-4BD6-84C6-0EAAC8CA76E5" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-06-04 11:59:39 -0700">
                     <Title>5</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>151,1</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="5E8458F1-D48C-4395-957E-834F9C10E632" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-06-03 16:20:23 -0700">
@@ -1312,12 +1312,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-06-04 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-06-03 16:28:14 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-06-05 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1041" Characters="5697" Date="2024-06-04 11:19:26 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-06-03 16:14:53 -0700">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2024-06-04 00:00:00 -0700">
+        <DraftWordCount>1041</DraftWordCount>
+        <DraftCharCount>5697</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
