@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-06-05 18:21:45 -0700" ModID="F90943DE-8E51-4A0D-B100-9999428A463D">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-06-05 18:29:42 -0700" ModID="1C6FAB2D-F381-4A04-A679-19DA824D942A">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:44 -0700">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -492,10 +492,10 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>1679,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="873D53F3-C895-4BBF-80FC-9538BD8B2B19" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-06-03 18:52:01 -0700">
+                <BinderItem UUID="873D53F3-C895-4BBF-80FC-9538BD8B2B19" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-06-05 18:29:42 -0700">
                     <Title>49</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1316,11 +1316,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-06-06 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="9291" Characters="48319" Date="2024-06-05 14:49:19 -0700"/>
+        <PreviousSession Words="9687" Characters="50357" Date="2024-06-05 14:49:19 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-06-05 00:00:00 -0700">
-        <DraftWordCount>9291</DraftWordCount>
-        <DraftCharCount>48319</DraftCharCount>
+        <DraftWordCount>9687</DraftWordCount>
+        <DraftCharCount>50357</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
