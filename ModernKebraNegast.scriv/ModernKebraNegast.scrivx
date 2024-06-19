@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-06-18 21:35:41 -0500" ModID="850B7495-E770-4869-A9F2-DB4A4B243AEB">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-06-18 21:42:06 -0500" ModID="0EDFEABA-90BA-4143-A9D8-2BB41650C752">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 18:14:53 -0500" Modified="2024-06-03 18:20:44 -0500">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -1062,7 +1062,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="7C26E362-DA29-4EFB-9ECD-B4593193D0F1" Type="Text" Created="2024-06-03 18:19:48 -0500" Modified="2024-06-18 21:35:41 -0500">
+                <BinderItem UUID="7C26E362-DA29-4EFB-9ECD-B4593193D0F1" Type="Text" Created="2024-06-03 18:19:48 -0500" Modified="2024-06-18 21:42:06 -0500">
                     <Title>112</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1325,11 +1325,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 18:14:53 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-06-19 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="2369" Characters="12523" Date="2024-06-18 09:57:49 -0500"/>
+        <PreviousSession Words="3281" Characters="17312" Date="2024-06-18 09:57:49 -0500"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-06-18 00:00:00 -0500">
-        <DraftWordCount>2369</DraftWordCount>
-        <DraftCharCount>12523</DraftCharCount>
+        <DraftWordCount>3281</DraftWordCount>
+        <DraftCharCount>17312</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
