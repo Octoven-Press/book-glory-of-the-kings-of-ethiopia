@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-06-23 15:59:48 -0500" ModID="DA037FCC-9114-4E3A-80CB-E60895D60EE7">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-06-24 09:20:36 -0500" ModID="5C0BDD2F-5177-4C7A-B75A-35E7827693F7">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 18:14:53 -0500" Modified="2024-06-03 18:20:44 -0500">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -954,7 +954,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="601BA5F9-C19C-4168-A52C-56D98E8322CC" Type="Text" Created="2024-06-03 18:26:27 -0500" Modified="2024-06-03 20:53:48 -0500">
+                <BinderItem UUID="601BA5F9-C19C-4168-A52C-56D98E8322CC" Type="Text" Created="2024-06-03 18:26:27 -0500" Modified="2024-06-24 09:20:36 -0500">
                     <Title>100</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -963,13 +963,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B2C0ABE6-8CB4-44FC-BF20-21D4C8CF4D13" Type="Text" Created="2024-06-03 18:14:53 -0500" Modified="2024-06-03 20:53:49 -0500">
+                <BinderItem UUID="B2C0ABE6-8CB4-44FC-BF20-21D4C8CF4D13" Type="Text" Created="2024-06-03 18:14:53 -0500" Modified="2024-06-24 09:13:42 -0500">
                     <Title>101</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>155,1</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="2D874845-5CD7-4A9B-879F-5886DECA610B" Type="Text" Created="2024-06-03 18:19:48 -0500" Modified="2024-06-03 20:53:51 -0500">
@@ -1068,7 +1068,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="2055648A-2AD7-415B-84C2-C811D0BAA23B" Type="Text" Created="2024-06-03 18:20:08 -0500" Modified="2024-06-18 21:31:11 -0500">
@@ -1324,12 +1324,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 18:14:53 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-06-24 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-06-23 15:59:45 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-06-25 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="2393" Characters="12422" Date="2024-06-24 08:44:56 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-06-23 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2024-06-24 00:00:00 -0500">
+        <DraftWordCount>2393</DraftWordCount>
+        <DraftCharCount>12422</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
