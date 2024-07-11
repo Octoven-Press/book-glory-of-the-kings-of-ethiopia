@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-07-10 18:50:51 -0700" ModID="86ADD4D0-1E1D-4E84-9826-D09C29DC2034">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-07-10 18:51:40 -0700" ModID="05207221-AF2C-4A2F-A1A8-7648CF2312B1">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:44 -0700">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -918,7 +918,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="74016A29-C426-4468-9D0B-357149297C95" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-07-10 18:50:51 -0700">
+                <BinderItem UUID="74016A29-C426-4468-9D0B-357149297C95" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-07-10 18:51:40 -0700">
                     <Title>96</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
