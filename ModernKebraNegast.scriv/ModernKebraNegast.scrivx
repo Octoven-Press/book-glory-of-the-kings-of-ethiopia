@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-07-16 17:51:25 -0700" ModID="796153D4-58E6-4C80-9ADA-AFF19F5910FA">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-07-16 17:52:01 -0700" ModID="364F8C58-1F2B-46A7-9957-3819C653E287">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:44 -0700">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -909,7 +909,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="CB5E3EF6-6A26-4E1B-91E5-C3E0B3ADD5FB" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-07-16 17:51:25 -0700">
+                <BinderItem UUID="CB5E3EF6-6A26-4E1B-91E5-C3E0B3ADD5FB" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-07-16 17:52:01 -0700">
                     <Title>95</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1325,11 +1325,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-07-17 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1057" Characters="5657" Date="2024-07-16 15:55:44 -0700"/>
+        <PreviousSession Words="1057" Characters="5656" Date="2024-07-16 15:55:44 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-07-16 00:00:00 -0700">
         <DraftWordCount>1057</DraftWordCount>
-        <DraftCharCount>5657</DraftCharCount>
+        <DraftCharCount>5656</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
