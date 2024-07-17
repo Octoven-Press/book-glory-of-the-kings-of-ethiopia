@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-07-17 09:17:51 -0700" ModID="4273FFD1-55F7-494B-92C1-7A803A7312CC">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-07-17 10:58:33 -0700" ModID="969F9027-FC9E-465C-A4FC-1F9D325CCD4F">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:44 -0700">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -891,7 +891,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="8801C389-6FE6-4A11-9765-9008A9DCF3E8" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-06-03 18:53:33 -0700">
+                <BinderItem UUID="8801C389-6FE6-4A11-9765-9008A9DCF3E8" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-07-17 10:58:33 -0700">
                     <Title>93</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -906,7 +906,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>2064,4</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="CB5E3EF6-6A26-4E1B-91E5-C3E0B3ADD5FB" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-07-16 17:57:33 -0700">
@@ -1325,11 +1325,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-07-18 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="721" Characters="3807" Date="2024-07-17 08:58:49 -0700"/>
+        <PreviousSession Words="1231" Characters="6479" Date="2024-07-17 08:58:49 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-07-17 00:00:00 -0700">
-        <DraftWordCount>721</DraftWordCount>
-        <DraftCharCount>3807</DraftCharCount>
+        <DraftWordCount>1231</DraftWordCount>
+        <DraftCharCount>6479</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
