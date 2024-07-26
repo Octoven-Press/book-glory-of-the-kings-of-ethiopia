@@ -5,10 +5,17 @@ Supposedly originally authored in Coptic, then translated to Arabic, and then ba
 This modernization is based on the 1922 work, updating the Elizabethan language to an English more easily read by a modern English reader and augmenting such a text with a series of modern illustrations. 
 
 This project features a number of expected artifacts:
-* A limited run of physical books of the modernized version
-* An electronic version of the modernized tome for Kindles, Kobos, and other EPUB digital readers
+* A modernized, illustrated version of the text
+  * A limited run of physical books of the modernized version
+  * An electronic version of the modernized tome for Kindles, Kobos, and other EPUB digital readers
+  * A new set of appendices containing:
+    * Known history and variations of the Kəbrä Nägäśt texts
+    * Recommended reading
+    * Visual timeline of events detailed in the Kəbrä Nägäśt
+    * Alternative organizational models for text
+    * Maps of regions detailed in the Kəbrä Nägäśt
+  * This GitHub record showing the original 1922 text with a recording of every change committed in the modernization
+  * A gallery of the 117 prints used in the modernized version
 * An updated plain-text electronic version of the original 1922 text
-* A gallery of the 117 prints used in the modernized version
-* This GitHub record showing the original 1922 text with a recording of every change committed in the modernization
 
 All proceeds from the work are intended for donation to a non-profit organization supporting sustainability and mitigating climate change for the Ethiopian people. 
