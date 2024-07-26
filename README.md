@@ -6,7 +6,7 @@ This modernization is based on the 1922 work, updating the Elizabethan-style lan
 
 This project features a number of expected artifacts:
 * A modernized, illustrated version of the text
-  * A limited run of physical books of the modernized version
+  * A limited run of physical books of the modernized version, printed in [octodecimo format](https://en.wikipedia.org/wiki/Book_size#United_States) for collectors
   * An electronic version of the modernized tome for Kindles, Kobos, and other EPUB digital readers
   * A new set of appendices containing:
     * Known history and variations of the Kəbrä Nägäśt texts
