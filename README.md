@@ -16,6 +16,6 @@ This project features a number of expected artifacts:
     * Maps of regions detailed in the Kəbrä Nägäśt
   * This GitHub record showing the original 1922 text with a recording of every change committed in the modernization
   * A gallery of the 117 prints used in the modernized version
-* An updated plain-text electronic version of the original 1922 text
+* An updated plain-text electronic version transcribed from the original 1922 text released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 All proceeds from electronic book sales are intended for donation to a non-profit organization supporting sustainability and mitigating climate change for the Ethiopian people.
