@@ -18,4 +18,4 @@ This project features a number of expected artifacts:
   * A gallery of the 117 prints used in the modernized version
 * An updated plain-text electronic version of the original 1922 text
 
-All proceeds from the work are intended for donation to a non-profit organization supporting sustainability and mitigating climate change for the Ethiopian people. 
+All proceeds from electronic book sales are intended for donation to a non-profit organization supporting sustainability and mitigating climate change for the Ethiopian people. 
