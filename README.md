@@ -1,8 +1,8 @@
-The Glory of the Kings of Ethiopia is a modernization of the ancient Ethiopian text: the Kəbrä Nägäśt. 
+### [_The Glory of the Kings of Ethiopia_](https://github.com/Octoven-Press/book-glory-of-the-kings-of-ethiopia/) is a modernization of the ancient Ethiopian text: the _Kəbrä Nägäśt_ (also known as _The Queen of Sheba and her only son Menyelek I_).
 
 Supposedly originally authored in Coptic, then translated to Arabic, and then back to Ge’ez, the book is a collection of 117 chapters outlining why Ethiopian emperors are divinely ordained to rule. The narrative centers on the Queen of Sheba’s journey to Jerusalem to meet Judah’s King Solomon, their resulting son Menelik, his subsequent trasnfer of the Ark of the Covenant back to Ethiopia whereupon he becomes king, and various stories outlining the country’s shift to Christianity afterwards (amongst other narratives). The oldest known copy sits in the [Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/btv1b10088409f), which was translated to German in 1905 by Carl Bezold. In 1922, Sir E.A. Wallis Budge of the British Museum translated the work to English.
 
-This modernization is based on the 1922 work, updating the Elizabethan language to an English more easily read by a modern English reader and augmenting such a text with a series of modern illustrations. 
+This modernization is based on the 1922 work, updating the Elizabethan-style language to an English more easily understood by a modern English reader and augmenting such a text with a series of new illustrations. 
 
 This project features a number of expected artifacts:
 * A modernized, illustrated version of the text
@@ -18,4 +18,4 @@ This project features a number of expected artifacts:
   * A gallery of the 117 prints used in the modernized version
 * An updated plain-text electronic version of the original 1922 text
 
-All proceeds from electronic book sales are intended for donation to a non-profit organization supporting sustainability and mitigating climate change for the Ethiopian people. 
+All proceeds from electronic book sales are intended for donation to a non-profit organization supporting sustainability and mitigating climate change for the Ethiopian people.
