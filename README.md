@@ -6,19 +6,19 @@ This modernization is based on the 1922 work, updating the Elizabethan-style lan
 
 This project features a number of expected artifacts:
 * A modernized, illustrated version of the text
-  * A limited run of physical books of the modernized version, printed in [octodecimo format](https://en.wikipedia.org/wiki/Book_size#United_States) for collectors
-  * An electronic version of the modernized tome for Kindles, Kobos, and other EPUB digital readers
-  * A new set of appendices containing:
-    * Known history and variations of the Kəbrä Nägäśt texts
-    * Recommended reading
-    * Visual timeline of events detailed in the Kəbrä Nägäśt
-    * Alternative organizational models for text
-    * Maps of regions detailed in the Kəbrä Nägäśt
-  * This GitHub record showing the original 1922 text with a recording of every change committed in the modernization
-  * A gallery of the 117 prints used in the modernized version
-* An updated plain-text electronic version transcribed from Budge’s 1922 text released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+  * A limited run of **physical books** of the modernized version, printed in [octodecimo format](https://en.wikipedia.org/wiki/Book_size#United_States) for collectors
+  * An **electronic ebook** version of the modernized tome for Kindles, Kobos, and other EPUB digital readers
+  * A gallery of the **117 illustrated prints** used in the modernized version
+  * A new set of **appendices** containing:
+    * Known **history and variations** of the Kəbrä Nägäśt texts
+    * **Visual timeline** of events detailed in the Kəbrä Nägäśt
+    * Alternative **organizational models** for text
+    * **Maps of regions** detailed in the Kəbrä Nägäśt to contextualize for Western readers
+    * Recommended reading for further analysis and context
+  * This GitHub record showing the original 1922 text with a **recording of every change committed** in the modernization
+* An **updated plain-text electronic version** transcribed from Budge’s 1922 text released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 * Stretch goals:
-  * A plain-text Ge’ez electronic version transcribed from the oldest known copy sits in the [Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/btv1b10088409f) released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+  * A **plain-text Ge’ez electronic version** transcribed from the oldest known copy sits in the [Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/btv1b10088409f) released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
   * AI training models for ancient Ge’ez transcription
   * AI training models for multiple generations of Ethiopian art
 
