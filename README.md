@@ -16,6 +16,10 @@ This project features a number of expected artifacts:
     * Maps of regions detailed in the Kəbrä Nägäśt
   * This GitHub record showing the original 1922 text with a recording of every change committed in the modernization
   * A gallery of the 117 prints used in the modernized version
-* An updated plain-text electronic version transcribed from the original 1922 text released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+* An updated plain-text electronic version transcribed from Budge’s 1922 text released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+* Stretch goals:
+ * A plain-text Ge’ez electronic version transcribed from the oldest known copy sits in the [Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/btv1b10088409f) released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+ * AI training models for ancient Ge’ez transcription
+ * AI training models for multiple generations of Ethiopian art
 
 All proceeds from electronic book sales are intended for donation to a non-profit organization supporting sustainability and mitigating climate change for the Ethiopian people.
