@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-07-17 18:54:18 -0700" ModID="6217DFF8-2550-455A-82DF-144226F989CD">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-08-26 11:33:20 -0700" ModID="6A9370FB-FA9D-4404-BB3C-7F19679C7B0F">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:44 -0700">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -52,7 +52,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0" Type="Text" Created="2024-06-03 18:57:07 -0700" Modified="2024-06-03 18:57:13 -0700">
+                        <BinderItem UUID="C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0" Type="Text" Created="2024-06-03 18:57:07 -0700" Modified="2024-08-26 11:33:20 -0700">
                             <Title>Preface to the 1922 edition</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1324,12 +1324,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-07-18 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="14832" Characters="77661" Date="2024-07-17 08:58:49 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-08-27 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="2833" Characters="15897" Date="2024-08-26 11:31:50 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-07-17 00:00:00 -0700">
-        <DraftWordCount>14832</DraftWordCount>
-        <DraftCharCount>77661</DraftCharCount>
+    <RecentWritingHistory Date="2024-08-26 00:00:00 -0700">
+        <DraftWordCount>2833</DraftWordCount>
+        <DraftCharCount>15897</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
