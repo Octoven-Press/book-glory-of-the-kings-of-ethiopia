@@ -126,6 +126,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>210669CD-8207-49D2-96D9-D97B17725C72</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>23AC152F-1C90-499D-8EF1-B3947C3C0800</key>
 		<dict>
 			<key>Row</key>
@@ -486,6 +491,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>A7F8AD14-D3BD-42D3-84D9-A2091ABFBE50</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>A9428E5E-BB91-4AC1-AD17-B988D367C6D2</key>
 		<dict>
 			<key>Row</key>
@@ -724,7 +734,7 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1124 504 1367 1631 0 0 3840 2135 </string>
+	<string>972 504 1367 1631 0 0 3840 2135 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
