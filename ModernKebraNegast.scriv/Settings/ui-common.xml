@@ -11,7 +11,7 @@
             <ItemID>27A8BBED-EC24-4951-A8A3-C9EF92C18A94</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>8BCD3E68-6350-4565-B467-B43A29DA723B</ItemID>
+            <ItemID>210669CD-8207-49D2-96D9-D97B17725C72</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -64,13 +64,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>8BCD3E68-6350-4565-B467-B43A29DA723B</ItemID>
+                    <ItemID>210669CD-8207-49D2-96D9-D97B17725C72</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="99">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">88E7CDBE-AAA0-42DD-87C7-F96241F4C85B</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">08C6254A-532A-48C1-A5F1-0D9A45B38A9A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">11055E8F-D544-43CA-AC3A-4CA9B05AAB13</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">4668474F-A890-4257-AF44-5DE3156D72E1,39484EAC-FA98-424D-808D-CB91BCE7F548</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">E23D131B-5914-494E-9DAB-ED7AF3A24A54</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">4668474F-A890-4257-AF44-5DE3156D72E1</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">02B79A53-0791-4ADE-9304-F365C506B0E9</HistoryItem>
@@ -167,6 +163,10 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">42E6DCF1-858A-4BDB-A13D-D687B422C9D5</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">FE606A6C-5CBF-4B93-9B60-0D8930AD1A70</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">8BCD3E68-6350-4565-B467-B43A29DA723B</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">FE606A6C-5CBF-4B93-9B60-0D8930AD1A70</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">42E6DCF1-858A-4BDB-A13D-D687B422C9D5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">51483619-1237-4861-B99E-F913E8F075E5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">210669CD-8207-49D2-96D9-D97B17725C72</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
