@@ -747,8 +747,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {860, 1573}}</string>
-		<string>{{861, 0}, {240, 1573}}</string>
+		<string>{{0, 0}, {873, 1573}}</string>
+		<string>{{874, 0}, {227, 1573}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
