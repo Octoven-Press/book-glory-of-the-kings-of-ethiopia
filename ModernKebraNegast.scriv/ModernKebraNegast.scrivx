@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-08-29 16:34:03 -0700" ModID="646EA7FC-397F-472B-B25D-9B1DD53A3B7D">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-08-29 16:41:04 -0700" ModID="050DB4D0-200B-427E-BD15-FD949D002AA6">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:44 -0700">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -218,7 +218,7 @@
                         <TextSelection>1103,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C82DE29B-A577-483A-BD40-91B6FFF6EBF7" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-06-04 12:36:22 -0700">
+                <BinderItem UUID="C82DE29B-A577-483A-BD40-91B6FFF6EBF7" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-08-29 16:37:56 -0700">
                     <Title>12</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -227,22 +227,22 @@
                         <TextSelection>1749,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="7B6319EA-7CCB-4F25-801E-D7F7334575CB" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-06-04 12:41:55 -0700">
+                <BinderItem UUID="7B6319EA-7CCB-4F25-801E-D7F7334575CB" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-08-29 16:39:08 -0700">
                     <Title>13</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2103,0</TextSelection>
+                        <TextSelection>636,584</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="D11F978C-A0C0-46C2-863E-BA2EF1B69DB5" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-04 14:28:01 -0700">
+                <BinderItem UUID="D11F978C-A0C0-46C2-863E-BA2EF1B69DB5" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-08-29 16:41:04 -0700">
                     <Title>14</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1951,0</TextSelection>
+                        <TextSelection>783,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1AE40D3D-29EB-4771-A82A-2B105356C9F5" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-06-04 12:43:28 -0700">
@@ -1389,11 +1389,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-08-30 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="15" Characters="80" Date="2024-08-29 08:53:19 -0700"/>
+        <PreviousSession Words="16" Characters="84" Date="2024-08-29 08:53:19 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-08-29 00:00:00 -0700">
-        <DraftWordCount>15</DraftWordCount>
-        <DraftCharCount>80</DraftCharCount>
+        <DraftWordCount>16</DraftWordCount>
+        <DraftCharCount>84</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
