@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CompileFolder</key>
+	<string>/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Reference/Versions of the text/Sacred Texts HTML</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>binderSplitFrames</key>
@@ -556,6 +558,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>C02DFD9C-EF42-43CF-9D28-4F9FF0E22018</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C3B623CF-F7EE-461D-85FC-FA01F06918E9</key>
 		<dict>
 			<key>Row</key>
@@ -760,7 +767,7 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>972 504 1367 1631 0 0 3840 2135 </string>
+	<string>2182 504 1367 1631 0 0 3840 2135 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
