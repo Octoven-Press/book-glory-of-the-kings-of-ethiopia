@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-08-29 16:52:01 -0700" ModID="0B44B5B8-4B4A-43AC-A60F-AE76B6337717">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-08-29 17:01:08 -0700" ModID="BEB849C6-BB4B-4AE2-8F57-FAC9BFAE80B0">
     <Binder>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:44 -0700">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -308,34 +308,34 @@
                         <TextSelection>1437,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="37997AC6-B5F2-42FE-90E5-B2824DAC4548" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-06-04 14:42:24 -0700">
+                <BinderItem UUID="37997AC6-B5F2-42FE-90E5-B2824DAC4548" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-08-29 16:55:50 -0700">
                     <Title>22</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3269,0</TextSelection>
+                        <TextSelection>752,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="73A4D825-6A00-4241-96DC-3B5129D9B9FD" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-07-17 17:31:13 -0700">
+                <BinderItem UUID="73A4D825-6A00-4241-96DC-3B5129D9B9FD" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-08-29 16:56:52 -0700">
                     <Title>23</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3568,0</TextSelection>
+                        <TextSelection>3294,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B1C3BE9F-061A-45B6-8B88-9333B14B9947" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-05 15:26:31 -0700">
+                <BinderItem UUID="B1C3BE9F-061A-45B6-8B88-9333B14B9947" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-08-29 16:58:58 -0700">
                     <Title>24</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4395,0</TextSelection>
+                        <TextSelection>3567,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="2B23C3F0-3859-4602-8A55-78A17B6DFA15" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-07-17 17:31:35 -0700">
+                <BinderItem UUID="2B23C3F0-3859-4602-8A55-78A17B6DFA15" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-08-29 17:01:08 -0700">
                     <Title>25</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1389,11 +1389,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-08-30 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="16" Characters="85" Date="2024-08-29 08:53:19 -0700"/>
+        <PreviousSession Words="18" Characters="95" Date="2024-08-29 08:53:19 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-08-29 00:00:00 -0700">
-        <DraftWordCount>16</DraftWordCount>
-        <DraftCharCount>85</DraftCharCount>
+        <DraftWordCount>18</DraftWordCount>
+        <DraftCharCount>95</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
