@@ -2,14 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CollectionSelections</key>
+	<dict>
+		<key>46DDA17B-2750-480D-A05E-4B55642FA590</key>
+		<array>
+			<string>F666DF33-0552-43D4-AAAA-F92E713EE3BC</string>
+		</array>
+	</dict>
 	<key>CompileFolder</key>
 	<string>/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Reference/Versions of the text/Sacred Texts HTML</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {265, 1603}}</string>
-		<string>{{266, 0}, {1101, 1603}}</string>
+		<string>{{0, 0}, {265, 2074}}</string>
+		<string>{{266, 0}, {1336, 2074}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -528,6 +535,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>ACA97186-2DBC-4D1B-BE4D-087858D8BE00</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>AD7AE4E7-7EF3-4330-94B0-79EDD1B7299E</key>
 		<dict>
 			<key>Row</key>
@@ -729,6 +741,10 @@
 			<integer>-1</integer>
 		</dict>
 	</dict>
+	<key>collectionSelectionAutosaveName</key>
+	<array>
+		<integer>9</integer>
+	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
 		<key>MainID</key>
@@ -747,8 +763,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {873, 1573}}</string>
-		<string>{{874, 0}, {227, 1573}}</string>
+		<string>{{0, 0}, {1108, 2044}}</string>
+		<string>{{1109, 0}, {227, 2044}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -767,7 +783,19 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>2181 504 1367 1631 0 0 3840 2135 </string>
+	<string>1246 33 1602 2102 0 0 3840 2135 </string>
+	<key>searchResultsTable</key>
+	<dict>
+		<key>order</key>
+		<array>
+			<string>TITLE</string>
+		</array>
+		<key>widths</key>
+		<dict>
+			<key>TITLE</key>
+			<real>233</real>
+		</dict>
+	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
