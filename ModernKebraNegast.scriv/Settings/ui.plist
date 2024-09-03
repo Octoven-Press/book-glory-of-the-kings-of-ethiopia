@@ -6,7 +6,7 @@
 	<dict>
 		<key>46DDA17B-2750-480D-A05E-4B55642FA590</key>
 		<array>
-			<string>C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0</string>
+			<string>8BCD3E68-6350-4565-B467-B43A29DA723B</string>
 		</array>
 	</dict>
 	<key>CompileFolder</key>
@@ -743,7 +743,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>0</integer>
+		<integer>2</integer>
 	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
@@ -783,7 +783,7 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1245 33 1602 2102 0 0 3840 2135 </string>
+	<string>1968 33 1602 2102 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -793,7 +793,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>218</real>
+			<real>233</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
