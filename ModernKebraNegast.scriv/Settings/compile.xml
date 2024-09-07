@@ -12,6 +12,8 @@
             <RemoveComments>Yes</RemoveComments>
             <RemoveAnnotations>Yes</RemoveAnnotations>
             <ResampleImages DPI="72">No</ResampleImages>
+            <RemoveTextColor>Yes</RemoveTextColor>
+            <RemoveTrailingWhitespace>Yes</RemoveTrailingWhitespace>
             <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
             <PDF>
                 <Cover Bleed="9.0" BleedUnits="pt"/>
@@ -41,8 +43,22 @@
             </Ebook>
         </Options>
         <MetaData>
-            <ProjectTitle>ModernKebraNegast</ProjectTitle>
-            <ProjectAbbreviatedTitle>ModernKebraNegast</ProjectAbbreviatedTitle>
+            <ProjectTitle>Kebra Negast: The Queen of Sheba &amp; her only son Menyelek</ProjectTitle>
+            <ProjectAbbreviatedTitle>Kebra Nagast</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author>Sir E.A. Wallis Budge</Author>
+                <Author>Micah Laaker</Author>
+            </Authors>
+            <Subjects>
+                <Subject>Ethiopia</Subject>
+                <Subject>religion</Subject>
+                <Subject>Christianity</Subject>
+                <Subject>Judaism</Subject>
+                <Subject>Solomon</Subject>
+                <Subject>Solomonic line of kings</Subject>
+                <Subject>Ark of the Covenant</Subject>
+            </Subjects>
+            <Company>Octoven Press</Company>
             <EbookLanguage>en</EbookLanguage>
             <FountainTitlePageMetaData>
                 <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
@@ -54,7 +70,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>docx</CurrentFileType>
+    <CurrentFileType>mmd</CurrentFileType>
     <FormatSettings>
         <Format ID="DEFAULT">
             <SectionLayouts>
@@ -62,9 +78,24 @@
                 <Type ID="8D4EAAB7-E0A3-4010-83A3-90610A5651FF">TEXT-SECTION</Type>
             </SectionLayouts>
         </Format>
+        <Format ID="5D0CC3FE-F1EF-4958-AF9C-65A2904508F3">
+            <SectionLayouts>
+                <Type ID="B4DA8B0A-6382-45E2-96DD-380C5ACF8887">AS-IS</Type>
+                <Type ID="2CF74684-CA8E-4465-8D54-72D71D821B84">AS-IS</Type>
+                <Type ID="5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E">86C08239-3F1D-4125-8BE0-E97ACEC5BDAD</Type>
+                <Type ID="3CCB49A2-7E2A-401F-8BDE-5DA50725B683">AS-IS</Type>
+                <Type ID="8D4EAAB7-E0A3-4010-83A3-90610A5651FF">AS-IS</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes"></DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
     </FormatSettings>
     <LastUsedFormats>
-        <Print>DEFAULT</Print>
+        <Print>5D0CC3FE-F1EF-4958-AF9C-65A2904508F3</Print>
+        <rtfd>DEFAULT</rtfd>
         <docx>DEFAULT</docx>
+        <mmd>5D0CC3FE-F1EF-4958-AF9C-65A2904508F3</mmd>
+        <epub3>DEFAULT</epub3>
     </LastUsedFormats>
 </CompileSettings>

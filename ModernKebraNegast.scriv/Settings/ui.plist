@@ -10,13 +10,15 @@
 		</array>
 	</dict>
 	<key>CompileFolder</key>
-	<string>/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Reference/Versions of the text/Sacred Texts HTML</string>
+	<string>/Users/mlaaker/Desktop/scrivpub</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
+	<key>SuppressBookmarksFolderCheck</key>
+	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {265, 2074}}</string>
-		<string>{{266, 0}, {1336, 2074}}</string>
+		<string>{{0, 0}, {265, 1985}}</string>
+		<string>{{266, 0}, {1511, 1985}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -201,6 +203,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>36C2606A-29A1-4B12-B759-FE663F30E5F5</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3724F8F0-BAC6-45DF-AB9E-0B1501BFFB9D</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -510,6 +517,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>A552B3C0-AF76-40A2-A4A9-8839F8EDC0C3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>A74F8980-D98B-4412-8F64-E434D757E033</key>
 		<dict>
 			<key>Row</key>
@@ -616,6 +628,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>D11F978C-A0C0-46C2-863E-BA2EF1B69DB5</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>D129895B-43DA-4016-B1C0-C0265C0B5299</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -763,8 +780,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1108, 2044}}</string>
-		<string>{{1109, 0}, {227, 2044}}</string>
+		<string>{{0, 0}, {1283, 1955}}</string>
+		<string>{{1284, 0}, {227, 1955}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -776,14 +793,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 452}, {429, 744.5}}</string>
+	<string>{{-7, 0}, {633.5, 351}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>43 33 1602 2102 0 0 3840 2135 </string>
+	<string>1829 122 1777 2013 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -793,7 +810,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>233</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
