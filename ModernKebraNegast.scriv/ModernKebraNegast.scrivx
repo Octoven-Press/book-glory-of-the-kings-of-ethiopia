@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-07 12:34:57 -0700" ModID="30D60219-6689-410E-AA8C-EC7681C006C4">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-07 23:38:21 -0700" ModID="A32523EA-70FA-428F-84CD-5454D115F23C">
     <Binder>
         <BinderItem UUID="A552B3C0-AF76-40A2-A4A9-8839F8EDC0C3" Type="Text" Created="2024-09-04 18:01:53 -0700" Modified="2024-09-07 12:24:48 -0700">
             <Title>Metadata</Title>
@@ -24,7 +24,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>691,0</TextSelection>
+                        <TextSelection>590,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C3B623CF-F7EE-461D-85FC-FA01F06918E9" Type="Folder" Created="2024-06-03 18:56:23 -0700" Modified="2024-09-04 17:55:21 -0700">
@@ -37,32 +37,32 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="EAE4EC35-7714-4850-9896-4819C2DB649B" Type="Text" Created="2024-06-03 18:56:38 -0700" Modified="2024-09-04 20:10:35 -0700">
+                        <BinderItem UUID="EAE4EC35-7714-4850-9896-4819C2DB649B" Type="Text" Created="2024-06-03 18:56:38 -0700" Modified="2024-09-07 23:00:52 -0700">
                             <Title>Preface to the 202x edition</Title>
                             <MetaData>
-                                <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
+                                <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6D1C3E7B-C347-477A-BBA7-A9384C982DC5" Type="Text" Created="2024-06-03 18:56:56 -0700" Modified="2024-09-04 20:10:35 -0700">
+                        <BinderItem UUID="6D1C3E7B-C347-477A-BBA7-A9384C982DC5" Type="Text" Created="2024-06-03 18:56:56 -0700" Modified="2024-09-07 23:00:52 -0700">
                             <Title>Preface to the 1932 edition</Title>
                             <MetaData>
-                                <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
+                                <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,27</TextSelection>
+                                <TextSelection>14510,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0" Type="Text" Created="2024-06-03 18:57:07 -0700" Modified="2024-09-04 20:10:35 -0700">
+                        <BinderItem UUID="C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0" Type="Text" Created="2024-06-03 18:57:07 -0700" Modified="2024-09-07 23:00:52 -0700">
                             <Title>Preface to the 1922 edition</Title>
                             <MetaData>
-                                <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
+                                <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,26</TextSelection>
+                                <TextSelection>1472,12</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -77,54 +77,54 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="210669CD-8207-49D2-96D9-D97B17725C72" Type="Text" Created="2024-08-26 14:18:09 -0700" Modified="2024-09-04 20:10:28 -0700">
-                            <Title>1</Title>
+                        <BinderItem UUID="210669CD-8207-49D2-96D9-D97B17725C72" Type="Text" Created="2024-08-26 14:18:09 -0700" Modified="2024-09-07 23:31:12 -0700">
+                            <Title>The Manuscripts of the Kebra Nagast and their arrival in Europe. The labours of Bruce, Dillmann, Praetorius, Wright, Zotenberg, and Bezold. King John’s letter to Lord Granville. Date of compilation of the Kebra Nagast. The Ethiopian work based on Coptic and Arabic sources, etc.</Title>
                             <MetaData>
-                                <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
+                                <SectionType>E6C7D3E9-1ED3-4B8C-87E6-3763733B1727</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,276</TextSelection>
+                                <TextSelection>28602,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="51483619-1237-4861-B99E-F913E8F075E5" Type="Text" Created="2024-08-27 11:03:56 -0700" Modified="2024-09-04 20:10:28 -0700">
-                            <Title>2</Title>
+                        <BinderItem UUID="51483619-1237-4861-B99E-F913E8F075E5" Type="Text" Created="2024-08-27 11:03:56 -0700" Modified="2024-09-07 23:38:21 -0700">
+                            <Title>English translation of the Arabic text describing how the Kingdom of David was transferred from Jerusalem to Ethiopia.</Title>
                             <MetaData>
-                                <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
+                                <SectionType>E6C7D3E9-1ED3-4B8C-87E6-3763733B1727</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,116</TextSelection>
+                                <TextSelection>27969,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="42E6DCF1-858A-4BDB-A13D-D687B422C9D5" Type="Text" Created="2024-08-27 12:33:43 -0700" Modified="2024-09-04 20:10:28 -0700">
-                            <Title>3</Title>
+                        <BinderItem UUID="42E6DCF1-858A-4BDB-A13D-D687B422C9D5" Type="Text" Created="2024-08-27 12:33:43 -0700" Modified="2024-09-07 23:36:14 -0700">
+                            <Title>Legends of Solomon and the Queen of Sheba in the Kur’ân and in Muhammadan literature</Title>
                             <MetaData>
-                                <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
+                                <SectionType>E6C7D3E9-1ED3-4B8C-87E6-3763733B1727</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,83</TextSelection>
+                                <TextSelection>0,6461</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="FE606A6C-5CBF-4B93-9B60-0D8930AD1A70" Type="Text" Created="2024-08-27 12:34:44 -0700" Modified="2024-09-04 20:10:28 -0700">
-                            <Title>4</Title>
+                        <BinderItem UUID="FE606A6C-5CBF-4B93-9B60-0D8930AD1A70" Type="Text" Created="2024-08-27 12:34:44 -0700" Modified="2024-09-07 23:03:09 -0700">
+                            <Title>Modern Legends of Solomon and the Queen of Sheba</Title>
                             <MetaData>
-                                <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
+                                <SectionType>E6C7D3E9-1ED3-4B8C-87E6-3763733B1727</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,47</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8BCD3E68-6350-4565-B467-B43A29DA723B" Type="Text" Created="2024-08-27 12:34:49 -0700" Modified="2024-09-04 20:10:28 -0700">
-                            <Title>5</Title>
+                        <BinderItem UUID="8BCD3E68-6350-4565-B467-B43A29DA723B" Type="Text" Created="2024-08-27 12:34:49 -0700" Modified="2024-09-07 23:12:43 -0700">
+                            <Title>The Contents of the Kebra Nagast described</Title>
                             <MetaData>
-                                <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
+                                <SectionType>E6C7D3E9-1ED3-4B8C-87E6-3763733B1727</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,41</TextSelection>
+                                <TextSelection>33333,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1477,6 +1477,9 @@
     <SectionTypes>
         <TypeDefinitions>
             <Type ID="B4DA8B0A-6382-45E2-96DD-380C5ACF8887">Heading</Type>
+            <Type ID="E0EF8A33-42A7-4C88-BF0E-FB716D5756AB">Preface</Type>
+            <Type ID="E6C7D3E9-1ED3-4B8C-87E6-3763733B1727">Intro</Type>
+            <Type ID="1C377AC0-6442-4B33-AF3C-E261915C62C3">Standalone</Type>
             <Type ID="2CF74684-CA8E-4465-8D54-72D71D821B84">Metadata</Type>
             <Type ID="5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E">Chapter</Type>
             <Type ID="3CCB49A2-7E2A-401F-8BDE-5DA50725B683">Sub-Heading</Type>
@@ -1523,13 +1526,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-09-08 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="1" Date="2024-09-07 12:08:11 -0700"/>
+        <PreviousSession Words="-98" Characters="-600" Date="2024-09-07 12:08:11 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-09-07 00:00:00 -0700">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>1</DraftCharCount>
-        <OtherWordCount>7</OtherWordCount>
-        <OtherCharCount>89</OtherCharCount>
+        <DraftWordCount>-98</DraftWordCount>
+        <DraftCharCount>-600</DraftCharCount>
+        <OtherWordCount>2</OtherWordCount>
+        <OtherCharCount>61</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
