@@ -17,5 +17,6 @@
     <Day dwc="2649" dcc="15341" dtwc="106424" owc="0" occ="0" dtcc="567327">2024-09-01</Day>
     <Day dwc="111" dcc="689" dtwc="106535" owc="0" occ="0" dtcc="568016">2024-09-02</Day>
     <Day dwc="0" dcc="0" dtwc="103884" owc="1278" occ="11358" dtcc="552677">2024-09-04</Day>
-    <Day dwc="22" dcc="134" owc="0" occ="0">2024-09-07</Day>
+    <Day dwc="-239" dcc="-1511" dtwc="103645" owc="21" occ="193" dtcc="551166">2024-09-07</Day>
+    <Day dwc="-8" dcc="-51" owc="0" occ="0">2024-09-08</Day>
 </WritingHistory>
