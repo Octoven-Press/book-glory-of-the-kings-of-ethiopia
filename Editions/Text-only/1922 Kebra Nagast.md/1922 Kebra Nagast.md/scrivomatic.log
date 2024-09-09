@@ -1,0 +1,34 @@
+
+=== ------------------------------------------------------ ===
+=== Scrivomatic V1.0.37 Report @ 2024-09-09 11:30:31 -0700 ===
+=== ------------------------------------------------------ ===
+ Running shell: /bin/zsh
+ Working directory: /Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Builds/The Glory of the Kings of Ethiopia/book-glory-of-the-kings-of-ethiopia/book-glory-of-the-kings-of-ethiopia/Editions/Text-only/1922 Kebra Nagast.md/1922 Kebra Nagast.md
+ Initiating with Ruby 2.6.10
+===------ Input Options: ------===
+#<struct Scrivomatic::OPT input="1922\\ Kebra\\ Nagast.md", output=nil, to=nil, yaml="/Users/mlaaker/.local/share/pandoc/pandocomatic.yaml", command="pandocomatic", envpath="/Users/mlaaker/bin:/opt/homebrew/bin:/usr/local/bin:/Users/mlaaker/.local/bin", build=false, cleanup=false, verbose=true, dry_run=false, open_log=true, data_dir=nil>
+===------ Final ENV PATH: ------===
+/Users/mlaaker/bin:/opt/homebrew/bin:/usr/local/bin:/Users/mlaaker/.local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/Scrivener.app/Contents/Resources/MultiMarkdown/bin
+===------ TOOL PATHS: ------===
+---pandoc: /opt/homebrew/bin/pandoc | V: 3.3
+---ruby: /usr/bin/ruby | V: ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.arm64e-darwin24]
+---pandocomatic: /opt/homebrew/bin/pandocomatic | V: 1.1.3
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb:54:in `require': cannot load such file -- paru (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+	from -e:1:in `<main>'
+---paru library: V: 
+---rbenv versions:
+---gem: /usr/bin/gem
+
+ … running pandocomatic, please wait …
+===------ COMMAND OUTPUT: ------===
+:: Running: /opt/homebrew/bin/pandocomatic -c /Users/mlaaker/.local/share/pandoc/pandocomatic.yaml --debug 1922\ Kebra\ Nagast.md 
+::: Using configuration hierarchy:
+::: - /opt/homebrew/Cellar/pandocomatic/1.1.3/libexec/gems/pandocomatic-1.1.3/lib/pandocomatic/default_configuration.yaml
+::: - /Users/mlaaker/.local/share/pandoc/pandocomatic.yaml
+::: - /Users/mlaaker/.local/share/pandoc/pandocomatic.yaml
+::: 
+::: 1 command to execute to convert '/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Builds/The Glory of the Kings of Ethiopia/book-glory-of-the-kings-of-ethiopia/book-glory-of-the-kings-of-ethiopia/Editions/Text-only/1922 Kebra Nagast.md/1922 Kebra Nagast.md/1922 Kebra Nagast.md' to '1922 Kebra Nagast.html'.
+::: pandoc	
+::: Pandocomatic needed 1.2 seconds to convert '/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Builds/The Glory of the Kings of Ethiopia/book-glory-of-the-kings-of-ethiopia/book-glory-of-the-kings-of-ethiopia/Editions/Text-only/1922 Kebra Nagast.md/1922 Kebra Nagast.md/1922 Kebra Nagast.md' to '1922 Kebra Nagast.html'.
+:: exit status: pid 91650 exit 0
