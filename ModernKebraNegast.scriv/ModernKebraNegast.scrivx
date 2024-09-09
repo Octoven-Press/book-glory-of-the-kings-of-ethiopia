@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-09 10:14:25 -0700" ModID="0CF9FF9D-ACDD-49C6-93FD-7D4237424F8B">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-09 10:32:56 -0700" ModID="397C3C4A-164E-4E25-95DC-60B4B0DF1D0F">
     <Binder>
-        <BinderItem UUID="A552B3C0-AF76-40A2-A4A9-8839F8EDC0C3" Type="Text" Created="2024-09-04 18:01:53 -0700" Modified="2024-09-07 12:24:48 -0700">
-            <Title>Metadata</Title>
+        <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
+            <Title>Front Matter</Title>
             <MetaData>
-                <SectionType>2CF74684-CA8E-4465-8D54-72D71D821B84</SectionType>
                 <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>Front Matter</IconFileName>
             </MetaData>
             <TextSettings>
-                <TextSelection>382,0</TextSelection>
+                <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <Children>
+                <BinderItem UUID="A552B3C0-AF76-40A2-A4A9-8839F8EDC0C3" Type="Text" Created="2024-09-04 18:01:53 -0700" Modified="2024-09-07 12:24:48 -0700">
+                    <Title>Metadata</Title>
+                    <MetaData>
+                        <SectionType>2CF74684-CA8E-4465-8D54-72D71D821B84</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Front Matter</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>382,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="F785553E-5B21-4664-A210-717B096B303B" Type="DraftFolder" Created="2024-06-03 16:14:53 -0700" Modified="2024-06-03 16:20:44 -0700">
             <Title>The Glory of the Kings of Ethiopia (Kəbrä Nägäśt)</Title>
@@ -386,7 +397,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1862,1</TextSelection>
+                                <TextSelection>3572,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="2B23C3F0-3859-4602-8A55-78A17B6DFA15" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 18:54:45 -0700">
@@ -846,7 +857,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1956,12</TextSelection>
+                                <TextSelection>63,118</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="02B79A53-0791-4ADE-9304-F365C506B0E9" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 12:33:03 -0700">
@@ -1340,8 +1351,35 @@
                         <SelectedSubdocumentUUIDs>536F384E-3EA4-4475-844F-23E724385FBE</SelectedSubdocumentUUIDs>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="57A567B3-1090-4F20-AA7E-2ACEFFCF30BC" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2024-06-03 18:58:31 -0700">
-                            <Title>Appendix I</Title>
+                        <BinderItem UUID="57A567B3-1090-4F20-AA7E-2ACEFFCF30BC" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2024-09-09 10:28:27 -0700">
+                            <Title>Known history and variations of the Kəbrä Nägäśt texts</Title>
+                            <MetaData>
+                                <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3419,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0EEF3E7B-FF29-43FD-B7AA-C20BC20BF9C9" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-09-09 10:29:34 -0700">
+                            <Title>Recommended reading</Title>
+                            <MetaData>
+                                <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,47</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="536F384E-3EA4-4475-844F-23E724385FBE" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2024-09-09 10:30:25 -0700">
+                            <Title>Visual timeline</Title>
+                            <MetaData>
+                                <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3340,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="76B56A4A-DFE2-45A1-95FB-C0E63307D618" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-09-09 10:30:54 -0700">
+                            <Title>Family tree</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
                             </MetaData>
@@ -1349,58 +1387,22 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0EEF3E7B-FF29-43FD-B7AA-C20BC20BF9C9" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-06-03 18:58:37 -0700">
-                            <Title>Appendix II</Title>
+                        <BinderItem UUID="1F4CBEA8-B9D6-4167-8721-BFA66D16BD93" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-09-09 10:31:15 -0700">
+                            <Title>Organization models</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>351,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="536F384E-3EA4-4475-844F-23E724385FBE" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2024-09-04 17:55:45 -0700">
-                            <Title>Appendix III</Title>
+                        <BinderItem UUID="1DAF1CA0-B5E3-41E8-A8ED-786893ABF2D0" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2024-09-09 10:31:45 -0700">
+                            <Title>Map</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="76B56A4A-DFE2-45A1-95FB-C0E63307D618" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-06-03 18:58:51 -0700">
-                            <Title>Appendix IV</Title>
-                            <MetaData>
-                                <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="1F4CBEA8-B9D6-4167-8721-BFA66D16BD93" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-06-03 18:59:06 -0700">
-                            <Title>Appendix V</Title>
-                            <MetaData>
-                                <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="1DAF1CA0-B5E3-41E8-A8ED-786893ABF2D0" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2024-06-03 18:59:10 -0700">
-                            <Title>Appendix VI</Title>
-                            <MetaData>
-                                <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="9F86D416-737B-4D26-BD55-F1BD6452518B" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-06-03 18:59:13 -0700">
-                            <Title>Appendix VII</Title>
-                            <MetaData>
-                                <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>0,66</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1505,6 +1507,15 @@
                         <TextSelection>0,10968</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="9F86D416-737B-4D26-BD55-F1BD6452518B" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-06-03 18:59:13 -0700">
+                    <Title>Appendix VII</Title>
+                    <MetaData>
+                        <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1575,8 +1586,8 @@
     <RecentWritingHistory Date="2024-09-09 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-21</OtherWordCount>
-        <OtherCharCount>460</OtherCharCount>
+        <OtherWordCount>1452</OtherWordCount>
+        <OtherCharCount>10054</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
