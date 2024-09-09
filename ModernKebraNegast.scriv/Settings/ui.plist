@@ -362,6 +362,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>6F2F2048-A29E-41DB-AC74-34D264C10934</key>
 		<dict>
 			<key>Row</key>
@@ -781,8 +786,8 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {894, 1955}}</string>
-		<string>{{895, 0}, {883, 1955}}</string>
+		<string>{{0, 0}, {1176, 1955}}</string>
+		<string>{{1177, 0}, {601, 1955}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
@@ -837,6 +842,6 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
