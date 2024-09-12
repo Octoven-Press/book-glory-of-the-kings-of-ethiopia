@@ -477,6 +477,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>973BE1B6-EC52-4C8E-B89E-8E02B889AE66</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>97A1E304-412B-42AF-A833-05B91D6AD58A</key>
 		<dict>
 			<key>Row</key>
@@ -814,14 +819,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{-7, 0}, {633.5, 351}}</string>
+	<string>{{0, 0}, {387, 633}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1086 122 2380 2013 0 0 3840 2135 </string>
+	<string>946 122 2380 2013 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -840,13 +845,13 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {586, 1899}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<false/>
+	<true/>
 </dict>
 </plist>

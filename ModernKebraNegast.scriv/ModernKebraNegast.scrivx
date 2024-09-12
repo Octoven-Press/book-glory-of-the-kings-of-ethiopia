@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-09 11:30:24 -0700" ModID="F3BF2DF9-BE0B-4D94-8C53-4BCBB3347B34">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-11 11:18:32 -0700" ModID="7BF6B359-B2A1-4D8E-B844-CCEE4960CBC3">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -18,7 +18,7 @@
                         <IconFileName>Front Matter</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>153,111</TextSelection>
+                        <TextSelection>125,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="2F6818B6-FAFB-4A66-98DB-878D499FCDEA" Type="Text" Created="2024-09-04 18:01:53 -0700" Modified="2024-09-09 11:27:50 -0700">
@@ -80,14 +80,14 @@
                                 <TextSelection>14510,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0" Type="Text" Created="2024-06-03 18:57:07 -0700" Modified="2024-09-07 23:00:52 -0700">
+                        <BinderItem UUID="C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0" Type="Text" Created="2024-06-03 18:57:07 -0700" Modified="2024-09-11 10:48:16 -0700">
                             <Title>Preface to the 1922 edition</Title>
                             <MetaData>
                                 <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1472,12</TextSelection>
+                                <TextSelection>13924,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -102,7 +102,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="210669CD-8207-49D2-96D9-D97B17725C72" Type="Text" Created="2024-08-26 14:18:09 -0700" Modified="2024-09-07 23:31:12 -0700">
+                        <BinderItem UUID="210669CD-8207-49D2-96D9-D97B17725C72" Type="Text" Created="2024-08-26 14:18:09 -0700" Modified="2024-09-11 11:17:16 -0700">
                             <Title>The Manuscripts of the Kebra Nagast and their arrival in Europe. The labours of Bruce, Dillmann, Praetorius, Wright, Zotenberg, and Bezold. King John’s letter to Lord Granville. Date of compilation of the Kebra Nagast. The Ethiopian work based on Coptic and Arabic sources, etc.</Title>
                             <MetaData>
                                 <SectionType>E6C7D3E9-1ED3-4B8C-87E6-3763733B1727</SectionType>
@@ -1438,7 +1438,16 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>863,0</TextSelection>
+                        <TextSelection>40,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-11 11:18:32 -0700">
+                    <Title>Sacred Texts changes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>757,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1597,14 +1606,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-09-10 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-09-09 09:24:24 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-09-12 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-09-11 10:37:03 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-09-09 00:00:00 -0700">
+    <RecentWritingHistory Date="2024-09-11 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1454</OtherWordCount>
-        <OtherCharCount>9985</OtherCharCount>
+        <OtherWordCount>167</OtherWordCount>
+        <OtherCharCount>898</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
