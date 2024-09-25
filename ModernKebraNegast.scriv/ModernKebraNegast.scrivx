@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-24 18:25:56 -0700" ModID="B1C465F2-2EAE-4136-882C-83A33EE94CD0">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-24 19:11:23 -0700" ModID="39A12B2A-FC1E-4440-A1DE-57197BFD1BC9">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -119,7 +119,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>27969,4</TextSelection>
+                                <TextSelection>27972,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="42E6DCF1-858A-4BDB-A13D-D687B422C9D5" Type="Text" Created="2024-08-27 12:33:43 -0700" Modified="2024-09-07 23:36:14 -0700">
@@ -154,14 +154,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="F70224D6-3EC1-4DBC-8C02-BB68D87801E9" Type="Text" Created="2024-06-03 18:57:38 -0700" Modified="2024-09-07 23:39:41 -0700">
+                <BinderItem UUID="F70224D6-3EC1-4DBC-8C02-BB68D87801E9" Type="Text" Created="2024-06-03 18:57:38 -0700" Modified="2024-09-24 18:37:35 -0700">
                     <Title>Plate</Title>
                     <MetaData>
                         <SectionType>1C377AC0-6442-4B33-AF3C-E261915C62C3</SectionType>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>381,0</TextSelection>
+                        <TextSelection>11,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="43F2CA33-D3D9-459D-A053-76F7E7282D61" Type="Folder" Created="2024-09-07 23:39:19 -0700" Modified="2024-09-07 23:39:22 -0700">
@@ -174,14 +174,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="0200FC6D-8F3E-404A-979A-86C74CAD0569" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-07 23:41:09 -0700">
+                        <BinderItem UUID="0200FC6D-8F3E-404A-979A-86C74CAD0569" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-24 18:40:19 -0700">
                             <Title>Concerning the Glory of Kings</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>362,437</TextSelection>
+                                <TextSelection>1779,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="78E66A75-50C3-4433-B300-12FBBD573D34" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-07 23:40:47 -0700">
@@ -204,14 +204,14 @@
                                 <TextSelection>274,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C8A8AF88-C980-48B7-852A-D41041EF5A0C" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-07 23:41:47 -0700">
+                        <BinderItem UUID="C8A8AF88-C980-48B7-852A-D41041EF5A0C" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-24 18:40:27 -0700">
                             <Title>Concerning Envy</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>613,0</TextSelection>
+                                <TextSelection>1000,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="2FA11E4C-7FA3-4BD6-84C6-0EAAC8CA76E5" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-07 23:43:30 -0700">
@@ -324,24 +324,24 @@
                                 <TextSelection>338,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="FF9A7349-E20A-462B-8618-E765E59CFF8C" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-09-07 23:50:46 -0700">
+                        <BinderItem UUID="FF9A7349-E20A-462B-8618-E765E59CFF8C" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-09-24 18:44:45 -0700">
                             <Title>Concerning Rôbêl (Reuben)</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1173,4</TextSelection>
+                                <TextSelection>1353,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E49D17C2-7192-4020-98E6-207D411D66AA" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-07 23:51:49 -0700">
+                        <BinderItem UUID="E49D17C2-7192-4020-98E6-207D411D66AA" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-24 18:46:51 -0700">
                             <Title>Concerning the Glory of Zion</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4370,0</TextSelection>
+                                <TextSelection>3549,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="D8C2C9F1-0FD8-40A3-A6A2-B6162F9C19F6" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-07 23:52:03 -0700">
@@ -354,7 +354,7 @@
                                 <TextSelection>0,766</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3F756F41-FEF7-4696-B294-668B5E1DACE6" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2024-09-07 23:52:20 -0700">
+                        <BinderItem UUID="3F756F41-FEF7-4696-B294-668B5E1DACE6" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2024-09-24 18:48:33 -0700">
                             <Title>How this Book came to be found</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -384,14 +384,14 @@
                                 <TextSelection>0,1403</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="37997AC6-B5F2-42FE-90E5-B2824DAC4548" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-07 23:53:45 -0700">
+                        <BinderItem UUID="37997AC6-B5F2-42FE-90E5-B2824DAC4548" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-24 18:49:57 -0700">
                             <Title>Concerning Tâmrîn, the Merchant</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2599,4</TextSelection>
+                                <TextSelection>2304,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="73A4D825-6A00-4241-96DC-3B5129D9B9FD" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-07 23:54:17 -0700">
@@ -411,17 +411,17 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3572,0</TextSelection>
+                                <TextSelection>3049,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2B23C3F0-3859-4602-8A55-78A17B6DFA15" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 18:54:45 -0700">
+                        <BinderItem UUID="2B23C3F0-3859-4602-8A55-78A17B6DFA15" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-24 18:50:43 -0700">
                             <Title>How the Queen came to Solomon the King</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>14,0</TextSelection>
+                                <TextSelection>713,6</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="7BA6AA5B-4E5B-4D05-9BC6-9BD454563C67" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 18:53:56 -0700">
@@ -434,27 +434,27 @@
                                 <TextSelection>1601,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2C013A42-961C-4ED9-A73B-96094D65E3F6" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-08 18:53:37 -0700">
+                        <BinderItem UUID="2C013A42-961C-4ED9-A73B-96094D65E3F6" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-24 19:01:49 -0700">
                             <Title>Concerning the Labourer</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>189,0</TextSelection>
+                                <TextSelection>2562,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="98A30640-0876-435D-B00C-82C70A18DF31" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2024-09-08 18:51:15 -0700">
+                        <BinderItem UUID="98A30640-0876-435D-B00C-82C70A18DF31" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2024-09-24 19:00:05 -0700">
                             <Title>How Solomon gave Commandments to the Queen</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2923,920</TextSelection>
+                                <TextSelection>5710,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7E73E7F0-A789-4B1A-B610-AAC3CD3C9BE1" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-09-08 18:02:04 -0700">
+                        <BinderItem UUID="7E73E7F0-A789-4B1A-B610-AAC3CD3C9BE1" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-09-24 19:11:23 -0700">
                             <Title>Concerning the Three Hundred and Eighteen [Patriarchs]</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1441,13 +1441,13 @@
                         <TextSelection>40,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-24 18:25:56 -0700">
+                <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-24 19:10:29 -0700">
                     <Title>Sacred Texts changes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1599,0</TextSelection>
+                        <TextSelection>2880,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1612,8 +1612,8 @@
     <RecentWritingHistory Date="2024-09-24 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>270</OtherWordCount>
-        <OtherCharCount>1739</OtherCharCount>
+        <OtherWordCount>369</OtherWordCount>
+        <OtherCharCount>2273</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
