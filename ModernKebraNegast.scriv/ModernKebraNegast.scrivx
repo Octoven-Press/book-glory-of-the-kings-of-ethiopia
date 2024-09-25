@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-24 19:11:23 -0700" ModID="39A12B2A-FC1E-4440-A1DE-57197BFD1BC9">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-24 19:25:19 -0700" ModID="89A6ACEB-0318-4178-804F-7636153431DC">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -461,7 +461,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,3711</TextSelection>
+                                <TextSelection>1843,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="9DE2ECC0-0FCE-44A5-B576-562C20E92919" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-09-08 18:01:25 -0700">
@@ -471,7 +471,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>336,0</TextSelection>
+                                <TextSelection>870,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="6E76A05B-38E0-471D-B980-F0A78873027B" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 18:00:14 -0700">
@@ -491,7 +491,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,2359</TextSelection>
+                                <TextSelection>49,23</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="9D08B982-6DBB-4401-B8A3-0C5893FCD86C" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 17:59:18 -0700">
@@ -511,17 +511,17 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>182,0</TextSelection>
+                                <TextSelection>2972,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F666DF33-0552-43D4-AAAA-F92E713EE3BC" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 17:56:54 -0700">
+                        <BinderItem UUID="F666DF33-0552-43D4-AAAA-F92E713EE3BC" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-24 19:23:56 -0700">
                             <Title>How King Solomon sent to his son the commander of his army</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,5614</TextSelection>
+                                <TextSelection>2737,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="24F48E13-F1A1-4798-9D14-57783B482668" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-09-08 17:55:51 -0700">
@@ -1441,13 +1441,13 @@
                         <TextSelection>40,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-24 19:10:29 -0700">
+                <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-24 19:25:18 -0700">
                     <Title>Sacred Texts changes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2880,0</TextSelection>
+                        <TextSelection>3130,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1612,8 +1612,8 @@
     <RecentWritingHistory Date="2024-09-24 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>369</OtherWordCount>
-        <OtherCharCount>2273</OtherCharCount>
+        <OtherWordCount>410</OtherWordCount>
+        <OtherCharCount>2484</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
