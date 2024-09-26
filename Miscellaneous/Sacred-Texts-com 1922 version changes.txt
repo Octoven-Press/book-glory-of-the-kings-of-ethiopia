@@ -1,0 +1,454 @@
+The following are textual changes that should be made to the Sacred-Texts.com copy of the open-source 1922 version of the Kebra Nagast hosted at https://sacred-texts.com/afr/kn/ — These changes were discovered during a comparison of a modern OCR on the original book, compared with the sacred-texts.com version, and then cross-referenced against the original book to ensure accuracy. 
+
+The changes are organized by unique URLs from the Sacred-Texts.com copy of the text, followed by transcribed print version’s page number, followed by row items of discrete changes required to match the sacred-texts.com version to the 1922 original book. Changes that include instruction beyond typographic change or detailed location (e.g. in a footnote) are prefaced with double exclamation marks (i.e. "!!"). 
+
+
+https://sacred-texts.com/afr/kn/kn001.htm 
+p. x 
+* !! footnote 1: of Ḥannâ, edited  —> of Hannâ, edited 
+* !! footnote 1: Lady Meux MSS. 2–5 —> Lady MeuxMSS. 2–5
+
+p. xi
+* priests of Åmen, were —> priests of Ȧmen, were
+* children of Åmen, and —> children of Ȧmen, and
+* god Ȧmen is seen companying —> god Ȧmen is seen companying
+* herself as Åmen's daughter —> herself as Ȧmen’s daughter
+* god Åmen is seen occupying —» god Ȧmen is seen occupying
+* mother of Åmenḥetep III —> mother of Ȧmenḥetep III
+
+p. xii
+* god Åmen of Egypt —> god Ȧmen of Egypt
+* son of Åmen, he —> son of Ȧmen, he
+* that Åmen should acknowledge —> that Ȧmen should acknowledge
+* god Åmen of Libya —> god Ȧmen of Libya
+* priesthood of Åmen accepted —> priesthood of Ȧmen accepted
+* blood of Åmen flowed —> blood of Ȧmen flowed 
+
+p. xiii
+* and Olympia, and —> and Olympias, and
+* god Åmen of Libya —> god Ȧmen of Libya
+* Åmen to Alexander —> Ȧmen to Alexander
+* Åmen, "Sepṭ ābui —> Ȧmen, “Sepṭ ābui
+* virgin queen of Saba —> virgin queen of Sâba
+* ark of Åmen —> ark of Ȧmen
+
+
+https://sacred-texts.com/afr/kn/kn004.htm 
+p. xxiii
+* Dillmann, Prætorius, Wright —> Dillmann, Praetorious, Wright
+
+p. xxiv
+* Historia ger̃al de Ethiopia  —> Historia ger̄al de Ethiopia 
+
+p. xxv.
+* !! footnote 4: Dissertatio Inauguralis. Halle —>  Dissertatio iṇauguralis. Halle
+
+p. xxvi
+* !! footnote 1: MSS. Êthopiens, Paris  —> MSS. Éthiopiens, Paris
+
+p. xxviii
+* des Mandistes, celui  —> des Mahdistes, celui
+* !! footnote 2: London, 1007, 8vo  —> London, 1907, 8vo 
+
+p. xxx
+* liquet" (Catalogue, p. 72)  —> liquet" (Catalogus, p. 72) 
+* from AṂ. 6762 —> from A.M. 6762
+
+p. xxxi
+* fol. 46n, which ends —> fol. 46B, which ends
+* with Yĕkwênô ’Amlâk  —> with Yĕkwĕnô ’Amlâk 
+* Abyssinia, via the Blue —> Abyssinia, viâ the Blue
+
+p. xxxii
+* one Isaac (1), who —> one Isaac (?), who
+
+p. xxxv
+* one 'Tâmrîn, who —> one Tâmrîn, who 
+* call "Balḳîs," and  —> call "Balkîs," and 
+* Dillmann, Catalogue Bibl. —> Dillmann, Catalogus Bibl. 
+
+p. xxxvi
+* ’Êbna Ḥakim —> ’Ĕbna Ḥakîm
+
+
+https://sacred-texts.com/afr/kn/kn005.htm 
+p. xxxix
+* [Here is] the Explanation of the Reason for the Transfer of the Kingdom of David from his Son Solomon, King of Israel, to the Country of the Negus, that is to say, to Abyssinia. —>  [Here is] the explanation of the reason for the transfer of the kingdom of David from his son Solomon, King of Israel, to the country of the Negus, that is to say, to Abyssinia.
+
+p. xlix
+* thus saving, straightway —> thus saying, straightway
+
+p. l
+* unto hire, "The —> unto him, "The
+
+p. liv
+* Solomon, "it is thou —> Solomon, “It is thou
+
+p. lv
+* And he completed His —> And He completed His
+
+p. lvi
+* supplication he unto —> supplication be unto
+
+
+https://sacred-texts.com/afr/kn/kn006.htm 
+p. lvi
+* Muhammadan Literature —> Muhammadan literature
+
+
+https://sacred-texts.com/afr/kn/kn008.htm 
+p. lx
+* Ĕtêyê Azêb  —> Ĕtĕyê Azêb (x2)
+
+p. lxi
+* Ĕtêyê Azêb  —> Ĕtĕyê Azêb 
+* howl of honey —> bowl of honey
+
+p. lxiii
+* sent your firstborn —> send your firstborn
+
+
+https://sacred-texts.com/afr/kn/kn008.htm 
+p. lxiv
+* The Contents of the Kebra Nagast Described —> The Contents of the Kebra Nagast described
+
+p. lxv
+* !! footnote 1: London, 1992 —> London, 1882
+
+p. lxvi
+* in their lives (Chap. ii) —> in their lives (Chap. 15)
+
+p. lxvii
+* “belly of a ship” (p. 13) —> “belly of a ship” (p. 15)
+
+p. lxxi
+* hut that Sun —> but that Sun
+* little finger (Chap. 37) —> little finger (Chap. 31)
+
+p. lxxiii
+* Nubian Nåstasen, King —> Nubian Nastȧsen, King
+
+p. lxxiv
+* that Nåstasen swore —> that Nastȧsen swore
+
+p. lxxv
+* haying sworn his —> having sworn his
+
+p. lxxvi
+* priest to go into the holy of Holies —> priest to go into the Holy of Holies
+
+p. lxxxii
+* unlawful retention —> unlawful detention 
+* approval of Baḷtasôr —> approval of Balṭasôr
+
+p. lxxxv
+* God lighted their hearts —> God lighteth their hearts
+* And with the blowing —> and with the blowing
+* Ethiopians was written —> Ethiopians were written
+
+p. lxxxix
+* Rome (Rûmî) —> Rômê (Rûmî)
+
+
+https://sacred-texts.com/afr/kn/kn016.htm 
+p. 5
+* Flood poured clown  —> Flood poured down 
+
+
+https://sacred-texts.com/afr/kn/kn022.htm 
+p. 11
+* !! footnote 1: 4-17 —>  14-17
+
+
+https://sacred-texts.com/afr/kn/kn024.htm 
+p. 12
+* after him Amînâdab his son —> after him Amînâdâb his son
+
+
+https://sacred-texts.com/afr/kn/kn029.htm 
+p. 16
+* also Both the Evangelist mention —> also doth the Evangelist mention
+
+
+https://sacred-texts.com/afr/kn/kn032.htm 
+p. 23 
+* thou lowest wisdom —> thou lovest wisdom
+
+
+https://sacred-texts.com/afr/kn/kn035.htm 
+p. 27
+* the sup according as —> the sun according as
+
+
+https://sacred-texts.com/afr/kn/kn036.htm 
+p. 30
+* found to he like —> found to be like
+* reported to he beautiful  —> reported to be beautiful
+
+
+https://sacred-texts.com/afr/kn/kn037.htm 
+p. 32
+* increase In me wisdom —> increase in me wisdom
+
+p. 33
+* and I scattered frankincense —> and scattered frankincense
+* to an end a three times —> to an end three times
+
+
+https://sacred-texts.com/afr/kn/kn040.htm 
+p. 37
+* to he honored those —> to be honored those 
+* of Bâlâ Zadîsârĕya nine —> of Bâlâ Zadîsârĕyâ nine 
+
+
+https://sacred-texts.com/afr/kn/kn042.htm 
+p. 42
+* !! footnote 1: Corinthians —> 1 Corinthians
+* !! footnote 2: I1 Samuel —> 2 Samuel 
+
+
+https://sacred-texts.com/afr/kn/kn044.htm 
+p. 49
+* even as cloth a garden —> even as doth a garden 
+
+
+https://sacred-texts.com/afr/kn/kn046.htm 
+p. 52
+* he hash sworn —> he hath sworn
+
+p. 53
+* wishest, thou a, canst —> wishest, thou canst 
+
+
+https://sacred-texts.com/afr/kn/kn049.htm 
+p. 57
+* if thou lowest Him —> if thou lovest Him 
+
+
+https://sacred-texts.com/afr/kn/kn050.htm 
+p. 58
+* love Mc and —> love Me and 
+
+p. 60
+* that of Ur daughter —> that of her daughter 
+
+
+https://sacred-texts.com/afr/kn/kn053.htm 
+p. 67
+* die for cur Lady —> die for our Lady 
+
+
+https://sacred-texts.com/afr/kn/kn054.htm
+p. 70 
+* Law of Gad —> Law of God  
+
+
+https://sacred-texts.com/afr/kn/kn055.htm 
+p. 70
+* a message saving —> a message saying 
+
+
+https://sacred-texts.com/afr/kn/kn057.htm
+p. 72 
+* raised hire up —> raised him up 
+
+p. 73 
+* thee at ail times —> thee at all times  
+
+
+https://sacred-texts.com/afr/kn/kn058.htm
+p. 74  
+* glory hash passed —> glory hath passed  
+
+
+https://sacred-texts.com/afr/kn/kn060.htm 
+p. 78 
+* and Iike a hat through —> and like a bat through 
+
+
+https://sacred-texts.com/afr/kn/kn061.htm 
+p. 79
+* ones, arid unto Him —> ones, and unto Him 
+
+p. 80 
+* of the Lass of God —> of the Law of God
+* out in ah the world —> out in all the world 
+
+
+https://sacred-texts.com/afr/kn/kn062.htm 
+p. 82 
+* !! footnote 1: Luke I, 33 —> Luke ix, 33
+
+
+https://sacred-texts.com/afr/kn/kn063.htm 
+p. 83 
+* thundered as loth the winter —> thundered as doth the winter 
+
+p. 84
+* journeyed onto the land —> journeyed on to the land 
+
+
+https://sacred-texts.com/afr/kn/kn068.htm 
+p. 90
+* he who Lath gone —> he who hath gone 
+
+p. 91
+* neglected rue. Woe —> neglected me. Woe
+
+p. 92
+* and these is none who —> and there is none who
+
+
+https://sacred-texts.com/afr/kn/kn069.htm
+p. 95
+* and spike unto the King —> and spake unto the King
+
+p. 97
+* attach a wagons to them —> attach a wagon to them
+* !! footnote 3 should be attached to "wagon" not “city.” 
+* and our city. —> and our city.”
+* house of Dan —> house of Dân
+
+
+https://sacred-texts.com/afr/kn/kn073.htm 
+p. 104
+* Solomon, saving, “Kill Joab —> Solomon, saying, “Kill Joab
+
+
+https://sacred-texts.com/afr/kn/kn074.htm 
+p. 105 
+* Solomon signified in the secret —> Solomon signifieth in the secret
+* sixty indicated the number —> sixty indicateth the number
+* !! footnote 2: John ii, 19 —> John ii, 10
+
+p. 106
+* Solomon sang, saving, “King —> Solomon sang, saying, “King
+
+
+https://sacred-texts.com/afr/kn/kn075.htm 
+p. 108
+* which God hash sent me —> which God hath sent me
+* He hash only given —> He hath only given
+
+p. 109
+* from Sheol as Joseph —>  from Sheôl as Joseph
+* out of Sheol you who —> out of Sheôl you who
+
+
+https://sacred-texts.com/afr/kn/kn078.htm 
+p. 119
+* nay it shall he increased —> nay it shall be increased
+* serve me as we served —> serve me as ye served
+
+
+https://sacred-texts.com/afr/kn/kn080.htm 
+p. 122 
+* and Baḷtasôr, who —> and Balṭasôr, who
+
+p. 123
+* Peace be to Baḷtasôr, the King —> Peace be to Balṭasôr, the King
+
+
+https://sacred-texts.com/afr/kn/kn083.htm 
+p. 127
+* because of this love —> because of [his] love
+
+
+https://sacred-texts.com/afr/kn/kn084.htm 
+p. 132
+* she hash commanded me —> she hath commanded me
+* King's handmaiden, saving, "What —> King's handmaiden, saying, "What
+
+
+https://sacred-texts.com/afr/kn/kn085.htm 
+p. 133
+* in Tĕ’mâr (Tamar) —> in Tĕ‘mâr (Tamar)
+
+
+https://sacred-texts.com/afr/kn/kn090.htm 
+p. 143
+* cast Out the handmaiden —> cast out the handmaiden
+
+
+https://sacred-texts.com/afr/kn/kn097.htm 
+p. 155
+* there he found any —> there be found any
+
+
+https://sacred-texts.com/afr/kn/kn098.htm 
+p. 158
+* to a deaf (or, dumb) —> to a deaf (or, dumb)
+* he who beateth his —> he who beateth his
+
+p. 159
+* shall he exceedingly —> shall be exceedingly
+* shall ye he if ye —> shall ye be if ye
+
+
+https://sacred-texts.com/afr/kn/kn102.htm 
+p. 165
+* slew them with he edge —> slew them with the edge
+
+
+https://sacred-texts.com/afr/kn/kn104.htm 
+p. 171
+* Why Both not God —> Why doth not God
+
+
+https://sacred-texts.com/afr/kn/kn106.htm 
+p. 180
+* miracle is to he interpreted —> miracle is to be interpreted
+
+p. 182
+* And Aaron indicated: the thief —> And Aaron indicateth the thief 
+
+
+https://sacred-texts.com/afr/kn/kn108.htm 
+p. 186
+* no other object in yon minds —> no other object in your minds
+
+p. 188 
+* did His will, no —> did His Will, no
+
+
+https://sacred-texts.com/afr/kn/kn110.htm 
+p. 194
+* Stephen, [One] of the Seventy —> Stephen, [one] of the Seventy
+* with Sins, and Barnabas —> with Sîlâs, and Barnabas
+
+
+https://sacred-texts.com/afr/kn/kn112.htm 
+p. 196
+* !! footnotes 4 and 7 are switched 
+
+
+https://sacred-texts.com/afr/kn/kn113.htm 
+p.200
+* See how the rejoiced  —> See how he rejoiced 
+* !! footnotes 2 and f3 are switched 
+
+
+https://sacred-texts.com/afr/kn/kn114.htm 
+p. 201
+* !! footnotes 3 and 4 are switched 
+
+
+https://sacred-texts.com/afr/kn/kn115.htm 
+p. 210 
+* and said, "His tunic in —> and His tunic in
+
+
+https://sacred-texts.com/afr/kn/kn119.htm 
+p. 219
+* manner our Lard Christ —> manner our Lord Christ
+* scaled it with their —> sealed it with their
+
+
+https://sacred-texts.com/afr/kn/kn122.htm 
+* !! footnote 2: John viii, 2 —> John viii, 17
+* !! footnote 3: Isaiah xxvi, 29 —> Isaiah xxvi, 19
+
+
+https://sacred-texts.com/afr/kn/kn125.htm 
+p. 225 
+* Rômê ’Enyâ, and —> Rômê ’Ênyâ, and
