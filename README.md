@@ -17,6 +17,7 @@ This project features a number of expected artifacts:
     * Recommended reading for further analysis and context
   * This GitHub record showing the original 1922 text with a **recording of every change committed** in the modernization
 * An **updated plain-text electronic version** transcribed from Budge’s 1922 text released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+* ✔︎ Submission of fixes to incorrect transcription and textual issues with [Sacred Texts' copy of the 1922 text](Miscellaneous/Sacred-Texts-com%201922%20version%20changes.txt)
 * Stretch goals:
   * ✔︎ Fund a higher-resolution scan of the oldest known copy of the _Kəbrä Nägäśt_ in the [Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/btv1b10088409f)
   * A **plain-text Ge’ez electronic version** transcribed from the above copy, released with a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
