@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-26 14:48:11 -0700" ModID="ADA8825C-DE1B-4E02-A1BE-9D5BA0414986">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-26 15:13:51 -0700" ModID="78D0B654-34B9-4670-B305-9C543DDE8AB4">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1441,13 +1441,13 @@
                         <TextSelection>40,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-26 14:39:45 -0700">
+                <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-26 15:13:51 -0700">
                     <Title>Sacred-Texts.com 1922 version changes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>384,0</TextSelection>
+                        <TextSelection>157,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="33CC4EBF-B0B3-4792-82E9-6EAB12F79E35" Type="Text" Created="2024-09-26 14:47:41 -0700" Modified="2024-09-26 14:48:07 -0700">
@@ -1621,8 +1621,8 @@
     <RecentWritingHistory Date="2024-09-26 00:00:00 -0700">
         <DraftWordCount>-1</DraftWordCount>
         <DraftCharCount>-9</DraftCharCount>
-        <OtherWordCount>952</OtherWordCount>
-        <OtherCharCount>6216</OtherCharCount>
+        <OtherWordCount>978</OtherWordCount>
+        <OtherCharCount>6347</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
