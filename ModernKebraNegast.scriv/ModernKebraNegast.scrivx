@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-26 14:39:47 -0700" ModID="982FDD88-627B-4B43-AA06-6859A81F97D6">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-26 14:48:11 -0700" ModID="ADA8825C-DE1B-4E02-A1BE-9D5BA0414986">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -87,7 +87,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>13924,0</TextSelection>
+                                <TextSelection>9742,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1447,7 +1447,16 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3130,0</TextSelection>
+                        <TextSelection>384,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="33CC4EBF-B0B3-4792-82E9-6EAB12F79E35" Type="Text" Created="2024-09-26 14:47:41 -0700" Modified="2024-09-26 14:48:07 -0700">
+                    <Title>Formatting that doesn't translate into Markdown</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>

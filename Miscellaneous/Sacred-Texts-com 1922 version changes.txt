@@ -2,6 +2,9 @@ The following are textual changes that should be made to the Sacred-Texts.com co
 
 The changes are organized by unique URLs from the Sacred-Texts.com copy of the text, followed by transcribed print version’s page number, followed by row items of discrete changes required to match the sacred-texts.com version to the 1922 original book. Changes that include instruction beyond typographic change or detailed location (e.g. in a footnote) are prefaced with double exclamation marks (i.e. "!!"). 
 
+Submitted to Sacred-Texts.com: 2024 September 26
+
+
 
 https://sacred-texts.com/afr/kn/kn001.htm 
 p. x 
