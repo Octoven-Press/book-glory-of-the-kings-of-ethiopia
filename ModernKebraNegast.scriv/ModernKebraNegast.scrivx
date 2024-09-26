@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-25 12:39:42 -0700" ModID="78F6E49C-80E7-4AEF-8169-A37FB4D9F2D1">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-25 18:52:43 -0700" ModID="BCAC34F9-A0D9-4C47-A14F-1685CCC40800">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -671,27 +671,27 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,3063</TextSelection>
+                                <TextSelection>624,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="816BF07B-1F90-49B4-A237-4A07AAD5E8B7" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 12:59:41 -0700">
+                        <BinderItem UUID="816BF07B-1F90-49B4-A237-4A07AAD5E8B7" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-25 18:15:16 -0700">
                             <Title>How he said unto Zadok the Priest, “Go and bring the Covering (or, Clothing) which is upon it (i.e. Zion)”</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,2633</TextSelection>
+                                <TextSelection>441,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0D3E45C2-D5C1-4FF5-B3DE-6EDC1CECE87A" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 12:57:46 -0700">
+                        <BinderItem UUID="0D3E45C2-D5C1-4FF5-B3DE-6EDC1CECE87A" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-25 18:15:49 -0700">
                             <Title>How Zadok the Priest Departed</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1941,0</TextSelection>
+                                <TextSelection>2296,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="16C192A4-F1CD-4F1C-B57B-A4D39E89CFB9" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 12:56:16 -0700">
@@ -714,7 +714,7 @@
                                 <TextSelection>0,4354</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="DD252424-0C26-4D7D-812C-34B18404A228" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 12:54:43 -0700">
+                        <BinderItem UUID="DD252424-0C26-4D7D-812C-34B18404A228" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-25 18:26:02 -0700">
                             <Title>How the People of Ethiopia Rejoiced</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1441,7 +1441,7 @@
                         <TextSelection>40,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-25 12:39:23 -0700">
+                <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-25 18:52:43 -0700">
                     <Title>Sacred Texts changes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1612,8 +1612,8 @@
     <RecentWritingHistory Date="2024-09-25 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>87</OtherWordCount>
-        <OtherCharCount>407</OtherCharCount>
+        <OtherWordCount>303</OtherWordCount>
+        <OtherCharCount>1781</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
