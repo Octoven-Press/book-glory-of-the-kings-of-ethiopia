@@ -207,6 +207,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>33CC4EBF-B0B3-4792-82E9-6EAB12F79E35</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>36C2606A-29A1-4B12-B759-FE663F30E5F5</key>
 		<dict>
 			<key>Row</key>
@@ -852,6 +857,6 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
