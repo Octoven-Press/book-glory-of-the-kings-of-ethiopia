@@ -612,6 +612,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>BBAAF758-D916-448D-AAAE-8CC3D1F75F7C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C02DFD9C-EF42-43CF-9D28-4F9FF0E22018</key>
 		<dict>
 			<key>Row</key>
@@ -801,8 +806,8 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1185, 1955}}</string>
-		<string>{{1186, 0}, {592, 1955}}</string>
+		<string>{{0, 0}, {859, 1955}}</string>
+		<string>{{860, 0}, {860, 1955}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
@@ -811,8 +816,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1778, 1955}}</string>
-		<string>{{1779, 0}, {335, 1955}}</string>
+		<string>{{0, 0}, {1720, 1955}}</string>
+		<string>{{1721, 0}, {393, 1955}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -831,7 +836,7 @@
 		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1247 122 2380 2013 0 0 3840 2135 </string>
+	<string>1449 122 2380 2013 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -854,7 +859,7 @@
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1</real>
+		<real>3</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<true/>
