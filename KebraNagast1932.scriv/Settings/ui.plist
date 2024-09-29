@@ -81,18 +81,22 @@
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
+	<key>mainDocumentEditor.scrollRect</key>
+	<string>{{-369, 1766}, {1358, 1300}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>4 721 1885 1414 0 0 3840 2135 </string>
+	<string>199 721 1885 1414 0 0 3840 2135 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
+	<key>supportingDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

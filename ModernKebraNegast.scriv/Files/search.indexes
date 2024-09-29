@@ -30,66 +30,461 @@ Haile Selassie</Text>
             <Text>And Adam died, and Seth reigned in righteousness. And Seth died, and Hênôs (Enos) reigned. And Hênôs (Enos) died, and Ḳâynân (Cainan) reigned. And Ḳâynân (Cainan) died, and Malâl’êl (Mahalaleel) reigned. And Malâl’êl (Mahalaleel) died, and Yârôd (Jared) reigned. And Yârôd died, and Hênôkh (Enoch) reigned in righteousness, and he feared God, and [God] hid him so that he might not see death. And he became a king in his flesh in the Land of the Living. And after Enoch disappeared Mâtûsâlâ (Methuselah) reigned. And Mâtûsâlâ died, and Lâmêkh (Lamech) reigned. And Lâmêkh died, and Nôḥ (Noah) reigned in righteousness, and he pleased God in all his works.</Text>
         </Document>
         <Document ID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66">
-            <Title>Sacred Texts changes</Title>
-            <Text>PREFACE
+            <Title>Sacred-Texts.com 1922 version changes</Title>
+            <Text>The following are textual changes that should be made to the Sacred-Texts.com copy of the open-source 1922 version of the Kebra Nagast hosted at https://sacred-texts.com/afr/kn/ — These changes were discovered during a comparison of a modern OCR on the original book, compared with the sacred-texts.com version, and then cross-referenced against the original book to ensure accuracy. 
+
+The changes are organized by unique URLs from the Sacred-Texts.com copy of the text, followed by transcribed print version’s page number, followed by row items of discrete changes required to match the sacred-texts.com version to the 1922 original book. The original text is to the left of the "—&gt;" arrow, and the correct text from the 1922 print version is to the right of the arrow. Changes that include instruction beyond typographic change or detailed location (e.g. in a footnote) are prefaced with double exclamation marks (i.e. "!!"). 
+
+
+https://sacred-texts.com/afr/kn/kn001.htm 
 p. x 
-f1 Ḥannâ should have no dot under first H 
-f1 no space between MeuxMSS 
+* !! footnote 1: of Ḥannâ, edited  —&gt; of Hannâ, edited 
+* !! footnote 1: Lady Meux MSS. 2–5 —&gt; Lady MeuxMSS. 2–5
 
 p. xi
-Ȧmen has dot, not circle, over A (x5)
-Ȧmenhotep has dot, not circle, over A (x1)
-
+* priests of Åmen, were —&gt; priests of Ȧmen, were
+* children of Åmen, and —&gt; children of Ȧmen, and
+* god Ȧmen is seen companying —&gt; god Ȧmen is seen companying
+* herself as Åmen's daughter —&gt; herself as Ȧmen’s daughter
+* god Åmen is seen occupying —» god Ȧmen is seen occupying
+* mother of Åmenḥetep III —&gt; mother of Ȧmenḥetep III
 
 p. xii
-Ȧmen has dot, not circle, over A (x6)
+* god Åmen of Egypt —&gt; god Ȧmen of Egypt
+* son of Åmen, he —&gt; son of Ȧmen, he
+* that Åmen should acknowledge —&gt; that Ȧmen should acknowledge
+* god Åmen of Libya —&gt; god Ȧmen of Libya
+* priesthood of Åmen accepted —&gt; priesthood of Ȧmen accepted
+* blood of Åmen flowed —&gt; blood of Ȧmen flowed 
 
 p. xiii
-Olympias,  
-Ȧmen has dot, not circle, over A (x4)
-Sâba
+* and Olympia, and —&gt; and Olympias, and
+* god Åmen of Libya —&gt; god Ȧmen of Libya
+* Åmen to Alexander —&gt; Ȧmen to Alexander
+* Åmen, "Sepṭ ābui —&gt; Ȧmen, “Sepṭ ābui
+* virgin queen of Saba —&gt; virgin queen of Sâba
+* ark of Åmen —&gt; ark of Ȧmen
 
 
-
-INTRODUCTION
-I 
-
+https://sacred-texts.com/afr/kn/kn004.htm 
 p. xxiii
-
-Praetorious is spelled out, not ae-fusion
+* Dillmann, Prætorius, Wright —&gt; Dillmann, Praetorious, Wright
 
 p. xxiv
-Historia ger̄al de Ethiopia has stroke over R 
+* Historia ger̃al de Ethiopia  —&gt; Historia ger̄al de Ethiopia 
 
 p. xxv.
-f4 inauguralis should have dot under n
+* !! footnote 4: Dissertatio Inauguralis. Halle —&gt;  Dissertatio iṇauguralis. Halle
 
 p. xxvi
-f1 Éthiopiens should have accent on E
+* !! footnote 1: MSS. Êthopiens, Paris  —&gt; MSS. Éthiopiens, Paris
 
 p. xxviii
-Mahdistes 
-f2 1907 
+* des Mandistes, celui  —&gt; des Mahdistes, celui
+* !! footnote 2: London, 1007, 8vo  —&gt; London, 1907, 8vo 
 
 p. xxx
-Catalogue has an S at end
-from A.M. 6762 “M” not D
+* liquet" (Catalogue, p. 72)  —&gt; liquet" (Catalogus, p. 72) 
+* from AṂ. 6762 —&gt; from A.M. 6762
 
 p. xxxi
-46B with a B
-Yekweno should have horns over 2nd e
-Via should have Mtn cap over a
+* fol. 46n, which ends —&gt; fol. 46B, which ends
+* with Yĕkwênô ’Amlâk  —&gt; with Yĕkwĕnô ’Amlâk 
+* Abyssinia, via the Blue —&gt; Abyssinia, viâ the Blue
 
 p. xxxii
-Question in parentheses after Isaac 
+* one Isaac (1), who —&gt; one Isaac (?), who
 
 p. xxxv
-Catalogus Bibl. Bold. Should have S at end of Catalogus 
-
-
+* one 'Tâmrîn, who —&gt; one Tâmrîn, who 
+* call "Balḳîs," and  —&gt; call "Balkîs," and 
+* Dillmann, Catalogue Bibl. —&gt; Dillmann, Catalogus Bibl. 
 
 p. xxxvi
-’Ĕbna Ḥakîm should have horns over E and Mtn cap over i
+* ’Êbna Ḥakim —&gt; ’Ĕbna Ḥakîm
+
+
+https://sacred-texts.com/afr/kn/kn005.htm 
+p. xxxix
+* [Here is] the Explanation of the Reason for the Transfer of the Kingdom of David from his Son Solomon, King of Israel, to the Country of the Negus, that is to say, to Abyssinia. —&gt;  [Here is] the explanation of the reason for the transfer of the kingdom of David from his son Solomon, King of Israel, to the country of the Negus, that is to say, to Abyssinia.
+
+p. xlix
+* thus saving, straightway —&gt; thus saying, straightway
+
+p. l
+* unto hire, "The —&gt; unto him, "The
+
+p. liv
+* Solomon, "it is thou —&gt; Solomon, “It is thou
+
+p. lv
+* And he completed His —&gt; And He completed His
+
+p. lvi
+* supplication he unto —&gt; supplication be unto
+
+
+https://sacred-texts.com/afr/kn/kn006.htm 
+p. lvi
+* Muhammadan Literature —&gt; Muhammadan literature
+
+
+https://sacred-texts.com/afr/kn/kn008.htm 
+p. lx
+* Ĕtêyê Azêb  —&gt; Ĕtĕyê Azêb (x2)
+
+p. lxi
+* Ĕtêyê Azêb  —&gt; Ĕtĕyê Azêb 
+* howl of honey —&gt; bowl of honey
+
+p. lxiii
+* sent your firstborn —&gt; send your firstborn
+
+
+https://sacred-texts.com/afr/kn/kn008.htm 
+p. lxiv
+* The Contents of the Kebra Nagast Described —&gt; The Contents of the Kebra Nagast described
+
+p. lxv
+* !! footnote 1: London, 1992 —&gt; London, 1882
+
+p. lxvi
+* in their lives (Chap. ii) —&gt; in their lives (Chap. 15)
+
+p. lxvii
+* “belly of a ship” (p. 13) —&gt; “belly of a ship” (p. 15)
+
+p. lxxi
+* hut that Sun —&gt; but that Sun
+* little finger (Chap. 37) —&gt; little finger (Chap. 31)
+
+p. lxxiii
+* Nubian Nåstasen, King —&gt; Nubian Nastȧsen, King
+
+p. lxxiv
+* that Nåstasen swore —&gt; that Nastȧsen swore
+
+p. lxxv
+* haying sworn his —&gt; having sworn his
+
+p. lxxvi
+* priest to go into the holy of Holies —&gt; priest to go into the Holy of Holies
+
+p. lxxxii
+* unlawful retention —&gt; unlawful detention 
+* approval of Baḷtasôr —&gt; approval of Balṭasôr
+
+p. lxxxv
+* God lighted their hearts —&gt; God lighteth their hearts
+* And with the blowing —&gt; and with the blowing
+* Ethiopians was written —&gt; Ethiopians were written
+
+p. lxxxix
+* Rome (Rûmî) —&gt; Rômê (Rûmî)
+
+
+https://sacred-texts.com/afr/kn/kn016.htm 
+p. 5
+* Flood poured clown  —&gt; Flood poured down 
+
+
+https://sacred-texts.com/afr/kn/kn022.htm 
+p. 11
+* !! footnote 1: 4-17 —&gt;  14-17
+
+
+https://sacred-texts.com/afr/kn/kn024.htm 
+p. 12
+* after him Amînâdab his son —&gt; after him Amînâdâb his son
+
+
+https://sacred-texts.com/afr/kn/kn029.htm 
+p. 16
+* also Both the Evangelist mention —&gt; also doth the Evangelist mention
+
+
+https://sacred-texts.com/afr/kn/kn032.htm 
+p. 23 
+* thou lowest wisdom —&gt; thou lovest wisdom
+
+
+https://sacred-texts.com/afr/kn/kn035.htm 
+p. 27
+* the sup according as —&gt; the sun according as
+
+
+https://sacred-texts.com/afr/kn/kn036.htm 
+p. 30
+* found to he like —&gt; found to be like
+* reported to he beautiful  —&gt; reported to be beautiful
+
+
+https://sacred-texts.com/afr/kn/kn037.htm 
+p. 32
+* increase In me wisdom —&gt; increase in me wisdom
+
+p. 33
+* and I scattered frankincense —&gt; and scattered frankincense
+* to an end a three times —&gt; to an end three times
+
+
+https://sacred-texts.com/afr/kn/kn040.htm 
+p. 37
+* to he honored those —&gt; to be honored those 
+* of Bâlâ Zadîsârĕya nine —&gt; of Bâlâ Zadîsârĕyâ nine 
+
+
+https://sacred-texts.com/afr/kn/kn042.htm 
+p. 42
+* !! footnote 1: Corinthians —&gt; 1 Corinthians
+* !! footnote 2: I1 Samuel —&gt; 2 Samuel 
+
+
+https://sacred-texts.com/afr/kn/kn044.htm 
+p. 49
+* even as cloth a garden —&gt; even as doth a garden 
+
+
+https://sacred-texts.com/afr/kn/kn046.htm 
+p. 52
+* he hash sworn —&gt; he hath sworn
+
+p. 53
+* wishest, thou a, canst —&gt; wishest, thou canst 
+
+
+https://sacred-texts.com/afr/kn/kn049.htm 
+p. 57
+* if thou lowest Him —&gt; if thou lovest Him 
+
+
+https://sacred-texts.com/afr/kn/kn050.htm 
+p. 58
+* love Mc and —&gt; love Me and 
+
+p. 60
+* that of Ur daughter —&gt; that of her daughter 
+
+
+https://sacred-texts.com/afr/kn/kn053.htm 
+p. 67
+* die for cur Lady —&gt; die for our Lady 
+
+
+https://sacred-texts.com/afr/kn/kn054.htm
+p. 70 
+* Law of Gad —&gt; Law of God  
+
+
+https://sacred-texts.com/afr/kn/kn055.htm 
+p. 70
+* a message saving —&gt; a message saying 
+
+
+https://sacred-texts.com/afr/kn/kn057.htm
+p. 72 
+* raised hire up —&gt; raised him up 
+
+p. 73 
+* thee at ail times —&gt; thee at all times  
+
+
+https://sacred-texts.com/afr/kn/kn058.htm
+p. 74  
+* glory hash passed —&gt; glory hath passed  
+
+
+https://sacred-texts.com/afr/kn/kn060.htm 
+p. 78 
+* and Iike a hat through —&gt; and like a bat through 
+
+
+https://sacred-texts.com/afr/kn/kn061.htm 
+p. 79
+* ones, arid unto Him —&gt; ones, and unto Him 
+
+p. 80 
+* of the Lass of God —&gt; of the Law of God
+* out in ah the world —&gt; out in all the world 
+
+
+https://sacred-texts.com/afr/kn/kn062.htm 
+p. 82 
+* !! footnote 1: Luke I, 33 —&gt; Luke ix, 33
+
+
+https://sacred-texts.com/afr/kn/kn063.htm 
+p. 83 
+* thundered as loth the winter —&gt; thundered as doth the winter 
+
+p. 84
+* journeyed onto the land —&gt; journeyed on to the land 
+
+
+https://sacred-texts.com/afr/kn/kn068.htm 
+p. 90
+* he who Lath gone —&gt; he who hath gone 
+
+p. 91
+* neglected rue. Woe —&gt; neglected me. Woe
+
+p. 92
+* and these is none who —&gt; and there is none who
+
+
+https://sacred-texts.com/afr/kn/kn069.htm
+p. 95
+* and spike unto the King —&gt; and spake unto the King
+
+p. 97
+* attach a wagons to them —&gt; attach a wagon to them
+* !! footnote 3 should be attached to "wagon" not “city.” 
+* and our city. —&gt; and our city.”
+* house of Dan —&gt; house of Dân
+
+
+https://sacred-texts.com/afr/kn/kn073.htm 
+p. 104
+* Solomon, saving, “Kill Joab —&gt; Solomon, saying, “Kill Joab
+
+
+https://sacred-texts.com/afr/kn/kn074.htm 
+p. 105 
+* Solomon signified in the secret —&gt; Solomon signifieth in the secret
+* sixty indicated the number —&gt; sixty indicateth the number
+* !! footnote 2: John ii, 19 —&gt; John ii, 10
+
+p. 106
+* Solomon sang, saving, “King —&gt; Solomon sang, saying, “King
+
+
+https://sacred-texts.com/afr/kn/kn075.htm 
+p. 108
+* which God hash sent me —&gt; which God hath sent me
+* He hash only given —&gt; He hath only given
+
+p. 109
+* from Sheol as Joseph —&gt;  from Sheôl as Joseph
+* out of Sheol you who —&gt; out of Sheôl you who
+
+
+https://sacred-texts.com/afr/kn/kn078.htm 
+p. 119
+* nay it shall he increased —&gt; nay it shall be increased
+* serve me as we served —&gt; serve me as ye served
+
+
+https://sacred-texts.com/afr/kn/kn080.htm 
+p. 122 
+* and Baḷtasôr, who —&gt; and Balṭasôr, who
+
+p. 123
+* Peace be to Baḷtasôr, the King —&gt; Peace be to Balṭasôr, the King
+
+
+https://sacred-texts.com/afr/kn/kn083.htm 
+p. 127
+* because of this love —&gt; because of [his] love
+
+
+https://sacred-texts.com/afr/kn/kn084.htm 
+p. 132
+* she hash commanded me —&gt; she hath commanded me
+* King's handmaiden, saving, "What —&gt; King's handmaiden, saying, "What
+
+
+https://sacred-texts.com/afr/kn/kn085.htm 
+p. 133
+* in Tĕ’mâr (Tamar) —&gt; in Tĕ‘mâr (Tamar)
+
+
+https://sacred-texts.com/afr/kn/kn090.htm 
+p. 143
+* cast Out the handmaiden —&gt; cast out the handmaiden
+
+
+https://sacred-texts.com/afr/kn/kn097.htm 
+p. 155
+* there he found any —&gt; there be found any
+
+
+https://sacred-texts.com/afr/kn/kn098.htm 
+p. 158
+* to a deaf (or, dumb) —&gt; to a deaf (or, dumb)
+* he who beateth his —&gt; he who beateth his
+
+p. 159
+* shall he exceedingly —&gt; shall be exceedingly
+* shall ye he if ye —&gt; shall ye be if ye
+
+
+https://sacred-texts.com/afr/kn/kn102.htm 
+p. 165
+* slew them with he edge —&gt; slew them with the edge
+
+
+https://sacred-texts.com/afr/kn/kn104.htm 
+p. 171
+* Why Both not God —&gt; Why doth not God
+
+
+https://sacred-texts.com/afr/kn/kn106.htm 
+p. 180
+* miracle is to he interpreted —&gt; miracle is to be interpreted
+
+p. 182
+* And Aaron indicated: the thief —&gt; And Aaron indicateth the thief 
+
+
+https://sacred-texts.com/afr/kn/kn108.htm 
+p. 186
+* no other object in yon minds —&gt; no other object in your minds
+
+p. 188 
+* did His will, no —&gt; did His Will, no
+
+
+https://sacred-texts.com/afr/kn/kn110.htm 
+p. 194
+* Stephen, [One] of the Seventy —&gt; Stephen, [one] of the Seventy
+* with Sins, and Barnabas —&gt; with Sîlâs, and Barnabas
+
+
+https://sacred-texts.com/afr/kn/kn112.htm 
+p. 196
+* !! footnotes 4 and 7 are switched 
+
+
+https://sacred-texts.com/afr/kn/kn113.htm 
+p.200
+* See how the rejoiced  —&gt; See how he rejoiced 
+* !! footnotes 2 and f3 are switched 
+
+
+https://sacred-texts.com/afr/kn/kn114.htm 
+p. 201
+* !! footnotes 3 and 4 are switched 
+
+
+https://sacred-texts.com/afr/kn/kn115.htm 
+p. 210 
+* and said, "His tunic in —&gt; and His tunic in
+
+
+https://sacred-texts.com/afr/kn/kn119.htm 
+p. 219
+* manner our Lard Christ —&gt; manner our Lord Christ
+* scaled it with their —&gt; sealed it with their
+
+
+https://sacred-texts.com/afr/kn/kn122.htm 
+* !! footnote 2: John viii, 2 —&gt; John viii, 17
+* !! footnote 3: Isaiah xxvi, 29 —&gt; Isaiah xxvi, 19
+
+
+https://sacred-texts.com/afr/kn/kn125.htm 
+p. 225 
+* Rômê ’Enyâ, and —&gt; Rômê ’Ênyâ, and
 
 
 
@@ -97,25 +492,26 @@ p. xxxvi
 
 
 
+https://sacred-texts.com/afr/kn/kn128.htm 
+p. 240
+* Genesis: xii ff:, 11, 144; —&gt; xii ff., 11, 144;
+* Exodus: viii,—, 181; —&gt; viii, —, 181;
+* Leviticus: xviii, 18, 32; —&gt; xviii, 18, 31; 
+* Numbers: xvi,—, 175; —&gt; xvi, —, 175
+* 1 Kings: 1, 3, 105 —&gt; I, 3, 105
+* 1 Kings: xi, 1, 34.; —&gt; xi, 1, 34;
+* 1 Kings: xvii,—, 65. —&gt; xvii, —, 65.
+* Psalm: l, 2, 143, 203; —&gt; l, 2, 193, 203;
+* Psalm: lxxii, 9, 10, 74.; —&gt; lxxii, 9, 10, 74;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+p. 241
+* Psalm: 75; 5, 6, 203; —&gt; 75; lxxxvii, 5, 6, 203;
+* Isaiah: liii; 4 ff., 215, 216; —&gt; liii, 4 ff., 215, 216;
+* Habakkuk: iv, 213. —&gt; iv, —, 213.
+* St. Matthew: vii, 24, 2, 5, 179;  —&gt; vii, 24, 25, 179;
+* St. John i, 1, 191; 1, 1–3, 191; ii, 19, 105; viii, 17, 223; x, 7, 9, 180; x, 17, 14, 180; xv, 5, 16, 180; xxi, 17, 180; xxi, 25, 167. —&gt; St. John i, 1, 191; i, 1–3, 191; ii, 19, 105; viii, 17, 223; x, 7, 9, 180; x, 11, 14, 180; xv, 5, 16, 180; xxi, 17, 180; xxi, 25, 167.
+* Acts of the Apostles: i, —, 191; 3, 194; vii, 34, 55, 194; viii, 27, 40; xxx, 20 ff., 215. —&gt; i, —, 191; vi, 3, 194; vii, 31, 55, 194; viii, 27, 40; xxx, 20 ff., 215.
+* 1 John: iii; —&gt; iii,
 
 
 
@@ -161,6 +557,92 @@ Genesis i, 1.</Comments>
             <Comments>Five mice and five emerods; see 1 Sam. vi, 4.
 “Two milch kine,” 1 Sam. vi, 7.
 “A new cart,” 1 Sam. vi, 7.</Comments>
+        </Document>
+        <Document ID="33CC4EBF-B0B3-4792-82E9-6EAB12F79E35">
+            <Title>Formatting that doesn't translate into Markdown</Title>
+            <Text>29 changes 
+
+Preface to the 1922 edition
+	•	footnote 1: See the History of Hannâ, edited and translated by myself, in Lady MeuxMSS. 2-5, p. 164.
+	•	footnote 2: Trans. Soc. Bibl. Arch., vol. vii, plate facing p. 119, ll. 3 and 4 (ed. Naville).
+
+
+Introduction
+I. Manuscripts of the KEbra Nagast
+	•	footnote 3: De Abassinorum rebus deque Æthiopiae Patriarchis, Libri I-III, Leyden, 1615, 8vo, p. 35.
+	•	footnote 4: Travels to Discover the Source of the Nile in the years 1768-1773, containing a Journey through Egypt, the three Arabias and Ethiopia. First edition in five vols., 1790; second edition in six vols., in 1805; 3rd edition in seven vols., 1813.
+	•	footnote 5: Cat. Codd. MSS. Bibliothecae Bodleianae, Oxford, 1848, No. xxvi, p. 68.
+	•	footnote 6: Ibid., p. 74 (No. xxvii).
+	•	footnote 7: Fabula de Regina Sabaea apud Æthiopes. Dissertatio iṇauguralis. Halle (No date).
+	•	footnote 8: A description of the very ancient copy of the Kebra Nagast in the Bibliothèque Nationale, which Zotenberg assigned to the thirteenth century, was published by him in his Catalogue des MSS. Éthiopiens, Paris, 1877, No. 5, p. 6.
+	•	footnote 9: Chez la Reine de Saba, Paris, 1914, pp. 110-121.
+	•	footnote 10: Ibid., pp. 125-227; see also a rendering of the French into English by Mrs. J. Van Vorst, entitled Magda, Queen of Sheba, New York and London, 1907, 8vo.
+
+
+II. English translation of the Arabic text
+	•	&gt;&gt; (Footnote on title)
+	•	footnote 1: Translated from the Arabic text printed by Bezold, op. cit., p. xliv ff. A French paraphrase of the Arabic was printed by Amélineau in his Contes et Romans, Paris, 1888, tom. I, p. 144 ff.
+	•	footnote 4: Psalm xcv (xcvi), 10. See the Douay Version, vol. ii, p. 176, and Swete, Old Test. in Greek, vol. ii, p. 342.
+
+
+III. Legends of Solomon
+	•	footnote 2: Al-Beidhawî, op. cit., p. 68.
+	•	footnote 3: Ibid., p. 69.
+	•	footnote 5: Ibid., p. 70.
+
+IV. Modern legends of Solomon
+	•	footnote 1: See Littmann, Dr. E., The Legend of the Queen of Sheba in the Tradition of Axum, Leyden, 1904; Conti Rossini, Ricordi di un Soggiorno in Eritrea, Asmara, 1903.
+
+
+V. Contents of KN
+	•	footnote 1: See Malan, Book of Adam and Eve, London, 1882, p. 92 ff., and Bezold, Schatzhöhle, Leipzig, 1883, p. 8.
+	•	footnote 4: Budge, Annals of Nubian Kings, p. 153
+	•	footnote 7: See Pereira, Historia dos Martyres de Nagran, Lisbon, 1889.
+
+
+1. Concerning Glory of Kings
+	•	Footnote 3: I.e. the Virgin Mary, who is identified in Chapter 11 with the “Tabernacle of the Law of God, the heavenly and spiritual Zion.”
+
+
+12. Concerning Canaan
+	•	&gt;&gt; add footnote fn41 to end of title 
+
+16. Concerning Rôbêl
+	•	footnote 3: Here the name Judah is considered to be derived from the Ethiopic root hêd, “to carry off by force.”
+
+
+28. How Solomon gave Commandments to the Queen
+	•	footnote 7: Guidi (apud Bezold) compares No. 19 of the Apocryphal Canones Apostolorum.
+
+
+29. Concencering 318 Patriarchs 
+	•	Footnote 1: i.e., three courses and seven courses had been consumed.
+
+
+35. How King Solomon sent to his son the commander of his army
+	•	footnote 1: There is a mistake here. The author had in his mind Joab, the captain of David’s host. Several of the MSS. have the reading “Benyâs,” i.e., Benaiah, the son of Jehoiada (see 1 Kings ii, 35), who was put in Joab’s room.
+
+
+45. How those who were sent away wept and made a plan
+	•	Footnote 1: I.e. double drachmas.
+
+
+51. How he said unto Zadok the Priest, “Go and bring the Covering (or, Clothing) which is upon it (i.e. Zion)”
+	•	&gt;&gt; Title’s I.e.
+
+
+65. Concerning the sin of Solomon
+	•	Footnote 2: I.e. the “Shunammite woman” (see 1 Kings i, 3).
+
+
+67. Concerning the lamentation of Solomon
+	•	Footnote 1: I.e. Satan, the Devil.
+
+
+Colophon chapter titling
+
+
+</Text>
         </Document>
         <Document ID="D129895B-43DA-4016-B1C0-C0265C0B5299">
             <Text>#!/usr/bin/env ruby
@@ -433,7 +915,7 @@ scriv.run
         </Document>
         <Document ID="F70224D6-3EC1-4DBC-8C02-BB68D87801E9">
             <Title>Plate</Title>
-            <Text>The Glory Of Kings
+            <Text>The Glory of Kings
 In praising God the Father, the Sustainer of the Universe, and His Son Jesus Christ, through Whom everything came into being, and without Whom nothing came into being, and the Holy Triune Spirit, the Paraclete, Who goeth forth from the Father, and deriveth from the Son, we believe in and adore the Trinity, one God, the Father, and the Son, and the Holy Spirit.</Text>
         </Document>
         <Document ID="E51E0943-0688-4D3E-A439-C137125387AA">
@@ -513,31 +995,8 @@ And the Angel of God went down to him and said unto him, “Hearken thou unto wh
         </Document>
         <Document ID="EEEA5FBE-CD66-4191-B10F-2B9E7A3DA7A8">
             <Title>Colophon</Title>
-            <Text>Colophon
-In the Arabic text it is said: “We have turned [this book] into Arabic from a Coptic manuscript [belonging to] the throne of Mark the Evangelist, the teacher, the Father of us all. We have translated it in the four hundred and ninth year of mercy in the country of Ethiopia, in the days of Gabra Masḳal the king, who is called Lâlîbalâ, in the days of Abbâ George, the good bishop. And God neglected to have it translated and interpreted into the speech of Abyssinia. And when I had pondered this—Why did not ’Abal‘ez and Abalfarog who edited (or, copied) the book translate it? I said this: It went out in the days of Zâguâ, and they did not translate it because this book says: Those who reign not being Israelites are transgressors of the Law. Had they been of the kingdom of Israel they would have edited (or, translated) it. And it was found in Nâzrêt.”
+            <Text>In the Arabic text it is said: “We have turned [this book] into Arabic from a Coptic manuscript [belonging to] the throne of Mark the Evangelist, the teacher, the Father of us all. We have translated it in the four hundred and ninth year of mercy in the country of Ethiopia, in the days of Gabra Masḳal the king, who is called Lâlîbalâ, in the days of Abbâ George, the good bishop. And God neglected to have it translated and interpreted into the speech of Abyssinia. And when I had pondered this—Why did not ’Abal‘ez and Abalfarog who edited (or, copied) the book translate it? I said this: It went out in the days of Zâguâ, and they did not translate it because this book says: Those who reign not being Israelites are transgressors of the Law. Had they been of the kingdom of Israel they would have edited (or, translated) it. And it was found in Nâzrêt.”
 “And pray ye for me, your servant Isaac the poor man. And chide ye me not because of the incorrectness of the speech of the tongue. For I have toiled much for the glory of the country of Ethiopia, and for the going forth of the heavenly Zion, and for the glory of the King of Ethiopia. And I consulted the upright and God-loving governor Yâ‘ebîka ’Egzî’ĕ, and he approved and said unto me, ‘Work.’ And I worked, God helping me, and He did not requite me according to my sins. And pray ye for your servant Isaac, and for those who toiled with me in the going out (i.e. production) of this book, for we were in sore tribulation, I, and Yamharana-’Ab, and Ḥezba-Krestôs, and Andrew, and Philip, and Maḥârî-’ab. May God have mercy upon them, and may He write their names in the Book of Life in the kingdom of heaven, with those of all the saints and martyrs for ever and ever! Amen.”</Text>
-        </Document>
-        <Document ID="1E1D93E3-EF42-4DC3-BDBA-205CE4F55537">
-            <Title>The Unanimous Declaration of the Three Hundred and Eighteen Orthodox Fathers</Title>
-            <Text>And they answered and said unto him, “Yea, verily the Tabernacle of the Covenant was the first thing to be created by Him, and there is no lie in thy word; it is true, and correct, and righteous, and unalterable. He created Zion before everything else to be the habitation of His glory, and the plan of His Covenant was that which He said, ‘I will put on the flesh of Adam, which is of the dust, and I will appear unto all those whom I have created with My hand and with My voice.’ And if it had been that the heavenly Zion had not come down, and if He had not put on the flesh of Adam, then God the Word would not have appeared, and our salvation would not have taken place. The testimony (or proof) is in the similitude; the heavenly Zion is to be regarded as the similitude of the Mother of the Redeemer, Mary. For in the Zion which is builded there are deposited the Ten Words of the Law which were written by His hands, and He Himself, the Creator, dwelt in the womb of Mary, and through Him everything came into being.”</Text>
-        </Document>
-        <Document ID="EC4D6416-69CD-4A0C-9DD7-5F2CFBAC82A0">
-            <Title>How the nobles of Israel agreed [with the King]</Title>
-            <Text>And then the elders of Israel made answer and said unto him, “May thy good pleasure be done, and the good pleasure of the Lord God! As for us, none of us will transgress thy word, and we will not inform any other people that Zion hath been taken away from us.” And they established this covenant in the House of God—the elders of Israel with their King Solomon unto this day. And Solomon lived [thus] for eleven years after the taking away of Zion from him, and then his heart turned aside from the love of God, and he forgot his wisdom, through his excessive love of women. And he loved very greatly the daughter of Pharaoh, the king of Egypt, whose name was Mâḳshârâ, and he brought her into the house which he had made; and there were figures of the sun, moon, and stars in the roof thereof, and it was illumined by night as brightly as by day. Its beams were made of brass, and its roof of silver, and its panels(?) of lead, and its walls of stone, red with black, and brown with white [and] green; and its floor was of blocks of sapphire stone and sardius. And he used to go and dwell therein through his love for his house and his wife Mâḳshârâ, the daughter of Pharaoh the king of Egypt.
-Now the queen possessed certain idols which her father had given her to bow down before, and because, when Solomon saw her sacrificing to them and worshipping them, he did not rebuke her or forsake her, God was wroth with him, and made him to forget his wisdom. And she multiplied her sacrifices, and her worship, and her folly, according to the stupidity of the Egyptians, and all the people of her house worshipped the idols, and learned the foolish service of idols. And enjoying the pleasure of their foolish service they worshipped with the daughter of Pharaoh, and the children of Israel joined themselves to her, and the women and their handmaidens joined themselves unto her in the worship and foolish service of idols. And Solomon himself found pleasure in hearing their foolish service and folly. And when she saw that he loved her, and hearkened, and held his peace, and asked many questions about the foolish service of the gods of the Egyptians, she made herself exceedingly agreeable to him, and she spoke to him with honeyed words, and with the tender speech of women, and with the sweet smile that accompanieth the presentment of an evil deed, and with the turning of the face and the assumption of a look of good intent, and with the nodding of the head. With actions of this kind she caused his heart to turn away from his good intent, and she enticed him to the evil of her work, wishing to drag him down into the folly of the foolish service of idols through carelessness. And as the deep sea draweth down into its depths the man who cannot swim, until the water overwhelmeth him and destroyeth his life, even so did that woman wish to submerge Solomon the King.</Text>
-        </Document>
-        <Document ID="43F2CA33-D3D9-459D-A053-76F7E7282D61">
-            <Title>Chapters</Title>
-        </Document>
-        <Document ID="AD926163-C27D-437D-B982-27E1577DEBE8">
-            <Title>How they made a plan concerning Zion</Title>
-            <Text>And while Azâryâs was asleep at night the Angel of the Lord appeared unto him, and said unto him, “Take to thee four goats, each a yearling—now they shall be for your sins, thyself, and ’Êlmeyâs, and ’Abîs, and Mâkrî—and four pure sheep, yearlings also, and an ox whereon no yoke hath ever been laid. And thou shalt offer up the ox as a sacrifice on the east side of her (i.e. Zion), and the sheep and the goats to the right and left thereof, and at the west of it, which is close to its exit. And your Lord David shall speak to Solomon the King and shall say unto him, ‘One thing I ask from thee, O father, I would offer up a sacrifice to the holy city Jerusalem, and to my Lady Zion, the holy and heavenly Tabernacle of the Law of God.’ And Solomon shall say unto him, ‘Do so.’ And David shall say unto him, ‘Let the son of the priest offer up sacrifice on my behalf, even as he knoweth’; and he will give thee the command, and thou shalt offer up the sacrifice. And thou shalt bring forth the Tabernacle of the Law of God after thou hast offered up the sacrifice, and I will again show thee what thou shalt do in respect of it as to bringing it out; for this is from God. For Israel hath provoked God to wrath, and for this reason He will make the Tabernacle of the Law of God to depart from him.”
-And when Azâryâs awoke from his dream he rejoiced greatly, and his heart and his mind were clear, and he remembered everything that the Angel of the Lord had shown him in the night, and how he had sealed him [with the sign of the Cross], and given him strength and heartened him. And he went to his brethren, and when they were gathered together he told them everything that the Angel of God had shown him: how the Tabernacle of the Law of God had been given to them, and how God had made blind His eye in respect of the kingdom of Israel, and how its glory had been given to others, and they themselves were to take away the Tabernacle of the Law of God, and how the kingdom of Solomon was to be seized by them—with the exception of two “rods,” and how it was not to be left to Îyôrbĕ‘âm (Rehoboam) his son, and how the kingdom of Israel was to be divided. And [Azâryâs said], “Rejoice with me. I rejoice because it hath been shown unto me thus; for the grace of their priesthood and kingdom shall depart with us, and it shall be by the Will of God. Thus said he (i.e. the Angel) unto me. And now come ye, and let us go and tell David our Lord so that he may say to his father, ‘I will offer up a sacrifice.’”
-And they went and told [David, the son of Solomon] and he rejoiced, and he sent to Yô‘as (Benaiah), the son of Yôdâḥê, to come to him, that he might send him to his father, and he came. And David sent him to his father Solomon, and he said unto him, “Send me away, for I will depart to my own country, together with everything that thy goodness hath given me; and may thy prayers accompany me always whithersoever I shall go. But now there is one petition which I would make unto thee, if peradventure I have found grace with thee, and turn not away thy face from me. For I thy servant am going to depart, and I wish to offer up a sacrifice of propitiation (or, salvation) for my sins in this thy holy city of Jerusalem and of Zion, the Tabernacle of the Law of God. And peace [be] with thy majesty.”</Text>
-        </Document>
-        <Document ID="6C41C273-CB10-4092-A60A-FB6F543C6E2A">
-            <Title>Concerning the Chariot of Ethiopia</Title>
-            <Text>And the Archbishops answered and said unto Gregory, the Worker of Wonders, “Behold now, thou hast told us concerning the vanquisher of the enemy of Rômê, and now [tell us] of the chariot of Ethiopia and whether it shall remain henceforward, to the Coming of Christ, as thou hast told us concerning Zion, and concerning the faith of the people of Ethiopia, and likewise if their chariot shall remain.” And Gregory said unto them, “It shall assuredly not disappear. And again, hearken ye unto me and I will declare this unto you: A few Jews shall lift up their heads against our faith in Nâgrân and in Armenia in the days after this, and this God will do by His Will so that He may destroy them, for Armenia is a territory of Rômê and Nâgrân is a territory of Ethiopia.”</Text>
         </Document>
         <Document ID="1F4CBEA8-B9D6-4167-8721-BFA66D16BD93">
             <Title>Organization models</Title>
@@ -557,6 +1016,28 @@ Levine, 1974
 1.	Prologue: chapters 1-18
 2.	Makeda, Solomon, and Menelik: chapters 19-94
 3.	Epilogue: chapters 95-117</Text>
+        </Document>
+        <Document ID="EC4D6416-69CD-4A0C-9DD7-5F2CFBAC82A0">
+            <Title>How the nobles of Israel agreed [with the King]</Title>
+            <Text>And then the elders of Israel made answer and said unto him, “May thy good pleasure be done, and the good pleasure of the Lord God! As for us, none of us will transgress thy word, and we will not inform any other people that Zion hath been taken away from us.” And they established this covenant in the House of God—the elders of Israel with their King Solomon unto this day. And Solomon lived [thus] for eleven years after the taking away of Zion from him, and then his heart turned aside from the love of God, and he forgot his wisdom, through his excessive love of women. And he loved very greatly the daughter of Pharaoh, the king of Egypt, whose name was Mâḳshârâ, and he brought her into the house which he had made; and there were figures of the sun, moon, and stars in the roof thereof, and it was illumined by night as brightly as by day. Its beams were made of brass, and its roof of silver, and its panels(?) of lead, and its walls of stone, red with black, and brown with white [and] green; and its floor was of blocks of sapphire stone and sardius. And he used to go and dwell therein through his love for his house and his wife Mâḳshârâ, the daughter of Pharaoh the king of Egypt.
+Now the queen possessed certain idols which her father had given her to bow down before, and because, when Solomon saw her sacrificing to them and worshipping them, he did not rebuke her or forsake her, God was wroth with him, and made him to forget his wisdom. And she multiplied her sacrifices, and her worship, and her folly, according to the stupidity of the Egyptians, and all the people of her house worshipped the idols, and learned the foolish service of idols. And enjoying the pleasure of their foolish service they worshipped with the daughter of Pharaoh, and the children of Israel joined themselves to her, and the women and their handmaidens joined themselves unto her in the worship and foolish service of idols. And Solomon himself found pleasure in hearing their foolish service and folly. And when she saw that he loved her, and hearkened, and held his peace, and asked many questions about the foolish service of the gods of the Egyptians, she made herself exceedingly agreeable to him, and she spoke to him with honeyed words, and with the tender speech of women, and with the sweet smile that accompanieth the presentment of an evil deed, and with the turning of the face and the assumption of a look of good intent, and with the nodding of the head. With actions of this kind she caused his heart to turn away from his good intent, and she enticed him to the evil of her work, wishing to drag him down into the folly of the foolish service of idols through carelessness. And as the deep sea draweth down into its depths the man who cannot swim, until the water overwhelmeth him and destroyeth his life, even so did that woman wish to submerge Solomon the King.</Text>
+        </Document>
+        <Document ID="6C41C273-CB10-4092-A60A-FB6F543C6E2A">
+            <Title>Concerning the Chariot of Ethiopia</Title>
+            <Text>And the Archbishops answered and said unto Gregory, the Worker of Wonders, “Behold now, thou hast told us concerning the vanquisher of the enemy of Rômê, and now [tell us] of the chariot of Ethiopia and whether it shall remain henceforward, to the Coming of Christ, as thou hast told us concerning Zion, and concerning the faith of the people of Ethiopia, and likewise if their chariot shall remain.” And Gregory said unto them, “It shall assuredly not disappear. And again, hearken ye unto me and I will declare this unto you: A few Jews shall lift up their heads against our faith in Nâgrân and in Armenia in the days after this, and this God will do by His Will so that He may destroy them, for Armenia is a territory of Rômê and Nâgrân is a territory of Ethiopia.”</Text>
+        </Document>
+        <Document ID="AD926163-C27D-437D-B982-27E1577DEBE8">
+            <Title>How they made a plan concerning Zion</Title>
+            <Text>And while Azâryâs was asleep at night the Angel of the Lord appeared unto him, and said unto him, “Take to thee four goats, each a yearling—now they shall be for your sins, thyself, and ’Êlmeyâs, and ’Abîs, and Mâkrî—and four pure sheep, yearlings also, and an ox whereon no yoke hath ever been laid. And thou shalt offer up the ox as a sacrifice on the east side of her (i.e. Zion), and the sheep and the goats to the right and left thereof, and at the west of it, which is close to its exit. And your Lord David shall speak to Solomon the King and shall say unto him, ‘One thing I ask from thee, O father, I would offer up a sacrifice to the holy city Jerusalem, and to my Lady Zion, the holy and heavenly Tabernacle of the Law of God.’ And Solomon shall say unto him, ‘Do so.’ And David shall say unto him, ‘Let the son of the priest offer up sacrifice on my behalf, even as he knoweth’; and he will give thee the command, and thou shalt offer up the sacrifice. And thou shalt bring forth the Tabernacle of the Law of God after thou hast offered up the sacrifice, and I will again show thee what thou shalt do in respect of it as to bringing it out; for this is from God. For Israel hath provoked God to wrath, and for this reason He will make the Tabernacle of the Law of God to depart from him.”
+And when Azâryâs awoke from his dream he rejoiced greatly, and his heart and his mind were clear, and he remembered everything that the Angel of the Lord had shown him in the night, and how he had sealed him [with the sign of the Cross], and given him strength and heartened him. And he went to his brethren, and when they were gathered together he told them everything that the Angel of God had shown him: how the Tabernacle of the Law of God had been given to them, and how God had made blind His eye in respect of the kingdom of Israel, and how its glory had been given to others, and they themselves were to take away the Tabernacle of the Law of God, and how the kingdom of Solomon was to be seized by them—with the exception of two “rods,” and how it was not to be left to Îyôrbĕ‘âm (Rehoboam) his son, and how the kingdom of Israel was to be divided. And [Azâryâs said], “Rejoice with me. I rejoice because it hath been shown unto me thus; for the grace of their priesthood and kingdom shall depart with us, and it shall be by the Will of God. Thus said he (i.e. the Angel) unto me. And now come ye, and let us go and tell David our Lord so that he may say to his father, ‘I will offer up a sacrifice.’”
+And they went and told [David, the son of Solomon] and he rejoiced, and he sent to Yô‘as (Benaiah), the son of Yôdâḥê, to come to him, that he might send him to his father, and he came. And David sent him to his father Solomon, and he said unto him, “Send me away, for I will depart to my own country, together with everything that thy goodness hath given me; and may thy prayers accompany me always whithersoever I shall go. But now there is one petition which I would make unto thee, if peradventure I have found grace with thee, and turn not away thy face from me. For I thy servant am going to depart, and I wish to offer up a sacrifice of propitiation (or, salvation) for my sins in this thy holy city of Jerusalem and of Zion, the Tabernacle of the Law of God. And peace [be] with thy majesty.”</Text>
+        </Document>
+        <Document ID="43F2CA33-D3D9-459D-A053-76F7E7282D61">
+            <Title>Chapters</Title>
+        </Document>
+        <Document ID="1E1D93E3-EF42-4DC3-BDBA-205CE4F55537">
+            <Title>The Unanimous Declaration of the Three Hundred and Eighteen Orthodox Fathers</Title>
+            <Text>And they answered and said unto him, “Yea, verily the Tabernacle of the Covenant was the first thing to be created by Him, and there is no lie in thy word; it is true, and correct, and righteous, and unalterable. He created Zion before everything else to be the habitation of His glory, and the plan of His Covenant was that which He said, ‘I will put on the flesh of Adam, which is of the dust, and I will appear unto all those whom I have created with My hand and with My voice.’ And if it had been that the heavenly Zion had not come down, and if He had not put on the flesh of Adam, then God the Word would not have appeared, and our salvation would not have taken place. The testimony (or proof) is in the similitude; the heavenly Zion is to be regarded as the similitude of the Mother of the Redeemer, Mary. For in the Zion which is builded there are deposited the Ten Words of the Law which were written by His hands, and He Himself, the Creator, dwelt in the womb of Mary, and through Him everything came into being.”</Text>
         </Document>
         <Document ID="72C00AD0-37E5-4966-9101-EB1A12F3E74A">
             <Title>39-2</Title>
@@ -659,11 +1140,6 @@ Compare Matthew x, 8; xix, 28; Luke x, 19.</Comments>
             <Title>Concerning the King of Babylon</Title>
             <Text>Now the King of Babylon is of the seed of Shem, and we will show you clearly that the King of Babylon is of the seed of Shem. It came to pass in days of old that there lived in the kingdom of Manasseh, the King of Israel, a certain man whose name was Karmîn, and he was a fearer of God, and he gave many alms and oblations to the poor of Israel. And when he made offerings to the house of God, he did so with sincerity, and his tithe he gave twofold; and he was good in all his ways, and there was no evil whatsoever before him. And Satan, the enemy of all good, became envious of him, for he saw that his course of life was good. And that man was exceedingly rich in camels and horses, and flocks of sheep, and herds of cattle, and gold and silver, and fine apparel, and he used to feed the mule of the king in ’Armâtêm, a city of Israel. Now his native place was the country of Judah, his fathers’ portion, but because of [his] love for wealth he departed into ’Armâtêm to dwell there, and Israel allowed him to settle there because of his riches; for he was exceedingly rich and had many possessions, and the governors [of Judah] were afraid of him.</Text>
         </Document>
-        <Document ID="02B79A53-0791-4ADE-9304-F365C506B0E9">
-            <Title>Concerning Mary, the daughter of David</Title>
-            <Text>And from this it is evident that Mary was the daughter of David, and that Joseph was the son of David. Therefore was Mary betrothed to Joseph her kinsman, as it is said in the Gospel, “O Joseph, son of David, fear thou not to take to wife Mary thy betrothed, for that which is to be born of her is of the Holy Spirit, the Word of God.” And there was born of her God, the Word, Light of Light, God of God, Son of the Father, Who came and delivered His creation; from the hand of Sheôl, and from Satan, and from death He hath delivered all of us who have believed in Him, He hath drawn us to His Father and hath raised us up into heaven His throne to become His heirs; for He is a lover of man, and unto Him praise belongeth for ever. Amen.</Text>
-            <Comments>Matthew i, 20.</Comments>
-        </Document>
         <Document ID="196B8786-65C5-4128-8513-518947B9F72A">
             <Title>Concerning His entrance into Jerusalem in Glory</Title>
             <Text>And the Prophets have prophesied concerning His glorious entry into Jerusalem, and Isaiah the Prophet said, “Shine thou, shine thou, Jerusalem, thy light hath come and the glory of God hath risen upon thee.”
@@ -695,6 +1171,11 @@ Psalm xxii, 20, 21.
 Psalm xcii, 10.
 Compare Psalm lxxv, 10.
 Habakkuk iii, 4.</Comments>
+        </Document>
+        <Document ID="02B79A53-0791-4ADE-9304-F365C506B0E9">
+            <Title>Concerning Mary, the daughter of David</Title>
+            <Text>And from this it is evident that Mary was the daughter of David, and that Joseph was the son of David. Therefore was Mary betrothed to Joseph her kinsman, as it is said in the Gospel, “O Joseph, son of David, fear thou not to take to wife Mary thy betrothed, for that which is to be born of her is of the Holy Spirit, the Word of God.” And there was born of her God, the Word, Light of Light, God of God, Son of the Father, Who came and delivered His creation; from the hand of Sheôl, and from Satan, and from death He hath delivered all of us who have believed in Him, He hath drawn us to His Father and hath raised us up into heaven His throne to become His heirs; for He is a lover of man, and unto Him praise belongeth for ever. Amen.</Text>
+            <Comments>Matthew i, 20.</Comments>
         </Document>
         <Document ID="74016A29-C426-4468-9D0B-357149297C95">
             <Title>Concerning the Prophecy about Christ</Title>
@@ -990,6 +1471,48 @@ And the son of the Queen rose up, and arrayed Joas (Benaiah), the son of Yôdâ�
             <Comments>1 Kings ii, 5 ff.
 I.e. the “Shunammite woman” (see 1 Kings i, 3).</Comments>
         </Document>
+        <Document ID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C">
+            <Title>A List of theasdasdasdasdasdPassages from the Old and New Testaments, Quoted or Referred to in the Kebra Nagast</Title>
+            <Text>Genesis i, 1, 170, 191; i, 26, 1; ii, 17, 185; iii, 16, 48; v, 9, 9; vi, 2–4, 188; vi, 14, 188; viii, 21, 7; ix, 4, 6; ix, 25–27, 6; x, 6, 8; xii ff., 11, 144; xiii, 14–17, 11; xiv, —, 200; xv, 1, 10; xviii, 1, 196; xxii, 13, 113, 196; xxii, 17, 30; xxx, 37, 196; xxxv, 22, 12; xlvii, 29, 221; xlvii, 31, 196; xlix, 4, 12; xlix, 8–12, 210; l, 25, 221.
+Exodus iii, 2, 174; vii, 10, 180; vii, 19, 181; viii, —, 181; x, 21, 22, 180; xv, 25, 182; xvi, 35, 178; xvii, 4, 176; xvii, 6, 179; xvii, 11, 12, 181; xix, —, 171; xxv, 10, 13, 178; xxxiii, 18–23, 172; xxxiv, 33, 172.
+Leviticus xviii, 18, 31; xxvi, 12, 202.
+Numbers xi, 16, 171; xii, 2, 171; xvi, —, 175; xvi, 41, 176; xvii, 8, 176; xxi, 7, 170.
+Deuteronomy iv, 1, 156; vi, 4, 208; xviii, 15, 170; xix, 15, 223; xxvii, 15, 158; xxvii, 25, 213; xxix, 20, 212; xxxii, 21, 28, 194; xxxii, 44, 205.
+Judges vi, 37, 205.
+1 Samuel ii, 29–34, 96; vi, 4, 75, 97; vi, 7, 97; xv, —, 65.
+2 Samuel vi, 3, 196; vii, 12, 40, 120.
+1 Kings i, 3, 105; ii, 5, 104.; ii, 35, 43; x, 1, xli; xi, 1, 34; xvii, —, 65.
+2 Kings i, 2, 74.
+1 Chronicles ii, 25, 12; v, 1, 12; xxii, 8, 9, 90.
+2 Chronicles ix, 1, xli.
+Job ix, 8, 204; xviii, 16, 212.
+Psalm ii, —, 106; ii, 7, 204; vii, 16, 211; viii, 2, 209; viii, 6, 6; ix, 11, 16; ix, 15, 16, 211; xii, 5, 216; xiii, —, 206; xvi, 10, 216; xviii, 9, 204; xviii, 10, 217; xviii, 43, 205; xviii, 45, 46, 205; xxi, 13, 217; xxii, 16, 182, 214; xxii, 20, 21, 210; xxiii, 8, 213; xxiv, 7, 8, 217; xxviii, 3, 4, 130; xxxiii, 6, 192; xxxiii, 9, 192; xxxiii, 13, 205; xxxv, 12, 215; xxxvi, 1, 212; xl, 7, 169; xli, 9, 211; xliv, 26, 216; xlv, —, 193; xlviii, 2, 3, 203; l, 2, 193, 203; l, 3, 202; l, 7, 208; lviii, 7, 192; lxii, 11, 12, 218; lxviii, 1, 216; lxviii, 18, 216; lxviii, 21, 31; lxviii, 31, 74, 223; lxviii, 32, 35, 217; lxix, 21, 183, 204.; lxxii, 1 ff., 106; lxxii, 5, 17, 207; lxxii, 6, 205; lxxii, 6, 7, 203; lxxii, 9, 10, 74.; lxxii, 11, 95; lxxii, 15, 204; lxxiii, 8, 9, 164; lxxv, 10, 211; lxxviii, 65, 216; lxxxi, 3, 209; lxxxii, 8, 216; lxxxiii, 7, 74; lxxxvii, 2, 3, 178; lxxxvii, 2–4, 75; lxxxvii, 5, 6, 203; lxxxix, 3, 4, 95; lxxxix, 35, 120; lxxxix, 37, 120; lxxxix, 27, 29, 95; xc, 3, 191; xcii, 10, 210; xcv, 1, 2, 206; xcv, 10, xlv, 52; xcvi, 5, 52, 196; xcvi, 10, 206; xcviii, 9, 206; civ, 35, 212; cix, 5, 193; cix, 6–8, 213; cix, 17, 212; cx, 3, 204; cx, 4, 106; cxii, 10, 213; cxviii, 26, 202, 209; cxxix, 8, 202; cxxxii, 11, xli, 42, 120; cxxxii, 11–13, 95; cxxxii, 17, 205.
+Proverbs i, 10 ff., 214; vi, 13, 211; viii, 22, 207; viii, 30, 207; xi, 1, 213; xi, 11, 212; xxx, 4, 208; xxx, 18, 131.
+Song of Solomon iii, 7 ff., 105; iii, 9, 106.
+Isaiah ii, 3, 208; vi, 10, 200; vii, 14, 204; ix, 6, 201; x, 1, 2, 212; x, 33, 206; xi, 10, 206; xxvi, 19, 223; xxix, 13, 194; xxxv, 3, 202, 207; xl, 12, 208; xlii, 1, 201; xliii, 20, 207; xliv, 16, 196; xliv, 18, 200; xlv, 12, 193; xlv, 14, 206; li, 16, 75; liii, 1–3, 214; liii, 2 ff., 193; liii, 4 ff., 215, 216; liii, 12, 215; liv, 4, 205; liv, 13, 209; lix, 20, 203; lx, 1, 209; lx, 2, 3, 201; lxii, 11, 209; lxiii, 1, 206; lxv, 1, 74; lxvi, 1, 82.
+Jeremiah xxx, 6–9, 201; xxxi, 11, 12, 203; xxxi, 31, 203; xxxii, 38, 202.
+Ezekiel xi, 17, 20, 202; xviii, 12, 31, 212; xxxvi, 27, 28, 202; xliii, 1, 174; xliii, 2, 207.
+Daniel vii, 13 ff., 218.
+Hosea iv, 1, 2, 213.
+Amos, iv, 13, 217.
+Micah, iv, 2, 203, 208.
+Habakkuk iii, 3, 202; iii, 4, 211; iv, —, 213.
+Haggai ii, 7, 9, 206.
+Zechariah i, 17, 204; ii, 10, 202, 203; iv, 5, 217; viii, 3, 203; ix, 9, 204, 209; xi, 12, 213; xi, 13, 213; xii, 10, 215; xiv, 4, 217.
+Malachi i, 10, 11, 208; iii, 1, 204; iv, 2, 204; iv, 2, 216.
+Wisdom ii, 12, 204.
+St. Matthew i, 4, 12; i, 20, 121; vii, 15, 222; vii, 24, 25, 179; x, 8, 127; x, 15, 222; xii, 42, 17; xii, 49, 198; xvi, 18, 180; xvii, 4, 82; xviii, 16, 223; xix, 28, 127; xxii, 32, 219; xxiii, 13, 187; xxiv, 35, 7; xxv 22, 159; xxvi, 26, 195.
+St. Mark i, 1, 191; iii, 34, 198; xvi, 16, 200.
+St. Luke iii, 33, 12; ix, 33, 82; x, 19, 127; xi, 31, xli, 17; xviii, 9, 187; xxiii, 34, 193.
+St. John i, 1, 191; i, 1–3, 191; ii, 19, 105; viii, 17, 223; x, 7, 9, 180; x, 11, 14, 180; xv, 5, 16, 180; xxi, 17, 180; xxi, 25, 167.
+Acts of the Apostles i, —, 191; vi, 3, 194; vii, 34, 55, 194; viii, 27, 40; xxx, 20 ff., 215.
+1 Corinthians i, 20, 42; vii, —, 31.
+2 Corinthians vi, 16, 202, 203; xiii, 1, 223.
+Galatians iii, 28, 105; v, 16, 17, 126.
+Hebrews xi, 21, 196, 199.
+2 Peter ii, 4, 188.
+1 John i, 1, 191; iii, 5, 8, 203.</Text>
+        </Document>
         <Document ID="42E6DCF1-858A-4BDB-A13D-D687B422C9D5">
             <Title>Legends of Solomon and the Queen of Sheba in the Kur’ân and in Muhammadan literature</Title>
             <Text>The author, or editor, of the Kur’ân devoted a considerable section of Surah XXVII to the correspondence that passed between the Queen of Sheba and King Solomon, and to their interviews. Among the many gifts that God bestowed upon Solomon were the understanding of the speech of birds, and knowledge of every kind. He was the lord of men, genii and birds. When he travelled through the air on his magical carpet of green silk, which was borne aloft by the wind according to the King’s direction, the men stood on the right of it, and the spirits on the left, and a vast army of birds of every kind kept flying over the carpet to protect its occupants from the heat of the sun. One day when he was reviewing the birds he perceived that the lapwing was absent, and he asked why she was absent, and threatened to punish her for not making her appearance with the other birds. Very soon after he had spoken the lapwing appeared, and she excused herself for her absence by saying that she had been looking upon a country that the king had never seen, and that she had seen Sâba, which was ruled over by a queen called “Balḳîs,” who was very rich, and who sat upon a throne made of gold and silver and set with precious stones, eighty cubits long, forty cubits broad, and thirty cubits high. The queen and her people were idolaters and worshipped the sun, and they were under the influence of Satan, who had turned them from the right way. Thereupon Solomon wrote the following letter to the Queen of Sheba: “From the servant of God, Solomon, the son of David, unto Balḳîs (بلقيس), Queen of Sheba. In the Name of the most merciful God. Peace be unto him who followeth the true direction. Rise not up against me, but come and render yourselves unto me.” Having perfumed this letter with musk and sealed it with his wonderful seal, Solomon gave it to the lapwing and told the bird to go and drop it in Sâba, and to turn aside afterwards and wait for the Queen’s answer. The lapwing departed and delivered the letter, some saying that she flew into the Queen’s private apartment through the window, and others that she dropped the letter into the Queen’s bosom as she was standing surrounded by her army. Having read the letter the Queen called upon her nobles to advise her what to do, but they reminded her that they were soldiers, who were ready to march against Solomon if she ordered them to do so, and that the letter was addressed to her and she must make the decision. Wishing to avoid invasion and the evils that would follow in its train, the Queen decided to send gifts to Solomon, and she despatched forthwith five hundred male and five hundred female slaves, five hundred ingots of gold, a crown studded with precious stones, and a large quantity of musk, amber, spices, precious woods, etc. The lapwing returned quickly to Solomon and told him what had happened, and that an embassy from the Queen bearing gifts was on its way. When the men of Sâba arrived they were received by Solomon in a large square surrounded by a wall, the bricks of which were made of gold and silver. Solomon spoke slightingly of the Queen’s gifts and sent the embassy back, bidding them tell their mistress that he would send invincible troops against her city, and that they would capture it and expel its inhabitants in disgrace. When Balḳîs received this message, she determined to go to Solomon and to tender her submission to him, and having locked up her throne in a certain strong fortress, and set a guard over it to protect it, she set out for Jerusalem, accompanied by a large army. Whilst she was on her way Solomon said one day to his nobles, Which of you will bring the Queen’s throne here to me before she and her company arrive? And an ‘Ifrît, one of the genii, whose aspect was most terrible, and who was called Dhakwân ذكوان or Ṣakhr, صخرا said, I will bring it to thee before thou hast finished thy session. Now Solomon used to sit in judgment until noon daily. Some one who had knowledge of books and who was present seemed to think that the ‘Ifrît was demanding too much time in which to fulfil the King’s urgent wish, and he said, I will bring thee the throne before thou canst cast thine eyes on an object and remove them again. The commentators are in doubt about the identity of the person who made this offer to Solomon, for some say he was Âṣaf, the son of Barkhîyâ, the wazîr of Solomon, and others that he was Khidhr (Elijah), or Gabriel, or some other angel, or even Solomon himself. It is generally thought that the person was Âṣaf, for he knew the ineffable Name of God. Be this as it may, Solomon accepted the offer, and raising his eyes to heaven brought them down quickly to earth again, and when his eyes rested on the earth he saw the throne of Balḳîs standing before him. Then Solomon had the throne altered, with the view of preventing her knowing her own throne when she arrived. When Balḳîs came into his presence, he pointed to the throne, saying, Is thy throne like unto this? And she replied, It is all one with this. Then Balḳîs was invited to go into the palace which Solomon had built specially for her reception. The walls were made of blocks of white glass, and the floor was made also of glass, over which water flowed, and in the running water fishes swam. When Balḳîs turned to enter the palace and saw the water, thinking that it was deep, she drew up the skirts of her garments before attempting to walk through it. By this act she uncovered her legs, and Solomon had proof that the rumour that the feet and legs of Balḳîs were covered with hair like the coat of an ass, was true. The sight of the glass building with its floor of glass amazed Balḳîs, who said, O Lord, verily I have dealt unjustly with my own soul, and I resign myself, together with Solomon, unto God, the Lord of all creatures. Some commentators think that the Queen uttered these words partly in repentance for having worshipped the sun, and partly through fear of being drowned in the water which she saw before her. Jalâl ad-Dîn says that Solomon thought of marrying Balḳîs, but could not bring himself to do so because of the hair on her feet and legs. The devils who were always in attendance on Solomon removed the hair by the use of some infernal depilatory, but it is doubtful if even then Solomon married her. Al-Beidhawî says that it is very doubtful who married Balḳîs, but is inclined to think that it was one of the chiefs of the Hamdân tribe.</Text>
@@ -1250,14 +1773,14 @@ And the Queen sent a second message, saying, “From being a fool, I have become
 And the Queen came and passed into a place set apart in splendour and glory, and she sat down immediately behind him where she could see and learn and know everything. And she marvelled exceedingly at what she saw, and at what she heard, and she praised the God of Israel in her heart; and she was struck with wonder at the splendour of the royal palace which she saw. For she could see, though no one could see her, even as Solomon had arranged in wisdom for her. He had beautified the place where she was seated, and had spread over it purple hangings, and laid down carpets, and decorated it with miskât (moschus), and marbles, and precious stones, and he burned aromatic powders, and sprinkled oil of myrrh and cassia round about, and scattered frankincense and costly incense in all directions. And when they brought her into this abode, the odour thereof was very pleasing to her, and even before she ate the dainty meats therein she was satisfied with the smell of them. And with wise intent Solomon sent to her meats which would make her thirsty, and drinks that were mingled with vinegar, and fish and dishes made with pepper. And this he did and he gave them to the Queen to eat. And the royal meal had come to an end three times and seven times, and the administrators, and the counsellors, and the young men and the servants had departed, and the King rose up and he went to the Queen, and he said unto her—now they were alone together—“Take thou thine ease here for love’s sake until daybreak.” And she said unto him, “Swear to me by thy God, the God of Israel, that thou wilt not take me by force. For if I, who according to the law of men am a maiden, be seduced, I should travel on my journey [back] in sorrow, and affliction, and tribulation.”</Text>
             <Comments>i.e., three courses and seven courses had been consumed.</Comments>
         </Document>
+        <Document ID="27A8BBED-EC24-4951-A8A3-C9EF92C18A94">
+            <Title>Appendices</Title>
+        </Document>
         <Document ID="566C7C04-E8FD-4547-A9D7-2B1F035B4626">
             <Title>Concerning the blessing of Kings</Title>
             <Text>“Hearken thou now to the blessing that shall come upon thee, if thou wilt do the Will of God. Thou shalt be blessed in all thy ways, blessed shalt thou be in the city, blessed shalt thou be in the field, blessed shalt thou be in thy house, blessed shalt thou be outside it, and blessed shall be the fruit of thy belly. And those who were gathered together said, Amen. Blessed shall be the fruit of thy land. Amen. Blessed shall be the fountains of thy waters. Amen. Blessed shall be the fruit that thou hast planted. Amen. Blessed shall be thy cattle-runs and the flocks of thy sheep. Amen. Blessed shall be thy granaries and thy barns. Amen. Blessed shalt thou be in thy coming in. Amen. Blessed shalt thou be in thy going forth. Amen.
 “And God shall bring to thee thine enemies who have risen up against thee, and they shall be trodden small beneath thy feet. Amen. And God shall send His blessing on thy houses and on everything to which thou hast put thine hand. Amen. And God shall multiply for thee good things, namely, children of thy body, produce of thy land, and births among thy flocks and herds. Amen. And in the land which He swore [to give to] thy fathers, He will give thee according to the days of heaven. Amen. And God shall open for thee the storehouse of the blessing of the heavens, and He shall give thee blessed rain, and shall bless the fruit of thy labour. Amen. Thou shalt lend unto many peoples, but thou shalt not borrow. Amen. Thou shalt rule over many nations, but they shall not rule over thee. Amen. And God shall set thee at the head and not at the tail, and thou shalt be at the top and not at the bottom. Amen. And thou shalt gather together of every blessing of the land for thy flocks and herds, and thou shalt take the spoil of the nations for thine army, and they shall bow down to thee to the face of the earth, to thy sovereignty, because of the greatness of thy glory. Thine honour shall rise up like the cedar, and like the Morning Star, the brilliance of thy glory shall be before all the nations of the earth, and before every tribe of thy people Israel.
 “For God shall be with thee in all thy ways, and He will perform thy will in everything that thou determinest. And thou shalt inherit the countries of thine enemy, and the greatness of thy people shall be praised because of the greatness of thine awesomeness, and because of the multitude of thy soldiers. And all those who do not perform the Will of God will fear thee because thou dost do His Will, and dost serve Him, and therefore He will give thee great majesty in the sight of those who see thee. Their hearts shall tremble before the bridle of thy horses, and the quiver of thy bow, and the glitter of thy shield, and they shall bow down to the face of the earth, for their hearts shall be terrified at the sight of thy majesty. And when those who are in the mountains see thee afar off they shall come down to the plain, and those who are on the seas and in the deep waters shall come forth, so that the Lord may bring them into thy hand, because they have transgressed the command of God. And thou, when thou doest His Will, shalt receive from Him everything for which thou hast asked; for if thou lovest Him He will love thee, and if thou keepest His commandment He will grant thee the petition of thy heart, and everything that thou seekest thou shalt receive from Him. For He is the Good One to the good, and the Compassionate to the compassionate, and He doeth the will of those who fear Him, and He giveth a reward to those who wait patiently for Him. Be patient in respect of wrath, and at the end He will make thee to rejoice; love righteousness and He will make life to blossom for thee. Be a good man to the good, and a reprover of sinners. And put aside the wickedness of the evil man by rebuking and correcting him, and condemn and disgrace the evil man who doeth violence to his neighbour in the court of law. And do justice to the poor man and to the orphans, and release them from the hand of him that doeth them wrong. And deliver him that is forsaken and the man who is in misery, and release him from the hand of him that causeth him to suffer. Judge not with partiality, and have no respect of persons, but judge righteously. When thou undertakest to judge, love not gifts (i.e., bribes) and accept not persons. And admonish thy governors (or, judges) that they be free from the taking of gifts, and that they accept not the persons of their friends, or of their enemies, or of rich or poor, in giving judgment; and they shall surely judge their neighbours in righteousness, and with a just judgment.</Text>
-        </Document>
-        <Document ID="27A8BBED-EC24-4951-A8A3-C9EF92C18A94">
-            <Title>Appendices</Title>
         </Document>
         <Document ID="41EF8396-70EC-4250-AD3E-EEFB0F256E8C">
             <Title>Concerning the Two Servants</Title>
@@ -1341,7 +1864,7 @@ And David said, “Remember Thine agreement which Thou didst make of old for sal
 And He made Adam in His own image and likeness, so that He might remove Satan because of his pride, together with his host, and might establish Adam—His own plant—together with the righteous, His children, for His praises. For the plan of God was decided upon and decreed in that He said, “I will become man, and I will be in everything which I have created, I will abide in flesh.” And in the days that came after, by His good pleasure there was born in the flesh of the Second Zion the second Adam, Who was our Saviour Christ. This is our glory and our faith, our hope and our life, the Second Zion.</Text>
             <Comments>Genesis i, 26.
 Psalm lxxiv, 2.
-iIe. the Virgin Mary, who is identified in Chapter 11 with the “Tabernacle of the Law of God, the heavenly and spiritual Zion.”</Comments>
+I.e. the Virgin Mary, who is identified in Chapter 11 with the “Tabernacle of the Law of God, the heavenly and spiritual Zion.”</Comments>
         </Document>
         <Document ID="25489320-1838-4FDC-B72C-048BDAD26743">
             <Title>This is what ye shall eat: the clean and the unclean</Title>
@@ -1366,9 +1889,8 @@ And then Maksâbâ brought forth a man-child and all the men of the Philistines 
             <Title>Concerning the King of Amalek</Title>
             <Text>And it came to pass that when the elder daughter of Lot had brought forth her son, she said unto the younger daughter, “Come now, let us make our father drink wine, so that thou also mayest company with him that, peradventure, thou mayest get offspring.” And again they prepared wine, and again they spoke to him the words of foolishness, and said unto him, “Drink wine, O our father, so that thy heart may be comforted”; and he, the simple man, drank and became drunk. And again, when he had drunk and his mind was clouded with wine, the younger daughter came and lay with him, and again he did not know of her lying with him, or of her rising up from him. And she also conceived and gave birth to a son, and she called his name “Ammon,” and he is the father of the Amalekites. Behold now, it is clear that the King of Amalek is of the seed of Shem.</Text>
         </Document>
-        <Document ID="6C4D5CC7-6D50-42D9-A080-4158B5CC7321">
-            <Title>Concerning the offering of Azâryâs (Azariah) and the King</Title>
-            <Text>And Yôâs (Benaiah), the son of Yôdâḥê, went and told King Solomon, and the King rejoiced over it and commanded them to make ready the altar of offering so that his son might sacrifice. And he brought and gave unto him that which he had vowed to God, one hundred bulls, one hundred oxen, ten thousand sheep, ten thousand goats, and ten of every kind of animal that may be eaten, and ten of every kind of clean bird, so that he might offer libations and sacrifices to the God of Israel; and twenty silver sâḥal of fine white flour, each weighing twelve shekels, and forty baskets of bread. All these things did Solomon the King give unto his son David. And again David sent a message saying, “Let Azâryâs the priest offer up sacrifice on my behalf”; and Solomon said unto him, “Do that which thou wishest.” And Azâryâs rejoiced because of this thing, and he went and brought from his father’s flock an ox whereon never yoke had been laid, and four yearlings of the goats and four clean yearlings of the sheep. And the king went to offer up sacrifice, and the priests made themselves ready, and the poor folk were gathered together, and the birds of the heavens rejoiced, and they were all united in their great gladness that day. And Azâryâs mingled [his offerings] with the offerings of the king, and he made an offering with his vessels, even as the Angel of God had commanded him to do by night. And then, after they had offered up their sacrifices, they went back to their houses and slept.</Text>
+        <Document ID="E8982A7D-890C-4260-886F-6CC6C9C1AADE">
+            <Title>38-2</Title>
         </Document>
         <Document ID="98A30640-0876-435D-B00C-82C70A18DF31">
             <Title>How Solomon gave Commandments to the Queen</Title>
@@ -1386,45 +1908,9 @@ Compare 1 Corinthians, vii.
 Compare Leviticus xviii, 18.
 Guidi (apud Bezold) compares No. 19 of the Apocryphal Canones Apostolorum.</Comments>
         </Document>
-        <Document ID="6D1C3E7B-C347-477A-BBA7-A9384C982DC5">
-            <Title>Preface to the 1932 edition</Title>
-            <Text>WHEN the English translation of the “Book of the Glory of Kings” appeared in 1922 it received a generous welcome from the gentlemen of the Press, and the approval of it by the public generally was shown by the fact that within two months from the day of publication a reprint was called for. The amusing and interesting character of the book which piles up fancy tales, fables, legends, folk-lore, dogma, mysticism and pious remarks on a substratum of historical fact was frankly admitted by all the reviewers, but a few of them raised the question of the historicity of the Book of the Glory of Kings. It must be said at once that we shall never know whether the queen who visited Solomon was a pure-blooded Abyssinian or an Arab queen from Yaman or Hadramaut or some other part of the great Arabian peninsula. But the tradition that some “Queen of the South” did visit Solomon is so old and so widespread, that a kernel of historical fact, however small, must be hidden somewhere in it. It would not surprise me if Sidney Smith or C.J. Gadd one day published in the great Corpus of cuneiform texts from the tablets in the British Museum a Sumerian or Babylonian inscription telling how some great queen from latter-day India paid a visit to a king of one of the city states like Etana, or Mesannipadda or the great Sargon of Agade, to be instructed in the wisdom and civilization of his day. The story of such a visit would be noised abroad among the nations around by the caravan men, and the scribes of the day would incorporate it in their historical romances. It is quite possible that the story of Solomon and the Queen of Sheba is based upon one which is far older. Something like this has actually happened with the history of Gilgamish, a king of Uruk, in the Ethiopic history of the exploits of Alexander The Great. In the latter work the scribe tells us how the Macedonian king sought for the waters of life, and how he made his way through inpenetrable forests and arrived at the sea of the waters of death, and how he tried to fly up into heaven, etc., all of which is described in the Epic of Gilgamish, the prototype of Alexander to the scribe. The meeting of Gilgamish with Siduri the “Sâbitu” i.e. “inn-keeper” or “ale-wife” finds its counterpart in the meeting of Alexander with Ḳundâḳâ (Candace), the queen of Ethiopia, which country, by the way, Alexander never invaded. Alexander found such favour with Ḳundâḳâ that she invited him to her private apartments and shared her bed with him. The beauty of Ḳundâḳâ overcame Alexander just as the beauty of Mâḳĕdâ overcame Solomon, and it is possible that Gilgamish fell a victim to the “ale-wife”. The object of the Ethiopian scribe, ancient or modern, was to make a “good story”, and he never allowed facts, or anachronisms, or names of persons or places, or even possibility or probability to hamper him.
-The next question is, How far are the Abyssinians justified in claiming definite kinship with the Semites? In dealing with this question the following facts must be considered. There is little doubt the aboriginal inhabitants of Abyssinia were negroes or negroids who came from the valley of the Nile. At a very early period, which must be called prehistoric, tribes and peoples who lived on the western side of the peninsula of Arabia made their way across the sea from Asia into Africa in the south at some place like Bâb-Al-Mandab and in the north at some place in the peninsula of Sinai. In this way the influence of Asiatic peoples entered Abyssinia. Later a section of the Hamites, whose language was akin to that of the Libyans, Berbers, and Egyptians, brought into Abyssinia a language which for convenience we may call “Ethiopic” though its more correct name is “Kushite”. The translators of the Bible into “Ethiopic” identified, quite incorrectly, Abyssinia with Kûsh, the Hebrew name for the country which we now call Nubia. Owing to the intermingling of Semites and Hamites a Semitic element entered the Hamitic language at a very early period. The northern part of Abyssinia, that is, the mountainous section of it, became the principal settlement of the Semites, who are known as the “Agaw”, and from them were probably descended many of the Falâshas or “Abyssinian Jews”.
-In the eleventh or tenth century before Christ a further invasion of Abyssinia by Asiatic Semltes took place, and it was they who taught the Abyssinians the elements of civilization. The principal tribe of the invaders was called “Ḥabasha”, and they came from Yaman in western South Arabia. They gave the name of “Ḥabesh” to this part of Africa in which they settled, and it is from this that the modern name of “Abyssinia” is derived. The immigration of Semites from Asia went on steadily during the following centuries, and the newcomers introduced the writing which was current at that time in Arabia, and trades, arts and crafts. Two or three centuries before the Christian era they succeeded in forming a kingdom, the capital of which was ’Aksûm. The Semites who settled in Upper, Middle, and Lower Abyssinia became merchants and traders, and of such trade and commerce as existed at that time they were the originators and organizers. The Semites who settled in and about ’Aksûm were known as the “’Ag ‛Âziyân”, i.e. the “free”, and the language they spoke is called “Gĕ‛ĕz”, now frequently called “Ethiopic”. From this is derived the modern language of Tigray called “Tigriña”. The language of the Semites in Middle and Lower Abyssinia is known as ”’Amâriñâ” or “Amharic”. The Abyssinians at that period had no literature.
-Details of the downfall of the Semitic kingdom which had ’Aksûm for its capital are wanting, but we know that its successor was ruled by kings who were pagans; among these were Aphilas, Endybis, and Alalmidis (’Ella ‛Amîdâ), the father of ‛Ezânâ, the ’Αειζανάς of the Greeks, who reigned in the first half of the fourth century of our era. ‛Ezânâ, who has been called the “Constantine Of Abyssinia” was the greatest king of Abyssinia known to history, and he adopted Christianity as the national religion of his country. With the coming of Christianity Abyssinian literature came into existence.
-From the facts summarized briefly in the preceding paragraphs it is clear that the Abyssinians or Ethiopians, as the people themselves prefer to be called, owe more to the Semites than to the Hamites, or Negroes, or Egyptians, or Greeks, or any other people with whom they came in contact in the prehistoric or historic periods. The Semites found them negro savages, and taught them civilization and culture, and gave them the Holy Scriptures on which their whole literature is based, and set before their eyes shining examples of righteous kings, prophets, priests, and holy men. And from first to last there must have been a very large admixture of Semitic blood in the Abyssinians introduced by marriage and concubinage.
-The original form of the Legend of the Queen of Sheba probably came into being soon after the great invasion of Abyssinia by the Semites in the tenth century before Christ. In the opinion of the Abyssinians divine authority was given to it by Our Lord by His words quoted in the Gospels (Matt. xii. 42; Luke xi. 31), and they never doubted that Solomon was the father of the son of the Queen of Sheba. It followed as a matter of course that the male descendants of this son were the lawful kings of Abyssinia, and as Solomon was an ancestor of Christ they were kinsmen of Our Lord, and they claimed to reign by divine right. This belief was probably shared by the kings of the Semitic kingdom of ’Aksûm, which city was at a very early period regarded as a duplicate of Jerusalem and was called the “Zion Of Abyssinia”. When the Abyssinians adopted Christianity in the second half of the fourth or the first half of the fifth century they decided to sever as far as possible their connexion with their pagan ancestors from Arabia. The Semites who claimed kinship with the Hebrews of Jerusalem abandoned Maḥram and the other gods of the Minaeans and Sabaeans in favour of Jahweh, the god of the Hebrews. When the Semites who were Christians had the Holy Scriptures translated into Gĕ‛ĕz the translators used a script which, though based on the old writings of the Minaeans and Sabaeans, was different from it in some very important particulars. The old inscriptions, like Hebrew, Syriac, Arabic, etc., read from right to left, but the Abyssinians decided to read their texts from left to right, as did the Babylonians and Assyrians. This decision was due probably to Greek influence. The letters of the old Arabian alphabets were entirely consonantal and vowels were expressed by the semi-vowel letters. Some genius, name unknown, discovered a way of expressing the vowels in Gĕ‛ĕz by attaching short lines and minute circles to the consonants of the Sabaean alphabet and by modifying the forms of some of the consonants themselves. Thus the Abyssinians turned the old Sabaean alphabet into a syllabary. Two examples will make this clear.
-The Sabaean letter 𐩨 = B. With the circles and lines added to it by the Abyssinians we have: በ = bă, ብ = bĕ, ቡ = bû, ቤ = bê, ባ = bâ, ቢ = bî, ቦ = bô.
-The Sabaean letter 𐩵 = D. With the change of position from perpendicular to horizontal, and the circles and lines added we have: ደ = dă, ድ = dĕ, ዱ = dû, ዲ = dî, ዳ = dâ, ዴ = dê, ዶ = dô. Thus the Abyssinians provided for the expression of the “o” sound, which the Assyrians and Babylonians failed to do.
-The translators of the Bible into Gĕ‛ĕz rejected Habesh, the old name of ABYSSINIA, and in their version definitely gave the name of Ethiopia (’Îtĕyôpĕyâ) to the region, the capital of which was ’Aksûm. They read that the “eunuch of great authority under Candace queen of the Ethiopians ‘was called’ a man of Ethiopia” (Acts viii. 27), and as the country over which that queen ruled was the Kûsh of the Old Testament, they rendered that name by “Ethiopia” (e.g. Psalms lxviii. 32.; lxxxvii. 4). Strictly speaking Kûsh was Upper Nubia. The name Habesh was disliked by the indigenous peoples of the country, and though in the modern Amharic dictionaries Habashâ is still to be found, the present-day native hates to be called “Habashiyy”, for by him it is regarded as an abusive epithet. Thus the Abyssinian Christian gained a new national name, a new script, and a new literature.
-As Christianity spread southwards the idea of the Solomonic ancestry of the kings of Ethiopia in the period between the sixth and the thirteenth centuries gained ground everywhere. During this period many kings who were not of the Solomonic line reigned, and a group of them called the Zâguê were masters of Ethiopia for about 330 years. At length there appeared a member of the Solomonic line called Yekuenô ’Amlâk (1270-85) in Shoa, and with the help of the great saint Takla Haymânôt he expelled the Zâguê and became “King of the Kings of Ethiopia”. In return for this help of the saint, Yekuenô ’Amlâk agreed to give to the Church one-third of the revenues of his kingdom, and his successors have, on the whole, followed his example.
-As regards the present edition of the Queen of Sheba little need be said. In the first edition of my translation of the Kebra Nagast (all vowels short) there were 31 plates containing monochrome photographs, reproductions of coloured illustrations copied from Ethiopic manuscripts of the sixteenth, seventeenth, and eighteenth centuries. The scenes and subjects represented were all of a religious character, but had no special reference to the Book of the Glory of Kings, for strangely enough that work is without illustrations. Nothing in a systematic way of publishing specimens of Ethiopian Art had been done before Lady Meux published the coloured facsimiles of all the illustrations, both vignettes and full pages, from her two splendid manuscripts of the Miracles of the Virgin Mary and from the Life of Ḥanna the mother of the Virgin, and the Life of Mabâ‛ Ṣĕyon. I therefore added the 31 plates of illustrations from the manuscripts of the great Maḳdalâ Collection now in the British Museum, thinking that they would give the reader a good idea of the character of Ethiopian art generally. But it must never be forgotten that the art represented on the plates is not indigenous, for it is borrowed directly from or is based upon the paintings which were executed for the kings of Ethiopia by Francisco Di Branca-Leone, a Venetian monk, who is commonly called “the Frank”. He flourished in the reign of Zar’a Yâ‛ḳôb (A.D. 1436-68). This monk came to Abyssinia with the view of converting the people to Christianity, and he is famous as “the Frank” who by the command of the king, carried on several debates with Abbâ Gîyôrgîs on the faith. When the king discovered that he was a painter as well as a monk, he set him to work at painting pictures of Our Lady and the saints to be hung up in the churches, and it was he who painted for Ba’eda Mâryâm (A.D. 1468-78) the picture of the Virgin and the Infant Christ which exasperated the Abyssinians. He represented the Virgin holding the Child on her left arm as was customary in Europe, but the Abyssinians regarded the left hand as the “hand of dishonour”, and they wanted to destroy the picture. This the king refused to permit, and it was hung in the ’Atronsa Mâryâm, a church in the town of the same name in the south of Amḥarâ, on the ’Abây River, and there it remained until the third year of the reign of Theophilus (A.D. 1709). In that year the Gallas came and wrecked the church, and killed the priests, and the picture and the coffin containing the remains of Ba’eda Mâryâm were hurled over a precipice on Sunday, August 23.
-The Introduction and Translation given in the first edition of the Queen of Sheba are repeated herein practically unaltered. The readings of two or three passages have been, I hope, improved, and a few references added. To write the literary history of the Kebra Nagast I believe to be impossible at present, owing to the lack of material. We can never expect to find out what was the original form of the Legend of the Queen of Sheba, and it is impossible to assign dates to the various recensions of it which have been made in Coptic, Arabic, and Ethiopic. The sources of many of the legends reproduced in the great work are untraceable at present, and the unauthorized additions made to it by generations of scribes cannot with certainty be identified. It would be very interesting to know when the Kebra Nagast (all vowels short) began to be politically important, and regarded as the source of the invincibility of the Abyssinians. The success of the British Expedition under General Napier in 1868 disturbed their equanimity somewhat, but they comforted themselves by remembering that it was directed against Theodore, who was after all only an impostor. The natives everywhere helped the British Army because they wished to see the usurper smashed. Had they been hostile the result of the expedition would have been different. The battle of Adwa showed how the Abyssinians could deal with an army of European soldiers, and “unconquered Abyssinia” is now the fiery, passionate cry of every patriot of Ethiopia from ’Aksûm to the Equator.
-48 Bloomsbury Street
-Bedford Square, W.C. 1
-August 22, 1932</Text>
-            <Comments>For his authentic history see Sidney Smith, Early History of Assyria, p. 34.
-See the Epic of Gilgamish (British Museum), London, 1929.
-See the “Legend of Etana” in Jastrow, Religion of Babylonia and Assyria, p. 519f.</Comments>
-        </Document>
-        <Document ID="A9428E5E-BB91-4AC1-AD17-B988D367C6D2">
-            <Title>Concerning the Ten Commandments</Title>
-            <Text>“And hear ye, Israel, that which God commandeth you to keep; He saith, ‘I am the Lord thy God Who hath brought thee out of the land of Egypt and out of the house of bondage. There shall be no other gods besides Me, and thou shalt not make any god that is graven, and no god that is like what is in the heavens above, or in the earth beneath, or in the water which is under the earth. Thou shalt not bow down to them, and thou shalt not serve them, for I the Lord thy God am a jealous God. [I am He] Who visiteth the sin of the father on the children to the third and fourth generation of those who hate Me, and I perform mercy to a thousand (or, ten thousand) generations of those who love Me and keep My commandments.
-“Thou shalt not swear a false oath in the Name of the Lord thy God, for the Lord will not hold innocent the man who sweareth a false oath in His Name.
-“And observe the day of the Sabbath to sanctify it, even as the Lord thy God commanded. Six days thou shalt do thy work, and on the seventh day, the Sabbath of the Lord thy God, thou shalt do no work at all, neither thyself, nor thy son, nor thy daughter, nor thy servant, nor thine ass, nor any beast, nor the stranger that abideth with thee. For in six days God made the heavens and the earth, and the sea and all that is in them, and rested on the seventh day, and because of this God blessed the seventh day and declared it free [from work].
-“Honour thy father and thy mother so that may be good to thee the many days that thou shalt find in the land which the Lord thy God hath given thee.
-“Thou shalt not go with the wife of [another] man.
-“Thou shalt not slay a life.
-“Thou shalt not commit fornication. Thou shalt not steal.
-“Thou shalt not bear false witness against thy neighbour.
-“Thou shalt not covet thy neighbour’s wife, nor his house, nor his land, nor his manservant, nor his maidservant, nor his ox, nor his cattle, nor his ass, nor any of the beasts that thy neighbour hath acquired.”
-This is the word which God hath spoken, His Law and His Ordinance. And those who sin He rebuketh, so that they may not be confirmed in error, and may restrain themselves from the pollution wherewith God is not pleased. And this is the thing with which God is not pleased, and it is right that men should abstain from it.
-“No man shall uncover the shame of one with whom he hath kinship; for I am the Lord your God. The shame of thy father and mother thou shalt not uncover, for it is thy mother. Thou shalt not uncover the shame of thy father’s wife, for it is the shame of thy mother. Thou shalt not uncover the shame of thy sister who was begotten by thy father or thy mother. Whether she was born unto him from outside or whether she is a kinswoman of thine thou shalt not uncover her shame. Thou shalt not uncover the shame either of thy son’s daughter, or the shame of the daughter of thy daughter, for it is thine own shame. Thou shalt not uncover the shame of the daughter of thy father’s wife, for she is thy sister, the daughter of thy mother, and thou shalt not uncover her shame. Thou shalt not uncover the shame of thy father’s sister, for she is of thy father’s house. Thou shalt not uncover the shame of thy mother’s sister, for she is of thy mother’s house. Thou shalt not uncover the shame of the wife of thy father’s brother, for she is thy kin[swoman]. Thou shalt not uncover the shame of thy son’s wife, for she is thy son’s wife. Thou shalt not uncover the shame of thy daughter and the wife of thy brother’s son, for it is thine own shame. Thou shalt not uncover the shame of thy brother’s wife, for it is thy brother’s shame as long as thy brother liveth. Thou shalt not uncover the shame of a woman and that of her daughter, nor that of the daughter of her son, nor that of the daughter of her daughter. Thou shalt not cause their shame to be uncovered; it is thy house and it is sin.
-“And thou shalt not take to wife a maiden and her sister so as to make them jealous each of the other, and thou shalt not uncover their shame, nor the shame of the one or the other as long as the first sister is alive. Thou shalt not go to a menstruous woman, until she is purified, to uncover her shame whilst she is still unclean. And thou shalt not go to the wife of thy neighbour to lie with her, and thou shalt not let thy seed enter her.
-“And thou shalt not vow thy children to Moloch to defile the Name of the Holy One, the Name of the Lord.
-“And thou shalt not lie with a man as with a woman, for it is pollution.
-“And thou shalt not go to a beast and thou shalt not lie with it so as to make thy seed go out upon it, that thou mayest not be polluted thereby. And a woman shall not go to a beast to lie with it, for it is pollution. And ye shall not pollute yourselves with any of these things, for with them the nations whom I have driven out before you have polluted themselves, and with them ye shall not pollute your bodies.
-“And sanctify ye your souls and your bodies to God, for He is the Holy One, and He loveth those who sanctify their souls and their bodies to Him. For He is holy, and to be feared, and He is high, and merciful, and compassionate. And to Him praise is meet for ever and ever. Amen.”</Text>
+        <Document ID="6C4D5CC7-6D50-42D9-A080-4158B5CC7321">
+            <Title>Concerning the offering of Azâryâs (Azariah) and the King</Title>
+            <Text>And Yôâs (Benaiah), the son of Yôdâḥê, went and told King Solomon, and the King rejoiced over it and commanded them to make ready the altar of offering so that his son might sacrifice. And he brought and gave unto him that which he had vowed to God, one hundred bulls, one hundred oxen, ten thousand sheep, ten thousand goats, and ten of every kind of animal that may be eaten, and ten of every kind of clean bird, so that he might offer libations and sacrifices to the God of Israel; and twenty silver sâḥal of fine white flour, each weighing twelve shekels, and forty baskets of bread. All these things did Solomon the King give unto his son David. And again David sent a message saying, “Let Azâryâs the priest offer up sacrifice on my behalf”; and Solomon said unto him, “Do that which thou wishest.” And Azâryâs rejoiced because of this thing, and he went and brought from his father’s flock an ox whereon never yoke had been laid, and four yearlings of the goats and four clean yearlings of the sheep. And the king went to offer up sacrifice, and the priests made themselves ready, and the poor folk were gathered together, and the birds of the heavens rejoiced, and they were all united in their great gladness that day. And Azâryâs mingled [his offerings] with the offerings of the king, and he made an offering with his vessels, even as the Angel of God had commanded him to do by night. And then, after they had offered up their sacrifices, they went back to their houses and slept.</Text>
         </Document>
         <Document ID="3DE2E8D9-52F8-4E1C-AF87-857E0294704F">
             <Title>A Prophecy concerning the Coming of Christ</Title>
@@ -1528,8 +2014,45 @@ Compare Isaiah ii, 3; Micah iv, 2.
 Psalm 1, 7.
 Deuteronomy vi, 4.</Comments>
         </Document>
-        <Document ID="E8982A7D-890C-4260-886F-6CC6C9C1AADE">
-            <Title>38-2</Title>
+        <Document ID="6D1C3E7B-C347-477A-BBA7-A9384C982DC5">
+            <Title>Preface to the 1932 edition</Title>
+            <Text>When the English translation of the “Book of the Glory of Kings” appeared in 1922 it received a generous welcome from the gentlemen of the Press, and the approval of it by the public generally was shown by the fact that within two months from the day of publication a reprint was called for. The amusing and interesting character of the book which piles up fancy tales, fables, legends, folk-lore, dogma, mysticism and pious remarks on a substratum of historical fact was frankly admitted by all the reviewers, but a few of them raised the question of the historicity of the Book of the Glory of Kings. It must be said at once that we shall never know whether the queen who visited Solomon was a pure-blooded Abyssinian or an Arab queen from Yaman or Hadramaut or some other part of the great Arabian peninsula. But the tradition that some “Queen of the South” did visit Solomon is so old and so widespread, that a kernel of historical fact, however small, must be hidden somewhere in it. It would not surprise me if Sidney Smith or C.J. Gadd one day published in the great Corpus of cuneiform texts from the tablets in the British Museum a Sumerian or Babylonian inscription telling how some great queen from latter-day India paid a visit to a king of one of the city states like Etana, or Mesannipadda or the great Sargon of Agade, to be instructed in the wisdom and civilization of his day. The story of such a visit would be noised abroad among the nations around by the caravan men, and the scribes of the day would incorporate it in their historical romances. It is quite possible that the story of Solomon and the Queen of Sheba is based upon one which is far older. Something like this has actually happened with the history of Gilgamish, a king of Uruk, in the Ethiopic history of the exploits of Alexander The Great. In the latter work the scribe tells us how the Macedonian king sought for the waters of life, and how he made his way through inpenetrable forests and arrived at the sea of the waters of death, and how he tried to fly up into heaven, etc., all of which is described in the Epic of Gilgamish, the prototype of Alexander to the scribe. The meeting of Gilgamish with Siduri the “Sâbitu” i.e. “inn-keeper” or “ale-wife” finds its counterpart in the meeting of Alexander with Ḳundâḳâ (Candace), the queen of Ethiopia, which country, by the way, Alexander never invaded. Alexander found such favour with Ḳundâḳâ that she invited him to her private apartments and shared her bed with him. The beauty of Ḳundâḳâ overcame Alexander just as the beauty of Mâḳĕdâ overcame Solomon, and it is possible that Gilgamish fell a victim to the “ale-wife”. The object of the Ethiopian scribe, ancient or modern, was to make a “good story”, and he never allowed facts, or anachronisms, or names of persons or places, or even possibility or probability to hamper him.
+The next question is, How far are the Abyssinians justified in claiming definite kinship with the Semites? In dealing with this question the following facts must be considered. There is little doubt the aboriginal inhabitants of Abyssinia were negroes or negroids who came from the valley of the Nile. At a very early period, which must be called prehistoric, tribes and peoples who lived on the western side of the peninsula of Arabia made their way across the sea from Asia into Africa in the south at some place like Bâb-Al-Mandab and in the north at some place in the peninsula of Sinai. In this way the influence of Asiatic peoples entered Abyssinia. Later a section of the Hamites, whose language was akin to that of the Libyans, Berbers, and Egyptians, brought into Abyssinia a language which for convenience we may call “Ethiopic” though its more correct name is “Kushite”. The translators of the Bible into “Ethiopic” identified, quite incorrectly, Abyssinia with Kûsh, the Hebrew name for the country which we now call Nubia. Owing to the intermingling of Semites and Hamites a Semitic element entered the Hamitic language at a very early period. The northern part of Abyssinia, that is, the mountainous section of it, became the principal settlement of the Semites, who are known as the “Agaw”, and from them were probably descended many of the Falâshas or “Abyssinian Jews”.
+In the eleventh or tenth century before Christ a further invasion of Abyssinia by Asiatic Semltes took place, and it was they who taught the Abyssinians the elements of civilization. The principal tribe of the invaders was called “Ḥabasha”, and they came from Yaman in western South Arabia. They gave the name of “Ḥabesh” to this part of Africa in which they settled, and it is from this that the modern name of “Abyssinia” is derived. The immigration of Semites from Asia went on steadily during the following centuries, and the newcomers introduced the writing which was current at that time in Arabia, and trades, arts and crafts. Two or three centuries before the Christian era they succeeded in forming a kingdom, the capital of which was ’Aksûm. The Semites who settled in Upper, Middle, and Lower Abyssinia became merchants and traders, and of such trade and commerce as existed at that time they were the originators and organizers. The Semites who settled in and about ’Aksûm were known as the “’Ag ‛Âziyân”, i.e. the “free”, and the language they spoke is called “Gĕ‛ĕz”, now frequently called “Ethiopic”. From this is derived the modern language of Tigray called “Tigriña”. The language of the Semites in Middle and Lower Abyssinia is known as ”’Amâriñâ” or “Amharic”. The Abyssinians at that period had no literature.
+Details of the downfall of the Semitic kingdom which had ’Aksûm for its capital are wanting, but we know that its successor was ruled by kings who were pagans; among these were Aphilas, Endybis, and Alalmidis (’Ella ‛Amîdâ), the father of ‛Ezânâ, the ’Αειζανάς of the Greeks, who reigned in the first half of the fourth century of our era. ‛Ezânâ, who has been called the “Constantine Of Abyssinia” was the greatest king of Abyssinia known to history, and he adopted Christianity as the national religion of his country. With the coming of Christianity Abyssinian literature came into existence.
+From the facts summarized briefly in the preceding paragraphs it is clear that the Abyssinians or Ethiopians, as the people themselves prefer to be called, owe more to the Semites than to the Hamites, or Negroes, or Egyptians, or Greeks, or any other people with whom they came in contact in the prehistoric or historic periods. The Semites found them negro savages, and taught them civilization and culture, and gave them the Holy Scriptures on which their whole literature is based, and set before their eyes shining examples of righteous kings, prophets, priests, and holy men. And from first to last there must have been a very large admixture of Semitic blood in the Abyssinians introduced by marriage and concubinage.
+The original form of the Legend of the Queen of Sheba probably came into being soon after the great invasion of Abyssinia by the Semites in the tenth century before Christ. In the opinion of the Abyssinians divine authority was given to it by Our Lord by His words quoted in the Gospels (Matt. xii. 42; Luke xi. 31), and they never doubted that Solomon was the father of the son of the Queen of Sheba. It followed as a matter of course that the male descendants of this son were the lawful kings of Abyssinia, and as Solomon was an ancestor of Christ they were kinsmen of Our Lord, and they claimed to reign by divine right. This belief was probably shared by the kings of the Semitic kingdom of ’Aksûm, which city was at a very early period regarded as a duplicate of Jerusalem and was called the “Zion Of Abyssinia”. When the Abyssinians adopted Christianity in the second half of the fourth or the first half of the fifth century they decided to sever as far as possible their connexion with their pagan ancestors from Arabia. The Semites who claimed kinship with the Hebrews of Jerusalem abandoned Maḥram and the other gods of the Minaeans and Sabaeans in favour of Jahweh, the god of the Hebrews. When the Semites who were Christians had the Holy Scriptures translated into Gĕ‛ĕz the translators used a script which, though based on the old writings of the Minaeans and Sabaeans, was different from it in some very important particulars. The old inscriptions, like Hebrew, Syriac, Arabic, etc., read from right to left, but the Abyssinians decided to read their texts from left to right, as did the Babylonians and Assyrians. This decision was due probably to Greek influence. The letters of the old Arabian alphabets were entirely consonantal and vowels were expressed by the semi-vowel letters. Some genius, name unknown, discovered a way of expressing the vowels in Gĕ‛ĕz by attaching short lines and minute circles to the consonants of the Sabaean alphabet and by modifying the forms of some of the consonants themselves. Thus the Abyssinians turned the old Sabaean alphabet into a syllabary. Two examples will make this clear.
+The Sabaean letter 𐩨 = B. With the circles and lines added to it by the Abyssinians we have: በ = bă, ብ = bĕ, ቡ = bû, ቤ = bê, ባ = bâ, ቢ = bî, ቦ = bô.
+The Sabaean letter 𐩵 = D. With the change of position from perpendicular to horizontal, and the circles and lines added we have: ደ = dă, ድ = dĕ, ዱ = dû, ዲ = dî, ዳ = dâ, ዴ = dê, ዶ = dô. Thus the Abyssinians provided for the expression of the “o” sound, which the Assyrians and Babylonians failed to do.
+The translators of the Bible into Gĕ‛ĕz rejected Habesh, the old name of Abyssinia, and in their version definitely gave the name of Ethiopia (’Îtĕyôpĕyâ) to the region, the capital of which was ’Aksûm. They read that the “eunuch of great authority under Candace queen of the Ethiopians ‘was called’ a man of Ethiopia” (Acts viii. 27), and as the country over which that queen ruled was the Kûsh of the Old Testament, they rendered that name by “Ethiopia” (e.g. Psalms lxviii. 32.; lxxxvii. 4). Strictly speaking Kûsh was Upper Nubia. The name Habesh was disliked by the indigenous peoples of the country, and though in the modern Amharic dictionaries Habashâ is still to be found, the present-day native hates to be called “Habashiyy”, for by him it is regarded as an abusive epithet. Thus the Abyssinian Christian gained a new national name, a new script, and a new literature.
+As Christianity spread southwards the idea of the Solomonic ancestry of the kings of Ethiopia in the period between the sixth and the thirteenth centuries gained ground everywhere. During this period many kings who were not of the Solomonic line reigned, and a group of them called the Zâguê were masters of Ethiopia for about 330 years. At length there appeared a member of the Solomonic line called Yekuenô ’Amlâk (1270-85) in Shoa, and with the help of the great saint Takla Haymânôt he expelled the Zâguê and became “King of the Kings of Ethiopia”. In return for this help of the saint, Yekuenô ’Amlâk agreed to give to the Church one-third of the revenues of his kingdom, and his successors have, on the whole, followed his example.
+As regards the present edition of the Queen of Sheba little need be said. In the first edition of my translation of the Kebra Nagast (all vowels short) there were 31 plates containing monochrome photographs, reproductions of coloured illustrations copied from Ethiopic manuscripts of the sixteenth, seventeenth, and eighteenth centuries. The scenes and subjects represented were all of a religious character, but had no special reference to the Book of the Glory of Kings, for strangely enough that work is without illustrations. Nothing in a systematic way of publishing specimens of Ethiopian Art had been done before Lady Meux published the coloured facsimiles of all the illustrations, both vignettes and full pages, from her two splendid manuscripts of the Miracles of the Virgin Mary and from the Life of Ḥanna the mother of the Virgin, and the Life of Mabâ‛ Ṣĕyon. I therefore added the 31 plates of illustrations from the manuscripts of the great Maḳdalâ Collection now in the British Museum, thinking that they would give the reader a good idea of the character of Ethiopian art generally. But it must never be forgotten that the art represented on the plates is not indigenous, for it is borrowed directly from or is based upon the paintings which were executed for the kings of Ethiopia by Francisco Di Branca-Leone, a Venetian monk, who is commonly called “the Frank”. He flourished in the reign of Zar’a Yâ‛ḳôb (A.D. 1436-68). This monk came to Abyssinia with the view of converting the people to Christianity, and he is famous as “the Frank” who by the command of the king, carried on several debates with Abbâ Gîyôrgîs on the faith. When the king discovered that he was a painter as well as a monk, he set him to work at painting pictures of Our Lady and the saints to be hung up in the churches, and it was he who painted for Ba’eda Mâryâm (A.D. 1468-78) the picture of the Virgin and the Infant Christ which exasperated the Abyssinians. He represented the Virgin holding the Child on her left arm as was customary in Europe, but the Abyssinians regarded the left hand as the “hand of dishonour”, and they wanted to destroy the picture. This the king refused to permit, and it was hung in the ’Atronsa Mâryâm, a church in the town of the same name in the south of Amḥarâ, on the ’Abây River, and there it remained until the third year of the reign of Theophilus (A.D. 1709). In that year the Gallas came and wrecked the church, and killed the priests, and the picture and the coffin containing the remains of Ba’eda Mâryâm were hurled over a precipice on Sunday, August 23.
+The Introduction and Translation given in the first edition of the Queen of Sheba are repeated herein practically unaltered. The readings of two or three passages have been, I hope, improved, and a few references added. To write the literary history of the Kebra Nagast I believe to be impossible at present, owing to the lack of material. We can never expect to find out what was the original form of the Legend of the Queen of Sheba, and it is impossible to assign dates to the various recensions of it which have been made in Coptic, Arabic, and Ethiopic. The sources of many of the legends reproduced in the great work are untraceable at present, and the unauthorized additions made to it by generations of scribes cannot with certainty be identified. It would be very interesting to know when the Kebra Nagast (all vowels short) began to be politically important, and regarded as the source of the invincibility of the Abyssinians. The success of the British Expedition under General Napier in 1868 disturbed their equanimity somewhat, but they comforted themselves by remembering that it was directed against Theodore, who was after all only an impostor. The natives everywhere helped the British Army because they wished to see the usurper smashed. Had they been hostile the result of the expedition would have been different. The battle of Adwa showed how the Abyssinians could deal with an army of European soldiers, and “unconquered Abyssinia” is now the fiery, passionate cry of every patriot of Ethiopia from ’Aksûm to the Equator.
+48 Bloomsbury Street
+Bedford Square, W.C. 1
+August 22, 1932</Text>
+            <Comments>For his authentic history see Sidney Smith, Early History of Assyria, p. 34.
+See the Epic of Gilgamish (British Museum), London, 1929.
+See the “Legend of Etana” in Jastrow, Religion of Babylonia and Assyria, p. 519f.</Comments>
+        </Document>
+        <Document ID="A9428E5E-BB91-4AC1-AD17-B988D367C6D2">
+            <Title>Concerning the Ten Commandments</Title>
+            <Text>“And hear ye, Israel, that which God commandeth you to keep; He saith, ‘I am the Lord thy God Who hath brought thee out of the land of Egypt and out of the house of bondage. There shall be no other gods besides Me, and thou shalt not make any god that is graven, and no god that is like what is in the heavens above, or in the earth beneath, or in the water which is under the earth. Thou shalt not bow down to them, and thou shalt not serve them, for I the Lord thy God am a jealous God. [I am He] Who visiteth the sin of the father on the children to the third and fourth generation of those who hate Me, and I perform mercy to a thousand (or, ten thousand) generations of those who love Me and keep My commandments.
+“Thou shalt not swear a false oath in the Name of the Lord thy God, for the Lord will not hold innocent the man who sweareth a false oath in His Name.
+“And observe the day of the Sabbath to sanctify it, even as the Lord thy God commanded. Six days thou shalt do thy work, and on the seventh day, the Sabbath of the Lord thy God, thou shalt do no work at all, neither thyself, nor thy son, nor thy daughter, nor thy servant, nor thine ass, nor any beast, nor the stranger that abideth with thee. For in six days God made the heavens and the earth, and the sea and all that is in them, and rested on the seventh day, and because of this God blessed the seventh day and declared it free [from work].
+“Honour thy father and thy mother so that may be good to thee the many days that thou shalt find in the land which the Lord thy God hath given thee.
+“Thou shalt not go with the wife of [another] man.
+“Thou shalt not slay a life.
+“Thou shalt not commit fornication. Thou shalt not steal.
+“Thou shalt not bear false witness against thy neighbour.
+“Thou shalt not covet thy neighbour’s wife, nor his house, nor his land, nor his manservant, nor his maidservant, nor his ox, nor his cattle, nor his ass, nor any of the beasts that thy neighbour hath acquired.”
+This is the word which God hath spoken, His Law and His Ordinance. And those who sin He rebuketh, so that they may not be confirmed in error, and may restrain themselves from the pollution wherewith God is not pleased. And this is the thing with which God is not pleased, and it is right that men should abstain from it.
+“No man shall uncover the shame of one with whom he hath kinship; for I am the Lord your God. The shame of thy father and mother thou shalt not uncover, for it is thy mother. Thou shalt not uncover the shame of thy father’s wife, for it is the shame of thy mother. Thou shalt not uncover the shame of thy sister who was begotten by thy father or thy mother. Whether she was born unto him from outside or whether she is a kinswoman of thine thou shalt not uncover her shame. Thou shalt not uncover the shame either of thy son’s daughter, or the shame of the daughter of thy daughter, for it is thine own shame. Thou shalt not uncover the shame of the daughter of thy father’s wife, for she is thy sister, the daughter of thy mother, and thou shalt not uncover her shame. Thou shalt not uncover the shame of thy father’s sister, for she is of thy father’s house. Thou shalt not uncover the shame of thy mother’s sister, for she is of thy mother’s house. Thou shalt not uncover the shame of the wife of thy father’s brother, for she is thy kin[swoman]. Thou shalt not uncover the shame of thy son’s wife, for she is thy son’s wife. Thou shalt not uncover the shame of thy daughter and the wife of thy brother’s son, for it is thine own shame. Thou shalt not uncover the shame of thy brother’s wife, for it is thy brother’s shame as long as thy brother liveth. Thou shalt not uncover the shame of a woman and that of her daughter, nor that of the daughter of her son, nor that of the daughter of her daughter. Thou shalt not cause their shame to be uncovered; it is thy house and it is sin.
+“And thou shalt not take to wife a maiden and her sister so as to make them jealous each of the other, and thou shalt not uncover their shame, nor the shame of the one or the other as long as the first sister is alive. Thou shalt not go to a menstruous woman, until she is purified, to uncover her shame whilst she is still unclean. And thou shalt not go to the wife of thy neighbour to lie with her, and thou shalt not let thy seed enter her.
+“And thou shalt not vow thy children to Moloch to defile the Name of the Holy One, the Name of the Lord.
+“And thou shalt not lie with a man as with a woman, for it is pollution.
+“And thou shalt not go to a beast and thou shalt not lie with it so as to make thy seed go out upon it, that thou mayest not be polluted thereby. And a woman shall not go to a beast to lie with it, for it is pollution. And ye shall not pollute yourselves with any of these things, for with them the nations whom I have driven out before you have polluted themselves, and with them ye shall not pollute your bodies.
+“And sanctify ye your souls and your bodies to God, for He is the Holy One, and He loveth those who sanctify their souls and their bodies to Him. For He is holy, and to be feared, and He is high, and merciful, and compassionate. And to Him praise is meet for ever and ever. Amen.”</Text>
         </Document>
         <Document ID="A552B3C0-AF76-40A2-A4A9-8839F8EDC0C3">
             <Title>Metadata-1922</Title>

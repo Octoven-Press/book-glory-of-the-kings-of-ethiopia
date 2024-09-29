@@ -10,15 +10,15 @@
 		</array>
 	</dict>
 	<key>CompileFolder</key>
-	<string>/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Builds/The Glory of the Kings of Ethiopia/book-glory-of-the-kings-of-ethiopia/book-glory-of-the-kings-of-ethiopia/Editions/Text-only/1922 Kebra Nagast.md</string>
+	<string>/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Builds/The Glory of the Kings of Ethiopia/book-glory-of-the-kings-of-ethiopia/book-glory-of-the-kings-of-ethiopia/Editions/Text-only/1922 Kebra Nagast/compile</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>SuppressBookmarksFolderCheck</key>
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {265, 1985}}</string>
-		<string>{{266, 0}, {2114, 1985}}</string>
+		<string>{{0, 0}, {290, 2001}}</string>
+		<string>{{291, 0}, {2121, 2001}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -614,8 +614,10 @@
 		</dict>
 		<key>BBAAF758-D916-448D-AAAE-8CC3D1F75F7C</key>
 		<dict>
+			<key>DocID</key>
+			<string>2D874845-5CD7-4A9B-879F-5886DECA610B</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>C02DFD9C-EF42-43CF-9D28-4F9FF0E22018</key>
 		<dict>
@@ -806,8 +808,8 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {859, 1955}}</string>
-		<string>{{860, 0}, {860, 1955}}</string>
+		<string>{{0, 0}, {910, 1971}}</string>
+		<string>{{911, 0}, {816, 1971}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
@@ -816,8 +818,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1720, 1955}}</string>
-		<string>{{1721, 0}, {393, 1955}}</string>
+		<string>{{0, 0}, {1727, 1971}}</string>
+		<string>{{1728, 0}, {393, 1971}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -829,14 +831,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 6755}, {387, 633}}</string>
+	<string>{{0, 0}, {281.33333333333331, 633}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>3</real>
+		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1449 122 2380 2013 0 0 3840 2135 </string>
+	<string>1959 106 2412 2029 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -855,13 +857,13 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {586, 1899}}</string>
+	<string>{{0, 0}, {281.66666666666663, 633}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>3</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>

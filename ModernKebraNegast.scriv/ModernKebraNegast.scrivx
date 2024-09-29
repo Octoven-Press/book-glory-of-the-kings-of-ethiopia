@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-28 14:20:29 -0700" ModID="D6A95CBB-CD58-42DD-A237-0B354579F09C">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-29 13:33:15 -0700" ModID="A26BC275-A7D7-434A-9334-07EC11849DE0">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -64,7 +64,6 @@
                             <Title>Preface to the 202x edition</Title>
                             <MetaData>
                                 <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -74,7 +73,6 @@
                             <Title>Preface to the 1932 edition</Title>
                             <MetaData>
                                 <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,15311</TextSelection>
@@ -251,7 +249,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>798,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="8A5DA0BD-2716-4DA5-82B4-A9C28DA330FC" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-09-07 23:45:26 -0700">
@@ -294,14 +292,14 @@
                                 <TextSelection>15,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7B6319EA-7CCB-4F25-801E-D7F7334575CB" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-07 23:49:25 -0700">
+                        <BinderItem UUID="7B6319EA-7CCB-4F25-801E-D7F7334575CB" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-29 12:10:02 -0700">
                             <Title>Concerning Abraham</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2016,0</TextSelection>
+                                <TextSelection>2056,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="D11F978C-A0C0-46C2-863E-BA2EF1B69DB5" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-07 23:49:55 -0700">
@@ -1171,8 +1169,11 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5099,9</TextSelection>
+                                <TextSelection>6977,0</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="B2C0ABE6-8CB4-44FC-BF20-21D4C8CF4D13" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 11:22:41 -0700">
                             <Title>Concerning Him that existeth in Everything and Everywhere</Title>
@@ -1184,7 +1185,7 @@
                                 <TextSelection>922,10</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2D874845-5CD7-4A9B-879F-5886DECA610B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 11:22:04 -0700">
+                        <BinderItem UUID="2D874845-5CD7-4A9B-879F-5886DECA610B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-28 14:36:20 -0700">
                             <Title>Concerning the Beginning</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1193,6 +1194,9 @@
                             <TextSettings>
                                 <TextSelection>6159,32</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="DFED9607-2CE2-4753-832C-0D2071D34531" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-26 11:20:15 -0700">
                             <Title>Concerning the Horns of the Altar</Title>
@@ -1201,8 +1205,11 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>186,4</TextSelection>
+                                <TextSelection>1040,0</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="D8206957-0660-4EED-BAC0-94D113AEF7F0" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 11:17:42 -0700">
                             <Title>More concerning the Ark and the Talk of the Wicked</Title>
@@ -1213,6 +1220,9 @@
                             <TextSettings>
                                 <TextSelection>6238,9</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="AA409BD6-AB01-4C8D-9369-16F040B9267B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 11:17:25 -0700">
                             <Title>Concerning the belief of Abraham</Title>
@@ -1233,6 +1243,9 @@
                             <TextSettings>
                                 <TextSelection>0,12650</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="196B8786-65C5-4128-8513-518947B9F72A" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-08 11:15:35 -0700">
                             <Title>Concerning His entrance into Jerusalem in Glory</Title>
@@ -1368,14 +1381,17 @@
                         <SelectedSubdocumentUUIDs>536F384E-3EA4-4475-844F-23E724385FBE</SelectedSubdocumentUUIDs>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C" Type="Text" Created="2024-09-27 13:41:11 -0700" Modified="2024-09-28 14:20:29 -0700">
+                        <BinderItem UUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C" Type="Text" Created="2024-09-27 13:41:11 -0700" Modified="2024-09-28 15:02:00 -0700">
                             <Title>A List of the Passages from the Old and New Testaments, Quoted or Referred to in the Kebra Nagast</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15,1</TextSelection>
+                                <TextSelection>351,0</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="2D874845-5CD7-4A9B-879F-5886DECA610B"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="57A567B3-1090-4F20-AA7E-2ACEFFCF30BC" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2024-09-09 10:28:27 -0700">
                             <Title>Known history and variations of the Kəbrä Nägäśt texts</Title>
@@ -1456,16 +1472,25 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>157,0</TextSelection>
+                        <TextSelection>11572,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="33CC4EBF-B0B3-4792-82E9-6EAB12F79E35" Type="Text" Created="2024-09-26 14:47:41 -0700" Modified="2024-09-26 16:40:29 -0700">
+                <BinderItem UUID="33CC4EBF-B0B3-4792-82E9-6EAB12F79E35" Type="Text" Created="2024-09-26 14:47:41 -0700" Modified="2024-09-29 13:33:15 -0700">
                     <Title>Formatting that doesn't translate into Markdown</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>3710,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="846DA866-5BB7-4F67-932D-ABF2ED744BB2" Type="Text" Created="2024-09-29 13:10:15 -0700" Modified="2024-09-29 13:10:19 -0700">
+                    <Title>Topic extraction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1624,14 +1649,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-09-29 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-98" Characters="-570" Date="2024-09-28 12:40:33 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-09-30 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-09-29 12:09:57 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-09-28 00:00:00 -0700">
-        <DraftWordCount>-98</DraftWordCount>
-        <DraftCharCount>-570</DraftCharCount>
-        <OtherWordCount>204</OtherWordCount>
-        <OtherCharCount>1027</OtherCharCount>
+    <RecentWritingHistory Date="2024-09-29 00:00:00 -0700">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>14</OtherWordCount>
+        <OtherCharCount>106</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
