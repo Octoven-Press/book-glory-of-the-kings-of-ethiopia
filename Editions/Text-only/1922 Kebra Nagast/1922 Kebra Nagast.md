@@ -985,7 +985,7 @@ In the Arabic text it is said: “We have turned [this book] into Arabic from a 
 
 [^fn25]: 1 Kings xi, 3, says 700 wives, princesses, and 300 concubines.
 
-[^fn26]: ![][intro] Budge, *Annals of Nubian Kings*, p. 153.
+[^fn26]: ![Hieroglyphics](intro.svg) Budge, *Annals of Nubian Kings*, p. 153.
 
 [^fn27]: On p. 75, line 12, for “cherubs” read “coverings.”
 
