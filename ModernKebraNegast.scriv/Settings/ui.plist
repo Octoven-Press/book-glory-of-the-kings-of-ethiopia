@@ -6,7 +6,7 @@
 	<dict>
 		<key>46DDA17B-2750-480D-A05E-4B55642FA590</key>
 		<array>
-			<string>8BCD3E68-6350-4565-B467-B43A29DA723B</string>
+			<string>973BE1B6-EC52-4C8E-B89E-8E02B889AE66</string>
 		</array>
 	</dict>
 	<key>CompileFolder</key>
@@ -838,7 +838,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1959 106 2412 2029 0 0 3840 2135 </string>
+	<string>727 106 2412 2029 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -848,7 +848,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>200</real>
+			<real>258</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
