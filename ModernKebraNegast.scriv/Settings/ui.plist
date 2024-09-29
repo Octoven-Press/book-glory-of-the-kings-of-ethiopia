@@ -18,7 +18,7 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {290, 2001}}</string>
-		<string>{{291, 0}, {2121, 2001}}</string>
+		<string>{{291, 0}, {1805, 2001}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -809,7 +809,7 @@
 	<key>editorSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {910, 1971}}</string>
-		<string>{{911, 0}, {816, 1971}}</string>
+		<string>{{911, 0}, {500, 1971}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
@@ -818,8 +818,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1727, 1971}}</string>
-		<string>{{1728, 0}, {393, 1971}}</string>
+		<string>{{0, 0}, {1411, 1971}}</string>
+		<string>{{1412, 0}, {393, 1971}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -838,7 +838,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>727 106 2412 2029 0 0 3840 2135 </string>
+	<string>286 106 2096 2029 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
