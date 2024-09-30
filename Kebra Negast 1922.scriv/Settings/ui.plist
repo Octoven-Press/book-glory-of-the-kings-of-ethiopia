@@ -13,6 +13,54 @@
 	<string>/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Builds/The Glory of the Kings of Ethiopia/book-glory-of-the-kings-of-ethiopia/book-glory-of-the-kings-of-ethiopia/Editions/Text-only/1922 Kebra Nagast/compile</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
+	<key>QRPanelSettings</key>
+	<dict>
+		<key>BBAAF758-D916-448D-AAAE-8CC3D1F75F7C</key>
+		<dict>
+			<key>BinderUUID</key>
+			<string>BBAAF758-D916-448D-AAAE-8CC3D1F75F7C</string>
+			<key>CurrentMetaData</key>
+			<integer>-1</integer>
+			<key>MainPaneWidth</key>
+			<real>475</real>
+			<key>ProjectBookmarksSplitInfo</key>
+			<array>
+				<string>{{0, 0}, {225, 495}}</string>
+				<string>{{235, 0}, {443, 495}}</string>
+			</array>
+			<key>ProjectBookmarksVisible</key>
+			<false/>
+			<key>ShowsFormatBar</key>
+			<true/>
+			<key>ShowsMetaData</key>
+			<false/>
+			<key>SplitInfo</key>
+			<array>
+				<string>{{0, 277}, {475, 167}}</string>
+			</array>
+			<key>TextSettings</key>
+			<dict>
+				<key>hasMultiplePages</key>
+				<false/>
+				<key>isRulerVisible</key>
+				<false/>
+				<key>lineNumberingInterval</key>
+				<integer>1</integer>
+				<key>showsLineNumbers</key>
+				<false/>
+				<key>textFocusMode</key>
+				<integer>0</integer>
+				<key>textScaleFactor</key>
+				<real>1</real>
+				<key>usesFacingPages</key>
+				<false/>
+				<key>usesTypewriterScrolling</key>
+				<false/>
+			</dict>
+			<key>WindowFrame</key>
+			<string>1682 1205 475 528 0 0 3840 2135 </string>
+		</dict>
+	</dict>
 	<key>SuppressBookmarksFolderCheck</key>
 	<false/>
 	<key>binderSplitFrames</key>
@@ -442,6 +490,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>846DA866-5BB7-4F67-932D-ABF2ED744BB2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>84AD7E31-8568-4F6C-B493-2A5D999CD2AF</key>
 		<dict>
 			<key>Row</key>
@@ -831,7 +884,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {281.33333333333331, 633}}</string>
+	<string>{{0, 0}, {596.66666666666663, 1276.6666666666665}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -857,7 +910,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {281.66666666666663, 633}}</string>
+	<string>{{0, 1775.6666666666665}, {161.66666666666666, 638.33333333333348}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
