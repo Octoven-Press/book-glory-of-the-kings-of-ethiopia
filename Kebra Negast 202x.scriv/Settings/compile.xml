@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>46DDA17B-2750-480D-A05E-4B55642FA590</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
+            <RemoveTextColor>Yes</RemoveTextColor>
+            <RemoveTrailingWhitespace>Yes</RemoveTrailingWhitespace>
+            <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <PDF>
+                <Cover Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>Set</ImageResolutionCompressionType>
+                    <ImageResolution>150</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"/>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <Subjects>
+                <Subject>Ethiopia</Subject>
+                <Subject>religion</Subject>
+                <Subject>Christianity</Subject>
+                <Subject>Judaism</Subject>
+                <Subject>Solomon</Subject>
+                <Subject>Solomonic line of kings</Subject>
+                <Subject>Ark of the Covenant</Subject>
+            </Subjects>
+            <Company>Octoven Press</Company>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>mmd</CurrentFileType>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="B4DA8B0A-6382-45E2-96DD-380C5ACF8887">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="8D4EAAB7-E0A3-4010-83A3-90610A5651FF">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="5D0CC3FE-F1EF-4958-AF9C-65A2904508F3">
+            <SectionLayouts>
+                <Type ID="B4DA8B0A-6382-45E2-96DD-380C5ACF8887">AS-IS</Type>
+                <Type ID="E0EF8A33-42A7-4C88-BF0E-FB716D5756AB">FC54C32A-9013-4223-BEF4-8438D3B57C99</Type>
+                <Type ID="E6C7D3E9-1ED3-4B8C-87E6-3763733B1727">200DE11D-44B6-4AD6-B8F9-ABC0F40CD416</Type>
+                <Type ID="858615A2-76B7-410C-8CC9-36D71045F024">0CC55DB9-9CCB-49F9-88CC-134FF100EA70</Type>
+                <Type ID="1C377AC0-6442-4B33-AF3C-E261915C62C3">AS-IS</Type>
+                <Type ID="2CF74684-CA8E-4465-8D54-72D71D821B84">AS-IS</Type>
+                <Type ID="5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E">86C08239-3F1D-4125-8BE0-E97ACEC5BDAD</Type>
+                <Type ID="3CCB49A2-7E2A-401F-8BDE-5DA50725B683">AS-IS</Type>
+                <Type ID="8D4EAAB7-E0A3-4010-83A3-90610A5651FF">AS-IS</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">A552B3C0-AF76-40A2-A4A9-8839F8EDC0C3</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <Print>5D0CC3FE-F1EF-4958-AF9C-65A2904508F3</Print>
+        <rtfd>DEFAULT</rtfd>
+        <docx>DEFAULT</docx>
+        <mmd>5D0CC3FE-F1EF-4958-AF9C-65A2904508F3</mmd>
+        <epub3>DEFAULT</epub3>
+    </LastUsedFormats>
+</CompileSettings>
