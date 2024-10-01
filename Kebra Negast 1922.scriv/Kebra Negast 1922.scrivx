@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-01 15:09:47 -0700" ModID="CDBEDFA7-3FE4-4C00-8A50-50BCA3076C8D">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-01 15:27:00 -0700" ModID="190B7805-8520-4506-A2B7-5D44684E0DD9">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -89,14 +89,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E" Type="Text" Created="2024-06-03 18:57:38 -0700" Modified="2024-10-01 15:09:47 -0700">
+                <BinderItem UUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E" Type="Text" Created="2024-06-03 18:57:38 -0700" Modified="2024-10-01 15:27:00 -0700">
                     <Title>Contents</Title>
                     <MetaData>
                         <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18,41</TextSelection>
+                        <TextSelection>4757,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A7F8AD14-D3BD-42D3-84D9-A2091ABFBE50" Type="Folder" Created="2024-08-26 14:19:12 -0700" Modified="2024-09-04 17:55:30 -0700">
@@ -242,7 +242,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1000,0</TextSelection>
+                                <TextSelection>550,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>

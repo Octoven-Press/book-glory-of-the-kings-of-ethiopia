@@ -876,7 +876,6 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {765, 1827}}</string>
 		<string>{{766, 0}, {765, 1827}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
@@ -932,6 +931,6 @@
 		<real>3</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
