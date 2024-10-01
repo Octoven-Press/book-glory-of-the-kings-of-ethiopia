@@ -160,9 +160,10 @@ The Chapters of the Kĕbra Nagast
 116. The Chariot of Ethiopia
 117. The King of Rômê and the King of Ethiopia
 
-Colophon
 
-List of Passages quoted from the Old and New Testaments
+[Colophon](#colophon)
+
+[List of Passages quoted from the Old and New Testaments](#a-list-of-the-passages-from-the-old-and-new-testaments-quoted-or-referred-to-in-the-kebra-nagast)
 
 
 
