@@ -33,16 +33,16 @@ In the short introduction that follows I have given a sketch of the literary his
 
 Introduction:
 
-I. The Manuscripts of the Kĕbra Nagast, etc.  
-II. Translation of the Arabic Version  
-III. Legends of the Queen of Sheba in the Ḳur’ân  
-IV. Modern Legends of Solomon and the Queen of Sheba  
-V. Summary of the Contents of the Kĕbra Nagast  
+I. [The Manuscripts of the Kĕbra Nagast, etc.](#i-the-manuscripts-of-the-kebra-nagast-and-their-arrival-in-europe-the-labours-of-bruce-dillmann-praetorius-wright-zotenberg-and-bezold-king-johns-letter-to-lord-granville-date-of-compilation-of-the-kebra-nagast-the-ethiopian-work-based-on-coptic-and-arabic-sources-etc)  
+II. [Translation of the Arabic Version](#ii-english-translation-of-the-arabic-text-describing-how-the-kingdom-of-david-was-transferred-from-jerusalem-to-ethiopia13)  
+III. [Legends of the Queen of Sheba in the Ḳur’ân](#iii-legends-of-solomon-and-the-queen-of-sheba-in-the-kurân-and-in-muhammadan-literature)  
+IV. [Modern Legends of Solomon and the Queen of Sheba](#iv-modern-legends-of-solomon-and-the-queen-of-sheba)  
+V. [Summary of the Contents of the Kĕbra Nagast](#v-the-contents-of-the-kebra-nagast-described)  
 
 
 The Chapters of the Kĕbra Nagast
 
-1. The Glory of Kings
+1. [The Glory of Kings](#1-concerning-the-glory-of-kings)
 2. The Greatness of Kings
 3. The Kingdom of Adam
 4. Concerning Envy
