@@ -28,6 +28,143 @@ The Ark of the Law which Menyelek covered and stole from the Temple of Jerusalem
 
 In the short introduction that follows I have given a sketch of the literary history of the Kebra Nagast, with references to the authorities on the subject, and I have made an abstract of its contents in narrative form which will, I hope, be useful. A full discussion of every portion of the work, with extracts giving the original texts of the authorities used and quoted by Isaac the scribe, would fill another volume, and the cost of printing, paper, and binding is now so great that the idea of producing such a book has been abandoned. A translation of the Arabic text describing how the Kingdom of David was transferred from Jerusalem to Ethiopia has been added, for this interesting document is practically unknown in England. The pictures of events described in the Old and New Testaments, given in this book, are taken from Ethiopic MSS. in the British Museum; they show as nothing else can the religious beliefs and traditions of the Ethiopians, and at the same time they serve as examples of the drawings and designs with which they illustrated their manuscripts. Nearly all of them depict Scriptural events described or referred to in the Kebra Nagast.
 
+
+# Contents #
+
+Introduction:
+
+I.  The Manuscripts of the Kĕbra Nagast, etc.
+II.  Translation of the Arabic Version
+III.  Legends of the Queen of Sheba in the Ḳur’ân
+IV.  Modern Legends of Solomon and the Queen of Sheba
+V.  Summary of the Contents of the Kĕbra Nagast
+
+The Chapters of the Kĕbra Nagast
+
+1. The Glory of Kings
+2. The Greatness of Kings
+3. The Kingdom of Adam
+4. Concerning Envy
+5. The Kingdom of Seth
+6. The Sin of Cain
+7. Noah
+8. The Flood
+9. The Covenant of Noah
+10. Concerning Zion
+11. Declaration of the Three Hundred and Eighteen Orthodox Fathers
+12. Canaan
+13. Abraham
+14. The Covenant of Abraham
+15. Isaac and Jacob
+16. Reuben
+17. The Glory of Zion
+18. The Agreement of the Orthodox Fathers and Bishops
+19. The Discovery of the Book Kĕbra Nagast
+20. The Division of the Earth
+21. The Queen of the South
+22. Tâmrîn, the Merchant
+23. The Return of Tâmrîn to Ethiopia
+24. The Queen of Ethiopia prepares for her Journey to Jerusalem
+25. The Queen of Ethiopia comes to Solomon the King
+26. The Conversation of Solomon with the Queen of Ethiopia
+27. Solomon and the Workman
+28. Solomon’s Instructions to the Queen
+29. The Three Hundred and Eighteen Patriarchs—Narrative of Solomon and the Queen—continued
+30. Solomon’s Oath to the Queen of Ethiopia
+31. Solomon’s Sign to the Queen of Ethiopia
+32. The Queen brings forth her son Bayna-Leḥkem
+33. Bayna-Leḥkem sets out for Jerusalem
+34. Bayna-Leḥkem arrived in Gâzâ
+35. Solomon makes Bayna-Leḥkem Captain of his Host
+36. Solomon’s Conversation with Bayna-Leḥkem
+37. Solomon questions his son Bayna-Leḥkem
+38. Solomon decides to send Bayna-Leḥkem away with the eldest sons of his nobles
+39. Bayna-Leḥkem (*i.e.* Menyelek) is anointed King of Ethiopia, and is called David (II)
+40. Zadok’s Commands to David (II)
+41. The Blessing of Kings
+42. The Ten Commandments
+43. The Priests and Officials of the Court of David (II) in Ethiopia
+44. The King must not be reviled
+45. The Sons of the Nobles who are to go to Ethiopia make a plot
+46. The Plot to steal the Tabernacle of Zion from the Temple in Jerusalem
+47. The Offering of Azariah and the King
+48. How they stole the Tabernacle of Zion
+49. How Solomon blessed his son David (II)
+50. The Farewell of David (II) to his father, and the grief of the people
+51. Solomon bids Zadok fetch the covering of the Tabernacle of Zion
+52. Zadok gives David (II) the covering of the Tabernacle of Zion
+53. The Gift of the Wagon of Zion to Ethiopia
+54. How David (II) prophesied and saluted Zion
+55. How the People of Ethiopia rejoiced
+56. Zadok the Priest discovers that the Tabernacle of Zion has been stolen
+57. The Swooning of Zadok the Priest
+58. How Solomon rose up to slay them
+59. Solomon arrives in Egypt and questions the Egyptians
+60. Solomon’s Lament for the Tabernacle of Zion
+61. Solomon’s Return to Jerusalem
+62. Solomon’s Resignation to the Will of God
+63. The Elders accept Solomon’s View and decide to keep the theft of Zion a secret
+64. Solomon marries an Egyptian Princess
+65. The Sin of Solomon
+66. Solomon a prototype of Christ
+67. The Death Lament of Solomon
+68. The Virgin Mary, our Lady of Salvation
+69. The Conversation of Solomon with the Angel concerning Christ
+70. The Reign of Rehoboam
+71. The Virgin Mary, the daughter of David
+72. The King of Rômê (Constantinople)
+73. ’Adrâmî, the son of Solomon, becomes King of Rômê
+74. The King of Medyâm, a descendant of Shem
+75. The King of Babylon, a descendant of Shem
+76. Nebuchadnezzar, the son of Karmîn, a descendant of Shem
+77. The King of Persia, a descendant of Tamar
+78. The King of Moab, a descendant of Lot
+79. The King of Amalek, a descendant of Lot
+80. The King of Philistia, a descendant of Samson
+81. How Akamḥêl, the son of Samson, slew Ṭebrêlês, the son of the King of the Philistines
+82. Abraham’s journey into Egypt
+83. The King of the Ishmaelites
+84. How Bayna-Leḥkem (David II) returned to Ethiopia
+85. How Queen Mâkĕdâ rejoiced at his coming
+86. How Queen Mâkĕdâ made her son King of Ethiopia
+87. How the Ethiopian Nobles swore fidelity to him
+88. Bayna-Leḥkem describes to his Mother his anointing as King
+89. Queen Mâkĕdâ’s Address to the Israelites in Ethiopia
+90. How Azariah praised the Queen and her Royal City
+91. Regulations about Meats, clean and unclean
+92. How the Kingdom of Bayna-Leḥkem (David II) was established in Ethiopia
+93. How the Men of Rômê (Byzantium) destroyed the Faith
+94. The First War of Bayna-Leḥkem (David II)
+95. How the Authority of Bayna-Leḥkem was universally accepted
+96. The Prophecies concerning Christ
+97. The Murmuring of the Israelites against Moses and Aaron
+98. The Rod of Moses and the Rod of Aaron
+99. Parable of the Two Slaves, *i.e. *the Devil and Adam
+100. How the Angels rebelled against God when He created Adam
+101. Concerning Him that existeth in everything
+102. The Beginning
+103. The Horns of the Altar and their Significance
+104. The Ark of Noah and the Talk of the Wicked
+105. The Belief of Abraham
+106. Prophecies concerning the Coming of Christ
+107. Christ’s Glorious Entrance into Jerusalem
+108. The Wickedness of the Jews
+109. The Crucifixion
+110. The Resurrection
+111. The Ascension of Christ and His Second Coming
+112. The Prophets as prototypes of Christ
+113. The Chariot and the Vanquisher of the Enemy
+114. The Return of Zion
+115. The Judgement of Israel
+116. The Chariot of Ethiopia
+117. The King of Rômê and the King of Ethiopia
+
+Colophon
+
+List of Passages quoted from the Old and New Testaments
+
+
+
 ## I. The Manuscripts of the Kebra Nagast and their arrival in Europe. The labours of Bruce, Dillmann, Praetorius, Wright, Zotenberg, and Bezold. King John’s letter to Lord Granville. Date of compilation of the Kebra Nagast. The Ethiopian work based on Coptic and Arabic sources, etc. ##
 
 The Kebra Nagast, or the Book of the Glory of the Kings [of Ethiopia], has been held in the highest esteem and honour throughout the length and breadth of Abyssinia for a thousand years at least, and even to-day it is believed by every educated man in that country to contain the true history of the origin of the Solomonic line of kings in Ethiopia, and is regarded as the final authority on the history of the conversion of the Ethiopians from the worship of the sun, moon, and stars to that of the Lord God of Israel.

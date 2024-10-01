@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-01 12:39:04 -0700" ModID="B4C4CB21-0223-4186-8538-E68A7D93BD80">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-01 14:45:53 -0700" ModID="DA271A96-90A0-4126-8E9E-6CE874F23A0D">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -89,6 +89,16 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E" Type="Text" Created="2024-06-03 18:57:38 -0700" Modified="2024-10-01 14:45:43 -0700">
+                    <Title>Contents</Title>
+                    <MetaData>
+                        <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>18,41</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="A7F8AD14-D3BD-42D3-84D9-A2091ABFBE50" Type="Folder" Created="2024-08-26 14:19:12 -0700" Modified="2024-09-04 17:55:30 -0700">
                     <Title>Introduction</Title>
                     <MetaData>
@@ -108,6 +118,9 @@
                             <TextSettings>
                                 <TextSelection>18227,0</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="51483619-1237-4861-B99E-F913E8F075E5" Type="Text" Created="2024-08-27 11:03:56 -0700" Modified="2024-09-24 15:03:55 -0700">
                             <Title>English translation of the Arabic text describing how the Kingdom of David was transferred from Jerusalem to Ethiopia.</Title>
@@ -118,6 +131,9 @@
                             <TextSettings>
                                 <TextSelection>3857,1</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="42E6DCF1-858A-4BDB-A13D-D687B422C9D5" Type="Text" Created="2024-08-27 12:33:43 -0700" Modified="2024-09-07 23:36:14 -0700">
                             <Title>Legends of Solomon and the Queen of Sheba in the Kur’ân and in Muhammadan literature</Title>
@@ -128,6 +144,9 @@
                             <TextSettings>
                                 <TextSelection>6460,1</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="FE606A6C-5CBF-4B93-9B60-0D8930AD1A70" Type="Text" Created="2024-08-27 12:34:44 -0700" Modified="2024-09-24 17:46:49 -0700">
                             <Title>Modern Legends of Solomon and the Queen of Sheba</Title>
@@ -138,6 +157,9 @@
                             <TextSettings>
                                 <TextSelection>192,1</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="8BCD3E68-6350-4565-B467-B43A29DA723B" Type="Text" Created="2024-08-27 12:34:49 -0700" Modified="2024-09-24 18:25:02 -0700">
                             <Title>The Contents of the Kebra Nagast described</Title>
@@ -148,6 +170,9 @@
                             <TextSettings>
                                 <TextSelection>682,4</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -180,6 +205,9 @@
                             <TextSettings>
                                 <TextSelection>1779,1</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="78E66A75-50C3-4433-B300-12FBBD573D34" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-07 23:40:47 -0700">
                             <Title>Concerning the Greatness of Kings</Title>
@@ -190,6 +218,9 @@
                             <TextSettings>
                                 <TextSelection>423,448</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="A0401633-D8B7-4F1E-9BF6-98552D80F495" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-07 23:40:48 -0700">
                             <Title>Concerning the Kingdom of Adam</Title>
@@ -200,6 +231,9 @@
                             <TextSettings>
                                 <TextSelection>274,0</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="C8A8AF88-C980-48B7-852A-D41041EF5A0C" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-24 18:40:27 -0700">
                             <Title>Concerning Envy</Title>
@@ -210,6 +244,9 @@
                             <TextSettings>
                                 <TextSelection>1000,0</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="2FA11E4C-7FA3-4BD6-84C6-0EAAC8CA76E5" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-07 23:43:30 -0700">
                             <Title>Concerning the Kingdom of Seth</Title>
@@ -220,6 +257,9 @@
                             <TextSettings>
                                 <TextSelection>0,655</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="5E8458F1-D48C-4395-957E-834F9C10E632" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-07 23:43:20 -0700">
                             <Title>Concerning the Sin of Cain</Title>
@@ -230,6 +270,9 @@
                             <TextSettings>
                                 <TextSelection>0,1118</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="2F9631B4-FE5F-45C7-8080-1FB532691C1B" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-07 23:44:24 -0700">
                             <Title>Concerning Noah</Title>
@@ -1172,6 +1215,7 @@
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
                             </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="B2C0ABE6-8CB4-44FC-BF20-21D4C8CF4D13" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 11:22:41 -0700">
@@ -1183,6 +1227,9 @@
                             <TextSettings>
                                 <TextSelection>922,10</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="2D874845-5CD7-4A9B-879F-5886DECA610B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-28 14:36:20 -0700">
                             <Title>Concerning the Beginning</Title>
@@ -1195,6 +1242,7 @@
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
                             </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="DFED9607-2CE2-4753-832C-0D2071D34531" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-26 11:20:15 -0700">
@@ -1355,6 +1403,9 @@
                             <TextSettings>
                                 <TextSelection>276,15</TextSelection>
                             </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                            </Bookmarks>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1367,6 +1418,9 @@
                     <TextSettings>
                         <TextSelection>1738,0</TextSelection>
                     </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
+                    </Bookmarks>
                 </BinderItem>
                 <BinderItem UUID="27A8BBED-EC24-4951-A8A3-C9EF92C18A94" Type="Folder" Created="2024-06-03 18:58:07 -0700" Modified="2024-06-03 18:58:14 -0700">
                     <Title>Appendices</Title>
@@ -1387,10 +1441,11 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3083,8</TextSelection>
+                                <TextSelection>977,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="2D874845-5CD7-4A9B-879F-5886DECA610B"/>
+                                <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
                             </Bookmarks>
                         </BinderItem>
                         <BinderItem UUID="57A567B3-1090-4F20-AA7E-2ACEFFCF30BC" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2024-09-09 10:28:27 -0700">
@@ -1650,11 +1705,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-10-02 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-49" Characters="559" Date="2024-10-01 09:38:58 -0700"/>
+        <PreviousSession Words="848" Characters="5725" Date="2024-10-01 09:38:58 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-10-01 00:00:00 -0700">
-        <DraftWordCount>-49</DraftWordCount>
-        <DraftCharCount>559</DraftCharCount>
+        <DraftWordCount>848</DraftWordCount>
+        <DraftCharCount>5725</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
