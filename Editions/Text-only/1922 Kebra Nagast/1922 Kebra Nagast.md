@@ -140,7 +140,7 @@ V. Summary of the Contents of the Kĕbra Nagast
 96. The Prophecies concerning Christ
 97. The Murmuring of the Israelites against Moses and Aaron
 98. The Rod of Moses and the Rod of Aaron
-99. Parable of the Two Slaves, *i.e. *the Devil and Adam
+99. Parable of the Two Slaves, *i.e.* the Devil and Adam
 100. How the Angels rebelled against God when He created Adam
 101. Concerning Him that existeth in everything
 102. The Beginning
