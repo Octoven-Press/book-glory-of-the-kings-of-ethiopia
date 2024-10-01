@@ -31,7 +31,7 @@ In the short introduction that follows I have given a sketch of the literary his
 
 # Contents #
 
-Introduction:
+[Introduction:]{.smallcaps}
 
 I. The Manuscripts of the Kĕbra Nagast, etc.  
 II. Translation of the Arabic Version  
@@ -40,7 +40,7 @@ IV. Modern Legends of Solomon and the Queen of Sheba
 V. Summary of the Contents of the Kĕbra Nagast  
 
 
-The Chapters of the Kĕbra Nagast
+[The Chapters of the Kĕbra Nagast]{.smallcaps}
 
 1. The Glory of Kings
 2. The Greatness of Kings
