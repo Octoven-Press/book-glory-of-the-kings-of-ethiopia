@@ -702,8 +702,10 @@
 		</dict>
 		<key>C8A8AF88-C980-48B7-852A-D41041EF5A0C</key>
 		<dict>
+			<key>DocID</key>
+			<string>EAF25E5A-CFB3-4031-83D2-32B92EF64C8E</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0</key>
 		<dict>
@@ -930,6 +932,6 @@
 		<real>3</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
