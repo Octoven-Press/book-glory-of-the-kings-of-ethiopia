@@ -33,11 +33,11 @@ In the short introduction that follows I have given a sketch of the literary his
 
 Introduction:
 
-  I. The Manuscripts of the Kĕbra Nagast, etc.  
- II. Translation of the Arabic Version  
-III. Legends of the Queen of Sheba in the Ḳur’ân  
- IV. Modern Legends of Solomon and the Queen of Sheba  
-  V. Summary of the Contents of the Kĕbra Nagast  
+I.  The Manuscripts of the Kĕbra Nagast, etc.  
+II.  Translation of the Arabic Version  
+III.  Legends of the Queen of Sheba in the Ḳur’ân  
+IV.  Modern Legends of Solomon and the Queen of Sheba  
+V.  Summary of the Contents of the Kĕbra Nagast  
 
 
 The Chapters of the Kĕbra Nagast
