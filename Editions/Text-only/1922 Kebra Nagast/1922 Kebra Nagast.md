@@ -917,6 +917,50 @@ In the Arabic text it is said: “We have turned [this book] into Arabic from a 
 
 
 
+
+## A List of the Passages from the Old and New Testaments, Quoted or Referred to in the Kebra Nagast ## 
+Genesis *i, 1,* [^fn116], [^fn152]; *i, 26,* [^fn30]; *ii, 17,* [^fn146]; *iii, 16,* [^fn63]; *v, 9,* [^fn39]; *vi, 2–4,* [^fn149]; *vi, 14,* [^fn150]; *viii, 21,* [^fn36]; *ix, 4,* [^fn36]; *ix, 25–27,* [^fn35]; *x, 6,* [^fn38]; *xii ff., 11,* [^fn109]; *xiii, 14–17,* [^fn41]; *xiv, —,* [^fn181]; *xv, 1,* [^fn40]; *xviii, 1,* [^fn173]; *xxii, 13,* [^fn97], [^fn174]; *xxii, 17,* [^fn53]; *xxx, 37,* [^fn175]; *xxxv, 22,* [^fn42]; *xlvii, 29,* [^fn304]; *xlvii, 31,* [^fn176]; *xlix, 4,* [^fn42]; *xlix, 8–12,* [^fn246], [^fn247], [^fn248]; *l, 25,* [^fn305].
+Exodus *iii, 2,* [^fn124]; *vii, 10,* [^fn140]; *vii, 19,* [^fn141]; *viii, —,* [^fn141]; *x, 21, 22,* [^fn139]; *xv, 25,* [^fn143]; *xvi, 35,* [^fn131]; *xvii, 4,* [^fn126]; *xvii, 6,* [^fn132]; *xvii, 11, 12,* [^fn142]; *xix, —,* [^fn120]; *xxv, 10, 13,* [^fn47], [^fn130]; *xxxiii, 18–23,* [^fn121]; *xxxiv, 33,* [^fn122].
+Leviticus *xviii, 18,* [^fn55]; *xxvi, 12,* [^fn189].
+Numbers *xi, 16,* [^fn120]; *xii, 2,* [^fn119]; *xvi, —,* [^fn125]; *xvi, 41,* [^fn126]; *xvii, 8,* [^fn127]; *xxi, 7,* [^fn118].
+Deuteronomy *iv, 1,* [^fn110]; *vi, 4,* [^fn237]; *xviii, 15,* [^fn117]; *xix, 15,* [^fn309]; *xxvii, 15, *[^fn111]; *xxvii, 25,* [^fn269]; *xxix, 20,* [^fn263]; *xxxii, 21, 28,* [^fn167]; *xxxii, 44,* [^fn216].
+Judges *vi, 37,* [^fn214].
+1 Samuel *ii, 29–34,* [^fn77]; *vi, 4,* [^fn75], [^fn76], [^fn84]; *vi, 7,* [^fn86]; *xv, —,* [^fn66].
+2 Samuel *vi, 3,* [^fn177]; *vii, 12,* [^fn61], [^fn98].
+1 Kings *i, 3,* [^fn88]; *ii, 5,* [^fn87].; *ii, 35, *[^fn62]; *x, 1,* [^fn14]; *xi, 1,* [^fn50]; *xvii, —,* [^fn67].
+2 Kings *i, 2,* [^fn82].
+1 Chronicles *ii, 25,* [^fn45]; *v, 1,* [^fn43]; *xxii, 8, 9,* [^fn80].
+2 Chronicles *ix, 1,* [^fn14].
+Job *ix, 8,* [^fn209]; *xviii, 16,* [^fn266].
+Psalm *ii, —,* [^fn93]; *ii, 7,* [^fn213]; *vii, 16, *[^fn256]; *viii, 2,* [^fn240]; *viii, 6,* [^fn34]; *ix, 11,* [^fn48]; *ix, 15, 16,* [^fn255]; *xii, 5,* [^fn285]; *xiii, —, *(???); *xvi, 10,* [^fn291]; *xviii, 9,* [^fn210]; *xviii, 10,* [^fn298]; *xviii, 43,* [^fn219]; *xviii, 45, 46,* [^fn220]; *xxi, 13,* [^fn297]; *xxii, 16,* [^fn144], [^fn274]; *xxii, 20, 21,* [^fn250], [^fn251]; *xxiii, 8,* (???); *xxiv, 7, 8,* [^fn299]; *xxviii, 3, 4,* [^fn105]; *xxxiii, 6, *[^fn158]; *xxxiii, 9,* [^fn157]; *xxxiii, 13,* [^fn215]; *xxxv, 12,* [^fn282]; *xxxvi, 1,* [^fn261]; *xl, 7, *[^fn115]; *xli, 9,* [^fn258]; *xliv, 26,* [^fn287]; *xlv, —,* [^fn162]; *xlviii, 2, 3,* [^fn195]; *l, 2,* [^fn161], [^fn195]; *l, 3,* [^fn188]; *l, 7,* [^fn236]; *lviii, 7,* [^fn163]; *lxii, 11, 12,* [^fn301]; *lxviii, 1,* [^fn288]; *lxviii, 18,* [^fn293]; *lxviii, 21,* (???); *lxviii, 31,* [^fn72], [^fn308]; *lxviii, 32, 35,* [^fn295]; *lxix, 21,* [^fn145], [^fn278].; *lxxii, 1 ff.,* [^fn94]; *lxxii, 5, 17,* [^fn229]; *lxxii, 6,* [^fn214]; *lxxii, 6, 7,* [^fn198]; *lxxii, 9, 10,* [^fn71]; *lxxii, 11,* [^fn83]; *lxxii, 15,* [^fn208]; *lxxiii, 8, 9,* [^fn113]; *lxxv, 10,* [^fn253]; *lxxviii, 65,* [^fn289]; *lxxxi, 3,* [^fn242]; *lxxxii, 8,* [^fn286]; *lxxxiii, 7,* [^fn73]; *lxxxvii, 2, 3,* [^fn128], [^fn129]; *lxxxvii, 2–4,* [^fn74]; *lxxxvii, 5, 6,* [^fn196]; *lxxxix, 3, 4,* [^fn83]; *lxxxix, 35,* [^fn100]; *lxxxix, 37,* [^fn99]; *lxxxix, 27, 29,* [^fn83]; *xc, 3,* [^fn172]; *xcii, 10,* [^fn252]; *xcv, 1, 2,* [^fn227]; *xcv, 10,* [^fn16], [^fn64]; *xcvi, 5,* [^fn65], [^fn172]; *xcvi, 10,* [^fn222]; *xcviii, 9,* [^fn223]; *civ, 35,* [^fn260]; *cix, 5,* [^fn165]; *cix, 6–8,* [^fn268]; *cix, 17, *[^fn264]; *cx, 3,* [^fn151], [^fn212]; *cx, 4,* [^fn94]; *cxii, 10, *[^fn271]; *cxviii, 26,* [^fn191], [^fn245]; *cxxix, 8, *[^fn191]; *cxxxii, 11,* [^fn15], [^fn61], [^fn98]; *cxxxii, 11–13,* [^fn83]; *cxxxii, 17,* [^fn217].
+Proverbs *i, 10 ff.,* [^fn277]; *vi, 13,* [^fn257]; *viii, 22,* [^fn228]; *viii, 30,* [^fn230]; *xi, 1,* [^fn272]; *xi, 11,* [^fn262]; *xxx, 4,* [^fn233]; *xxx, 18,* [^fn106].
+Song of Solomon *iii, 7 ff.,* [^fn91]; *iii, 9, *[^fn92].
+Isaiah *ii, 3,* [^fn235]; *vi, 10,* [^fn182]; *vii, 14,* [^fn211]; *ix, 6,* [^fn183]; *x, 1, 2,* [^fn259]; *x, 33,* [^fn224]; *xi, 10,* [^fn226]; *xxvi, 19,* [^fn310]; *xxix, 13,* [^fn166]; *xxxv, 3,* [^fn187], [^fn232]; *xl, 12, *[^fn233]; *xlii, 1,* [^fn184]; *xliii, 20,* [^fn232]; *xliv, 16,* [^fn171]; *xliv, 18,* [^fn182]; *xlv, 12,* [^fn164]; *xlv, 14,* [^fn225]; *li, 16,* [^fn74]; *liii, 1–3,* [^fn275]; *liii, 2 ff.,* [^fn160]; *liii, 4 ff.,* [^fn279], [^fn290]; *liii, 12,* [^fn281]; *liv, 4,* [^fn218]; *liv, 13,* [^fn241]; *lix, 20,* [^fn199]; *lx, 1,* [^fn238]; *lx, 2, 3,* [^fn186]; *lxii, 11,* [^fn244]; *lxiii, 1,* [^fn221]; *lxv, 1,* [^fn70]; *lxvi, 1,* [^fn79].
+Jeremiah *xxx, 6–9,* [^fn185]; *xxxi, 11, 12,* [^fn203]; *xxxi, 31,* [^fn193]; *xxxii, 38,* [^fn190].
+Ezekiel *xi, 17, 20,* [^fn190]; *xviii, 12, 31,* [^fn265]; *xxxvi, 27, 28,* [^fn190]; *xliii, 1,* [^fn123]; *xliii, 2,* [^fn231].
+Daniel *vii, 13 ff.,* [^fn302].
+Hosea *iv, 1, 2,* [^fn267].
+Amos, *iv, 13,* [^fn296].
+Micah, *iv, 2,* [^fn201], [^fn235].
+Habakkuk *iii, 3,* [^fn192]; *iii, 4,* [^fn254]; *iv, —,* [^fn270].
+Haggai *ii, 7, 9,* [^fn224], [^fn225].
+Zechariah *i, 17,* [^fn207]; *ii, 10,* [^fn189], [^fn200]; *iv, 5,* [^fn300]; *viii, 3,* [^fn202]; *ix, 9,* [^fn205], [^fn239]; *xi, 12,* [^fn273]; *xi, 13,* [^fn280]; *xii, 10,* [^fn283]; *xiv, 4,* [^fn298].
+Malachi *i, 10, 11,* [^fn234]; *iii, 1,* [^fn204]; *iv, 2,* [^fn206]; *iv, 2,* [^fn292].
+Wisdom *ii, 12,* [^fn276].
+St. Matthew *i, 4,* [^fn46]; *i, 20,* [^fn101]; *vii, 15,* [^fn307]; *vii, 24, 25,* [^fn133]; *x, 8,* [^fn104]; *x, 15,* [^fn307]; *xii, 42,* [^fn49]; *xii, 49,* [^fn178]; *xvi, 18,* [^fn135]; *xvii, 4,* [^fn78]; *xviii, 16,* [^fn309]; *xix, 28,* [^fn104]; *xxii, 32,* [^fn303]; *xxiii, 13,* [^fn147]; *xxiv, 35,* [^fn37]; *xxv 22,* [^fn112]; *xxvi, 26,* [^fn170].
+St. Mark *i, 1,* [^fn155]; *iii, 34,* [^fn178]; *xvi, 16,* [^fn180].
+St. Luke *iii, 33,* [^fn46]; *ix, 33,* [^fn78]; *x, 19,* [^fn104]; *xi, 31,* [^fn14], [^fn49]; *xviii, 9,* [^fn147]; *xxiii, 34,* [^fn159].
+St. John *i, 1,* [^fn156]; *i, 1–3,* [^fn156]; *ii, 19,* [^fn89]; *viii, 17,* [^fn309]; *x, 7, 9,* [^fn134]; *x, 11, 14,* [^fn136]; *xv, 5, 16,* [^fn138]; *xxi, 17,* [^fn137]; *xxi, 25,* [^fn114].
+Acts of the Apostles *i, —,* [^fn154]; *vi, 3,* [^fn168]; *vii, 34, 55,* [^fn168], [^fn169]; *viii, 27,* [^fn59]; *xxx, 20 ff.,* [^fn284].
+1 Corinthians *i, 20,* [^fn60]; *vii, —,* [^fn54].
+2 Corinthians *vi, 16,* [^fn190], [^fn197]; *xiii, 1,* [^fn309].
+Galatians *iii, 28,* [^fn90]; *v, 16, 17,* [^fn102], [^fn103].
+Hebrews *xi, 21,* [^fn176], [^fn179].
+2 Peter *ii, 4,* [^fn148].
+1 John *i, 1,* [^fn153], [^fn156]; *iii, 5, 8,* [^fn194].
+
+
+
 [preface-a]: preface-a.svg
 
 [preface-b]: preface-b.svg
@@ -1311,7 +1355,7 @@ In the Arabic text it is said: “We have turned [this book] into Arabic from a 
 
 [^fn187]: Isaiah xxxv, 3 ff.
 
-[^fn188]: Psalm 1, 3.
+[^fn188]: Psalm l, 3.
 
 [^fn189]: Leviticus xxvi, 12; Zechariah ii, 10.
 
@@ -1407,7 +1451,7 @@ In the Arabic text it is said: “We have turned [this book] into Arabic from a 
 
 [^fn235]: Compare Isaiah ii, 3; Micah iv, 2.
 
-[^fn236]: Psalm 1, 7.
+[^fn236]: Psalm l, 7.
 
 [^fn237]: Deuteronomy vi, 4.
 

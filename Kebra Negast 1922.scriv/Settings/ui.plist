@@ -10,7 +10,7 @@
 		</array>
 	</dict>
 	<key>CompileFolder</key>
-	<string>/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Builds/The Glory of the Kings of Ethiopia/book-glory-of-the-kings-of-ethiopia/book-glory-of-the-kings-of-ethiopia/Editions/Text-only/1922 Kebra Nagast/compile</string>
+	<string>/Users/mlaaker/Desktop</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>QRPanelSettings</key>
@@ -65,8 +65,8 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {290, 2001}}</string>
-		<string>{{291, 0}, {1805, 2001}}</string>
+		<string>{{0, 0}, {334, 1857}}</string>
+		<string>{{335, 0}, {1925, 1857}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -232,8 +232,10 @@
 		</dict>
 		<key>2D874845-5CD7-4A9B-879F-5886DECA610B</key>
 		<dict>
+			<key>DocID</key>
+			<string>BBAAF758-D916-448D-AAAE-8CC3D1F75F7C</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>2F6818B6-FAFB-4A66-98DB-878D499FCDEA</key>
 		<dict>
@@ -292,8 +294,10 @@
 		</dict>
 		<key>3DE2E8D9-52F8-4E1C-AF87-857E0294704F</key>
 		<dict>
+			<key>DocID</key>
+			<string>BBAAF758-D916-448D-AAAE-8CC3D1F75F7C</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>3F756F41-FEF7-4696-B294-668B5E1DACE6</key>
 		<dict>
@@ -861,8 +865,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {910, 1971}}</string>
-		<string>{{911, 0}, {500, 1971}}</string>
+		<string>{{766, 0}, {765, 1827}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
@@ -871,8 +874,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1411, 1971}}</string>
-		<string>{{1412, 0}, {393, 1971}}</string>
+		<string>{{0, 0}, {1531, 1827}}</string>
+		<string>{{1532, 0}, {393, 1827}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -888,10 +891,10 @@
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1.5</real>
+		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>286 106 2096 2029 0 0 3840 2135 </string>
+	<string>51 250 2260 1885 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>

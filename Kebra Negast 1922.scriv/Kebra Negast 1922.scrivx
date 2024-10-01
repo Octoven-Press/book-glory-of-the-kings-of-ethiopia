@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-09-30 10:57:45 -0700" ModID="2742F93E-6691-4202-833C-892CE59C65CB">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-01 12:31:44 -0700" ModID="A98B1ADA-DF6C-4727-8D4A-ED707C9C38DD">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -54,7 +54,6 @@
                     <Title>Prefaces</Title>
                     <MetaData>
                         <SectionType>8D4EAAB7-E0A3-4010-83A3-90610A5651FF</SectionType>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -107,7 +106,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>21272,4</TextSelection>
+                                <TextSelection>18227,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="51483619-1237-4861-B99E-F913E8F075E5" Type="Text" Created="2024-08-27 11:03:56 -0700" Modified="2024-09-24 15:03:55 -0700">
@@ -117,7 +116,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5218,0</TextSelection>
+                                <TextSelection>3857,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="42E6DCF1-858A-4BDB-A13D-D687B422C9D5" Type="Text" Created="2024-08-27 12:33:43 -0700" Modified="2024-09-07 23:36:14 -0700">
@@ -1192,7 +1191,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6159,32</TextSelection>
+                                <TextSelection>4271,1</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
@@ -1234,14 +1233,14 @@
                                 <TextSelection>1277,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3DE2E8D9-52F8-4E1C-AF87-857E0294704F" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 11:16:18 -0700">
+                        <BinderItem UUID="3DE2E8D9-52F8-4E1C-AF87-857E0294704F" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-10-01 11:18:45 -0700">
                             <Title>A Prophecy concerning the Coming of Christ</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,12650</TextSelection>
+                                <TextSelection>12271,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
@@ -1381,13 +1380,13 @@
                         <SelectedSubdocumentUUIDs>536F384E-3EA4-4475-844F-23E724385FBE</SelectedSubdocumentUUIDs>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C" Type="Text" Created="2024-09-27 13:41:11 -0700" Modified="2024-09-28 15:02:00 -0700">
+                        <BinderItem UUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C" Type="Text" Created="2024-09-27 13:41:11 -0700" Modified="2024-10-01 12:28:47 -0700">
                             <Title>A List of the Passages from the Old and New Testaments, Quoted or Referred to in the Kebra Nagast</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4139,0</TextSelection>
+                                <TextSelection>3083,8</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="2D874845-5CD7-4A9B-879F-5886DECA610B"/>
@@ -1649,12 +1648,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-10-01 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-09-30 10:57:43 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-10-02 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-49" Characters="559" Date="2024-10-01 09:38:58 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-09-30 00:00:00 -0700">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2024-10-01 00:00:00 -0700">
+        <DraftWordCount>-49</DraftWordCount>
+        <DraftCharCount>559</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
