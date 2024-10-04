@@ -898,7 +898,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {596.66666666666663, 1276.6666666666665}}</string>
+	<string>{{0, 0}, {505.33333333333331, 590.33333333333326}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -924,7 +924,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 1775.6666666666665}, {161.66666666666666, 638.33333333333348}}</string>
+	<string>{{0, 0}, {250, 590.33333333333326}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
