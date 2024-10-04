@@ -966,13 +966,7 @@ Solomon responded by questioning how David could have taken away their Lady (Zio
 ## Chapter 60: Solomon's Lament for Zion ##
 
 **Summary:**
-Solomon entered his tent and wept bitterly, lamenting the loss of the Tabernacle of the Covenant in his time. He reflected on God's covenant with their forefathers, the glory of Zion, and the significance of the Tabernacle. Solomon mourned the removal of their honor and the neglect of God's commandments.
-
-He recalled how David desired to build a house for God but was told his descendant would fulfill that task. Solomon acknowledged building the house of God and bringing the Tabernacle of the Covenant into it, filling it with God's glory. However, he expressed sorrow over God taking away their light to illuminate others and expressed deep regret for their failings as priests and kings.
-
-Solomon acknowledged their sins, the rejection they faced, and the loss of their glory. He criticized the priests for prioritizing worldly pleasures over spiritual duties, leading to their downfall. Despite his lamentations, the Spirit of Prophecy assured Solomon that Zion was given to his firstborn son, who would sit on David's throne forever.
-
-Solomon found comfort in this assurance, accepting the will of God over the will of man. The Angel of God appeared, promising Solomon that if he obeyed God's commandments and remained faithful, he would be beloved by God, similar to his father David.
+*Solomon entered his tent and wept bitterly, lamenting the loss of the Tabernacle of the Covenant in his time. He reflected on God's covenant with their forefathers, the glory of Zion, and the significance of the Tabernacle. Solomon mourned the removal of their honor and the neglect of God's commandments. He recalled how David desired to build a house for God but was told his descendant would fulfill that task. Solomon acknowledged building the house of God and bringing the Tabernacle of the Covenant into it, filling it with God's glory. However, he expressed sorrow over God taking away their light to illuminate others and expressed deep regret for their failings as priests and kings. Solomon acknowledged their sins, the rejection they faced, and the loss of their glory. He criticized the priests for prioritizing worldly pleasures over spiritual duties, leading to their downfall. Despite his lamentations, the Spirit of Prophecy assured Solomon that Zion was given to his firstborn son, who would sit on David's throne forever. Solomon found comfort in this assurance, accepting the will of God over the will of man. The Angel of God appeared, promising Solomon that if he obeyed God's commandments and remained faithful, he would be beloved by God, similar to his father David.*
 
 **Primary Characters:** 
 
@@ -987,11 +981,7 @@ Solomon found comfort in this assurance, accepting the will of God over the will
 ## Chapter 61: ##
 
 **Summary:**
-After Solomon returned to Jerusalem, he wept with the elders of the city in the house of God. King Solomon and Zadok the priest embraced and wept bitterly in Zion. The elders consoled the King, reminding him that Zion would only dwell where God willed. They recounted the story of how the Philistines took Zion captive and suffered plagues until they returned her with offerings.
-
-The Philistines sent Zion back with gold offerings and two she-camels to determine God's will. The camels went straight to Judah, and Zion returned to her place. Samuel the Prophet ministered to Zion, and vision and prophecy were revealed to him. The elders reassured Solomon that Jerusalem would remain if God willed it.
-
-They advised Solomon not to be sad but to take comfort in the wisdom given to him by the Lord God of Israel. They emphasized the importance of wisdom and the futility of foolish words to a wise man.
+*After Solomon returned to Jerusalem, he wept with the elders of the city in the house of God. King Solomon and Zadok the priest embraced and wept bitterly in Zion. The elders consoled the King, reminding him that Zion would only dwell where God willed. They recounted the story of how the Philistines took Zion captive and suffered plagues until they returned her with offerings. The Philistines sent Zion back with gold offerings and two she-camels to determine God's will. The camels went straight to Judah, and Zion returned to her place. Samuel the Prophet ministered to Zion, and vision and prophecy were revealed to him. The elders reassured Solomon that Jerusalem would remain if God willed it. They advised Solomon not to be sad but to take comfort in the wisdom given to him by the Lord God of Israel. They emphasized the importance of wisdom and the futility of foolish words to a wise man.*
 
 **Primary Characters:** 
 
@@ -1007,7 +997,9 @@ They advised Solomon not to be sad but to take comfort in the wisdom given to hi
 ## Chapter 62: Solomon's Response to the Elders ##
 
 **Summary:**
-Solomon emphasized the omnipotence of God and the need to submit to His will in response to the elders. He led them in prayer and weeping before the heavenly Zion in the House of God. Solomon urged them to stop weeping to avoid being mocked by their enemies and proposed decorating hoards with gold and the Book of the Law inside. He stressed the importance of following God's will, trusting in His deliverance, and maintaining their covenant with their forefathers to avoid destruction.
+*Solomon emphasized the omnipotence of God and the need to submit to His will in response to the elders. He led them in prayer and weeping before the heavenly Zion in the House of God. Solomon urged them to stop weeping to avoid being mocked by their enemies and proposed decorating hoards with gold and the Book of the Law inside. He stressed the importance of following God's will, trusting in His deliverance, and maintaining their covenant with their forefathers to avoid destruction.*
+
+**Primary Characters:** 
 
 **Key Points:**
 - Solomon emphasized the omnipotence of God and the need to submit to His will.
@@ -1020,9 +1012,7 @@ Solomon emphasized the omnipotence of God and the need to submit to His will in 
 ## Chapter 63: Agreement of the Nobles with the King ##
 
 **Summary:**
-The elders of Israel agreed to keep Solomon's decision regarding Zion's departure secret and made a covenant in the House of God. Solomon lived for eleven years after Zion's departure, but his heart turned away from the love of God due to his excessive love for women. He fell in love with Pharaoh's daughter, Mâḳshârâ, and built a luxurious house for her adorned with celestial figures.
-
-Mâḳshârâ worshipped idols, and Solomon, instead of rebuking her, allowed it, leading God to be wroth with him and causing him to forget his wisdom. The queen and her household worshipped idols, drawing the children of Israel into idolatry. Solomon took pleasure in their foolish service and folly, influenced by Mâḳshârâ's sweet words and deceptive actions, ultimately turning his heart away from God's commandments towards idolatry.
+*The elders of Israel agreed to keep Solomon's decision regarding Zion's departure secret and made a covenant in the House of God. Solomon lived for eleven years after Zion's departure, but his heart turned away from the love of God due to his excessive love for women. He fell in love with Pharaoh's daughter, Mâḳshârâ, and built a luxurious house for her adorned with celestial figures. Mâḳshârâ worshipped idols, and Solomon, instead of rebuking her, allowed it, leading God to be wroth with him and causing him to forget his wisdom. The queen and her household worshipped idols, drawing the children of Israel into idolatry. Solomon took pleasure in their foolish service and folly, influenced by Mâḳshârâ's sweet words and deceptive actions, ultimately turning his heart away from God's commandments towards idolatry.*
 
 **Primary Characters:** 
 
@@ -1037,11 +1027,9 @@ Mâḳshârâ worshipped idols, and Solomon, instead of rebuking her, allowed it
 ## Chapter 64: Seduction of Solomon by the Daughter of Pharaoh ##
 
 **Summary:**
-The daughter of Pharaoh tried to persuade Solomon to worship Egyptian gods like her father and ancestors. Solomon defended the worship of the Holy God of Israel and Zion. The daughter of Pharaoh criticized Solomon for marrying an Ethiopian woman and not being faithful to his own people.
+*The daughter of Pharaoh tried to persuade Solomon to worship Egyptian gods like her father and ancestors. Solomon defended the worship of the Holy God of Israel and Zion. The daughter of Pharaoh criticized Solomon for marrying an Ethiopian woman and not being faithful to his own people. Despite her attempts to seduce him, Solomon refused to worship idols or fulfill her wishes. She finally enticed him by beautifying herself and acting haughtily towards him. Solomon, wanting to please her, agreed to her request after she made him swear by the God of Israel. She asked him to enter her gods' house, kill three locusts, and pull out their necks as a sacrifice. Solomon did so to keep his oath, even though he knew it was wrong. The narrative reflects on the consequences of being seduced by women, citing examples of wise and righteous men like Solomon, David, Samson, and others who fell to seduction.*
 
-Despite her attempts to seduce him, Solomon refused to worship idols or fulfill her wishes. She finally enticed him by beautifying herself and acting haughtily towards him. Solomon, wanting to please her, agreed to her request after she made him swear by the God of Israel.
-
-She asked him to enter her gods' house, kill three locusts, and pull out their necks as a sacrifice. Solomon did so to keep his oath, even though he knew it was wrong. The narrative reflects on the consequences of being seduced by women, citing examples of wise and righteous men like Solomon, David, Samson, and others who fell to seduction.
+**Primary Characters:** 
 
 **Key Points:**
 - The daughter of Pharaoh tried to persuade Solomon to worship Egyptian gods, criticizing him for marrying an Ethiopian woman.
@@ -1054,11 +1042,9 @@ She asked him to enter her gods' house, kill three locusts, and pull out their n
 ## Chapter 65: The Sin of Solomon ##
 
 **Summary:**
-Solomon committed a grave sin by worshiping idols, leading him from wisdom to foolishness. This sin is recorded in the Book of the Prophets. The Archbishops discussed whether God had shown mercy to Solomon for his sin. They concluded that God had indeed shown mercy to Solomon, as his name was counted among the righteous in the Book of Life alongside Abraham, Isaac, Jacob, and David. God is forgiving towards sinners.
+*Solomon committed a grave sin by worshiping idols, leading him from wisdom to foolishness. This sin is recorded in the Book of the Prophets. The Archbishops discussed whether God had shown mercy to Solomon for his sin. They concluded that God had indeed shown mercy to Solomon, as his name was counted among the righteous in the Book of Life alongside Abraham, Isaac, Jacob, and David. God is forgiving towards sinners. Comparing the sins of David and Solomon, David's sin of arranging Uriah's death to take Bathsheba, Solomon's mother, was highlighted. David repented, and God showed him compassion. On his deathbed, David instructed Solomon to execute Joab and Shimei, which Solomon carried out. Solomon only killed his brother when he tried to marry Abishag, David's wife. The sin of Solomon, worshiping idols, is revealed as a serious transgression, leading him to folly despite his wisdom.*
 
-Comparing the sins of David and Solomon, David's sin of arranging Uriah's death to take Bathsheba, Solomon's mother, was highlighted. David repented, and God showed him compassion. On his deathbed, David instructed Solomon to execute Joab and Shimei, which Solomon carried out. Solomon only killed his brother when he tried to marry Abishag, David's wife.
-
-The sin of Solomon, worshiping idols, is revealed as a serious transgression, leading him to folly despite his wisdom.
+**Primary Characters:** 
 
 **Key Points:**
 - Solomon's grave sin of worshiping idols led to a loss of wisdom.
@@ -1072,11 +1058,9 @@ The sin of Solomon, worshiping idols, is revealed as a serious transgression, le
 ## Chapter 66: Prophecy of Christ in Solomon's Life ##
 
 **Summary:**
-The name "Solomon" is interpreted to signify "Christ" in secret speech. Just as Solomon built the house of God, Christ raised His Body and established the Church. Christ's reference to rebuilding the temple in three days symbolized His Body. Similarly, Solomon's actions with foreign wives parallel Christ gathering believers from all nations into His heavenly kingdom.
+*The name "Solomon" is interpreted to signify "Christ" in secret speech. Just as Solomon built the house of God, Christ raised His Body and established the Church. Christ's reference to rebuilding the temple in three days symbolized His Body. Similarly, Solomon's actions with foreign wives parallel Christ gathering believers from all nations into His heavenly kingdom. In the Song of Songs, the mention of sixty mighty men around Solomon's bed symbolizes righteous figures like Patriarchs, Prophets, Apostles, Martyrs, Believers, Saints, and Monks who resist evil. The "sword" signifies the Scriptures cutting through falsehood. The "bed of Solomon" represents the Church of Christ. Solomon's song about making a litter for himself symbolizes Christ taking on human form. The Jews mistakenly apply David's words to Solomon, while the prophecy actually refers to Christ. Despite the Jews' misunderstanding, Solomon, like David, prophesied about Christ and the Church. Solomon is regarded as a King, Prophet, and writer of prophecies, numbered among the righteous in the heavenly kingdom.*
 
-In the Song of Songs, the mention of sixty mighty men around Solomon's bed symbolizes righteous figures like Patriarchs, Prophets, Apostles, Martyrs, Believers, Saints, and Monks who resist evil. The "sword" signifies the Scriptures cutting through falsehood. The "bed of Solomon" represents the Church of Christ.
-
-Solomon's song about making a litter for himself symbolizes Christ taking on human form. The Jews mistakenly apply David's words to Solomon, while the prophecy actually refers to Christ. Despite the Jews' misunderstanding, Solomon, like David, prophesied about Christ and the Church. Solomon is regarded as a King, Prophet, and writer of prophecies, numbered among the righteous in the heavenly kingdom.
+**Primary Characters:** Solomon
 
 **Key Points:**
 - "Solomon" symbolizes "Christ" in secret speech.
@@ -1090,11 +1074,9 @@ Solomon's song about making a litter for himself symbolizes Christ taking on hum
 ## Chapter 67: Lamentation and Prophecy of Solomon's Death ##
 
 **Summary:**
-Solomon died at the age of sixty after being afflicted with sickness, unlike the longer life of his father, David. He acknowledged his sins, especially his transgressions with women and idol worship, pleading for God's mercy. The Angel of God confronted him, highlighting his foolishness in disobeying God's commandments, particularly by marrying foreign wives.
+*Solomon died at the age of sixty after being afflicted with sickness, unlike the longer life of his father, David. He acknowledged his sins, especially his transgressions with women and idol worship, pleading for God's mercy. The Angel of God confronted him, highlighting his foolishness in disobeying God's commandments, particularly by marrying foreign wives. The Angel revealed the consequences of Solomon's actions, including the division of his kingdom and the rise of his sons who would bring downfall. One son would lead to the habitation of God in Ethiopia, another would rule over Israel but face destruction, and a third would believe in the coming Savior. The prophecy foretold the rejection and crucifixion of the Savior by Rehoboam's tribe, leading to the erasure of Solomon's memory. Solomon was likened to Joseph, symbolizing his deliverance from Sheol by the future Savior from his seed. The Savior would perform ten miracles, symbolically overcoming Sheol and Satan. The prophecy also mentioned the feeding of the people with heavenly food, the eternal dwelling in paradise, and the defeat of sinners by the Savior.*
 
-The Angel revealed the consequences of Solomon's actions, including the division of his kingdom and the rise of his sons who would bring downfall. One son would lead to the habitation of God in Ethiopia, another would rule over Israel but face destruction, and a third would believe in the coming Savior. The prophecy foretold the rejection and crucifixion of the Savior by Rehoboam's tribe, leading to the erasure of Solomon's memory.
-
-Solomon was likened to Joseph, symbolizing his deliverance from Sheol by the future Savior from his seed. The Savior would perform ten miracles, symbolically overcoming Sheol and Satan. The prophecy also mentioned the feeding of the people with heavenly food, the eternal dwelling in paradise, and the defeat of sinners by the Savior.
+**Primary Characters:** 
 
 **Key Points:**
 - Solomon died at sixty due to sickness, acknowledging his sins and seeking God's mercy.
@@ -1108,11 +1090,9 @@ Solomon was likened to Joseph, symbolizing his deliverance from Sheol by the fut
 ## Chapter 68: Prophecy of Mary, Our Lady of Salvation ##
 
 **Summary:**
-The prophecy foretells the lineage of the Savior through Mary, tracing back to Adam and Eve. The Pearl of Salvation, symbolizing the Savior, passed through generations, finally reaching David and Solomon. The Pearl remained pure and holy, ultimately leading to the birth of the Redeemer from Solomon's seed. The prophecy emphasizes the purity and significance of Mary, who will bear the Savior.
+*The prophecy foretells the lineage of the Savior through Mary, tracing back to Adam and Eve. The Pearl of Salvation, symbolizing the Savior, passed through generations, finally reaching David and Solomon. The Pearl remained pure and holy, ultimately leading to the birth of the Redeemer from Solomon's seed. The prophecy emphasizes the purity and significance of Mary, who will bear the Savior. The Angel Gabriel assures Solomon that the Pearl will be protected until the time of the Savior's birth. Michael will watch over Zion, and Uriel will guard the wood of the Cross. The prophecy predicts the crucifixion of the Savior and the miracles associated with the Cross. A descendant of Solomon's son will play a crucial role in the salvation through the Cross. Solomon expresses gratitude for the revelation, finding solace in the promise of salvation for himself and his descendants. He embraces death with joy, knowing that his soul will join his forefathers and await the Savior's coming to deliver them from Sheol.*
 
-The Angel Gabriel assures Solomon that the Pearl will be protected until the time of the Savior's birth. Michael will watch over Zion, and Uriel will guard the wood of the Cross. The prophecy predicts the crucifixion of the Savior and the miracles associated with the Cross. A descendant of Solomon's son will play a crucial role in the salvation through the Cross.
-
-Solomon expresses gratitude for the revelation, finding solace in the promise of salvation for himself and his descendants. He embraces death with joy, knowing that his soul will join his forefathers and await the Savior's coming to deliver them from Sheol.
+**Primary Characters:** 
 
 **Key Points:**
 - The prophecy details the lineage of the Savior through Mary, symbolized by the Pearl of Salvation.
@@ -1125,11 +1105,9 @@ Solomon expresses gratitude for the revelation, finding solace in the promise of
 ## Chapter 69: Solomon's Question and Final Instructions ##
 
 **Summary:**
-Solomon asks the Angel about the timing of the Savior's coming, learning that the Savior will be born thirty-three generations from his kin and seed to deliver them. The Angel predicts that Israel will reject and crucify the Savior but will ultimately be saved by His mercy and resurrection. The Angel assures Solomon that those who carried the Pearl of Salvation will not be left in Sheol.
+*Solomon asks the Angel about the timing of the Savior's coming, learning that the Savior will be born thirty-three generations from his kin and seed to deliver them. The Angel predicts that Israel will reject and crucify the Savior but will ultimately be saved by His mercy and resurrection. The Angel assures Solomon that those who carried the Pearl of Salvation will not be left in Sheol. Solomon expresses grief over Israel's fate and their sins, acknowledging their impending scattering after crucifying the Savior. He laments the faithlessness of his people and their impending punishment for shedding innocent blood and rejecting the righteous man. Solomon reflects on the transient nature of human life and the futility of worldly pursuits, emphasizing the importance of doing good and fearing God. Solomon instructs his son Rehoboam to avoid evil, worship only God, and follow in the ways of righteousness to inherit eternal life. He appoints Rehoboam as king, emphasizing that his seed will bring salvation to himself and his forefathers, as foretold by the Angel.*
 
-Solomon expresses grief over Israel's fate and their sins, acknowledging their impending scattering after crucifying the Savior. He laments the faithlessness of his people and their impending punishment for shedding innocent blood and rejecting the righteous man. Solomon reflects on the transient nature of human life and the futility of worldly pursuits, emphasizing the importance of doing good and fearing God.
-
-Solomon instructs his son Rehoboam to avoid evil, worship only God, and follow in the ways of righteousness to inherit eternal life. He appoints Rehoboam as king, emphasizing that his seed will bring salvation to himself and his forefathers, as foretold by the Angel.
+**Primary Characters:** 
 
 **Key Points:**
 - Solomon learns the timing of the Savior's coming and Israel's rejection of Him but eventual salvation through His mercy and resurrection.
@@ -1142,13 +1120,9 @@ Solomon instructs his son Rehoboam to avoid evil, worship only God, and follow i
 ## Chapter 70: Reign of Rehoboam and the Division of the Kingdom ##
 
 **Summary:**
-After Solomon's death, Zadok the priest anoints Rehoboam as king and performs the necessary rites. Rehoboam is hailed as king amidst celebration, but before he could return to his father, Solomon passes away and is mourned greatly for his wisdom.
+*After Solomon's death, Zadok the priest anoints Rehoboam as king and performs the necessary rites. Rehoboam is hailed as king amidst celebration, but before he could return to his father, Solomon passes away and is mourned greatly for his wisdom. The people of Israel request Rehoboam to lighten their burdens, imposed by Solomon, in labor and taxation. Rehoboam seeks advice from both the elders and his young companions. Ignoring the elders' counsel to be gracious, Rehoboam heeds the advice of his young friends, threatening the people with harsher treatment if they do not comply with his demands. The people, displeased with Rehoboam's response, reject his kingship and choose Jeroboam from the house of Ephraim as their king. This decision leads to the division of the kingdom, with Jeroboam ruling over the northern tribes and Rehoboam over Judah and Benjamin. The prophecy regarding the kingship stemming from David's line is fulfilled through Jesus Christ, who reigns on the throne of His Godhead. The genealogy from Rehoboam to Joachim is detailed, leading to the birth of Mary, the daughter of David. The lineage continues through various descendants until Joseph the carpenter, who becomes the betrothed of Mary.*
 
-The people of Israel request Rehoboam to lighten their burdens, imposed by Solomon, in labor and taxation. Rehoboam seeks advice from both the elders and his young companions. Ignoring the elders' counsel to be gracious, Rehoboam heeds the advice of his young friends, threatening the people with harsher treatment if they do not comply with his demands.
-
-The people, displeased with Rehoboam's response, reject his kingship and choose Jeroboam from the house of Ephraim as their king. This decision leads to the division of the kingdom, with Jeroboam ruling over the northern tribes and Rehoboam over Judah and Benjamin.
-
-The prophecy regarding the kingship stemming from David's line is fulfilled through Jesus Christ, who reigns on the throne of His Godhead. The genealogy from Rehoboam to Joachim is detailed, leading to the birth of Mary, the daughter of David. The lineage continues through various descendants until Joseph the carpenter, who becomes the betrothed of Mary.
+**Primary Characters:** 
 
 **Key Points:**
 - Rehoboam becomes king after Solomon's death but faces opposition due to his harsh response to the people's requests for lighter burdens.
@@ -1161,11 +1135,9 @@ The prophecy regarding the kingship stemming from David's line is fulfilled thro
 ## Chapter 71: Mary, Daughter of David ##
 
 **Summary:**
-Mary, the mother of Jesus, is confirmed to be the daughter of David, and Joseph, her betrothed, is also identified as a son of David. This lineage establishes Mary's connection to the royal line of David. The Gospel affirms Joseph's lineage and instructs him not to fear taking Mary as his wife, as the child she bears is conceived by the Holy Spirit, the Word of God.
+*Mary, the mother of Jesus, is confirmed to be the daughter of David, and Joseph, her betrothed, is also identified as a son of David. This lineage establishes Mary's connection to the royal line of David. The Gospel affirms Joseph's lineage and instructs him not to fear taking Mary as his wife, as the child she bears is conceived by the Holy Spirit, the Word of God. Mary gives birth to Jesus, who is described as God incarnate, the Word made flesh, the Light of Light, and the Savior of humanity. Jesus, as the Son of the Father, comes to deliver humanity from Sheol, Satan, and death. Through belief in Him, Jesus redeems and elevates believers to become heirs of God, bringing them to the Father and granting them a place in heaven. Praise and glory are ascribed to Jesus, the merciful Savior, for His act of salvation and love towards humankind.*
 
-Mary gives birth to Jesus, who is described as God incarnate, the Word made flesh, the Light of Light, and the Savior of humanity. Jesus, as the Son of the Father, comes to deliver humanity from Sheol, Satan, and death. Through belief in Him, Jesus redeems and elevates believers to become heirs of God, bringing them to the Father and granting them a place in heaven.
-
-Praise and glory are ascribed to Jesus, the merciful Savior, for His act of salvation and love towards humankind.
+**Primary Characters:** 
 
 **Key Points:**
 - Mary, the daughter of David, is betrothed to Joseph, also a descendant of David, establishing their connection to the royal lineage.
@@ -1196,7 +1168,7 @@ Adrâmî arrives in Rômê, marries the king's daughter, and impresses with his 
 
 ## Chapter 73: First Judgment of ’Adrâmî, King of Rômê ##
 
-**Primary Character: ’Adrâmî**
+**Primary Character:** ’Adrâmî
 
 **Summary:**
 King ’Adrâmî demonstrates wisdom in his judgment regarding a vineyard dispute. He decrees that the ownership of the sheep will depend on the extent of damage caused to the vineyard. Impressed by his fairness, Balṭâsâr and the people of Rômê acknowledge ’Adrâmî's just rule and proclaim him as their king. Balṭâsâr falls ill and entrusts ’Adrâmî with the kingdom, leading to his succession as the ruler of Rômê by the Will of God.
@@ -1210,12 +1182,10 @@ King ’Adrâmî demonstrates wisdom in his judgment regarding a vineyard disput
 
 ## Chapter 74: King of Medyâm ##
 
-**Primary Character: Esau**
-
 **Summary:**
-The king of Medyâm traces his lineage back to Shem. The narrative delves into the story of Esau, the brother of Jacob, who lost his birthright to Jacob for a mere meal of lentils. Esau's kingdom was named "Edom," reflecting his contemptible nature, as "Edom" means "lentils." The descendants of Esau were known as "Edomites" due to this event, where Esau's greed led him to forfeit his birthright from the seed of Shem.
+*The king of Medyâm traces his lineage back to Shem. The narrative delves into the story of Esau, the brother of Jacob, who lost his birthright to Jacob for a mere meal of lentils. Esau's kingdom was named "Edom," reflecting his contemptible nature, as "Edom" means "lentils." The descendants of Esau were known as "Edomites" due to this event, where Esau's greed led him to forfeit his birthright from the seed of Shem. The text emphasizes the importance of temperance in controlling one's desires, as the soul's unchecked cravings can lead to the body's downfall. It contrasts the struggle between the soul and the body, highlighting the need for self-restraint to align with Christ-like behavior. Christ is portrayed as the ideal example, with his disciples urged to forsake worldly desires and walk in the Spirit to perform mighty deeds and overcome the power of the Enemy.*
 
-The text emphasizes the importance of temperance in controlling one's desires, as the soul's unchecked cravings can lead to the body's downfall. It contrasts the struggle between the soul and the body, highlighting the need for self-restraint to align with Christ-like behavior. Christ is portrayed as the ideal example, with his disciples urged to forsake worldly desires and walk in the Spirit to perform mighty deeds and overcome the power of the Enemy.
+**Primary Character:** Esau
 
 **Key Points:**
 - Esau, from the seed of Isaac, lost his birthright to Jacob due to his greed for a simple meal.
@@ -1226,12 +1196,10 @@ The text emphasizes the importance of temperance in controlling one's desires, a
 
 ## Chapter 75: King of Babylon ##
 
-**Primary Character: Karmîn**
-
 **Summary:**
-The King of Babylon is revealed to be of the seed of Shem through the story of a man named Karmîn. Karmîn, a devout man from the kingdom of Manasseh in Israel, was known for his fear of God, generosity to the poor, and sincerity in his offerings to the house of God. He was upright in all his ways and had amassed great wealth in camels, horses, sheep, cattle, gold, silver, and fine apparel.
+*The King of Babylon is revealed to be of the seed of Shem through the story of a man named Karmîn. Karmîn, a devout man from the kingdom of Manasseh in Israel, was known for his fear of God, generosity to the poor, and sincerity in his offerings to the house of God. He was upright in all his ways and had amassed great wealth in camels, horses, sheep, cattle, gold, silver, and fine apparel. Satan, envious of Karmîn's righteousness and prosperity, plotted against him. Despite being from the land of Judah, Karmîn moved to ’Armâtêm in Israel due to his love for wealth. His wealth and influence led the governors of Judah to allow him to settle there, fearing his power and possessions.*
 
-Satan, envious of Karmîn's righteousness and prosperity, plotted against him. Despite being from the land of Judah, Karmîn moved to ’Armâtêm in Israel due to his love for wealth. His wealth and influence led the governors of Judah to allow him to settle there, fearing his power and possessions.
+**Primary Character:** Karmîn
 
 **Key Points:**
 - Karmîn, a righteous and wealthy man from the kingdom of Manasseh in Israel, is highlighted.
@@ -1242,8 +1210,6 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 76: Concerning Lying Witnesses ##
 
-**Primary Characters: Benyâs, Karmîn, Zaryôs, Kârmêlôs, Balâ‘ôn, Nebuchadnezzar
-
 **Summary:**
 - Benyâs, a man from the seed of Benjamin, conspires with envious neighbors against Karmîn, a wealthy and righteous man, by falsely accusing him of blasphemy against the King of Israel.
 - Benyâs, along with false witnesses Zaryôs and Kârmêlôs, fabricate a story to incriminate Karmîn before the King of Israel.
@@ -1251,6 +1217,8 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 - An angel warns Karmîn to flee, and he escapes with his family and riches to Babylon, where he finds favor with King Balâ‘ôn.
 - The false witnesses are killed in Karmîn's house, and a series of events involving the wives of Balâ‘ôn and a merchant, including the birth of Nebuchadnezzar, reveal the lineage of the King of Babylon from the seed of Shem.
 - Nebuchadnezzar's reign over Babylon, his arrogance, idol worship, and subsequent repentance and restoration by God are highlighted, establishing his lineage's eternal connection to the kingdom of Babylon.
+
+**Primary Characters:** Benyâs, Karmîn, Zaryôs, Kârmêlôs, Balâ‘ôn, Nebuchadnezzar
 
 **Key Points:**
 - Conspiracy against Karmîn leads to false accusations and his escape to Babylon.
@@ -1261,14 +1229,14 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 77: Concerning the King of Persia ##
 
-**Primary Characters: Judah, Tamar, Fârês (Perez), Zârâ
-
 **Summary:**
 - Judah, of the seed of Shem, had two sons. He arranged for Tamar, his daughter-in-law, to marry his younger son after the elder son died childless.
 - The younger son refused to fulfill his duty to raise up seed for his brother and was slain by God for his disobedience.
 - Tamar, left as a widow, later disguised herself as a harlot and tricked Judah into a relationship, resulting in her conception of twins, Fârês (Perez) and Zârâ.
 - When Tamar's pregnancy was discovered, Judah intended to have her stoned for adultery until she presented his staff, ring, and cap as evidence of his involvement.
 - Judah acknowledged Tamar's righteousness, and she gave birth to Fârês, from whom the Persians descended, establishing the lineage of the King of Persia from the seed of Shem.
+
+**Primary Characters:** Judah, Tamar, Fârês (Perez), Zârâ
 
 **Key Points:**
 - Tamar's actions with Judah led to the birth of Fârês, from whom the Persians descended.
@@ -1279,13 +1247,13 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 78: Concerning the King of Moab ##
 
-**Primary Characters: Abraham, Lot, ’Aḳmâbâ, Moab
-
 **Summary:**
 - Lot, the nephew of Abraham and of the seed of Shem, settled in Sodom and Gomorrah.
 - When God destroyed Sodom and Gomorrah due to their wickedness, He sent Angels to rescue Lot and his family. Lot's wife turned back and turned into a pillar of salt as a consequence.
 - Lot and his daughters escaped to the mountains of Ararat. His daughters, fearing they would have no offspring, made Lot drunk and had relations with him to conceive children.
 - The elder daughter bore a son named Moab, meaning "From my father on my knee," who became the father of the Moabites and Agarenes, establishing the lineage of the King of Moab from the seed of Shem.
+
+**Primary Characters:** Abraham, Lot, ’Aḳmâbâ, Moab
 
 **Key Points:**
 - Lot's daughters' actions with their father led to the birth of Moab, the ancestor of the Moabites and Agarenes.
@@ -1296,12 +1264,12 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 79: Concerning the King of Amalek ##
 
-**Primary Characters: Lot, Ammon
-
 **Summary:**
 - After the elder daughter of Lot bore Moab, the younger daughter conspired with her to make Lot drink wine and lay with him to conceive offspring.
 - The younger daughter bore a son named Ammon, who became the father of the Amalekites.
 - This lineage traces the King of Amalek back to Lot and his daughters, establishing his connection to the seed of Shem.
+
+**Primary Characters:** Lot, Ammon
 
 **Key Points:**
 - Lot's younger daughter's actions with her father led to the birth of Ammon, the ancestor of the Amalekites.
@@ -1312,13 +1280,13 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 80: Concerning the King of the Philistines ##
 
-**Primary Characters: Samson, Delilah, Menahem, Maksâbâ
-
 **Summary:**
 - Samson, of the seed of Dan and a Nazarite, was destined to deliver Israel from the Philistines but transgressed God's commands by marrying a Philistine woman.
 - Samson's strength, exploits, and downfall at the hands of the Philistines are detailed, including his relationship with Delilah and the birth of their son Menahem.
 - Delilah, sister of Maksâbâ, the wife of the King of the Philistines, bears Menahem after Samson's death.
 - Maksâbâ and Delilah, both pregnant widows, form a close bond and raise their sons together, with Maksâbâ's son eventually becoming king of the Philistines.
+
+**Primary Characters:** Samson, Delilah, Menahem, Maksâbâ
 
 **Key Points:**
 - Samson's actions, downfall, and the birth of his son Menahem are intertwined with the history of the Philistines.
@@ -1329,14 +1297,14 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 81: How the son of Samson slew the son of the King of the Philistines ##
 
-**Primary Characters: Akamḥêl, Ṭebrêlês, Delilah, Maksâbâ
-
 **Summary:**
 - Akamḥêl, the son of Samson, desires to be king and challenges Ṭebrêlês, the son of Maksâbâ, the King of the Philistines.
 - During a meal, a dispute arises between Akamḥêl and Ṭebrêlês over food, leading to Akamḥêl killing Ṭebrêlês with a sword.
 - Fear and tension grip the mothers, Delilah and Maksâbâ, as they witness the violent act.
 - Delilah attempts to avenge Ṭebrêlês by attacking Akamḥêl, but Maksâbâ intervenes and persuades Akamḥêl to take the throne instead.
 - Akamḥêl becomes the new king of the Philistines, and his reign is marked by obedience and control over the kingdom.
+
+**Primary Characters:** Akamḥêl, Ṭebrêlês, Delilah, Maksâbâ
 
 **Key Points:**
 - Akamḥêl's violent act leads to him ascending to the throne of the Philistines, succeeding Ṭebrêlês.
@@ -1347,13 +1315,13 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 82: Concerning the going down of Abraham into Egypt ##
 
-**Primary Characters: Abraham, Sârâh, Pharaoh, Ishmael, Hagar
-
 **Summary:**
 - Abraham and Sârâh, lacking a son, journey to Egypt during a famine. To protect Abraham from harm due to Sârâh's beauty, they agree to say she is his sister.
 - Pharaoh desires Sârâh and takes her to be his wife, but an Angel of the Lord intervenes, causing Pharaoh to return Sârâh to Abraham with gifts.
 - Upon returning, Sârâh suggests Abraham conceive a child with her handmaiden Hagar, leading to the birth of Ishmael.
 - Later, Isaac is born to Sârâh, causing tension between Ishmael and Isaac. God instructs Abraham to send away Hagar and Ishmael, promising to make Ishmael a great nation and establish His covenant with Isaac.
+
+**Primary Characters:** Abraham, Sârâh, Pharaoh, Ishmael, Hagar
 
 **Key Points:**
 - Abraham's journey to Egypt, the deception about Sârâh, and the intervention of the Angel of the Lord showcase divine protection and guidance.
@@ -1386,6 +1354,8 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 - Queen Mâkĕdâ spreads the news throughout the land, commanding the people to meet her son and the heavenly Zion with great rejoicing and preparation.
 - The people of Ethiopia, from soldiers to civilians, rejoice and prepare to welcome their King and the heavenly Zion, as they gather in the city of the Government, later known as Dabra Mâkĕdâ.
 
+**Primary Character:** 
+
 **Key Points:**
 - The return of the King of Ethiopia is met with celebration, joy, and preparation throughout the land.
 - The Queen and the people of Ethiopia eagerly await the arrival of the King and the heavenly Zion, symbolizing a significant event in their history.
@@ -1403,6 +1373,8 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 - Queen Mâkedâ's reign extends from the Sea of ’Alêbâ to the Sea of ’Osêkâ, with unparalleled honor, riches, and authority, surpassing all before and after her.
 - Both Queen Mâkedâ in Ethiopia and King Solomon in Jerusalem are noted for their wisdom, glory, riches, and other virtues, with prosperity and abundance characterizing their rule.
 
+**Primary Character:** 
+
 **Key Points:**
 - Queen Mâkedâ's encounter with the heavenly Zion leads to a grand celebration and expressions of gratitude and joy.
 - The prosperity and opulence of Queen Mâkedâ's reign, along with King Solomon's rule, reflect a time of abundance, wisdom, and divine favor.
@@ -1417,6 +1389,8 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 - She handed over seventeen thousand and seven hundred chosen horses, seven thousand and seven hundred mares, one thousand female mules, and seven hundred chosen mules for military purposes and royal use.
 - Additionally, Queen Mâkĕdâ provided her son with apparel of honor, gold, silver, and other riches, measured by specific units like the *gômôr* and the *ḳôr*.
 - By giving him everything that was rightfully his and the throne of her kingdom, Queen Mâkĕdâ officially established her son as the King of Ethiopia.
+
+**Primary Character:** 
 
 **Key Points:**
 - Queen Mâkĕdâ's act of delivering horses, mules, and valuable possessions symbolized the transfer of power and authority to her son, David.
@@ -1434,6 +1408,8 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 - The people of Ethiopia, inspired by the presence of Zion, the Tabernacle of the Law of God, turn away from idolatry, embrace righteousness, justice, repentance, and worship of the true God.
 - Queen Mâkĕdâ officially hands over the kingdom to her son David, acknowledging him as the chosen King by God and entrusting him with the responsibility of upholding the covenant and the law of God.
 
+**Primary Character:** 
+
 **Key Points:**
 - The nobles of Ethiopia swear an oath to uphold the succession of the male seed of David as kings and to refrain from appointing women as queens.
 - The appointment of spiritual leaders and the renewed commitment to the Law of God signify a spiritual revival and a return to righteousness and worship of the true God.
@@ -1443,9 +1419,10 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 88: How King David related to his mother how they made him King ##
 
-**Primary Character:** King David
+**Summary:** 
+*King David recounts the sacred ceremony where the priest imparted God's commandments and the laws written before King Solomon, guiding them in ruling justly. Queen Mâkĕdâ advises him to walk in God's ways and follow the guidance of His word for blessings and protection.*
 
-**Summary:** King David recounts the sacred ceremony where the priest imparted God's commandments and the laws written before King Solomon, guiding them in ruling justly. Queen Mâkĕdâ advises him to walk in God's ways and follow the guidance of His word for blessings and protection.
+**Primary Character:** King David
 
 **Key Points:**
 - The people of Ethiopia commit to upholding justice and judgment after hearing the commandments.
@@ -1456,9 +1433,10 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 89: The Queen's Address to the Children of Israel ##
 
-**Primary Character:** Queen Mâkĕdâ
+**Summary:** 
+*Queen Mâkĕdâ addresses the Children of Israel, acknowledging their role as guardians of the Law of God and guides of His commandments. She expresses a deep desire to follow wisdom and righteousness, seeking God's guidance and blessings for herself and her people.*
 
-**Summary:** Queen Mâkĕdâ addresses the Children of Israel, acknowledging their role as guardians of the Law of God and guides of His commandments. She expresses a deep desire to follow wisdom and righteousness, seeking God's guidance and blessings for herself and her people.
+**Primary Character:** Queen Mâkĕdâ
 
 **Key Points:**
 - Queen Mâkĕdâ shows reverence for the wisdom and understanding found in God's commandments, seeking to follow them faithfully.
@@ -1482,9 +1460,10 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 91: Dietary Laws and Wisdom ##
 
-**Primary Character:** Azariah
+**Summary:** 
+*Azariah explains dietary laws to Queen Mâkĕdâ, praising her wisdom and leadership in upholding God's commandments and guiding her people towards righteousness and understanding.*
 
-**Summary:** Azariah explains dietary laws to Queen Mâkĕdâ, praising her wisdom and leadership in upholding God's commandments and guiding her people towards righteousness and understanding.
+**Primary Character:** Azariah
 
 **Key Points:**
 - Azariah distinguishes between clean and unclean animals for consumption, emphasizing the importance of following God's dietary laws.
@@ -1508,9 +1487,10 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 93: Destruction of the Faith by the Men of Rômê ##
 
-**Primary Character:** Not specified
+**Summary:** 
+*The chapter recounts how the men of Rômê (Rome) initially held the Christian Faith in an orthodox manner but later succumbed to corruption and heresy introduced by figures like Nestorius, Arius, and Yabâsô. The narrative condemns the deviation from the true Faith and reaffirms belief in the Holy Trinity and the redemption brought by Jesus Christ.*
 
-**Summary:** The chapter recounts how the men of Rômê (Rome) initially held the Christian Faith in an orthodox manner but later succumbed to corruption and heresy introduced by figures like Nestorius, Arius, and Yabâsô. The narrative condemns the deviation from the true Faith and reaffirms belief in the Holy Trinity and the redemption brought by Jesus Christ.
+**Primary Character:** Not specified
 
 **Key Points:**
 - The men of Rômê initially believed in the Christian Faith but were led astray by heresy introduced by individuals like Nestorius.
@@ -1534,9 +1514,10 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 95: Acceptance of the Honourable Estate of the King of Ethiopia ##
 
-**Primary Character:** Not specified
+**Summary:** 
+*The chapter discusses the exalted status of the King of Ethiopia, highlighting his connection to Zion, the firstborn of the seed of Shem. It recounts the rejection of Jesus Christ by the wicked children of Israel, His crucifixion, resurrection, and ascension into heaven. The narrative emphasizes the faith of the people of Ethiopia and their acceptance of Christ, contrasting it with the disbelief of others.*
 
-**Summary:** The chapter discusses the exalted status of the King of Ethiopia, highlighting his connection to Zion, the firstborn of the seed of Shem. It recounts the rejection of Jesus Christ by the wicked children of Israel, His crucifixion, resurrection, and ascension into heaven. The narrative emphasizes the faith of the people of Ethiopia and their acceptance of Christ, contrasting it with the disbelief of others.
+**Primary Character:** Not specified
 
 **Key Points:**
 - The King of Ethiopia is esteemed as honorable, being associated with Zion and the seed of Shem.
@@ -1548,9 +1529,10 @@ Satan, envious of Karmîn's righteousness and prosperity, plotted against him. D
 
 ## Chapter 96: Prophecy about Christ ##
 
-**Primary Characters:** Moses, Abraham, Isaac, Eve, Mary, Ezekiel
+**Summary:** 
+*The chapter delves into various prophecies and symbols related to Christ within the context of biblical figures and events. Moses' prophecy about a prophet like himself, the symbolism of the brass serpent, and the rejection of Christ by the children of Israel are discussed. The sacrifice of Isaac by Abraham is interpreted as a prefiguration of Christ's sacrifice, emphasizing the redemption brought by Christ's death and resurrection. The significance of Mary, Eve, and other biblical figures in relation to Christ's redemptive work is also explored.*
 
-**Summary:** The chapter delves into various prophecies and symbols related to Christ within the context of biblical figures and events. Moses' prophecy about a prophet like himself, the symbolism of the brass serpent, and the rejection of Christ by the children of Israel are discussed. The sacrifice of Isaac by Abraham is interpreted as a prefiguration of Christ's sacrifice, emphasizing the redemption brought by Christ's death and resurrection. The significance of Mary, Eve, and other biblical figures in relation to Christ's redemptive work is also explored.
+**Primary Characters:** Moses, Abraham, Isaac, Eve, Mary, Ezekiel
 
 **Key Points:**
 - Moses prophesied about a prophet like himself, referring to Christ, and foretold His Crucifixion and the consequences of belief or disbelief in Him.
