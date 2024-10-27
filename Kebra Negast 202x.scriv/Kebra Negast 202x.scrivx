@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-26 17:26:11 -0700" ModID="BC70A2B1-DC92-43F3-B614-100B446C20C3">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-26 18:25:55 -0700" ModID="EC633434-C4C6-4CD9-A9B3-2DC823F3D5AB">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1381,13 +1381,13 @@
                         <SelectedSubdocumentUUIDs>536F384E-3EA4-4475-844F-23E724385FBE</SelectedSubdocumentUUIDs>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C" Type="Text" Created="2024-09-27 13:41:11 -0700" Modified="2024-09-28 15:02:00 -0700">
+                        <BinderItem UUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C" Type="Text" Created="2024-09-27 13:41:11 -0700" Modified="2024-10-26 18:25:55 -0700">
                             <Title>A List of the Passages from the Old and New Testaments, Quoted or Referred to in the Kebra Nagast</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4139,0</TextSelection>
+                                <TextSelection>6039,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="2D874845-5CD7-4A9B-879F-5886DECA610B"/>
@@ -1444,7 +1444,7 @@
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,66</TextSelection>
+                                <TextSelection>66,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1650,11 +1650,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-10-27 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-10-26 17:26:09 -0700"/>
+        <PreviousSession Words="-166" Characters="441" Date="2024-10-26 17:26:09 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-10-26 00:00:00 -0700">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>-166</DraftWordCount>
+        <DraftCharCount>441</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
