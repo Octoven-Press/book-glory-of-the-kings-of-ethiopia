@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-27 13:37:59 -0700" ModID="593925C7-F62A-469D-A37E-30446CC4B625">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-27 14:46:21 -0700" ModID="722E73F9-A9A0-4A45-BE8F-7AD2BF09DB06">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -64,6 +64,7 @@
                             <Title>Preface to the 202x edition</Title>
                             <MetaData>
                                 <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -1373,6 +1374,7 @@
                     <Title>Appendices</Title>
                     <MetaData>
                         <SectionType>8D4EAAB7-E0A3-4010-83A3-90610A5651FF</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -1384,6 +1386,7 @@
                         <BinderItem UUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C" Type="Text" Created="2024-09-27 13:41:11 -0700" Modified="2024-10-26 18:25:55 -0700">
                             <Title>A List of the Passages from the Old and New Testaments, Quoted or Referred to in the Kebra Nagast</Title>
                             <MetaData>
+                                <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -1397,6 +1400,7 @@
                             <Title>Known history and variations of the Kəbrä Nägäśt texts</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>3419,0</TextSelection>
@@ -1406,6 +1410,7 @@
                             <Title>Recommended reading</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,47</TextSelection>
@@ -1415,6 +1420,7 @@
                             <Title>Visual timeline</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>3340,0</TextSelection>
@@ -1424,6 +1430,7 @@
                             <Title>Family tree</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -1433,6 +1440,7 @@
                             <Title>Organization models</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>625,0</TextSelection>
@@ -1442,6 +1450,7 @@
                             <Title>Map</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>66,0</TextSelection>
