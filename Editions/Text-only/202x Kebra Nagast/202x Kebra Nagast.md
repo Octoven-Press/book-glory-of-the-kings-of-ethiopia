@@ -3,6 +3,24 @@ Being the history of the departure of God & his Ark of the Covenant from Jerusal
 
 Now first published with 31 illustrations from Ethiopic MSS. in the British Museum by the [Medici Society, Limited](https://www.medici.co.uk/), London, Liverpool, and Boston, Mass., MCMXXII.
 
+## Preface to the 202x edition ##
+
+
+
+### Why a new version? ###
+A number of freely available copies of this manuscript exist online (and served as this editor’s initial exposure), as well as a series of editions in print form, so it’s reasonable to ask why a new edition is needed. 
+
+
+### Why a new version based off Budge’s known faulty translation? ###
+
+
+
+ 
+### Why a version from a white American who has no known connections to Ethiopia? ###
+
+
+
+
 ## Preface to the 1922 edition ##
 
 This volume contains a complete English translation of the famous Ethiopian work, The “Kebra Nagast,” *i.e.* the “Glory of the Kings [of Ethiopia].” This work has been held in peculiar honour in Abyssinia for several centuries, and throughout that country it has been, and still is, venerated by the people as containing the final proof of their descent from the Hebrew Patriarchs, and of the kinship of their kings of the Solomonic line with Christ, the Son of God. The importance of the book, both for the kings and the people of Abyssinia, is clearly shown by the letter that King John of Ethiopia wrote to the late Lord Granville in August, 1872. The king says: “There is a book called ‘Kivera Negust’ which contains the Law of the whole of Ethiopia, and the names of the Shûms [*i.e.* Chiefs], and Churches, and Provinces are in this book. I pray you find out who has got this book, and send it to me, for in my country my people will not obey my orders without it.” (See *infra*, p. xxvii.) The first summary of the contents of the Kebra Nagast was published by Bruce as far back as 1813, but little interest was roused by his somewhat bald précis. And, in spite of the labours of Prætorius, Bezold, and Hugues le Roux, the contents of the work are still practically unknown to the general reader in England. It is hoped that the translation given in the following pages will be of use to those who have not the time or opportunity for perusing the Ethiopic original.
@@ -53,7 +71,7 @@ The Chapters of the Kĕbra Nagast
 8. The Flood
 9. The Covenant of Noah
 10. Concerning Zion
-11. Declaration of the Three Hundred and Eighteen Orthodox Fathers
+11. Declaration of the 318 Orthodox Fathers
 12. Canaan
 13. Abraham
 14. The Covenant of Abraham
@@ -71,17 +89,17 @@ The Chapters of the Kĕbra Nagast
 26. The Conversation of Solomon with the Queen of Ethiopia
 27. Solomon and the Workman
 28. Solomon’s Instructions to the Queen
-29. The Three Hundred and Eighteen Patriarchs—Narrative of Solomon and the Queen—continued
+29. The 318 Patriarchs—Narrative of Solomon and the Queen—continued
 30. Solomon’s Oath to the Queen of Ethiopia
 31. Solomon’s Sign to the Queen of Ethiopia
-32. The Queen brings forth her son Bayna-Leḥkem
-33. Bayna-Leḥkem sets out for Jerusalem
-34. Bayna-Leḥkem arrived in Gâzâ
-35. Solomon makes Bayna-Leḥkem Captain of his Host
-36. Solomon’s Conversation with Bayna-Leḥkem
-37. Solomon questions his son Bayna-Leḥkem
-38. Solomon decides to send Bayna-Leḥkem away with the eldest sons of his nobles
-39. Bayna-Leḥkem (*i.e.* Menyelek) is anointed King of Ethiopia, and is called David (II)
+32. The Queen brings forth her son Menyelek
+33. Menyelek sets out for Jerusalem
+34. Menyelek arrived in Gâzâ
+35. Solomon makes Menyelek Captain of his Host
+36. Solomon’s Conversation with Menyelek
+37. Solomon questions his son Menyelek
+38. Solomon decides to send Menyelek away with the eldest sons of his nobles
+39. Menyelek is anointed King of Ethiopia, and is called David (II)
 40. Zadok’s Commands to David (II)
 41. The Blessing of Kings
 42. The Ten Commandments
@@ -126,18 +144,18 @@ The Chapters of the Kĕbra Nagast
 81. How Akamḥêl, the son of Samson, slew Ṭebrêlês, the son of the King of the Philistines
 82. Abraham’s journey into Egypt
 83. The King of the Ishmaelites
-84. How Bayna-Leḥkem (David II) returned to Ethiopia
+84. How Menyelek returned to Ethiopia
 85. How Queen Mâkĕdâ rejoiced at his coming
 86. How Queen Mâkĕdâ made her son King of Ethiopia
 87. How the Ethiopian Nobles swore fidelity to him
-88. Bayna-Leḥkem describes to his Mother his anointing as King
+88. Menyelek describes to his Mother his anointing as King
 89. Queen Mâkĕdâ’s Address to the Israelites in Ethiopia
 90. How Azariah praised the Queen and her Royal City
 91. Regulations about Meats, clean and unclean
-92. How the Kingdom of Bayna-Leḥkem (David II) was established in Ethiopia
-93. How the Men of Rômê (Byzantium) destroyed the Faith
-94. The First War of Bayna-Leḥkem (David II)
-95. How the Authority of Bayna-Leḥkem was universally accepted
+92. How the Kingdom of Menyelek was established in Ethiopia
+93. How the Men of Byzantium destroyed the Faith
+94. The First War of Menyelek
+95. How the Authority of Menyelek was universally accepted
 96. The Prophecies concerning Christ
 97. The Murmuring of the Israelites against Moses and Aaron
 98. The Rod of Moses and the Rod of Aaron
@@ -321,6 +339,7 @@ The chariot containing Zion, *i.e.* the vehicle on which the Tabernacle of the L
 # The Glory of Kings #
 In praising God the Father, the Sustainer of the Universe, and His Son Jesus Christ, through Whom everything came into being, and without Whom nothing came into being, and the Holy Triune Spirit, the Paraclete, Who goeth forth from the Father, and deriveth from the Son, we believe in and adore the Trinity, one God, the Father, and the Son, and the Holy Spirit.
 
+
 ## 1. Concerning the Glory of Kings ##
 
 The interpretation and explanation of the Three Hundred and Eighteen Orthodox [Fathers] concerning splendour, and greatness, and dignity, and how God gave them to the children of Adam, and especially concerning the greatness and splendour of Zion, the Tabernacle (*tâbôt*) of the Law of God, of which He Himself is the Maker and Fashioner, in the fortress of His holiness before all created things, [both] angels and men. For the Father, and the Son, and the Holy Spirit with good fellowship and right good will and cordial agreement together made the Heavenly Zion to be the place of habitation of their Glory. And then the Father, and the Son, and the Holy Spirit said, “Let Us make man in Our similitude and likeness,”[^fn30] and with ready agreement and good will They were all of this opinion. And the Son said, “I will put on the body of Adam,” and the Holy Spirit said, “I will dwell in the heart[s] of the Prophets and the Righteous”; and this common agreement and covenant was [fulfilled] in Zion, the City of their Glory.
@@ -329,26 +348,32 @@ And David said, “Remember Thine agreement which Thou didst make of old for sal
 
 And He made Adam in His own image and likeness, so that He might remove Satan because of his pride, together with his host, and might establish Adam—His own plant—together with the righteous, His children, for His praises. For the plan of God was decided upon and decreed in that He said, “I will become man, and I will be in everything which I have created, I will abide in flesh.” And in the days that came after, by His good pleasure there was born in the flesh of the Second Zion the second Adam, Who was our Saviour Christ. This is our glory and our faith, our hope and our life, the Second Zion.[^fn32]
 
+
 ## 2. Concerning the Greatness of Kings ##
 
 Come then, let us go back, and let us consider, and let us begin [to state] which of the kings of the earth, from the first even unto the last, in respect of the Law and the Ordinances and honour and greatness, we should magnify or decry.
 Gregory, the worker of wonders and miracles,[^fn33] who was cast into a cave because of [his] love for the martyrdom of Christ and suffered tribulation for fifteen years, said, “When I was in the pit I pondered over this matter, and over the folly of the Kings of Armenia, and I said, In so far as I can conceive it, [in] what doth the greatness of kings [consist]? Is it in the multitude of soldiers, or in the splendour of worldly possessions, or in extent of rule over cities and towns? This was my thought each time of my prayer, and my thought stirred me again and again to meditate upon the greatness of kings. And now I will begin.”
 
+
 ## 3. Concerning the Kingdom of Adam ##
 
 And I go up from Adam and I say, God is King in truth, for Him praise is meet, and He appointed under Him Adam to be king over all that He had created. And He drove him out of the Garden, because of his apostasy through the sin of the Serpent and the plotting of the Devil. And at that sorrowful moment Cain was born, and when Adam saw that the face of Cain was ill-tempered (or, sullen) and his appearance evil he was sad. And then Abel was born, and when Adam saw that his appearance was good and his face good-tempered he said, “This is my son, the heir of my kingdom.”
 
+
 ## 4. Concerning Envy ##
 
-And when they had grown up together, Satan had envy of him, and he cast this envy into the heart of Cain, who was envious [of Abel] first, because of the words of his father Adam, who said, “He who hath the good-tempered face shall be the heir of my kingdom”; and secondly, because of his sister with the beautiful face, who was born with him and who had been given unto Abel, even as God commanded them to multiply and fill the earth—now the face of the sister who had been born with Abel resembled that of Cain, and their father had transferred them (*i.e.*, the two sisters) when giving them [in marriage];—and thirdly, because when the two [brothers] offered up sacrifice, God accepted the offering of Abel and rejected the offering of Cain. And because of this envy Cain killed Abel. Thus fratricide was first created through Satan’s envy of the children of Adam. And having killed his brother, Cain fell into a state of trembling and horrible fright, and he was repulsed by his father and his Lord. And [then] Seth was born, and Adam looked upon him and said, “Now hath God shown compassion upon me, and He hath given unto me the light of my face. In sorrowful remembrance I will console myself (?) with him. The name of him that shall slay my heir shall be blotted out, even to his ninth generation.”
+And when they had grown up together, Satan had envy of him, and he cast this envy into the heart of Cain, who was envious [of Abel] first, because of the words of his father Adam, who said, “He who hath the good-tempered face shall be the heir of my kingdom”; and secondly, because of his sister with the beautiful face, who was born with him and who had been given unto Abel, even as God commanded them to multiply and fill the earth—now the face of the sister who had been born with Abel resembled that of Cain, and their father had transferred the two sisters when giving them in marriage;—and thirdly, because when the two brothers offered up sacrifice, God accepted the offering of Abel and rejected the offering of Cain. And because of this envy Cain killed Abel. Thus fratricide was first created through Satan’s envy of the children of Adam. And having killed his brother, Cain fell into a state of trembling and horrible fright, and he was repulsed by his father and his Lord. And then Seth was born, and Adam looked upon him and said, “Now hath God shown compassion upon me, and He hath given unto me the light of my face. In sorrowful remembrance I will console myself with him. The name of him that shall slay my heir shall be blotted out, even to his ninth generation.”
+
 
 ## 5. Concerning the Kingdom of Seth ##
 
-And Adam died, and Seth reigned in righteousness. And Seth died, and Hênôs (Enos) reigned. And Hênôs (Enos) died, and Ḳâynân (Cainan) reigned. And Ḳâynân (Cainan) died, and Malâl’êl (Mahalaleel) reigned. And Malâl’êl (Mahalaleel) died, and Yârôd (Jared) reigned. And Yârôd died, and Hênôkh (Enoch) reigned in righteousness, and he feared God, and [God] hid him so that he might not see death. And he became a king in his flesh in the Land of the Living. And after Enoch disappeared Mâtûsâlâ (Methuselah) reigned. And Mâtûsâlâ died, and Lâmêkh (Lamech) reigned. And Lâmêkh died, and Nôḥ (Noah) reigned in righteousness, and he pleased God in all his works.
+And Adam died, and Seth reigned in righteousness. And Seth died, and Enos reigned. And Enos died, and Cainan reigned. And Cainan died, and Mahalaleel reigned. And Mahalaleel died, and Jared reigned. And Jared died, and Enoch reigned in righteousness, and he feared God, and God hid him so that he might not see death. And he became a king in his flesh in the Land of the Living. And after Enoch disappeared Methuselah reigned. And Methuselah died, and Lamech reigned. And Lamech died, and Noah reigned in righteousness, and he pleased God in all his works.
+
 
 ## 6. Concerning the Sin of Cain ##
 
 And that accursed man Cain, the murderer of his brother, multiplied evil, and his seed did likewise, and they provoked God to wrath with their wickedness. They had not the fear of God before their eyes, and they never kept in mind that He had created them, and they never prayed to Him, and they never worshipped Him, and they never called upon Him, and they never rendered service to Him in fear; nay, they ate, and they drank, and they danced, and they played upon stringed instruments, and sang lewd songs thereto, and they worked uncleanness without law, without measure, and without rule. And the wickedness of the children of Cain multiplied, until at length in the greatness of their filthiness they introduced the seed of the ass into the mare, and the mule came into being, which God had not commanded—even like those who give their children who are believers unto those who deny God, and their offspring become the seed of the filthy Gomorraites, one half of them being of good and one half of them of evil seed. And as for those who do [this] wickedness, their judgment is ready, and their error in lasting.
+
 
 ## 7. Concerning Noah ##
 
@@ -368,7 +393,7 @@ And then Noah the righteous man died, and Shem reigned in wisdom and righteousne
 
 And the Archbishops who were there answered and said to the blessed Gregory, “Behold now, we understand clearly that before every created thing, even the angels, and before the heavens and the earth, and before the pillars of heaven, and the abysses of the sea, He created the Tabernacle of the Covenant, and this which is in heaven goeth about upon the earth.”
 
-## 11. The Unanimous Declaration of the Three Hundred and Eighteen Orthodox Fathers ##
+## 11. The Unanimous Declaration of the 318 Orthodox Fathers ##
 
 And they answered and said unto him, “Yea, verily the Tabernacle of the Covenant was the first thing to be created by Him, and there is no lie in thy word; it is true, and correct, and righteous, and unalterable. He created Zion before everything else to be the habitation of His glory, and the plan of His Covenant was that which He said, ‘I will put on the flesh of Adam, which is of the dust, and I will appear unto all those whom I have created with My hand and with My voice.’ And if it had been that the heavenly Zion had not come down, and if He had not put on the flesh of Adam, then God the Word would not have appeared, and our salvation would not have taken place. The testimony (or proof) is in the similitude; the heavenly Zion is to be regarded as the similitude of the Mother of the Redeemer, Mary. For in the Zion which is builded there are deposited the Ten Words of the Law which were written by His hands, and He Himself, the Creator, dwelt in the womb of Mary, and through Him everything came into being.”
 
@@ -390,7 +415,7 @@ And God held converse with Abrâm, and He said unto him, “Fear thou not. From 
 
 And Isaac his son became king, and he did not transgress the commandment of God; and he was pure in his soul and in his body, and he died in honour. And his son Jacob reigned, and he also did not transgress the commandment of God, and his possessions became numerous, and his children were many; and God blessed him and he died in honour.
 
-## 16. Concerning Rôbêl (Reuben) ##
+## 16. Concerning Reuben ##
 
 And after him, Jacob’s firstborn son transgressed the commandment of God, and the kingdom departed from him and from his seed, because he had defiled his father’s wife[^fn42]; now it is not right to transgress the law which God hath commanded. And his father cursed him, and God was wroth with him, and he became the least among his brethren, and his children became leprous and scabby; and although he was the firstborn son [of Jacob] the kingdom was rent from him.[^fn43] And his younger brother reigned, and he was called Judah because of this.[^fn44] And his seed was blessed, and his kingdom flourished, and his sons were blessed. And after him Fârês (Pharez) his son reigned. And he died and ’Isârôm (Hezron) his son reigned. And after him his son ’Orni (Oren[^fn45]?) reigned, and after him Arâm (Aram[^fn46]) his son reigned, and after him Amînâdâb his son reigned, and after him Nasôn (Naasson) his son reigned, and after him Sâlâ (Salmon?) his son reigned, and after him Bâ‘ôs (Boaz) his son reigned, and after him ’Iyûbêd (Obed) his son reigned, and after him Ĕ’sêy (Jesse) his son reigned. And this is what I say [concerning] the kingdom: The blessing of the father [was] on the son, so that it (*i.e.*, the kingdom) was blessed with prosperity. And as for the kingship over Israel, after the death of Jesse David reigned in righteousness, and in integrity, and in graciousness.
 
@@ -436,7 +461,7 @@ And each morning Tâmrîn related to the Queen [about] all the wisdom of Solomon
 
 All these things did Tâmrîn relate unto the Queen, and each morning he recalled the things that he had seen with the King and described them unto her. And the Queen was struck dumb with wonder at the things that she heard from the merchant her servant, and she thought in her heart that she would go to him; and she wept by reason of the greatness of her pleasure in those things that Tâmrîn had told her. And she was exceedingly anxious to go to him, but when she pondered upon the long journey she thought that it was too far and too difficult to undertake. And time after time she asked Tâmrîn questions about Solomon, and time after time Tâmrîn told her about him, and she became very wishful and most desirous to go that she might hear his wisdom, and see his face, and embrace him, and petition his royalty. And her heart inclined to go to him, for God had made her heart incline to go and had made her to desire it.
 
-## 24. How the Queen made ready to set out on her Journey ##
+## 24. How the Queen prepared for her Journey ##
 
 And the Queen said unto them, “Hearken, O ye who are my people, and give ye ear to my words. For I desire wisdom and my heart seeketh to find understanding. I am smitten with the love of wisdom, and I am constrained by the cords of understanding; for wisdom is far better than treasure of gold and silver, and wisdom is the best of everything that hath been created on the earth. Now unto what under the heavens shall wisdom be compared? It is sweeter than honey, and it maketh one to rejoice more than wine, and it illumineth more than the sun, and it is to be loved more than precious stones. And it fatteneth more than oil, and it satisfieth more than dainty meats, and it giveth [a man] more renown than thousands of gold and silver. It is a source of joy for the heart, and a bright and shining light for the eyes, and a giver of speed to the feet, and a shield for the breast, and a helmet for the head, and chain-work for the neck, and a belt for the loins. It maketh the ears to hear and hearts to understand, it is a teacher of those who are learned, and it is a consoler of those who are discreet and prudent, and it giveth fame to those who seek after it. And as for a kingdom, it cannot stand without wisdom, and riches cannot be preserved without wisdom; the foot cannot keep the place wherein it hath set itself without wisdom. And without wisdom that which the tongue speaketh is not acceptable. Wisdom is the best of all treasures. He who heapeth up gold and silver doeth so to no profit without wisdom, but he who heapeth up wisdom—no man can filch it from his heart. That which fools heap up the wise consume. And because of the wickedness of those who do evil the righteous are praised; and because of the wicked acts of fools the wise are beloved. Wisdom is an exalted thing and a rich thing: I will love her like a mother, and she shall embrace me like her child. I will follow the footprints of wisdom and she shall protect me for ever; I will seek after wisdom, and she shall be with me for ever; I will follow her footprints, and she shall not cast me away; I will lean upon her, and she shall be unto me a wall of adamant; I will seek asylum with her, and she shall be unto me power and strength; I will rejoice in her, and she shall be unto me abundant grace. For it is right for us to follow the footprints of wisdom, and for the soles of our feet to stand upon the threshold of the gates of wisdom. Let us seek her, and we shall find her; let us love her, and she will not withdraw herself from us; let us pursue her, and we shall overtake her; let us ask, and we shall receive; and let us turn our hearts to her so that we may never forget her. If [we] remember her, she will have us in remembrance; and in connection with fools thou shalt not remember wisdom, for they do not hold her in honour, and she doth not love them. The honouring of wisdom is the honouring of the wise man, and the loving of wisdom is the loving of the wise man. Love the wise man and withdraw not thyself from him, and by the sight of him thou shalt become wise; hearken to the utterance of his mouth, so that thou mayest become like unto him; watch the place whereon he hath set his foot, and leave him not, so that thou mayest receive the remainder of his wisdom. And I love him merely on hearing concerning him and without seeing him, and the whole story of him that hath been told me is to me as the desire of my heart, and like water to the thirsty man.”
 
@@ -448,13 +473,13 @@ And she arrived in Jerusalem, and brought to the King very many precious gifts w
 
 And Solomon was working at the building of the House of God, and he rose up and went to the right and to the left, and forward and backward. And he showed the workmen the measurement and weight and the space covered [by the materials], and he told the workers in metal how to use the hammer, and the drill, and the chisel(?), and he showed the stone-masons the angle [measure] and the circle and the surface [measure]. And everything was wrought by his order, and there was none who set himself in opposition to his word; for the light of his heart was like a lamp in the darkness, and his wisdom was as abundant as the sand. And of the speech of the beasts and the birds there was nothing hidden from him, and he forced the devils to obey him by his wisdom. And he did everything by means of the skill which God gave him when he made supplication to Him; for he did not ask for victory over his enemy, and he did not ask for riches and fame, but he asked God to give him wisdom and understanding whereby he might rule his people, and build His House, and beautify the work of God and all that He had given him [in] wisdom and understanding.
 
-## 26. How the King held converse with the Queen ##
+## 26. How the King engaged in conversation with the Queen ##
 
 And the Queen Mâkĕdâ spake unto King Solomon, saying, “Blessed art thou, my lord, in that such wisdom and understanding have been given unto thee. For myself I only wish that I could be as one of the least of thine handmaidens, so that I could wash thy feet, and hearken to thy wisdom, and apprehend thy understanding, and serve thy majesty, and enjoy thy wisdom. O how greatly have pleased me thy answering, and the sweetness of thy voice, and the beauty of thy going, and the graciousness of thy words, and the readiness thereof. The sweetness of thy voice maketh the heart to rejoice, and maketh the bones fat, and giveth courage to hearts, and goodwill and grace to the lips, and strength to the gait. I look upon thee and I see that thy wisdom is immeasureable and thine understanding inexhaustible, and that it is like unto a lamp in the darkness, and like unto a pomegranate in the garden, and like unto a pearl in the sea, and like unto the Morning Star among the stars, and like unto the light of the moon in the mist, and like unto a glorious dawn and sunrise in the heavens. And I give thanks unto Him that brought me hither and showed thee to me, and made me to tread upon the threshold of thy gate, and made me to hear thy voice.”
 
-And King Solomon answered and said unto her, “Wisdom and understanding spring from thee thyself. As for me, [I only possess them] in the measure in which the God of Israel hath given [them] to me because I asked and entreated them from Him. And thou, although thou dost not know the God of Israel, hast this wisdom which thou hast made to grow in thine heart, and [it hath made thee come] to see me, the vassal and slave of my God, and the building of His sanctuary which I am establishing, and wherein I serve and move round about my Lady, the Tabernacle of the Law of the God of Israel, the holy and heavenly Zion. Now, I am the slave of my God, and I am not a free man; I do not serve according to my own will but according to His Will. And this speech of mine springeth not from myself, but I give utterance only to what He maketh me to utter. Whatsoever He commandeth me that I do; wheresoever He wisheth me to go thither I go; whatsoever He teacheth me that I speak; that concerning which He giveth me wisdom I understand. For from being only dust He hath made me flesh, and from being only water He hath made me a solid man, and from being only an ejected drop, which shot forth upon the ground would have dried up on the surface of the earth, He hath fashioned me in His own likeness and hath made me in His own image.”
+And King Solomon answered and said unto her, “Wisdom and understanding spring from thee thyself. As for me, I only possess them in the measure in which the God of Israel hath given them to me because I asked and entreated them from Him. And thou, although thou dost not know the God of Israel, hast this wisdom which thou hast made to grow in thine heart, and [it hath made thee come] to see me, the vassal and slave of my God, and the building of His sanctuary which I am establishing, and wherein I serve and move round about my Lady, the Tabernacle of the Law of the God of Israel, the holy and heavenly Zion. Now, I am the slave of my God, and I am not a free man; I do not serve according to my own will but according to His Will. And this speech of mine springeth not from myself, but I give utterance only to what He maketh me to utter. Whatsoever He commandeth me that I do; wheresoever He wisheth me to go thither I go; whatsoever He teacheth me that I speak; that concerning which He giveth me wisdom I understand. For from being only dust He hath made me flesh, and from being only water He hath made me a solid man, and from being only an ejected drop, which shot forth upon the ground would have dried up on the surface of the earth, He hath fashioned me in His own likeness and hath made me in His own image.”
 
-## 27. Concerning the Labourer ##
+## 27. Concerning the Laborer ##
 
 And as Solomon was talking in this wise with the Queen, he saw a certain labourer carrying a stone upon his head and a skin of water upon his neck and shoulders, and his food and his sandals were [tied] about his loins, and there were pieces of wood in his hands; his garments were ragged and tattered, the sweat fell in drops from his face, and water from the skin of water dripped down upon his feet. And the labourer passed before Solomon, and as he was going by the King said unto him, “Stand still”; and the labourer stood still. And the King turned to the Queen and said unto her, “Look at this man. Wherein am I superior to this man? And in what am I better than this man? And wherein shall I glory over this man? For I am a man and dust and ashes, who to-morrow will become worms and corruption, and yet at this moment I appear like one who will never die. Who would make any complaint against God if He were to give unto this man as He hath given to me, and if He were to make me even as this man is? Are we not both of us beings, that is to say men? As is his death, [so] is my death; and as is his life [so] is my life. Yet this man is stronger to work than I am, for God giveth power to those who are feeble just as it pleaseth Him to do so.” And Solomon said unto the labourer, “Get thee to thy work.”
 
@@ -476,7 +501,7 @@ And when the Queen sent her message to Solomon, saying that she was about to dep
 
 Now those early peoples lived under the law of the flesh, for the grace of the Holy Spirit had not been given unto them. And to those [who lived] after Christ, it was given to live with one woman under the law of marriage. And the Apostles laid down for them an ordinance, saying, “All those who have received His flesh and His blood are brethren. Their mother is the Church and their father is God, and they cry out with Christ Whom they have received, saying, ‘Our Father, Who art in heaven.’” And as concerning Solomon no law had been laid down for him in respect of women, and no blame can be imputed to him in respect of marrying [many] wives. But for those who believe, the law and the command have been given that they shall not marry many wives, even as Paul saith, “Those who marry many wives seek their own punishment. He who marrieth one wife hath no sin.”[^fn54] And the law restraineth us from the sister[-in-law],[^fn55] in respect of the bearing of children. The Apostles speak [concerning it] in the [Book of] Councils.[^fn56]
 
-## 29. Concerning the Three Hundred and Eighteen [Patriarchs] ##
+## 29. Concerning the 318 Patriarchs ##
 
 Now we ordain even as did they. We know well what the Apostles who were before us spake. We the Three Hundred and Eighteen have maintained and laid down the orthodox faith, our Lord Jesus Christ being with us. And He hath directed us what we should teach, and how we should fashion the faith.
 
@@ -508,9 +533,9 @@ And the Queen rejoiced, and she went forth in order to depart, and the King set 
 
 And the Queen departed and came into the country of Bâlâ Zadîsârĕyâ nine months and five days after she had separated from King Solomon. And the pains of childbirth laid hold upon her, and she brought forth a man child, and she gave it to the nurse with great pride and delight. And she tarried until the days of her purification were ended, and then she came to her own country with great pomp and ceremony. And her officers who had remained there brought gifts to their mistress, and made obeisance to her, and did homage to her, and all the borders of the country rejoiced at her coming. Those who were nobles among them she arrayed in splendid apparel, and to some she gave gold and silver, and hyacinthine and purple robes; and she gave them all manner of things that could be desired. And she ordered her kingdom aright, and none disobeyed her command; for she loved wisdom and God strengthened her kingdom.
 
-And the child grew and she called his name Bayna-Leḥkem. And the child reached the age of twelve years, and he asked his friends among the boys who were being educated with him, and said unto them, “Who is my father?” And they said unto him, “Solomon the King.” And he went to the Queen his mother, and said unto her, “O Queen, make me to know who is my father.” And the Queen spake unto him angrily, wishing to frighten him so that he might not desire to go [to his father] saying, “Why dost thou ask me about thy father? I am thy father and thy mother; seek not to know any more.” And the boy went forth from her presence, and sat down. And a second time, and a third time he asked her, and he importuned her to tell him. One day, however, she told him, saying,  His country is far away, and the road thither is very difficult; wouldst thou not rather be here?” And the youth Bayna-Leḥkem was handsome, and his whole body and his members, and the bearing of his shoulders resembled those of King Solomon his father, and his eyes, and his legs, and his whole gait resembled those of Solomon the King. And when he was two and twenty years old he was skilled in the whole art of war and of horsemanship, and in the hunting and trapping of wild beasts, and in everything that young men are wont to learn. And he said unto the Queen, “I will go and look upon the face of my father, and I will come back here by the Will of God, the Lord of Israel.”
+And the child grew and she named him Menyelek. And the child reached the age of twelve years, and he asked his friends among the boys who were being educated with him, and said unto them, “Who is my father?” And they said unto him, “Solomon the King.” And he went to the Queen his mother, and said unto her, “O Queen, make me to know who is my father.” And the Queen spake unto him angrily, wishing to frighten him so that he might not desire to go [to his father] saying, “Why dost thou ask me about thy father? I am thy father and thy mother; seek not to know any more.” And the boy went forth from her presence, and sat down. And a second time, and a third time he asked her, and he importuned her to tell him. One day, however, she told him, saying,  His country is far away, and the road thither is very difficult; wouldst thou not rather be here?” And the youth Menyelek was handsome, and his whole body and his members, and the bearing of his shoulders resembled those of King Solomon his father, and his eyes, and his legs, and his whole gait resembled those of Solomon the King. And when he was two and twenty years old he was skilled in the whole art of war and of horsemanship, and in the hunting and trapping of wild beasts, and in everything that young men are wont to learn. And he said unto the Queen, “I will go and look upon the face of my father, and I will come back here by the Will of God, the Lord of Israel.”
 
-## 33. How the King of Ethiopia travelled ##
+## 33. How the King of Ethiopia traveled ##
 
 And the Queen called Tâmrîn, the chief of her caravan men and merchants, and she said unto him, “Get ready for thy journey and take this young man with thee, for he importuneth me by night and by day. And thou shalt take him to the King and shalt bring him back hither in safety, if God, the Lord of Israel, pleaseth.” And she prepared a retinue suitable to their wealth and honourable condition, and made ready all the goods that were necessary for the journey, and for presenting as gifts to the King, and all that would be necessary for ease and comfort by the way. And she made ready everything for sending him away, and she gave to the officers who were to accompany him such moneys as they would need for him and for themselves on the journey. And she commanded them that they were not to leave him there, but only to take him to the King, and then to bring him back again to her, when he should assume the sovereignty over her land.
 
@@ -538,9 +563,9 @@ And Joas (read Benaiah), the commander of the army of King Solomon, answered [sa
 
 And the son of the Queen rose up, and arrayed Joas (Benaiah), the son of Yôdâḥê, and the fifty men who were in his retinue, in gorgeous raiment, and they rose up to go to Jerusalem to Solomon the King. And when they came nigh unto the place where the horses were exercised and trained, Joas (Benaiah), the son of Yôdâḥê, went on in front, and came to the place where Solomon was, and he told him that [the son of the Queen] was well-favoured in his appearance, and that his voice was pleasant, and that he resembled him in form, and that his whole bearing was exceedingly noble. And the King said unto him, “Where is he? Did I not send thee forth to bring him as quickly as possible?” And Joas (Benaiah) said unto him, “He is here, I will bring him quickly.” And Joas (Benaiah) went and said unto the young man, “Rise up, O my master, and come”; and making Bayna Leḥkem to go quickly he brought him to the King’s Gate. And when all the soldiers saw him they made obeisance unto him, and they said, “Behold, King Solomon hath gone forth from his abode.” And when the men who were inside came forth, they marvelled, and they went back to their places, and again they saw the King upon his throne; and wondering they went forth again and looked at the young man, and they were incapable of speaking and of saying anything. And when Joas (Benaiah), the son of Yôdâḥê, came in again to announce to the King the arrival of the young man, there was none standing before the King, but all Israel had thronged outside to see him.
 
-## 36. How King Solomon held intercourse with his son ##
+## 36. How King Solomon dealt with his son ##
 
-And Joas (Benaiah), the son of Yôdâḥê, went out and brought Bayna Leḥkem inside. And when King Solomon saw him he rose up, and moved forward to welcome him, and he loosed the band of his apparel from his shoulder, and he embraced him, with his hands [resting] on his breast, and he kissed his mouth, and forehead, and eyes, and he said unto him, “Behold, my father David hath renewed his youth and hath risen from the dead.” And Solomon the King turned round to those who had announced the arrival of the young man, and he said unto them, “Ye said unto me, ‘He resembleth thee,’ but this is not my stature, but the stature of David my father in the days of his early manhood, and he is handsomer than I am.” And Solomon the King rose up straightway, and he went into his chamber, and he arrayed the young man in apparel made of cloth embroidered with gold, and a belt of gold, and he set a crown upon his head, and a ring upon his finger. And having arrayed him in glorious apparel which bewitched the eyes, he seated him upon his throne, that he might be equal in rank to himself. And he said unto the nobles and officers of Israel, “O ye who treat me with contumely among yourselves and say that I have no son, look ye, this is my son, the fruit that hath gone forth from my body, whom God, the Lord of Israel, hath given me, when I expected it not.”
+And Benaiah, the son of Yôdâḥê, went out and brought Bayna Leḥkem inside. And when King Solomon saw him he rose up, and moved forward to welcome him, and he loosed the band of his apparel from his shoulder, and he embraced him, with his hands [resting] on his breast, and he kissed his mouth, and forehead, and eyes, and he said unto him, “Behold, my father David hath renewed his youth and hath risen from the dead.” And Solomon the King turned round to those who had announced the arrival of the young man, and he said unto them, “Ye said unto me, ‘He resembleth thee,’ but this is not my stature, but the stature of David my father in the days of his early manhood, and he is handsomer than I am.” And Solomon the King rose up straightway, and he went into his chamber, and he arrayed the young man in apparel made of cloth embroidered with gold, and a belt of gold, and he set a crown upon his head, and a ring upon his finger. And having arrayed him in glorious apparel which bewitched the eyes, he seated him upon his throne, that he might be equal in rank to himself. And he said unto the nobles and officers of Israel, “O ye who treat me with contumely among yourselves and say that I have no son, look ye, this is my son, the fruit that hath gone forth from my body, whom God, the Lord of Israel, hath given me, when I expected it not.”
 
 And his nobles answered and said unto him, “Blessed be the mother who hath brought forth this young man, and blessed be the day wherein thou hadst union with the mother of this young man. For there hath risen upon us from the root of Jesse a shining man who shall be king of the posterity of our posterity of his seed. Concerning his father none shall ask questions, and none shall say, ‘Whence is his coming?’ Verily he is an Israelite of the seed of David, fashioned perfectly in the likeness of his father’s form and appearance; we are his servants, and he shall be our king.” And they brought unto him gifts, each according to his greatness. And the young man took that ring which his mother had given him when they were alone together, and he said unto his father, “Take this ring, and remember the word which thou didst speak unto the Queen, and give unto us a portion of the fringe of the covering of the Tabernacle of the Law of God, so that we may worship it all our days, and all those who are subject unto us, and those who are in the kingdom of the Queen.” And the King answered and said unto him, “Why givest thou me the ring as a sign? Without thy giving me a sign I discovered the likeness of thy form to myself, for thou art indeed my son.”
 

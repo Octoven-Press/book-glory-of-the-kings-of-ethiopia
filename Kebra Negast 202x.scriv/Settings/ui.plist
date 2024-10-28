@@ -6,11 +6,11 @@
 	<dict>
 		<key>46DDA17B-2750-480D-A05E-4B55642FA590</key>
 		<array>
-			<string>973BE1B6-EC52-4C8E-B89E-8E02B889AE66</string>
+			<string>6A037F1A-129D-4F56-B056-0658D46A8D7C</string>
 		</array>
 	</dict>
 	<key>CompileFolder</key>
-	<string>/Users/mlaaker/Library/CloudStorage/GoogleDrive-mlaaker@gmail.com/My Drive/Projects/Kəbrä Nägäśt/Builds/The Glory of the Kings of Ethiopia/book-glory-of-the-kings-of-ethiopia/book-glory-of-the-kings-of-ethiopia/Editions/Text-only/1922 Kebra Nagast/compile</string>
+	<string>/Users/mlaaker/Desktop</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>QRPanelSettings</key>
@@ -65,8 +65,8 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {237, 2034}}</string>
-		<string>{{238, 0}, {1472, 2034}}</string>
+		<string>{{0, 0}, {327, 1008}}</string>
+		<string>{{328, 0}, {1382, 1008}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -850,7 +850,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>2</integer>
+		<integer>6</integer>
 	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
@@ -861,8 +861,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {763, 2004}}</string>
-		<string>{{764, 0}, {315, 2004}}</string>
+		<string>{{408, 0}, {581, 978}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
@@ -871,8 +870,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1079, 2004}}</string>
-		<string>{{1080, 0}, {392, 2004}}</string>
+		<string>{{0, 0}, {989, 978}}</string>
+		<string>{{990, 0}, {392, 978}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -884,14 +883,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {498, 614.66666666666663}}</string>
+	<string>{{-20, 0}, {659.33333333333326, 614.66666666666663}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>520 73 1710 2062 0 0 3840 2135 </string>
+	<string>0 33 1710 1036 0 0 1710 1069 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -901,7 +900,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>200</real>
+			<real>295</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
@@ -910,11 +909,11 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 1734}, {100, 307.33333333333326}}</string>
+	<string>{{0, 0}, {387.33333333333331, 614.66666666666663}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>3</real>
+		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-27 14:46:21 -0700" ModID="722E73F9-A9A0-4A45-BE8F-7AD2BF09DB06">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-10-28 09:25:15 -0700" ModID="0040B805-E251-469F-A930-8CB208A5D55B">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -29,7 +29,7 @@
                         <IconFileName>Front Matter</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>153,0</TextSelection>
+                        <TextSelection>0,531</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -47,7 +47,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>590,0</TextSelection>
+                        <TextSelection>5,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C3B623CF-F7EE-461D-85FC-FA01F06918E9" Type="Folder" Created="2024-06-03 18:56:23 -0700" Modified="2024-09-04 17:55:21 -0700">
@@ -76,7 +76,7 @@
                                 <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,15311</TextSelection>
+                                <TextSelection>295,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0" Type="Text" Created="2024-06-03 18:57:07 -0700" Modified="2024-10-27 13:37:59 -0700">
@@ -86,7 +86,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8473,0</TextSelection>
+                                <TextSelection>10284,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -108,7 +108,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>21272,4</TextSelection>
+                                <TextSelection>0,28946</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="51483619-1237-4861-B99E-F913E8F075E5" Type="Text" Created="2024-08-27 11:03:56 -0700" Modified="2024-09-24 15:03:55 -0700">
@@ -160,7 +160,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>374,0</TextSelection>
+                        <TextSelection>124,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="43F2CA33-D3D9-459D-A053-76F7E7282D61" Type="Folder" Created="2024-09-07 23:39:19 -0700" Modified="2024-09-07 23:39:22 -0700">
@@ -200,7 +200,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>274,0</TextSelection>
+                                <TextSelection>0,572</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C8A8AF88-C980-48B7-852A-D41041EF5A0C" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-24 18:40:27 -0700">
@@ -1367,7 +1367,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1738,0</TextSelection>
+                        <TextSelection>0,1738</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="27A8BBED-EC24-4951-A8A3-C9EF92C18A94" Type="Folder" Created="2024-06-03 18:58:07 -0700" Modified="2024-06-03 18:58:14 -0700">
@@ -1433,7 +1433,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>150,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="1F4CBEA8-B9D6-4167-8721-BFA66D16BD93" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-10-26 18:36:19 -0700">
@@ -1603,7 +1603,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="46DDA17B-2750-480D-A05E-4B55642FA590" Color="0.190666 0.172706 0.216531">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Balk</SearchSettings>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">peradventure</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -1658,10 +1658,10 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-10-28 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-10-27 13:34:31 -0700"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-10-29 01:00:00 -0700" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-10-28 09:25:10 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-10-27 00:00:00 -0700">
+    <RecentWritingHistory Date="2024-10-28 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
