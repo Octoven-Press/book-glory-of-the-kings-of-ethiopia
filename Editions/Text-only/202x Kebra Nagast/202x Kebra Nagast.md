@@ -50,7 +50,7 @@ In the short introduction that follows I have given a sketch of the literary his
 
 # Contents #
 
-Introduction:
+### Introduction: ###
 
 I. [The Manuscripts of the Kĕbra Nagast, etc.](#i-the-manuscripts-of-the-kebra-nagast-and-their-arrival-in-europe-the-labours-of-bruce-dillmann-praetorius-wright-zotenberg-and-bezold-king-johns-letter-to-lord-granville-date-of-compilation-of-the-kebra-nagast-the-ethiopian-work-based-on-coptic-and-arabic-sources-etc)  
 II. [Translation of the Arabic Version](#ii-english-translation-of-the-arabic-text-describing-how-the-kingdom-of-david-was-transferred-from-jerusalem-to-ethiopia13)  
@@ -59,7 +59,7 @@ IV. [Modern Legends of Solomon and the Queen of Sheba](#iv-modern-legends-of-sol
 V. [Summary of the Contents of the Kĕbra Nagast](#v-the-contents-of-the-kebra-nagast-described)  
 
 
-The Chapters of the Kĕbra Nagast
+### The Chapters of the Kĕbra Nagast ###
 
 1. [The Glory of Kings](#1-concerning-the-glory-of-kings)
 2. The Greatness of Kings
@@ -100,21 +100,21 @@ The Chapters of the Kĕbra Nagast
 37. Solomon questions his son Menyelek
 38. Solomon decides to send Menyelek away with the eldest sons of his nobles
 39. Menyelek is anointed King of Ethiopia, and is called David (II)
-40. Zadok’s Commands to David (II)
+40. Zadok’s Commands to Menyelek
 41. The Blessing of Kings
 42. The Ten Commandments
-43. The Priests and Officials of the Court of David (II) in Ethiopia
+43. The Priests and Officials of the Court of Menyelek in Ethiopia
 44. The King must not be reviled
 45. The Sons of the Nobles who are to go to Ethiopia make a plot
 46. The Plot to steal the Tabernacle of Zion from the Temple in Jerusalem
 47. The Offering of Azariah and the King
 48. How they stole the Tabernacle of Zion
-49. How Solomon blessed his son David (II)
-50. The Farewell of David (II) to his father, and the grief of the people
+49. How Solomon blessed his son Menyelek
+50. The Farewell of Menyelek to his father, and the grief of the people
 51. Solomon bids Zadok fetch the covering of the Tabernacle of Zion
-52. Zadok gives David (II) the covering of the Tabernacle of Zion
+52. Zadok gives Menyelek the covering of the Tabernacle of Zion
 53. The Gift of the Wagon of Zion to Ethiopia
-54. How David (II) prophesied and saluted Zion
+54. How Menyelek prophesied and saluted Zion
 55. How the People of Ethiopia rejoiced
 56. Zadok the Priest discovers that the Tabernacle of Zion has been stolen
 57. The Swooning of Zadok the Priest
@@ -132,8 +132,8 @@ The Chapters of the Kĕbra Nagast
 69. The Conversation of Solomon with the Angel concerning Christ
 70. The Reign of Rehoboam
 71. The Virgin Mary, the daughter of David
-72. The King of Rômê (Constantinople)
-73. ’Adrâmî, the son of Solomon, becomes King of Rômê
+72. The King of Byzantium
+73. ’Adrâmî, the son of Solomon, becomes King of Byzantium
 74. The King of Medyâm, a descendant of Shem
 75. The King of Babylon, a descendant of Shem
 76. Nebuchadnezzar, the son of Karmîn, a descendant of Shem
@@ -177,7 +177,7 @@ The Chapters of the Kĕbra Nagast
 114. The Return of Zion
 115. The Judgement of Israel
 116. The Chariot of Ethiopia
-117. The King of Rômê and the King of Ethiopia
+117. The King of Byzantium and the King of Ethiopia
 
 
 [Colophon](#colophon)
