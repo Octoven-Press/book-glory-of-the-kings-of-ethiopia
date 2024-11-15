@@ -8,6 +8,7 @@ This project features a number of expected artifacts:
 * A modernized, illustrated version of the text
   * A limited run of **physical books** of the modernized version, printed in [octodecimo format](https://en.wikipedia.org/wiki/Book_size#United_States) for collectors
   * An **electronic ebook** version of the modernized tome for Kindles, Kobos, and other EPUB digital readers
+  * ✔︎ An **[electronic plain-text version](Editions/Text-only/202x%20Kebra%20Nagast/202x%20Kebra%20Nagast.md)** of the modernized tome 
   * A gallery of the **117 illustrated prints** used in the modernized version
   * A new set of **appendices** containing:
     * Known **history and variations** of the Kəbrä Nägäśt texts
