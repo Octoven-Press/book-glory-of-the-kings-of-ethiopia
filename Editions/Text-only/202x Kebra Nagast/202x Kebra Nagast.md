@@ -1501,7 +1501,9 @@ In the Arabic text it is said: “We have turned [this book] into Arabic from a 
 
 
 
-## A List of the Passages from the Old and New Testaments, Quoted or Referred to in the Kebra Nagast ## 
+# Appendices #
+
+## I. A List of the Passages from the Old and New Testaments, Quoted or Referred to in the Kebra Nagast ## 
 Genesis *i, 1,* [^fn116], [^fn152]; *i, 26,* [^fn30]; *ii, 17,* [^fn146]; *iii, 16,* [^fn63]; *v, 9,* [^fn39]; *vi, 2–4,* [^fn149]; *vi, 14,* [^fn150]; *viii, 21,* [^fn36]; *ix, 4,* [^fn36]; *ix, 25–27,* [^fn35]; *x, 6,* [^fn38]; *xii ff., 11,* [^fn109]; *xiii, 14–17,* [^fn41]; *xiv, —,* [^fn181]; *xv, 1,* [^fn40]; *xviii, 1,* [^fn173]; *xxii, 13,* [^fn97], [^fn174]; *xxii, 17,* [^fn53]; *xxx, 37,* [^fn175]; *xxxv, 22,* [^fn42]; *xlvii, 29,* [^fn304]; *xlvii, 31,* [^fn176]; *xlix, 4,* [^fn42]; *xlix, 8–12,* [^fn246], [^fn247], [^fn248]; *l, 25,* [^fn305].
 
 Exodus *iii, 2,* [^fn124]; *vii, 10,* [^fn140]; *vii, 19,* [^fn141]; *viii, —,* [^fn141]; *x, 21, 22,* [^fn139]; *xv, 25,* [^fn143]; *xvi, 35,* [^fn131]; *xvii, 4,* [^fn126]; *xvii, 6,* [^fn132]; *xvii, 11, 12,* [^fn142]; *xix, —,* [^fn120]; *xxv, 10, 13,* [^fn47], [^fn130]; *xxxiii, 18–23,* [^fn121]; *xxxiv, 33,* [^fn122].
@@ -1580,6 +1582,240 @@ Hebrews *xi, 21,* [^fn176], [^fn179].
 2 Peter *ii, 4,* [^fn148].
 
 1 John *i, 1,* [^fn153], [^fn156]; *iii, 5, 8,* [^fn194].
+
+
+## II. Known history and variations of the Kəbrä Nägäśt texts ##
+
+| ???? | Original authorship (believed to be) in Coptic |
+| ----- | ----- |
+| 12XX | Oldest believed codex of the Kebra Nagast penned. |
+| 1314-1344 | Abu l-’Izz and ’Abu ‘l-Faraj translate the Coptic manuscript into Arabic |
+| 1321 | “Isaac” translates the Arabic copy into Ge’ez (later becoming Bezold’s source for his German translation in 1905) |
+| 1527 | The [Jesuit] missionary Francisco Alvarez returns to Portugal after 7 years in Ethiopia, and begins publishing stories in 1533, 1557, 1561, and 1588 of some of the stories within the KN regarding Solomon and Menelik as well as the Book of Enoch |
+| 1615 | P. N. Godinho publishes “De Abassinorum rebus deque Æthiopiae Patriarchis[^fn286]” |
+| 1620 | The Spanish Jesuit missionary Pedro Páez y Jaramillo writes “História da Ethiópia” (not published during his lifetime) |
+| 16xx | Portuguese Jesuit missionary Manoel de Almeida provides more details on the Solomon and Menelik stories in his “Historia de Etiopía a Alta ou Abassia” (incorporating pieces from Páez’s work;  similarly not published during his lifetime) |
+| 1660 | F. Balthazar Tellez publishes “Historia de Ethiopia Alta ou Preste Joâa[^fn287]” (incorporating pieces from Almeida’s, and thus Páez’s, work) |
+| 1682-1706 | During the reign of ‘Îyâsû I, a copy of the Kəbrä Nägäśt is produced (later becoming Oriental 819) |
+| 177x | James Bruce publishes “Travels to Discover the Source of the Nile, in the Years 1768, 1769, 1770, 1771, 1772, & 1773[^fn288]” after his return from journeying through Abyssinia, and he gives two copies of the Kəbrä Nägäśt to the British Museum: an original in Ge’ez (Bruce 93) and his personal translation (Bruce 87) |
+| 1832-1848 | Emperor Sâhle Dĕngĕl gifts to French King Louis Philippe I the earliest known manuscript of the Kebra Nagast. This become the primary source document for Dr. Carl Bezold’s German translation in 1905 (Ethiopien d'Abbadie 94 in the Bibliothèque nationale de France[^fn289]). |
+| 1838- | Domingo Lorda travels with French explorer Antoine Thomson d'Abbadie d'Arrast through Ethiopia, purchasing a manuscript of the Kebra Nagast from a convent on the island Thana (near Gorata), |
+| 1843 | Domingo Lorda’s manuscript is acquired by Prussian Egyptologist Karl Richard Lepsius[^fn290] and given to Königliche Bibliothek in Berlin |
+| 1848 | August Dillmann publishes a chapter listing of the KN in “Catalogus codicum manuscriptorum orientalium qui in Museo Britannico asservantur[^fn291]” |
+| 1868 | After King Theodore’s suicide at his defeat by the British Army, two copies of the Kəbrä Nägäśt from Makdalâ are sent to the British Museum (becoming manuscripts Oriental 818[^fn292] and Oriental 819). |
+| 1870 | Franciscus Prætorius publishes “Fabula de Regina Sabaea apud Æthiopes[^fn293],” comprised of  chapters 19 through 32 from the Berlin manuscript (Oriental 395) |
+| 1872 | December 14: King John of Ethiopia receives Oriental 819 back from the British Museum |
+| 1877 | Cambridge’s Professor W. Wright publishes “Catalogue of the Ethiopic Manuscripts in the British Museum Acquired since the Year 1847[^fn294],” a complete description of the British Museum’s previously-received manuscripts (Orient 818 and 819) |
+| 1905 | Dr. Carl Bezold translates MS ____ into German as “Kebra Nagast, Die Kerrlichkeit Der Könige: Nach Den Handschriften[^fn295]” |
+| 1907 | M. Hugues Le Roux, one-time French envoy to Emperor Menyelek II, translates Oriental 819 to French as “Chez la Reine de Saba[^fn296],” which in turn is translated to English as “Magda, Queen of Sheba[^fn297]” by Bessie Van Vorst |
+| 1922 | Sir E. A. Wallis Budge translate’s Bezold’s German version to English |
+| 1932 | Sir E. A. Wallis Budge updates his English translation |
+| 1997 | Gerald Hausman publishes “The Kebra Nagast: The Lost Bible of Rastafarian Wisdom and Faith from Ethiopia and Jamaica[^fn298],” a new narrative based on elements from Budge’s 1922 version, the Quran, the King James Bible, and Bob Marley |
+| 2001 |  |
+| 2002 | Gérard Colin translates “La Gloire des Rois (Kebra Nagast), épopée nationale de l’Éthiopie[^fn299]” to French |
+| 2007 | Samuel Mahler translates “Kebrä Nägäśt, la gloire des Rois d’Éthiopie[^fn300]” to French |
+| 2008 | Robert Beylot translates “La Gloire des Rois, ou l’Histoire de Salomon et de la reine de Saba[^fn301]” to French  Osvaldo Raineri translates “La gloria dei re. Salomone e la regina di Saba nell'epopea etiopica tra testo e pittura, traduzione dal testo etiopico (ge’ez)” to Italian (ISBN: 978-8890355103) |
+| 202x | Wendy Belcher & Michael Kleiner publish “The Kebra Nagast: A New English Translation of the Ancient Book about the Ethiopian Queen of Sheba, King Solomon, and Their Son Menilek[^fn302]” |
+
+## III. Recommended reading ##
+
+### Alternate versions ### 
+
+
+
+### Commentary ###
+
+
+
+### Related reading ###
+
+
+## IV. Visual timeline ##
+
+
+TK
+
+ 
+
+Bayna Lehkem (“son of the Wise Man”) better known as Menelik, born at Bala Zadisareya.  queen bore the child in her mother's country as she was journeying back to her own country. Legend places the location at the Mai Bela stream near Tsa'edakristyan (“White Christian”) 12 km outside Asmara in Eritrea 
+
+
+
+1800 - 1400BCE	Abraham’s life
+
+
+1400-1200 BCE	Moses’ life
+
+ca. 1400 BC	captivity in Egypt
+
+
+1200-1050 BCE	Israelite rule by judges
+
+
+ca. 1000-950 BCE	David’s reign
+
+
+ca. 950-925 BCE	Solomon’s reign
+
+
+ca. 885- 874 BCE	Israel’s King Omri built a capital at Samaria with public buildings that reputedly eclipsed Solomon's
+
+
+722 BCE	Israel was destroyed by the Assyrians
+
+
+ca.640-609 BCE	Josiah's reign
+
+
+ca. 586 BC	Babylonian destruction of Jerusalem and forced deportation to Babylon of its leading citizens
+
+
+520 BCE	Exiled Israelite assistance for the Persians in overrunning Babylon was rewarded when the Persian ruler Cyrus allowed some exiles to establish a settlement on the site of modern Jerusalem under Zerubbabel, an ancestor of Christ and of the House of David
+
+
+ca. 450 BCE 	Prophet Ezra, Hilkiah’s descendent, created an uncompromising fundamentalist state in the monotheist tradition. This theocracy refused to reconcile with the Samaritans and laid the foundations of modem Judaism. Muslim traditions testify to this division, emphasizing that Ezra's followers chose to distance themselves from the Israelites as a whole
+
+
+ca. 200 BCE	Old Testament books canonized
+
+
+323 CE	Council of Nicaea
+
+409 CE 	The Sheba Cycle was originally a Coptic document fromEgypt translated into Arabic 
+
+
+452 CE	Council of Chalcedon
+
+
+520 CE	Aksumite King Caleb invades Himyar, South Arabia
+
+
+540 CE	probably as a consequence of famine and plague following in the wake of a gigantic volcanic ash cloud sweeping west from the Pacific, the expansionary Aksumite empire of north-east Africa abandoned its imperial designs in South Arabia 
+
+ca.615-630 CE 	Aksumite empire quit its capital of Aksum, re-establishing its centre in the newly demographically dominant Cushitic-speaking Agaw region to the southeast the Christian Semitic-speaking Aksumite/proto-Ethiopian ruling house, further isolated from its Arabian links by the triumph of Islam, began a precarious expansion into the African interior
+
+
+late 5th century	Monophysite Nine Saints (fleeing persecution in Byzantium) established a permanent Monophysite stronghold in Ethiopia and did much to encouragethe Negus to create a Chrsitian Monophysite empire encompassing Ethiopia, Arabia, Egypt, the
+
+Levant and Asia Minor as far as Armenia, as well denigrating the Israelite Beta Israel
+
+https://www.academia.edu/6549993/KEBRA_NAGAST_NEW_INSIGHTS_INTO_OLD_TESTAMENT_HISTORY
+
+
+ca. 1137-1270 CE	Agaw Zagwe dynasty 
+
+
+ca. 1200 CE	Lalibela reigns
+
+Yekunno-Amla takes the throne, ending Zagwe dynasty, heir to a Semitic-speaking royal house that claimed descent from the Israelite King Solomon and Makeda, Queen of Sheba, and allegedly had ruled the DMT/Aksumite/Ethiopian state from its inception ca. 1000 BCE until interrupted by the Zagwe
+
+
+1314-1321 CE	Five Aksumite clerics under the leadership of a senior church official named Isaac assemble the Kebra Nagast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The
+
+ Kebra Nagast 
+
+ contains 364 references, allusions or possible influences linked to passagesfrom 32 books of The Old Testament 
+
+ - for instance, 
+
+62 to the Book of Genesis
+
+37 to Exodus,
+
+49 to Deuteronomy
+
+1 to Ruth.
+
+
+176 links to quotations from 20 books of the New Testament,
+
+ 41 from Matthew
+
+
+Jewish sources, such as the
+
+Targum, Talmud, Midrashim,
+
+ the Zohar, rabbinical commentaries, Josephus and Ben Sira account for 77 references. The Qur ’an
+
+ is linked to 28 references, Islamic commentators 5;
+
+Old Testament Apocryphal writings 105 (from 21 books), mostlyfrom the
+
+Cave of Treasures (16) and Enoch (18); 
+
+New Testament Apocryphal writings 25 (20 books)
+
+
+works of 28 early church fathers, such as Origen and Gregory of Nyssa, while other parts are connected to the Nicaean Creed and miscellaneous works such as Ethiopian liturgical texts.
+
+
+## V. Family tree ##
+
+[ Want to visualize the forks of the tree descending from Adam according the “pearl” lineage described in this text]
+Adam
+Noah
+David
+Solomon
+Menelik 
+
+…
+Jesus
+
+…
+Haile Selassie
+
+## VI. Organization models ##
+
+While this book keeps the same chapter ordering that Sir E. A. Wallis Budge used in his original translation, there is some modern debate as to the original ordering of the chapters within this book based on different authors, time periods, and contexts. Some scholars have proposed alternate arrangements that order the texts in thematic structure. 
+
+
+David Hubbard, 1956
+
+1. Sheba-Menelik cycle: chapters 1-63, 84-94, 113-117
+2. Solomon & Semitic ancestry of kings: chapters 64-83
+3. Christian prophecies: chapters 95-112
+
+Bernard Leeman, 2005
+
+1. Sheba-Menelik cycle: chapters 21B to 28A, 29B-34A, 35-43, 45-58, 60-63A, 84-93A and 94
+2. Caleb cycle: chapters 1-21A, 63B-83, 93B, 95-117A
+3. Isaac’s team: chapters 44, 59, 117B, Colophon
+
+Levine, 1974
+
+1. Prologue: chapters 1-18
+2. Makeda, Solomon, and Menelik: chapters 19-94
+3. Epilogue: chapters 95-117
+
+
+## VII. Map ##
+
+
+
+
+
+
+
+
+
+
 
 
 
