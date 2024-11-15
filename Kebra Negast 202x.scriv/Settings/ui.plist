@@ -65,8 +65,8 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {327, 1008}}</string>
-		<string>{{328, 0}, {1382, 1008}}</string>
+		<string>{{0, 0}, {327, 2047}}</string>
+		<string>{{328, 0}, {1478, 2047}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -870,8 +870,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {989, 978}}</string>
-		<string>{{990, 0}, {392, 978}}</string>
+		<string>{{0, 0}, {1085, 2017}}</string>
+		<string>{{1086, 0}, {392, 2017}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -883,14 +883,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{-20, 0}, {659.33333333333326, 614.66666666666663}}</string>
+	<string>{{-46.666666666666664, 0}, {713.33333333333326, 1307.3333333333333}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 33 1710 1036 0 0 1710 1069 </string>
+	<string>48 60 1806 2075 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -909,7 +909,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {387.33333333333331, 614.66666666666663}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
