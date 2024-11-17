@@ -198,13 +198,13 @@ V. [Summary of the Contents of the Kĕbra Nagast](#v-the-contents-of-the-kebra-n
 
 ### Appendices ###
 
-I. [List of Passages quoted from the Old and New Testaments](#i-a-list-of-the-passages-from-the-old-and-new-testaments-quoted-or-referred-to-in-the-kebra-nagast)
-II. [Known history and variations of the Kəbrä Nägäśt texts](#ii-known-history-and-variations-of-the-kəbrä-nägäśt-texts)
-III. [Recommended reading](#iii-recommended-reading)
-IV. [Visual timeline](#iv-visual-timeline)
-V. [Family tree](#v-family-tree)
-VI. [Organization models](#vi-organization-models)
-VII. [Map](#vii-map)
+I. [List of Passages quoted from the Old and New Testaments](#i-a-list-of-the-passages-from-the-old-and-new-testaments-quoted-or-referred-to-in-the-kebra-nagast)  
+II. [Known history and variations of the Kəbrä Nägäśt texts](#ii-known-history-and-variations-of-the-kəbrä-nägäśt-texts)  
+III. [Recommended reading](#iii-recommended-reading)  
+IV. [Visual timeline](#iv-visual-timeline)  
+V. [Family tree](#v-family-tree)  
+VI. [Organization models](#vi-organization-models)  
+VII. [Map](#vii-map)  
 
 
 
