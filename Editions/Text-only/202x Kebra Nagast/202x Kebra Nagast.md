@@ -207,6 +207,7 @@ VI. [Organization models](#vi-organization-models)
 VII. [Map](#vii-map)  
 
 
+# Introduction #
 
 ## I. The Manuscripts of the Kebra Nagast and their arrival in Europe. The labours of Bruce, Dillmann, Praetorius, Wright, Zotenberg, and Bezold. King John’s letter to Lord Granville. Date of compilation of the Kebra Nagast. The Ethiopian work based on Coptic and Arabic sources, etc. ##
 
