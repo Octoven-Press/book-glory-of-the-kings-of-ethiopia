@@ -890,7 +890,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>48 60 1806 2075 0 0 3840 2135 </string>
+	<string>2068 60 1806 2075 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -900,7 +900,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>295</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
