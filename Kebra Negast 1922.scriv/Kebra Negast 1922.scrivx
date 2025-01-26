@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2024-11-17 18:57:32 -0800" ModID="B5330652-A7CB-475F-98A7-2E3269D1B9F4">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2025-01-26 13:29:48 -0800" ModID="3EF14AE4-AF74-4077-8AF3-EF4F750B416E">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -47,7 +47,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>590,0</TextSelection>
+                        <TextSelection>53,11</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C3B623CF-F7EE-461D-85FC-FA01F06918E9" Type="Folder" Created="2024-06-03 18:56:23 -0700" Modified="2024-09-04 17:55:21 -0700">
@@ -116,7 +116,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>17970,2</TextSelection>
+                                <TextSelection>0,28946</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
@@ -129,7 +129,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3857,1</TextSelection>
+                                <TextSelection>0,31510</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
@@ -142,7 +142,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6460,1</TextSelection>
+                                <TextSelection>0,6461</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
@@ -155,7 +155,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>192,1</TextSelection>
+                                <TextSelection>0,8432</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
@@ -168,7 +168,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>682,4</TextSelection>
+                                <TextSelection>0,47556</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
@@ -203,7 +203,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1779,1</TextSelection>
+                                <TextSelection>0,1780</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
@@ -216,7 +216,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>423,448</TextSelection>
+                                <TextSelection>0,871</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
@@ -571,7 +571,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6357,0</TextSelection>
+                                <TextSelection>4664,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="ACA635D1-3EB5-486A-BF19-F7A612FC5046" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 17:54:14 -0700">
@@ -1530,13 +1530,13 @@
                         <TextSelection>2816,4</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="33CC4EBF-B0B3-4792-82E9-6EAB12F79E35" Type="Text" Created="2024-09-26 14:47:41 -0700" Modified="2024-09-29 16:35:56 -0700">
+                <BinderItem UUID="33CC4EBF-B0B3-4792-82E9-6EAB12F79E35" Type="Text" Created="2024-09-26 14:47:41 -0700" Modified="2025-01-20 14:36:47 -0800">
                     <Title>Formatting that doesn't translate into Markdown</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3913,0</TextSelection>
+                        <TextSelection>4290,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="846DA866-5BB7-4F67-932D-ABF2ED744BB2" Type="Text" Created="2024-09-29 13:10:15 -0700" Modified="2024-09-29 13:10:19 -0700">
@@ -1640,6 +1640,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="9C6457CE-6F32-4195-BCA7-D3381ADDDB72" Type="Text" Created="2025-01-20 12:23:18 -0800" Modified="2025-01-20 12:23:18 -0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1704,10 +1712,10 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-11-18 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-11-17 17:38:25 -0800"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-01-27 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2025-01-26 13:29:46 -0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-11-17 00:00:00 -0800">
+    <RecentWritingHistory Date="2025-01-26 00:00:00 -0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
