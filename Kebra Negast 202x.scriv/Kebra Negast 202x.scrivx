@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2025-01-26 16:49:29 -0800" ModID="952D9B4F-EED6-49C3-A0E0-5D6AB1ABD904">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Featherwood" Author="" Modified="2025-01-26 16:53:25 -0800" ModID="99DBA65D-136D-447A-83AB-ABF572BD7278">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -198,10 +198,10 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,572</TextSelection>
+                                <TextSelection>579,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C8A8AF88-C980-48B7-852A-D41041EF5A0C" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-24 18:40:27 -0700">
+                        <BinderItem UUID="C8A8AF88-C980-48B7-852A-D41041EF5A0C" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-01-26 16:53:25 -0800">
                             <Title>Concerning Envy</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-01-27 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="2227" Characters="14143" Date="2025-01-26 13:36:28 -0800"/>
+        <PreviousSession Words="2225" Characters="14117" Date="2025-01-26 13:36:28 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-01-26 00:00:00 -0800">
-        <DraftWordCount>2227</DraftWordCount>
-        <DraftCharCount>14143</DraftCharCount>
+        <DraftWordCount>2225</DraftWordCount>
+        <DraftCharCount>14117</DraftCharCount>
         <OtherWordCount>5</OtherWordCount>
         <OtherCharCount>42</OtherCharCount>
     </RecentWritingHistory>
