@@ -203,7 +203,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,1780</TextSelection>
+                                <TextSelection>393,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="EAF25E5A-CFB3-4031-83D2-32B92EF64C8E"/>
@@ -511,7 +511,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>870,0</TextSelection>
+                                <TextSelection>104,52</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="6E76A05B-38E0-471D-B980-F0A78873027B" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 18:00:14 -0700">
