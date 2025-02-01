@@ -940,14 +940,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 7}, {354.33333333333331, 307.33333333333331}}</string>
+	<string>{{0, 0}, {354.33333333333331, 307.33333333333331}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>2028 729 1710 1036 0 0 3840 2135 </string>
+	<string>0 33 1710 1036 0 0 1710 1069 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>

@@ -14,7 +14,7 @@
             <ItemID>686761E4-9C72-4878-92B9-37A67AAB2FDA</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>24F48E13-F1A1-4798-9D14-57783B482668</ItemID>
+            <ItemID>EAF25E5A-CFB3-4031-83D2-32B92EF64C8E</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -67,10 +67,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>24F48E13-F1A1-4798-9D14-57783B482668</ItemID>
+                    <ItemID>EAF25E5A-CFB3-4031-83D2-32B92EF64C8E</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="99">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">EAE4EC35-7714-4850-9896-4819C2DB649B</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">6D1C3E7B-C347-477A-BBA7-A9384C982DC5</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">EEEA5FBE-CD66-4191-B10F-2B9E7A3DA7A8</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">BBAAF758-D916-448D-AAAE-8CC3D1F75F7C</HistoryItem>
@@ -170,6 +169,7 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">33CC4EBF-B0B3-4792-82E9-6EAB12F79E35</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">7BA6AA5B-4E5B-4D05-9BC6-9BD454563C67</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">24F48E13-F1A1-4798-9D14-57783B482668</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">EAF25E5A-CFB3-4031-83D2-32B92EF64C8E</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -177,7 +177,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>0,47556</Selection>
+                <Selection>92,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
