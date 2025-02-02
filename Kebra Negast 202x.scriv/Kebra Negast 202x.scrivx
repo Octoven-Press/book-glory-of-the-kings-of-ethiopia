@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 23:11:23 -0800" ModID="247485AC-35E8-4C7E-9CC4-AD6DB578511A">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-02 13:17:23 -0800" ModID="1777A2D2-3256-4E82-9D8B-C6E413D1B0E8">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1168,62 +1168,62 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6977,0</TextSelection>
+                                <TextSelection>2750,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="B2C0ABE6-8CB4-44FC-BF20-21D4C8CF4D13" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 11:22:41 -0700">
-                            <Title>Concerning Him that existeth in Everything and Everywhere</Title>
+                        <BinderItem UUID="B2C0ABE6-8CB4-44FC-BF20-21D4C8CF4D13" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-02 12:53:57 -0800">
+                            <Title>Concerning Him that exists in everything and everywhere</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>922,10</TextSelection>
+                                <TextSelection>1004,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2D874845-5CD7-4A9B-879F-5886DECA610B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-28 14:36:20 -0700">
+                        <BinderItem UUID="2D874845-5CD7-4A9B-879F-5886DECA610B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-02 13:00:56 -0800">
                             <Title>Concerning the Beginning</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6159,32</TextSelection>
+                                <TextSelection>7339,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="DFED9607-2CE2-4753-832C-0D2071D34531" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-26 11:20:15 -0700">
-                            <Title>Concerning the Horns of the Altar</Title>
+                        <BinderItem UUID="DFED9607-2CE2-4753-832C-0D2071D34531" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-02 13:12:12 -0800">
+                            <Title>Concerning the horns of the altar</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1040,0</TextSelection>
+                                <TextSelection>1991,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="D8206957-0660-4EED-BAC0-94D113AEF7F0" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 11:17:42 -0700">
-                            <Title>More concerning the Ark and the Talk of the Wicked</Title>
+                        <BinderItem UUID="D8206957-0660-4EED-BAC0-94D113AEF7F0" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-02 13:16:17 -0800">
+                            <Title>More concerning the Ark and the talk of the wicked</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6238,9</TextSelection>
+                                <TextSelection>6298,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="AA409BD6-AB01-4C8D-9369-16F040B9267B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 11:17:25 -0700">
+                        <BinderItem UUID="AA409BD6-AB01-4C8D-9369-16F040B9267B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-02 13:17:23 -0800">
                             <Title>Concerning the belief of Abraham</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1667,14 +1667,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-340" Characters="-2052" Date="2025-02-01 14:44:44 -0800"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-03 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-70" Characters="-574" Date="2025-02-02 12:53:35 -0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-340</DraftWordCount>
-        <DraftCharCount>-2052</DraftCharCount>
-        <OtherWordCount>8</OtherWordCount>
-        <OtherCharCount>72</OtherCharCount>
+    <RecentWritingHistory Date="2025-02-02 00:00:00 -0800">
+        <DraftWordCount>-70</DraftWordCount>
+        <DraftCharCount>-574</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
