@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-02 13:54:36 -0800" ModID="7F484C4B-30C4-4BD4-B21D-0E62D5423E74">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-02 14:08:18 -0800" ModID="104A71DE-68B8-4BE7-9A13-9B6FD4ED4FC4">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1197,14 +1197,14 @@
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="DFED9607-2CE2-4753-832C-0D2071D34531" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-02 13:12:12 -0800">
+                        <BinderItem UUID="DFED9607-2CE2-4753-832C-0D2071D34531" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-02 13:58:02 -0800">
                             <Title>Concerning the horns of the altar</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1991,0</TextSelection>
+                                <TextSelection>1447,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
@@ -1336,14 +1336,14 @@
                                 <TextSelection>1727,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6C41C273-CB10-4092-A60A-FB6F543C6E2A" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-02 13:52:34 -0800">
+                        <BinderItem UUID="6C41C273-CB10-4092-A60A-FB6F543C6E2A" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-02 14:01:45 -0800">
                             <Title>Concerning the chariot of Ethiopia</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>758,0</TextSelection>
+                                <TextSelection>760,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="9DD7BBD8-DE6B-48CA-983F-E398D6DE5E51" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-02 13:53:35 -0800">
@@ -1365,7 +1365,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,1738</TextSelection>
+                        <TextSelection>1709,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="27A8BBED-EC24-4951-A8A3-C9EF92C18A94" Type="Folder" Created="2024-06-03 18:58:07 -0700" Modified="2024-06-03 18:58:14 -0700">
@@ -1394,7 +1394,7 @@
                                 <Bookmark BinderUUID="2D874845-5CD7-4A9B-879F-5886DECA610B"/>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="57A567B3-1090-4F20-AA7E-2ACEFFCF30BC" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2024-09-09 10:28:27 -0700">
+                        <BinderItem UUID="57A567B3-1090-4F20-AA7E-2ACEFFCF30BC" Type="Text" Created="2024-06-03 18:58:21 -0700" Modified="2025-02-02 14:08:18 -0800">
                             <Title>Known history and variations of the Kəbrä Nägäśt texts</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-03 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-118" Characters="-1209" Date="2025-02-02 12:53:35 -0800"/>
+        <PreviousSession Words="-107" Characters="-1139" Date="2025-02-02 12:53:35 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-02 00:00:00 -0800">
-        <DraftWordCount>-118</DraftWordCount>
-        <DraftCharCount>-1209</DraftCharCount>
+        <DraftWordCount>-107</DraftWordCount>
+        <DraftCharCount>-1139</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
