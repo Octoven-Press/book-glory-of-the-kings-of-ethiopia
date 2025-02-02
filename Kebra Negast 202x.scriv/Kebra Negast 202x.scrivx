@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 15:58:47 -0800" ModID="C9BE718C-9BDE-42DA-8D6D-908352938913">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 16:06:42 -0800" ModID="E670371A-7110-4040-B97D-2082E73992EC">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -471,47 +471,47 @@
                                 <TextSelection>4685,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6E76A05B-38E0-471D-B980-F0A78873027B" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 18:00:14 -0700">
+                        <BinderItem UUID="6E76A05B-38E0-471D-B980-F0A78873027B" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 16:00:03 -0800">
                             <Title>Concerning the sign which Solomon gave the Queen</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>918,0</TextSelection>
+                                <TextSelection>1349,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="1FC93385-D2C8-4714-8A4A-CCBB7BF7E1FA" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 18:00:02 -0700">
+                        <BinderItem UUID="1FC93385-D2C8-4714-8A4A-CCBB7BF7E1FA" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 16:00:32 -0800">
                             <Title>How the Queen brought forth and came to her own Country</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>49,23</TextSelection>
+                                <TextSelection>2288,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="9D08B982-6DBB-4401-B8A3-0C5893FCD86C" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 17:59:18 -0700">
-                            <Title>How the King of Ethiopia travelled</Title>
+                        <BinderItem UUID="9D08B982-6DBB-4401-B8A3-0C5893FCD86C" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 16:02:03 -0800">
+                            <Title>How the King of Ethiopia traveled</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>340,0</TextSelection>
+                                <TextSelection>925,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="DE25D2E6-2927-4E21-9E80-C696D627DCE4" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 17:58:33 -0700">
+                        <BinderItem UUID="DE25D2E6-2927-4E21-9E80-C696D627DCE4" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 16:03:38 -0800">
                             <Title>How the young man arrived in his mother’s country</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2972,1</TextSelection>
+                                <TextSelection>3553,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F666DF33-0552-43D4-AAAA-F92E713EE3BC" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-24 19:23:56 -0700">
+                        <BinderItem UUID="F666DF33-0552-43D4-AAAA-F92E713EE3BC" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 16:06:42 -0800">
                             <Title>How King Solomon sent to his son the commander of his army</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-248" Characters="-1842" Date="2025-02-01 14:44:44 -0800"/>
+        <PreviousSession Words="-289" Characters="-2226" Date="2025-02-01 14:44:44 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-248</DraftWordCount>
-        <DraftCharCount>-1842</DraftCharCount>
+        <DraftWordCount>-289</DraftWordCount>
+        <DraftCharCount>-2226</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
