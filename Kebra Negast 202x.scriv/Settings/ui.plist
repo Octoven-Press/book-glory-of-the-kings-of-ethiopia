@@ -65,8 +65,8 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {327, 1008}}</string>
-		<string>{{328, 0}, {1382, 1008}}</string>
+		<string>{{0, 0}, {327, 2074}}</string>
+		<string>{{328, 0}, {1382, 2074}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -875,8 +875,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {989, 978}}</string>
-		<string>{{990, 0}, {392, 978}}</string>
+		<string>{{0, 0}, {1088, 2044}}</string>
+		<string>{{1089, 0}, {293, 2044}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -892,10 +892,10 @@
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1.5</real>
+		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1246 118 1710 1036 0 0 3008 1667 </string>
+	<string>2066 33 1710 2102 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>

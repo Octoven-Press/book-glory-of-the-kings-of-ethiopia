@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 16:06:42 -0800" ModID="E670371A-7110-4040-B97D-2082E73992EC">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 16:51:37 -0800" ModID="F0DEF742-D820-4BAC-AFDE-345670DC0575">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -518,57 +518,57 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1179,1</TextSelection>
+                                <TextSelection>3565,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="24F48E13-F1A1-4798-9D14-57783B482668" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-09-08 17:55:51 -0700">
-                            <Title>How King Solomon held intercourse with his son</Title>
+                        <BinderItem UUID="24F48E13-F1A1-4798-9D14-57783B482668" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-01 16:44:47 -0800">
+                            <Title>How King Solomon dealt with his son</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6357,0</TextSelection>
+                                <TextSelection>4617,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ACA635D1-3EB5-486A-BF19-F7A612FC5046" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 17:54:14 -0700">
-                            <Title>How Solomon asked His Son Questions</Title>
+                        <BinderItem UUID="ACA635D1-3EB5-486A-BF19-F7A612FC5046" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 16:47:46 -0800">
+                            <Title>How Solomon asked his son questions</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,3204</TextSelection>
+                                <TextSelection>3131,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7023C105-5178-4D1B-ABE2-D58934891842" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-25 12:25:18 -0700">
+                        <BinderItem UUID="7023C105-5178-4D1B-ABE2-D58934891842" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2025-02-01 16:50:08 -0800">
                             <Title>How the King planned to send away his son with the children of the nobles</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2955,4</TextSelection>
+                                <TextSelection>0,3160</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E830A9E7-75DC-4081-9097-5B6FB82F26DC" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2024-09-25 12:25:38 -0700">
-                            <Title>How they made the Son of Solomon King</Title>
+                        <BinderItem UUID="E830A9E7-75DC-4081-9097-5B6FB82F26DC" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2025-02-01 16:50:56 -0800">
+                            <Title>How they made the son of Solomon King</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1044,4</TextSelection>
+                                <TextSelection>1814,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="78798DF0-504A-40DA-A813-9456CEE920BC" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-09-25 12:25:59 -0700">
+                        <BinderItem UUID="78798DF0-504A-40DA-A813-9456CEE920BC" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-01 16:51:37 -0800">
                             <Title>How Zadok the priest gave commands to David the King</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2740,0</TextSelection>
+                                <TextSelection>3504,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="566C7C04-E8FD-4547-A9D7-2B1F035B4626" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-25 12:27:24 -0700">
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-289" Characters="-2226" Date="2025-02-01 14:44:44 -0800"/>
+        <PreviousSession Words="-297" Characters="-2521" Date="2025-02-01 14:44:44 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-289</DraftWordCount>
-        <DraftCharCount>-2226</DraftCharCount>
+        <DraftWordCount>-297</DraftWordCount>
+        <DraftCharCount>-2521</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
