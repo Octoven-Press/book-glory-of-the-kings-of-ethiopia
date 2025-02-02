@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 17:35:47 -0800" ModID="B5F1CBCF-7472-41FE-97FA-C72B159263D5">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 17:42:10 -0800" ModID="660F4F66-CCB8-4868-8594-95F45DDBC8F9">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -718,51 +718,51 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1164,0</TextSelection>
+                                <TextSelection>2737,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="50A8CD2C-C07E-400C-AB53-650E214D93AE" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-09-08 12:53:46 -0700">
-                            <Title>Of the Return of Zadok the Priest, and the giving of the gift</Title>
+                        <BinderItem UUID="50A8CD2C-C07E-400C-AB53-650E214D93AE" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-01 17:36:50 -0800">
+                            <Title>Of the return of Zadok the Priest, and the giving of the gift</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>720,0</TextSelection>
+                                <TextSelection>1973,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B4A13216-FC71-4360-ADC9-530B5BC2D0D9" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 12:53:46 -0700">
-                            <Title>Concerning the Fall of Zadok the Priest</Title>
+                        <BinderItem UUID="B4A13216-FC71-4360-ADC9-530B5BC2D0D9" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 17:37:50 -0800">
+                            <Title>Concerning the fall of Zadok the Priest</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1398,0</TextSelection>
+                                <TextSelection>211,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="12C08EBC-64CB-43A6-83BE-51B9333D9D7D" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-26 10:07:29 -0700">
-                            <Title>How Solomon Rose up to Slay Them</Title>
+                        <BinderItem UUID="12C08EBC-64CB-43A6-83BE-51B9333D9D7D" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2025-02-01 17:38:34 -0800">
+                            <Title>How Solomon set out to kill them</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>170,4</TextSelection>
+                                <TextSelection>2176,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C84D17EE-6524-4CED-AD46-0B95E1D9EA9D" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2024-09-26 10:07:58 -0700">
-                            <Title>How the King Questioned an Egyptian, the Servant of Pharaoh</Title>
+                        <BinderItem UUID="C84D17EE-6524-4CED-AD46-0B95E1D9EA9D" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2025-02-01 17:38:55 -0800">
+                            <Title>How the King questioned an Egyptian, the servant of Pharaoh</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1775,0</TextSelection>
+                                <TextSelection>2362,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="304C1D6D-1335-44AD-8457-3D1594AFBFD5" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-09-26 10:15:56 -0700">
-                            <Title>How Solomon Lamented for Zion</Title>
+                        <BinderItem UUID="304C1D6D-1335-44AD-8457-3D1594AFBFD5" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-01 17:42:10 -0800">
+                            <Title>How Solomon lamented for Zion</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1464,13 +1464,13 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="6A037F1A-129D-4F56-B056-0658D46A8D7C" Type="Text" Created="2024-09-07 23:55:04 -0700" Modified="2024-09-09 10:14:25 -0700">
+                <BinderItem UUID="6A037F1A-129D-4F56-B056-0658D46A8D7C" Type="Text" Created="2024-09-07 23:55:04 -0700" Modified="2025-02-01 17:37:24 -0800">
                     <Title>Modernization</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>40,0</TextSelection>
+                        <TextSelection>2608,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-28 14:08:50 -0700">
@@ -1668,13 +1668,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-437" Characters="-3675" Date="2025-02-01 14:44:44 -0800"/>
+        <PreviousSession Words="-464" Characters="-4061" Date="2025-02-01 14:44:44 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-437</DraftWordCount>
-        <DraftCharCount>-3675</DraftCharCount>
-        <OtherWordCount>2</OtherWordCount>
-        <OtherCharCount>18</OtherCharCount>
+        <DraftWordCount>-464</DraftWordCount>
+        <DraftCharCount>-4061</DraftCharCount>
+        <OtherWordCount>6</OtherWordCount>
+        <OtherCharCount>54</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
