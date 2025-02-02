@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 18:48:33 -0800" ModID="FFD94E3B-2A64-4E93-A77F-08FA035EA5CA">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 18:55:46 -0800" ModID="04CC8986-5A09-4373-9770-EA6FEEDEADB2">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1018,50 +1018,50 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>882,0</TextSelection>
+                                <TextSelection>1968,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8C75BDFB-4DC5-46FA-9EC7-39D399809C9B" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-26 10:55:02 -0700">
-                            <Title>How Queen Mâkĕdâ made her son King</Title>
+                        <BinderItem UUID="8C75BDFB-4DC5-46FA-9EC7-39D399809C9B" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 18:49:10 -0800">
+                            <Title>How Queen Mâkĕdâ made her son king</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>538,0</TextSelection>
+                                <TextSelection>465,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3A6F1EBE-A2DF-4A3A-8B7B-0EFFBA910C27" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-08 11:52:09 -0700">
-                            <Title>How the nobles (or governors) of Ethiopia took the oath</Title>
+                        <BinderItem UUID="3A6F1EBE-A2DF-4A3A-8B7B-0EFFBA910C27" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2025-02-01 18:50:30 -0800">
+                            <Title>How the nobles of Ethiopia took the oath</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3649,7</TextSelection>
+                                <TextSelection>473,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="44614034-CEEC-465B-8B5C-5A207BFBA9BC" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2024-09-08 11:51:15 -0700">
-                            <Title>How he himself related to his mother how they made him King</Title>
+                        <BinderItem UUID="44614034-CEEC-465B-8B5C-5A207BFBA9BC" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2025-02-01 18:53:28 -0800">
+                            <Title>How he told his mother how they made him King</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1770,7</TextSelection>
+                                <TextSelection>0,4321</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="651F63C0-AA9F-4B66-BF85-9F60BC093BC4" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-09-08 11:50:39 -0700">
-                            <Title>How the Queen talked to the Children of Israel</Title>
+                        <BinderItem UUID="651F63C0-AA9F-4B66-BF85-9F60BC093BC4" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-01 18:54:00 -0800">
+                            <Title>How the Queen talked to the children of Israel</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1210,6</TextSelection>
+                                <TextSelection>2595,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="84AD7E31-8568-4F6C-B493-2A5D999CD2AF" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-09-08 11:48:44 -0700">
+                        <BinderItem UUID="84AD7E31-8568-4F6C-B493-2A5D999CD2AF" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-01 18:55:46 -0800">
                             <Title>How Azariah praised the Queen and her city</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1464,13 +1464,13 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="6A037F1A-129D-4F56-B056-0658D46A8D7C" Type="Text" Created="2024-09-07 23:55:04 -0700" Modified="2025-02-01 17:37:24 -0800">
+                <BinderItem UUID="6A037F1A-129D-4F56-B056-0658D46A8D7C" Type="Text" Created="2024-09-07 23:55:04 -0700" Modified="2025-02-01 18:50:37 -0800">
                     <Title>Modernization</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2608,0</TextSelection>
+                        <TextSelection>2662,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-28 14:08:50 -0700">
@@ -1668,13 +1668,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-223" Characters="-3365" Date="2025-02-01 14:44:44 -0800"/>
+        <PreviousSession Words="-233" Characters="-3668" Date="2025-02-01 14:44:44 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-223</DraftWordCount>
-        <DraftCharCount>-3365</DraftCharCount>
-        <OtherWordCount>6</OtherWordCount>
-        <OtherCharCount>54</OtherCharCount>
+        <DraftWordCount>-233</DraftWordCount>
+        <DraftCharCount>-3668</DraftCharCount>
+        <OtherWordCount>8</OtherWordCount>
+        <OtherCharCount>72</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
