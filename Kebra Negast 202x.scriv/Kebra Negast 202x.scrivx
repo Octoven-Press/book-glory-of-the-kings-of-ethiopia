@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 17:49:16 -0800" ModID="3CDFB34E-C23E-439B-B317-1F7B2E871792">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 17:57:23 -0800" ModID="AFE5A9D8-C6DE-4221-B5D3-274E0C7EA6F4">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -821,47 +821,47 @@
                                 <TextSelection>1290,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EB37E37C-AC0E-443D-965F-629987BA4278" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 12:45:32 -0700">
+                        <BinderItem UUID="EB37E37C-AC0E-443D-965F-629987BA4278" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 17:51:55 -0800">
                             <Title>Concerning the prophecy of Christ</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>611,0</TextSelection>
+                                <TextSelection>1511,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="23AC152F-1C90-499D-8EF1-B3947C3C0800" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-26 10:36:50 -0700">
+                        <BinderItem UUID="23AC152F-1C90-499D-8EF1-B3947C3C0800" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2025-02-01 17:53:41 -0800">
                             <Title>Concerning the lamentation of Solomon</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4601,0</TextSelection>
+                                <TextSelection>6231,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0B5DE028-7B13-4B9F-B9C3-86E0E3DFE2A0" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2024-09-08 12:36:37 -0700">
+                        <BinderItem UUID="0B5DE028-7B13-4B9F-B9C3-86E0E3DFE2A0" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2025-02-01 17:55:02 -0800">
                             <Title>Concerning Mary, Our Lady of Salvation</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>5434,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="126F4A09-B39F-46F1-BF75-F7AD64477AD9" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-09-08 12:35:04 -0700">
-                            <Title>Concerning the Question of Solomon</Title>
+                        <BinderItem UUID="126F4A09-B39F-46F1-BF75-F7AD64477AD9" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-01 17:55:40 -0800">
+                            <Title>Concerning the question of Solomon</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2009,7</TextSelection>
+                                <TextSelection>710,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8F05F2EF-4DB2-4E72-8AAA-1D2EAD3F5CF7" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-09-08 12:33:57 -0700">
+                        <BinderItem UUID="8F05F2EF-4DB2-4E72-8AAA-1D2EAD3F5CF7" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-01 17:57:23 -0800">
                             <Title>How Rehoboam reigned</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-483" Characters="-4320" Date="2025-02-01 14:44:44 -0800"/>
+        <PreviousSession Words="-519" Characters="-4643" Date="2025-02-01 14:44:44 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-483</DraftWordCount>
-        <DraftCharCount>-4320</DraftCharCount>
+        <DraftWordCount>-519</DraftWordCount>
+        <DraftCharCount>-4643</DraftCharCount>
         <OtherWordCount>6</OtherWordCount>
         <OtherCharCount>54</OtherCharCount>
     </RecentWritingHistory>
