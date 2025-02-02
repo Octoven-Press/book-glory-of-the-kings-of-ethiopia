@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 17:57:23 -0800" ModID="AFE5A9D8-C6DE-4221-B5D3-274E0C7EA6F4">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 18:04:37 -0800" ModID="546F653A-34D4-4249-9C17-1D5E01A41260">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -868,50 +868,50 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3422,25</TextSelection>
+                                <TextSelection>4949,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="02B79A53-0791-4ADE-9304-F365C506B0E9" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 12:33:03 -0700">
+                        <BinderItem UUID="02B79A53-0791-4ADE-9304-F365C506B0E9" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 17:59:41 -0800">
                             <Title>Concerning Mary, the daughter of David</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>713,9</TextSelection>
+                                <TextSelection>715,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E23D131B-5914-494E-9DAB-ED7AF3A24A54" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-26 10:42:59 -0700">
-                            <Title>Concerning the King of Rômê (Constantinople)</Title>
+                        <BinderItem UUID="E23D131B-5914-494E-9DAB-ED7AF3A24A54" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 18:01:29 -0800">
+                            <Title>Concerning the King of Byzantium</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4412,30</TextSelection>
+                                <TextSelection>2053,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4668474F-A890-4257-AF44-5DE3156D72E1" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-08 12:30:34 -0700">
-                            <Title>Concerning the first judgment of ’Adrâmî, King of Rômê</Title>
+                        <BinderItem UUID="4668474F-A890-4257-AF44-5DE3156D72E1" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 18:02:03 -0800">
+                            <Title>Concerning the first judgment of ’Adrâmî, King of Constantinople</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1604,0</TextSelection>
+                                <TextSelection>1634,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="39484EAC-FA98-424D-808D-CB91BCE7F548" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-08 12:28:48 -0700">
+                        <BinderItem UUID="39484EAC-FA98-424D-808D-CB91BCE7F548" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 18:04:04 -0800">
                             <Title>Concerning the King of Medyâm</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,2085</TextSelection>
+                                <TextSelection>2080,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="11055E8F-D544-43CA-AC3A-4CA9B05AAB13" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 12:28:00 -0700">
+                        <BinderItem UUID="11055E8F-D544-43CA-AC3A-4CA9B05AAB13" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 18:04:37 -0800">
                             <Title>Concerning the King of Babylon</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-519" Characters="-4643" Date="2025-02-01 14:44:44 -0800"/>
+        <PreviousSession Words="-541" Characters="-4657" Date="2025-02-01 14:44:44 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-519</DraftWordCount>
-        <DraftCharCount>-4643</DraftCharCount>
+        <DraftWordCount>-541</DraftWordCount>
+        <DraftCharCount>-4657</DraftCharCount>
         <OtherWordCount>6</OtherWordCount>
         <OtherCharCount>54</OtherCharCount>
     </RecentWritingHistory>
