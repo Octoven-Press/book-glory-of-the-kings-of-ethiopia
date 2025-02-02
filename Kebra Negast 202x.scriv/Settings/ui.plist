@@ -66,7 +66,7 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {327, 2074}}</string>
-		<string>{{328, 0}, {1382, 2074}}</string>
+		<string>{{328, 0}, {1640, 2074}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -382,8 +382,10 @@
 		</dict>
 		<key>601BA5F9-C19C-4168-A52C-56D98E8322CC</key>
 		<dict>
+			<key>DocID</key>
+			<string>BBAAF758-D916-448D-AAAE-8CC3D1F75F7C</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>60EEE6BA-0354-47F6-AE21-A6C88286A2B2</key>
 		<dict>
@@ -875,8 +877,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1088, 2044}}</string>
-		<string>{{1089, 0}, {293, 2044}}</string>
+		<string>{{0, 0}, {1346, 2044}}</string>
+		<string>{{1347, 0}, {293, 2044}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -895,7 +897,7 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>2066 33 1710 2102 0 0 3840 2135 </string>
+	<string>1808 33 1968 2102 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>

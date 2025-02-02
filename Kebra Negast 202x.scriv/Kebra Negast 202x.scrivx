@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 19:07:12 -0800" ModID="993120C1-FE74-4510-A865-D04497894E24">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 23:11:23 -0800" ModID="247485AC-35E8-4C7E-9CC4-AD6DB578511A">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1118,50 +1118,50 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4346,4</TextSelection>
+                                <TextSelection>443,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="74016A29-C426-4468-9D0B-357149297C95" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2024-09-26 11:11:46 -0700">
-                            <Title>Concerning the Prophecy about Christ</Title>
+                        <BinderItem UUID="74016A29-C426-4468-9D0B-357149297C95" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-01 22:58:58 -0800">
+                            <Title>Concerning the prophecy about Christ</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5950,4</TextSelection>
+                                <TextSelection>7626,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CB01FC6C-5E9E-4617-8851-ED4D0CC7DA46" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-26 11:13:14 -0700">
-                            <Title>Concerning the Murmuring of Israel</Title>
+                        <BinderItem UUID="CB01FC6C-5E9E-4617-8851-ED4D0CC7DA46" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 23:00:01 -0800">
+                            <Title>Concerning the murmuring of Israel</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3815,4</TextSelection>
+                                <TextSelection>3862,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EFF07607-0AFB-42CA-952C-BF2AC6900522" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2024-09-26 11:13:38 -0700">
-                            <Title>Concerning the Rod of Moses and the Rod of Aaron</Title>
+                        <BinderItem UUID="EFF07607-0AFB-42CA-952C-BF2AC6900522" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2025-02-01 23:07:49 -0800">
+                            <Title>Concerning the rod of Moses and the rod of Aaron</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3219,0</TextSelection>
+                                <TextSelection>10947,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="41EF8396-70EC-4250-AD3E-EEFB0F256E8C" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2024-09-08 11:25:28 -0700">
-                            <Title>Concerning the Two Servants</Title>
+                        <BinderItem UUID="41EF8396-70EC-4250-AD3E-EEFB0F256E8C" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2025-02-01 23:08:16 -0800">
+                            <Title>Concerning the two servants</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1829,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="601BA5F9-C19C-4168-A52C-56D98E8322CC" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2024-09-08 11:23:34 -0700">
+                        <BinderItem UUID="601BA5F9-C19C-4168-A52C-56D98E8322CC" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-01 23:11:23 -0800">
                             <Title>Concerning the Angels who rebelled</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-309" Characters="-4118" Date="2025-02-01 14:44:44 -0800"/>
+        <PreviousSession Words="-340" Characters="-2052" Date="2025-02-01 14:44:44 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-309</DraftWordCount>
-        <DraftCharCount>-4118</DraftCharCount>
+        <DraftWordCount>-340</DraftWordCount>
+        <DraftCharCount>-2052</DraftCharCount>
         <OtherWordCount>8</OtherWordCount>
         <OtherCharCount>72</OtherCharCount>
     </RecentWritingHistory>
