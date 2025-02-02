@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 18:55:46 -0800" ModID="04CC8986-5A09-4373-9770-EA6FEEDEADB2">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 19:07:12 -0800" ModID="993120C1-FE74-4510-A865-D04497894E24">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1068,51 +1068,51 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>184,0</TextSelection>
+                                <TextSelection>6907,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="25489320-1838-4FDC-B72C-048BDAD26743" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-26 11:03:24 -0700">
-                            <Title>This is what ye shall eat: the clean and the unclean</Title>
+                        <BinderItem UUID="25489320-1838-4FDC-B72C-048BDAD26743" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 19:02:45 -0800">
+                            <Title>This is what you shall eat: the clean and the unclean</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1161,1</TextSelection>
+                                <TextSelection>3623,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7EC8A356-1DF1-4090-8757-8641FFC6D5A3" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-26 11:04:58 -0700">
+                        <BinderItem UUID="7EC8A356-1DF1-4090-8757-8641FFC6D5A3" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 19:03:22 -0800">
                             <Title>How they renewed the kingdom of David</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2078,4</TextSelection>
+                                <TextSelection>2518,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8801C389-6FE6-4A11-9765-9008A9DCF3E8" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-26 11:05:34 -0700">
-                            <Title>How the men of Rômê destroyed the Faith</Title>
+                        <BinderItem UUID="8801C389-6FE6-4A11-9765-9008A9DCF3E8" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 19:04:23 -0800">
+                            <Title>How the men of Byzantium destroyed the Faith</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>815,4</TextSelection>
+                                <TextSelection>2110,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="AD7AE4E7-7EF3-4330-94B0-79EDD1B7299E" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-26 11:07:12 -0700">
+                        <BinderItem UUID="AD7AE4E7-7EF3-4330-94B0-79EDD1B7299E" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 19:05:16 -0800">
                             <Title>The first war of the King of Ethiopia</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>885,63</TextSelection>
+                                <TextSelection>3708,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CB5E3EF6-6A26-4E1B-91E5-C3E0B3ADD5FB" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-26 11:08:07 -0700">
-                            <Title>How the honourable estate of the King of  Ethiopia was universally accepted</Title>
+                        <BinderItem UUID="CB5E3EF6-6A26-4E1B-91E5-C3E0B3ADD5FB" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 19:07:12 -0800">
+                            <Title>How the honorable estate of the King of Ethiopia was universally accepted</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-233" Characters="-3668" Date="2025-02-01 14:44:44 -0800"/>
+        <PreviousSession Words="-309" Characters="-4118" Date="2025-02-01 14:44:44 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-233</DraftWordCount>
-        <DraftCharCount>-3668</DraftCharCount>
+        <DraftWordCount>-309</DraftWordCount>
+        <DraftCharCount>-4118</DraftCharCount>
         <OtherWordCount>8</OtherWordCount>
         <OtherCharCount>72</OtherCharCount>
     </RecentWritingHistory>
