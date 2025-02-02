@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 16:51:37 -0800" ModID="F0DEF742-D820-4BAC-AFDE-345670DC0575">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-01 17:06:52 -0800" ModID="F2ED581F-078F-41A0-8DE4-D954FD8899C8">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -571,47 +571,47 @@
                                 <TextSelection>3504,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="566C7C04-E8FD-4547-A9D7-2B1F035B4626" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-25 12:27:24 -0700">
+                        <BinderItem UUID="566C7C04-E8FD-4547-A9D7-2B1F035B4626" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 16:52:29 -0800">
                             <Title>Concerning the blessing of Kings</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4300,4</TextSelection>
+                                <TextSelection>1264,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A9428E5E-BB91-4AC1-AD17-B988D367C6D2" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-08 17:45:25 -0700">
+                        <BinderItem UUID="A9428E5E-BB91-4AC1-AD17-B988D367C6D2" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 16:53:11 -0800">
                             <Title>Concerning the Ten Commandments</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4917,0</TextSelection>
+                                <TextSelection>691,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B2E81281-B940-44B0-9744-568C7D29F399" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2024-09-25 12:30:29 -0700">
-                            <Title>How the men of the Army of Israel received [their] orders</Title>
+                        <BinderItem UUID="B2E81281-B940-44B0-9744-568C7D29F399" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 16:58:34 -0800">
+                            <Title>How the men of the Army of Israel received their orders</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4166,4</TextSelection>
+                                <TextSelection>2140,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="028DF88E-85B8-4DCD-8ACF-051D209F2A26" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2024-09-25 12:30:45 -0700">
-                            <Title>How it is not a seemly thing to revile the King</Title>
+                        <BinderItem UUID="028DF88E-85B8-4DCD-8ACF-051D209F2A26" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 17:04:30 -0800">
+                            <Title>How it is not a proper thing to revile the King</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>778,3</TextSelection>
+                                <TextSelection>2878,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="46378D25-95C8-4EEE-9914-06CB2CE2A9F9" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-25 12:34:38 -0700">
+                        <BinderItem UUID="46378D25-95C8-4EEE-9914-06CB2CE2A9F9" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 17:06:52 -0800">
                             <Title>How those who were sent away wept and made a plan</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-02 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-297" Characters="-2521" Date="2025-02-01 14:44:44 -0800"/>
+        <PreviousSession Words="-343" Characters="-2923" Date="2025-02-01 14:44:44 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-01 00:00:00 -0800">
-        <DraftWordCount>-297</DraftWordCount>
-        <DraftCharCount>-2521</DraftCharCount>
+        <DraftWordCount>-343</DraftWordCount>
+        <DraftCharCount>-2923</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
