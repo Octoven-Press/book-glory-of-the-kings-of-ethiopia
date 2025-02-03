@@ -1,7 +1,7 @@
 # The Queen of Sheba & *her only* son Menyelek #
 Being the history of the departure of God & his Ark of the Covenant from Jerusalem to Ethiopia, and the establishment of the religion of the Hebrews & the Solomonic line of kings in that country. A complete translation of the Kebra Nagast with introduction by Sir E. A. Wallis Budge, M.A., Litt.D., D.Litt., Lit.D., F.S.A., Sometime Scholar of Christ’s College, Cambridge, and Tyrwhitt Hebrew Scholar. Keeper of the Department of Egyptian and Assyrian Antiquities in the British Museum. 
 
-Now first published with 31 illustrations from Ethiopic MSS. in the British Museum by the [Medici Society, Limited](https://www.medici.co.uk/), Limited, London, Liverpool, and Boston, Mass., MCMXXII.
+Now first published with 31 illustrations from Ethiopic manuscripts in the British Museum by the [Medici Society, Limited](https://www.medici.co.uk/), Limited, London, Liverpool, and Boston, Mass., MCMXXII.
 
 
 # Prefaces #
@@ -2057,7 +2057,7 @@ Levine, 1974
 
 [^fn61]: 2 Samuel vii, 12; Psalm cxxxii, 11.
 
-[^fn62]: There is a mistake here. The author had in his mind Joab, the captain of David’s host. Several of the MSS. have the reading “Benyâs,” *i.e.*, Benaiah, the son of Jehoiada (see 1 Kings ii, 35), who was put in Joab’s room.
+[^fn62]: There is a mistake here. The author had in his mind Joab, the captain of David’s host. Several of the manuscripts have the reading “Benyâs,” *i.e.*, Benaiah, the son of Jehoiada (see 1 Kings ii, 35), who was put in Joab’s room.
 
 [^fn63]: See Genesis iii, 16.
 
