@@ -71,7 +71,7 @@ In the short introduction that follows I have given a sketch of the literary his
 
 # Contents #
 
-## Introduction: ##
+## Introduction ##
 
 1. [The Manuscripts of the Kĕbra Nagast, etc.](#i-the-manuscripts-of-the-kebra-nagast-and-their-arrival-in-europe-the-labours-of-bruce-dillmann-praetorius-wright-zotenberg-and-bezold-king-johns-letter-to-lord-granville-date-of-compilation-of-the-kebra-nagast-the-ethiopian-work-based-on-coptic-and-arabic-sources-etc)  
 2. [Translation of the Arabic Version](#ii-english-translation-of-the-arabic-text-describing-how-the-kingdom-of-david-was-transferred-from-jerusalem-to-ethiopia13)  
