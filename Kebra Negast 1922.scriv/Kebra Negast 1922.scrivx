@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-02 12:53:40 -0800" ModID="29663F32-3D04-4351-AA84-D58A10E29338">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-02 20:45:48 -0800" ModID="2E4A2B11-24A1-40D0-84C0-9D13418CE1BD">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1024,7 +1024,7 @@
                                 <TextSelection>0,3331</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="18374A47-A9CA-4DC8-86F3-4B6C8128E847" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2024-09-26 10:53:06 -0700">
+                        <BinderItem UUID="18374A47-A9CA-4DC8-86F3-4B6C8128E847" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-02 20:45:47 -0800">
                             <Title>Concerning the going down of Abraham into Egypt</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1713,7 +1713,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-03 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-02-02 12:53:35 -0800"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-02-02 20:37:58 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-02 00:00:00 -0800">
         <DraftWordCount>0</DraftWordCount>

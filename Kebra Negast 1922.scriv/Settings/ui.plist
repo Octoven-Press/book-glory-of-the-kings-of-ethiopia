@@ -812,8 +812,10 @@
 		</dict>
 		<key>DFED9607-2CE2-4753-832C-0D2071D34531</key>
 		<dict>
+			<key>DocID</key>
+			<string>BBAAF758-D916-448D-AAAE-8CC3D1F75F7C</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>E23D131B-5914-494E-9DAB-ED7AF3A24A54</key>
 		<dict>
@@ -940,14 +942,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {354.33333333333331, 307.33333333333331}}</string>
+	<string>{{0, 177.33333333333331}, {354.33333333333331, 307.33333333333331}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 33 1710 1036 0 0 1710 1069 </string>
+	<string>1430 33 1710 1036 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
