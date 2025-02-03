@@ -1,7 +1,11 @@
 # The Queen of Sheba & *her only* son Menyelek #
 Being the history of the departure of God & his Ark of the Covenant from Jerusalem to Ethiopia, and the establishment of the religion of the Hebrews & the Solomonic line of kings in that country. A complete translation of the Kebra Nagast with introduction by Sir E. A. Wallis Budge, M.A., Litt.D., D.Litt., Lit.D., F.S.A., Sometime Scholar of Christ’s College, Cambridge, and Tyrwhitt Hebrew Scholar. Keeper of the Department of Egyptian and Assyrian Antiquities in the British Museum. 
 
-Now first published with 31 illustrations from Ethiopic manuscripts in the British Museum by the [Medici Society, Limited](https://www.medici.co.uk/), Limited, London, Liverpool, and Boston, Mass., MCMXXII.
+Modernized after 100 years and illustrated by Micah Laaker.
+
+First edition published by the [Medici Society, Limited](https://www.medici.co.uk/), London, Liverpool, and Boston, Massachusetts, MCMXXII.
+Second edition also published by the Medici Society, Limited, MCMXXXII.
+Current edition published by Octoven Press, Mountain View, California, MMXXV.
 
 
 # Prefaces #
