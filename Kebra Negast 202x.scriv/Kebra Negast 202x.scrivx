@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-02 14:08:18 -0800" ModID="104A71DE-68B8-4BE7-9A13-9B6FD4ED4FC4">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-02 16:25:13 -0800" ModID="B312AB83-4A6F-431E-943C-55E4486869C8">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -49,7 +49,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="EAE4EC35-7714-4850-9896-4819C2DB649B" Type="Text" Created="2024-06-03 18:56:38 -0700" Modified="2025-01-26 13:43:16 -0800">
+                        <BinderItem UUID="EAE4EC35-7714-4850-9896-4819C2DB649B" Type="Text" Created="2024-06-03 18:56:38 -0700" Modified="2025-02-02 16:25:13 -0800">
                             <Title>Preface to the 202x edition</Title>
                             <MetaData>
                                 <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
@@ -1401,7 +1401,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3419,0</TextSelection>
+                                <TextSelection>4245,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="0EEF3E7B-FF29-43FD-B7AA-C20BC20BF9C9" Type="Text" Created="2024-06-03 18:58:35 -0700" Modified="2024-09-09 10:29:34 -0700">
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-03 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-107" Characters="-1139" Date="2025-02-02 12:53:35 -0800"/>
+        <PreviousSession Words="-81" Characters="-942" Date="2025-02-02 12:53:35 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-02 00:00:00 -0800">
-        <DraftWordCount>-107</DraftWordCount>
-        <DraftCharCount>-1139</DraftCharCount>
+        <DraftWordCount>-81</DraftWordCount>
+        <DraftCharCount>-942</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
