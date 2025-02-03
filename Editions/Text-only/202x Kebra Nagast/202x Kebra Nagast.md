@@ -83,122 +83,122 @@ In the short introduction that follows I have given a sketch of the literary his
 ## The Chapters of the Kĕbra Nagast ##
 
 1.	[The Glory of Kings](#1-concerning-the-glory-of-kings)
-2.	The Greatness of Kings
-3.	The Kingdom of Adam
-4.	Concerning Envy
-5.	The Kingdom of Seth
-6.	The Sin of Cain
-7.	Noah
-8.	The Flood
-9.	The Covenant of Noah
-10.	Concerning Zion
-11.	Declaration of the 318 Orthodox Fathers
-12.	Canaan
-13.	Abraham
-14.	The Covenant of Abraham
-15.	Isaac and Jacob
-16.	Reuben
-17.	The Glory of Zion
-18.	The Agreement of the Orthodox Fathers and Bishops
-19.	The Discovery of the Book Kĕbra Nagast
-20.	The Division of the Earth
-21.	The Queen of the South
-22.	Tâmrîn, the Merchant
-23.	The Return of Tâmrîn to Ethiopia
-24.	The Queen of Ethiopia prepares for her Journey to Jerusalem
-25.	The Queen of Ethiopia comes to Solomon the King
-26.	The Conversation of Solomon with the Queen of Ethiopia
-27.	Solomon and the Workman
-28.	Solomon’s Instructions to the Queen
-29.	The 318 Patriarchs—Narrative of Solomon and the Queen—continued
-30.	Solomon’s Oath to the Queen of Ethiopia
-31.	Solomon’s Sign to the Queen of Ethiopia
-32.	The Queen brings forth her son Menyelek
-33.	Menyelek sets out for Jerusalem
-34.	Menyelek arrived in Gâzâ
-35.	Solomon makes Menyelek Captain of his Host
-36.	Solomon’s Conversation with Menyelek
-37.	Solomon questions his son Menyelek
-38.	Solomon decides to send Menyelek away with the eldest sons of his nobles
-39.	Menyelek is anointed King of Ethiopia, and is called David (II)
-40.	Zadok’s Commands to Menyelek
-41.	The Blessing of Kings
-42.	The Ten Commandments
-43.	The Priests and Officials of the Court of Menyelek in Ethiopia
-44.	The King must not be reviled
-45.	The Sons of the Nobles who are to go to Ethiopia make a plot
-46.	The Plot to steal the Tabernacle of Zion from the Temple in Jerusalem
-47.	The Offering of Azariah and the King
-48.	How they stole the Tabernacle of Zion
-49.	How Solomon blessed his son Menyelek
-50.	The Farewell of Menyelek to his father, and the grief of the people
-51.	Solomon bids Zadok fetch the covering of the Tabernacle of Zion
-52.	Zadok gives Menyelek the covering of the Tabernacle of Zion
-53.	The Gift of the Wagon of Zion to Ethiopia
-54.	How Menyelek prophesied and saluted Zion
-55.	How the People of Ethiopia rejoiced
-56.	Zadok the Priest discovers that the Tabernacle of Zion has been stolen
-57.	The Swooning of Zadok the Priest
-58.	How Solomon rose up to slay them
-59.	Solomon arrives in Egypt and questions the Egyptians
-60.	Solomon’s Lament for the Tabernacle of Zion
-61.	Solomon’s Return to Jerusalem
-62.	Solomon’s Resignation to the Will of God
-63.	The Elders accept Solomon’s View and decide to keep the theft of Zion a secret
-64.	Solomon marries an Egyptian Princess
-65.	The Sin of Solomon
-66.	Solomon a prototype of Christ
-67.	The Death Lament of Solomon
-68.	The Virgin Mary, our Lady of Salvation
-69.	The Conversation of Solomon with the Angel concerning Christ
-70.	The Reign of Rehoboam
-71.	The Virgin Mary, the daughter of David
-72.	The King of Byzantium
-73.	’Adrâmî, the son of Solomon, becomes King of Byzantium
-74.	The King of Medyâm, a descendant of Shem
-75.	The King of Babylon, a descendant of Shem
-76.	Nebuchadnezzar, the son of Karmîn, a descendant of Shem
-77.	The King of Persia, a descendant of Tamar
-78.	The King of Moab, a descendant of Lot
-79.	The King of Amalek, a descendant of Lot
-80.	The King of Philistia, a descendant of Samson
-81.	How Akamḥêl, the son of Samson, slew Ṭebrêlês, the son of the King of the Philistines
-82.	Abraham’s journey into Egypt
-83.	The King of the Ishmaelites
-84.	How Menyelek returned to Ethiopia
-85.	How Queen Mâkĕdâ rejoiced at his coming
-86.	How Queen Mâkĕdâ made her son King of Ethiopia
-87.	How the Ethiopian Nobles swore fidelity to him
-88.	Menyelek describes to his Mother his anointing as King
-89.	Queen Mâkĕdâ’s Address to the Israelites in Ethiopia
-90.	How Azariah praised the Queen and her Royal City
-91.	Regulations about Meats, clean and unclean
-92.	How the Kingdom of Menyelek was established in Ethiopia
-93.	How the Men of Byzantium destroyed the Faith
-94.	The First War of Menyelek
-95.	How the Authority of Menyelek was universally accepted
-96.	The Prophecies concerning Christ
-97.	The Murmuring of the Israelites against Moses and Aaron
-98.	The Rod of Moses and the Rod of Aaron
-99.	Parable of the Two Slaves, *i.e.* the Devil and Adam
-100.	How the Angels rebelled against God when He created Adam
-101.	Concerning Him that existeth in everything
-102.	The Beginning
-103.	The Horns of the Altar and their Significance
-104.	The Ark of Noah and the Talk of the Wicked
-105.	The Belief of Abraham
-106.	Prophecies concerning the Coming of Christ
-107.	Christ’s Glorious Entrance into Jerusalem
-108.	The Wickedness of the Jews
-109.	The Crucifixion
-110.	The Resurrection
-111.	The Ascension of Christ and His Second Coming
-112.	The Prophets as prototypes of Christ
-113.	The Chariot and the Vanquisher of the Enemy
-114.	The Return of Zion
-115.	The Judgement of Israel
-116.	The Chariot of Ethiopia
-117.	The King of Byzantium and the King of Ethiopia
+2.	[The Greatness of Kings](#2-concerning-the-greatness-of-kings)
+3.	[The Kingdom of Adam](#3-concerning-the-kingdom-of-adam)
+4.	[Concerning Envy](#4-concerning-envy)
+5.	[The Kingdom of Seth](#5-concerning-the-kingdom-of-seth)
+6.	[The Sin of Cain](#6-concerning-the-sin-of-cain)
+7.	[Noah](#7-concerning-noah)
+8.	[The Flood](#8-concerning-the-flood)
+9.	[The Covenant of Noah](#9-concerning-the-covenant-of-noah)
+10.	[Concerning Zion](#10-concerning-zion)
+11.	[Declaration of the 318 Orthodox Fathers](#11-the-unanimous-declaration-of-the-318-orthodox-fathers)
+12.	[Canaan](#12-concerning-canaan)
+13.	[Abraham](#13-concerning-abraham)
+14.	[The Covenant of Abraham](#14-concerning-the-covenant-of-abraham)
+15.	[Isaac and Jacob](#15-concerning-isaac-and-jacob)
+16.	[Reuben](#16-concerning-reuben)
+17.	[The Glory of Zion](#17-concerning-the-glory-of-zion)
+18.	[The Agreement of the Orthodox Fathers and Bishops](#18-how-the-orthodox-fathers-and-bishops-agreed)
+19.	[The Discovery of the Book Kĕbra Nagast](#19-how-this-book-came-to-be-found)
+20.	[The Division of the Earth](#20-concerning-the-division-of-the-earth)
+21.	[The Queen of the South](#21-concerning-the-queen-of-the-south)
+22.	[Tâmrîn, the Merchant](#22-concerning-tâmrîn-the-merchant)
+23.	[The Return of Tâmrîn to Ethiopia](#23-how-the-merchant-returned-to-ethiopia)
+24.	[The Queen of Ethiopia prepares for her Journey to Jerusalem](#24-how-the-queen-made-ready-to-set-out-on-her-journey)
+25.	[The Queen of Ethiopia comes to Solomon the King](#25-how-the-queen-came-to-solomon-the-king)
+26.	[The Conversation of Solomon with the Queen of Ethiopia](#26-how-the-king-engaged-in-conversation-with-the-queen)
+27.	[Solomon and the Workman](#27-concerning-the-labourer)
+28.	[Solomon’s Instructions to the Queen](#28-how-solomon-gave-commandments-to-the-queen)
+29.	[The 318 Patriarchs / Narrative of Solomon and the Queen continued](#29-concerning-the-318-patriarchs)
+30.	[Solomon’s Oath to the Queen of Ethiopia](#30-concerning-how-king-solomon-swore-to-the-queen)
+31.	[Solomon’s Sign to the Queen of Ethiopia](#31-concerning-the-sign-which-solomon-gave-the-queen)
+32.	[The Queen brings forth her son Menyelek](#32-how-the-queen-brought-forth-and-came-to-her-own-country)
+33.	[Menyelek sets out for Jerusalem](#33-how-the-king-of-ethiopia-traveled)
+34.	[Menyelek arrived in Gâzâ](#34-how-the-young-man-arrived-in-his-mothers-country)
+35.	[Solomon makes Menyelek Captain of his Host](#35-how-king-solomon-sent-the-commander-of-his-army-to-his-son)
+36.	[Solomon’s Conversation with Menyelek](#36-how-king-solomon-dealt-with-his-son)
+37.	[Solomon questions his son Menyelek](#37-how-solomon-asked-his-son-questions)
+38.	[Solomon decides to send Menyelek away with the eldest sons of his nobles](#38-how-the-king-planned-to-send-away-his-son-with-the-children-of-the-nobles)
+39.	[Menyelek is anointed King of Ethiopia, and is called David (II)](#39-how-they-made-the-son-of-solomon-king)
+40.	[Zadok’s Commands to Menyelek](#40-how-zadok-the-priest-gave-commands-to-david-the-king)
+41.	[The Blessing of Kings](#41-concerning-the-blessing-of-kings)
+42.	[The Ten Commandments](#42-concerning-the-ten-commandments)
+43.	[The Priests and Officials of the Court of Menyelek in Ethiopia](#43-how-the-men-of-the-army-of-israel-received-their-orders)
+44.	[The King must not be reviled](#44-how-it-is-not-a-proper-thing-to-revile-the-king)
+45.	[The Sons of the Nobles who are to go to Ethiopia make a plot](#45-how-those-who-were-sent-away-wept-and-made-a-plan)
+46.	[The Plot to steal the Tabernacle of Zion from the Temple in Jerusalem](#46-how-they-made-a-plan-concerning-zion)
+47.	[The Offering of Azariah and the King](#47-concerning-the-offering-of-azariah-and-the-king)
+48.	[How they stole the Tabernacle of Zion](#48-how-they-carried-away-zion)
+49.	[How Solomon blessed his son Menyelek](#49-how-his-father-blessed-his-son)
+50.	[The Farewell of Menyelek to his father, and the grief of the people](#50-how-they-bid-farewell-to-his-father-and-how-the-city-mourned)
+51.	[Solomon bids Zadok fetch the covering of the Tabernacle of Zion](#51-how-he-said-to-zadok-the-priest-go-and-bring-the-covering-which-is-upon-zion)
+52.	[Zadok gives Menyelek the covering of the Tabernacle of Zion](#52-how-zadok-the-priest-departed)
+53.	[The Gift of the Wagon of Zion to Ethiopia](#53-how-the-wagon-was-given-to-ethiopia)
+54.	[How Menyelek prophesied and saluted Zion](#54-how-menyelek-the-king-of-ethiopia-prophesied-and-saluted-zion)
+55.	[How the People of Ethiopia rejoiced](#55-how-the-people-of-ethiopia-rejoiced)
+56.	[Zadok the Priest discovers that the Tabernacle of Zion has been stolen](#56-of-the-return-of-zadok-the-priest-and-the-giving-of-the-gift)
+57.	[The Swooning of Zadok the Priest](#57-concerning-the-fall-of-zadok-the-priest)
+58.	[How Solomon rose up to slay them](#58-how-solomon-set-out-to-kill-them)
+59.	[Solomon arrives in Egypt and questions the Egyptians](#59-how-the-king-questioned-an-egyptian-the-servant-of-pharaoh)
+60.	[Solomon’s Lament for the Tabernacle of Zion](#60-how-solomon-lamented-for-zion)
+61.	[Solomon’s Return to Jerusalem](#61-how-solomon-returned-to-jerusalem)
+62.	[Solomon’s Resignation to the Will of God](#62-concerning-the-answer-which-solomon-gave-to-them)
+63.	[The Elders accept Solomon’s View and decide to keep the theft of Zion a secret](#63-how-the-nobles-of-israel-agreed-with-the-king)
+64.	[Solomon marries an Egyptian Princess](#64-how-the-daughter-of-pharaoh-seduced-solomon)
+65.	[The Sin of Solomon](#65-concerning-the-sin-of-solomon)
+66.	[Solomon a prototype of Christ](#66-concerning-the-prophecy-of-christ)
+67.	[The Death Lament of Solomon](#67-concerning-the-lamentation-of-solomon)
+68.	[The Virgin Mary, our Lady of Salvation](#68-concerning-mary-our-lady-of-salvation)
+69.	[The Conversation of Solomon with the Angel concerning Christ](#69-concerning-the-question-of-solomon)
+70.	[The Reign of Rehoboam](#70-how-rehoboam-reigned)
+71.	[The Virgin Mary, the daughter of David](#71-concerning-mary-the-daughter-of-david)
+72.	[The King of Byzantium](#72-concerning-the-king-of-byzantium)
+73.	[’Adrâmî, the son of Solomon, becomes King of Byzantium](#73-concerning-the-first-judgment-of-adrâmî-king-of-constantinople)
+74.	[The King of Medyâm, a descendant of Shem](#74-concerning-the-king-of-medyâm)
+75.	[The King of Babylon, a descendant of Shem](#75-concerning-the-king-of-babylon)
+76.	[Nebuchadnezzar, the son of Karmîn, a descendant of Shem](#76-concerning-lying-witnesses)
+77.	[The King of Persia, a descendant of Tamar](#77-concerning-the-king-of-persia)
+78.	[The King of Moab, a descendant of Lot](#78-concerning-the-king-of-moab)
+79.	[The King of Amalek, a descendant of Lot](#79-concerning-the-king-of-amalek)
+80.	[The King of Philistia, a descendant of Samson](#80-concerning-the-king-of-the-philistines)
+81.	[How Akamḥêl, the son of Samson, slew Ṭebrêlês, the son of the King of the Philistines](#81-how-the-son-of-samson-killed-the-son-of-the-king-of-the-philistines)
+82.	[Abraham’s journey into Egypt](#82-concerning-abraham-going-down-into-egypt)
+83.	[The King of the Ishmaelites](#83-concerning-the-king-of-the-ishmaelites)
+84.	[How Menyelek returned to Ethiopia](#84-concerning-the-king-of-ethiopia-and-how-he-returned-to-his-country)
+85.	[How Queen Mâkĕdâ rejoiced at his coming](#85-concerning-the-rejoicing-of-queen-mâkĕdâ)
+86.	[How Queen Mâkĕdâ made her son King of Ethiopia](#86-how-queen-mâkĕdâ-made-her-son-king)
+87.	[How the Ethiopian Nobles swore fidelity to him](#87-how-the-nobles-of-ethiopia-took-the-oath)
+88.	[Menyelek describes to his Mother his anointing as King](#88-how-he-told-his-mother-how-they-made-him-king)
+89.	[Queen Mâkĕdâ’s Address to the Israelites in Ethiopia](#89-how-the-queen-talked-to-the-children-of-israel)
+90.	[How Azariah praised the Queen and her Royal City](#90-how-azariah-praised-the-queen-and-her-city)
+91.	[Regulations about Meats, clean and unclean](#91-this-is-what-you-shall-eat-the-clean-and-the-unclean)
+92.	[How the Kingdom of Menyelek was established in Ethiopia](#92-how-they-renewed-the-kingdom-of-david)
+93.	[How the Men of Byzantium destroyed the Faith](#93-how-the-men-of-byzantium-destroyed-the-faith)
+94.	[The First War of Menyelek](#94-the-first-war-of-the-king-of-ethiopia)
+95.	[How the Authority of Menyelek was universally accepted](#95-how-the-honorable-estate-of-the-king-of-ethiopia-was-universally-accepted)
+96.	[The Prophecies concerning Christ](#96-concerning-the-prophecy-about-christ)
+97.	[The Murmuring of the Israelites against Moses and Aaron](#97-concerning-the-murmuring-of-israel)
+98.	[The Rod of Moses and the Rod of Aaron](#98-concerning-the-rod-of-moses-and-the-rod-of-aaron)
+99.	[Parable of the Two Slaves, *i.e.* the Devil and Adam](#99-concerning-the-two-servants)
+100.	[How the Angels rebelled against God when He created Adam](#100-concerning-the-angels-who-rebelled)
+101.	[Concerning Him that exists in everything](#101-concerning-him-that-exists-in-everything-and-everywhere)
+102.	[The Beginning](#102-concerning-the-beginning)
+103.	[The Horns of the Altar and their Significance](#103-concerning-the-horns-of-the-altar)
+104.	[The Ark of Noah and the Talk of the Wicked](#104-more-concerning-the-ark-and-the-talk-of-the-wicked)
+105.	[The Belief of Abraham](#105-concerning-the-belief-of-abraham)
+106.	[Prophecies concerning the Coming of Christ](#106-a-prophecy-concerning-the-coming-of-christ)
+107.	[Christ’s Glorious Entrance into Jerusalem](#107-concerning-his-entrance-into-jerusalem-in-glory)
+108.	[The Wickedness of the Jews](#108-concerning-the-wickedness-of-the-iniquitous-jews)
+109.	[The Crucifixion](#109-concerning-his-crucifixion)
+110.	[The Resurrection](#110-concerning-his-resurrection)
+111.	[The Ascension of Christ and His Second Coming](#111-concerning-his-ascension-and-his-second-coming)
+112.	[The Prophets as prototypes of Christ](#112-how-the-prophets-foreshadowed-him-in-their-persons)
+113.	[The Chariot and the Vanquisher of the Enemy](#113-concerning-the-chariot-and-the-vanquisher-of-the-enemy)
+114.	[The Return of Zion](#114-concerning-the-return-of-zion)
+115.	[The Judgement of Israel](#115-concerning-the-judgement-of-israel)
+116.	[The Chariot of Ethiopia](#116-concerning-the-chariot-of-ethiopia)
+117.	[The King of Byzantium and the King of Ethiopia](#117-concerning-the-king-of-byzantium-and-the-king-of-ethiopia)
 
 [Colophon](#colophon)
 
@@ -614,7 +614,7 @@ And when the young man arrived in his mother’s country he rejoiced there in th
 And King Solomon answered and said to them, “Where is it then that he wishes to go?” And they answered and said to him, “We have not enquired of him, for he is awesome like yourself. But his own people, when we asked them, ‘From where have you come and to where do you go?’ said, ‘We have come from the dominions of the Queen Mother and Ethiopia, and we are going to the country of Judah to King Solomon.’” And when King Solomon heard this his heart was perturbed and he was glad in his soul, for in those days he had no children, except a boy who was seven years old and whose name was Rehoboam. It happened to Solomon even as Paul states, saying, “God has made foolishness the wisdom of this world,”[^fn60] for Solomon had made a plan in his wisdom and said, “By one thousand women I shall sire one thousand male children, and I shall inherit the countries of the enemy, and I will overthrow their idols.” But God only gave him three children. His eldest son was the King of Ethiopia, the son of the Queen of Ethiopia, and was the firstborn of whom God spoke prophetically, “God swore to David in righteousness, and repented not, ‘Of the fruit of your body will I make to sit upon your throne.’”[^fn61] And God gave to David His servant grace before Him, and granted to him that there should sit upon the throne of Godhead One of his descendants in the flesh, from the Virgin, and should judge the living and the dead, and reward every man according to his work, One to whom praise is proper, our Lord Jesus Christ, forever and ever, Amen. And He gave him one on the earth who should become king over the Tabernacle of the Law of the holy, heavenly Zion, that is to say, the King of Ethiopia. And as for those who reigned, who were not of Israel, that was due to the breaking of the law and the commandment, at which God was not pleased.
 
 
-## 35. How King Solomon sent to his son the commander of his army ##
+## 35. How King Solomon sent the commander of his army to his son ##
 
 And Solomon the King sent the commander of his army, on whose hand he was accustomed to lean, with gifts and meat and drink to entertain that traveller. And the commander set out with a great number of wagons, and he came to Menyelek, and embraced him, and gave him everything that Solomon the King had sent to him. And he said to him, “Go quickly and come with me, for the heart of the King is burnt up as with fire with the love of you. Perhaps he will find out for himself whether you are his own son or his brother; for in your appearance and in your manner you are in no way different from him. And now, rise up quickly, for my lord the King said to me, ‘Go quickly and bring him here to me in honor, comfort, with suitable service, and in joy and gladness.’” And the young man answered and said to him, “I thank God, the Lord of Israel, that I have found grace with my lord the King without having seen his face; his word has rejoiced me. And now I will put my trust in the Lord of Israel that He will show me the King, and will bring me back safely to my mother the Queen, and to my country Ethiopia.”
 
