@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-09 15:24:11 -0800" ModID="77E8E016-AD8C-49B7-97CF-8B7F19497F2E">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-09 15:29:26 -0800" ModID="CF016A48-7E90-4491-A8D6-3BC795039BEC">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1286,7 +1286,7 @@
                                 <TextSelection>1213,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E51E0943-0688-4D3E-A439-C137125387AA" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-02 13:44:34 -0800">
+                        <BinderItem UUID="E51E0943-0688-4D3E-A439-C137125387AA" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-09 15:29:26 -0800">
                             <Title>Concerning His Ascension and His Second Coming</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1316,14 +1316,14 @@
                                 <TextSelection>3311,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="9A69602A-4CF5-4AC8-9807-6C2D2C1AFB2D" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-09 15:24:11 -0800">
+                        <BinderItem UUID="9A69602A-4CF5-4AC8-9807-6C2D2C1AFB2D" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-09 15:26:21 -0800">
                             <Title>Concerning the return of Zion</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1123,4</TextSelection>
+                                <TextSelection>334,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="97A1E304-412B-42AF-A833-05B91D6AD58A" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-02 13:49:52 -0800">
