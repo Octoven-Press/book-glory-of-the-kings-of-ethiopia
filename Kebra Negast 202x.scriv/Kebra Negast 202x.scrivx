@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-09 13:48:11 -0800" ModID="2E81D06B-1901-4183-A76E-19B1D7D0AFF1">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-09 13:49:28 -0800" ModID="8FAB84B2-8373-419C-A773-DECA6CBE3A21">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1197,7 +1197,7 @@
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="DFED9607-2CE2-4753-832C-0D2071D34531" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-02 13:58:02 -0800">
+                        <BinderItem UUID="DFED9607-2CE2-4753-832C-0D2071D34531" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-09 13:49:28 -0800">
                             <Title>Concerning the horns of the altar</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
@@ -1230,7 +1230,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1017,4</TextSelection>
+                                <TextSelection>1258,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3DE2E8D9-52F8-4E1C-AF87-857E0294704F" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-09 13:41:29 -0800">
