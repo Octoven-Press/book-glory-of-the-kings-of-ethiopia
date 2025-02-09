@@ -2422,39 +2422,40 @@ Levine, 1974
 [^fn236]: Deuteronomy 6:4.
 
 
-[^fn237]: Isaiah lx, 1.
+[^fn237]: Isaiah 60:1.
 
-[^fn238]: Zechariah ix, 9.
+[^fn238]: Zechariah 9:9.
 
-[^fn239]: Psalm viii, 2.
+[^fn239]: Psalm 8:2.
 
-[^fn240]: Isaiah liv, 13.
+[^fn240]: Isaiah 54:13.
 
-[^fn241]: Psalm lxxxi, 3.
+[^fn241]: Psalm 81:3.
 
-[^fn242]: Zechariah ix, 9.
+[^fn242]: Zechariah 9:9.
 
-[^fn243]: Isaiah lxii, 11.
+[^fn243]: Isaiah 62:11.
 
-[^fn244]: Psalm cxviii, 26.
+[^fn244]: Psalm 118:26.
 
-[^fn245]: Genesis xlix, 8-10.
+[^fn245]: Genesis 49:8-10.
 
-[^fn246]: Genesis xlix, 11, 12.
+[^fn246]: Genesis 49:11-12.
 
-[^fn247]: Genesis xlix, 9.
+[^fn247]: Genesis 49:9.
 
 [^fn248]: Misquotation (?).
 
-[^fn249]: Psalm xxii, 20 (?).
+[^fn249]: Psalm 22:20 (?).
 
-[^fn250]: Psalm xxii, 20, 21.
+[^fn250]: Psalm 22:20-21.
 
-[^fn251]: Psalm xcii, 10.
+[^fn251]: Psalm 92:10.
 
-[^fn252]: Compare Psalm lxxv, 10.
+[^fn252]: Compare Psalm 75:10.
 
-[^fn253]: Habakkuk iii, 4.
+[^fn253]: Habakkuk 3:4.
+
 
 [^fn254]: Psalm ix, 15, 16.
 
