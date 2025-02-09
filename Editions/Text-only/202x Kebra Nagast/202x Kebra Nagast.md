@@ -2281,11 +2281,13 @@ Levine, 1974
 
 [^fn168]: Acts 7:53-54.
 
+
 [^fn169]: Matthew 26:26.
 
 [^fn170]: Isaiah 44:16.
 
 [^fn171]: Psalm 96:5.
+
 
 [^fn172]: Compare Genesis 18:1.
 
@@ -2303,9 +2305,11 @@ Levine, 1974
 
 [^fn179]: Mark 16:16.
 
+
 [^fn180]: Genesis 14:18.
 
 [^fn181]: Compare Isaiah 6:10; 44:18.
+
 
 [^fn182]: Isaiah 9:6.
 
@@ -2363,93 +2367,95 @@ Levine, 1974
 
 [^fn209]: Psalm 18:9.
 
-[^fn210]: Isaiah vii, 14.
+[^fn210]: Isaiah 7:14.
 
-[^fn211]: Psalm cx, 3.
+[^fn211]: Psalm 110:3.
 
-[^fn212]: Psalm ii, 7.
+[^fn212]: Psalm 2:7.
 
-[^fn213]: Judges vi, 37; Psalm lxxii, 6.
+[^fn213]: Judges 6:37; Psalm 72:6.
 
-[^fn214]: Psalm xxxiii, 13.
+[^fn214]: Psalm 33:13.
 
-[^fn215]: Deuteronomy xxxii, 43.
+[^fn215]: Deuteronomy 32:43.
 
-[^fn216]: Psalm cxxxii, 17.
+[^fn216]: Psalm 132:17.
 
-[^fn217]: Isaiah liv, 4.
+[^fn217]: Isaiah 54:4.
 
-[^fn218]: Psalm xviii, 43.
+[^fn218]: Psalm 18:43.
 
-[^fn219]: Psalm xviii, 45, 46.
+[^fn219]: Psalm 18:45-46.
 
-[^fn220]: Isaiah lxiii, 1.
+[^fn220]: Isaiah 63:1.
 
-[^fn221]: Psalm xcvi, 10.
+[^fn221]: Psalm 96:10.
 
-[^fn222]: Psalms xcvi, 13; xcviii, 9.
+[^fn222]: Psalms 96:13; 98:9.
 
-[^fn223]: Isaiah x, 33; Haggai ii, 7.
+[^fn223]: Isaiah 10:33; Haggai 2:7.
 
-[^fn224]: Isaiah xlv, 14; Haggai ii, 9.
+[^fn224]: Isaiah 45:14; Haggai 2:9.
 
-[^fn225]: Isaiah xi, 10.
+[^fn225]: Isaiah 11:10.
 
-[^fn226]: Psalm cv, 1, 2.
+[^fn226]: Psalm 110:1-2.
 
-[^fn227]: Proverbs viii, 22 ff.
+[^fn227]: Proverbs 8:22 ff.
 
-[^fn228]: Psalm lxxii, 5, 17.
+[^fn228]: Psalm 72:5, 72:17.
 
-[^fn229]: Proverbs viii, 30.
+[^fn229]: Proverbs 8:30.
 
-[^fn230]: Ezekiel xliii, 2.
+[^fn230]: Ezekiel 43:2.
 
-[^fn231]: Isaiah xxxv; xliii, 20.
+[^fn231]: Isaiah 35; 43:20.
 
-[^fn232]: Proverbs xxx, 4; Isaiah xl, 12.
+[^fn232]: Proverbs 30:4; Isaiah 40:12.
 
-[^fn233]: Malachi i, 10, 11.
+[^fn233]: Malachi 1:10-11.
 
-[^fn234]: Compare Isaiah ii, 3; Micah iv, 2.
+[^fn234]: Compare Isaiah 2:3; Micah 4:2.
 
-[^fn235]: Psalm 1, 7.
+[^fn235]: Psalm 50:7.
 
-[^fn236]: Deuteronomy vi, 4.
+[^fn236]: Deuteronomy 6:4.
 
-[^fn237]: Isaiah lx, 1.
 
-[^fn238]: Zechariah ix, 9.
+[^fn237]: Isaiah 60:1.
 
-[^fn239]: Psalm viii, 2.
+[^fn238]: Zechariah 9:9.
 
-[^fn240]: Isaiah liv, 13.
+[^fn239]: Psalm 8:2.
 
-[^fn241]: Psalm lxxxi, 3.
+[^fn240]: Isaiah 54:13.
 
-[^fn242]: Zechariah ix, 9.
+[^fn241]: Psalm 81:3.
 
-[^fn243]: Isaiah lxii, 11.
+[^fn242]: Zechariah 9:9.
 
-[^fn244]: Psalm cxviii, 26.
+[^fn243]: Isaiah 62:11.
 
-[^fn245]: Genesis xlix, 8-10.
+[^fn244]: Psalm 118:26.
 
-[^fn246]: Genesis xlix, 11, 12.
+[^fn245]: Genesis 49:8-10.
 
-[^fn247]: Genesis xlix, 9.
+[^fn246]: Genesis 49:11-12.
+
+[^fn247]: Genesis 49:9.
 
 [^fn248]: Misquotation (?).
 
-[^fn249]: Psalm xxii, 20 (?).
+[^fn249]: Psalm 22:20 (?).
 
-[^fn250]: Psalm xxii, 20, 21.
+[^fn250]: Psalm 22:20-21.
 
-[^fn251]: Psalm xcii, 10.
+[^fn251]: Psalm 92:10.
 
-[^fn252]: Compare Psalm lxxv, 10.
+[^fn252]: Compare Psalm 75:10.
 
-[^fn253]: Habakkuk iii, 4.
+[^fn253]: Habakkuk 3:4.
+
 
 [^fn254]: Psalm ix, 15, 16.
 
