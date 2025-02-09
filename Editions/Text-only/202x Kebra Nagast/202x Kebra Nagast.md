@@ -51,7 +51,10 @@ The Kebra Nagast is a great storehouse of legends and traditions, some historica
 
 In the succeeding centuries, probably as a result of the widespread conquests of Muḥammad and his Khalîfahs, the Coptic text was in whole or part translated into Arabic, and during the process of translation many additions were made to it, chiefly from Arabic sources. Last of all this Arabic version was translated into Ethiopic, and proper names underwent curious transformations in the process. According to the colophons of the MSS. in the British Museum, Oxford, and Paris, the Arabic translation was made from the Coptic in the 409th “year of mercy,” when Gabra Masḳal, commonly known as Lâlîbalâ, was reigning over Ethiopia, *i.e.* between A.D. 1314 and 1344. And the same authorities say that the Ethiopic translation was made subsequently by one Isaac, of whom nothing is known save that he was an enthusiastic Christian visionary and patriot. His knowledge of history and chronology was defective, and his comparative philology is unusually peculiar, even for the period in which he lived.
 
-In the colophons Isaac says: “I have toiled much for the glory of the kingdom of Ethiopia, and for the going forth (manifestation?) of the heavenly Zion, and for the glory of the King of Ethiopia.” These words throw some light upon Isaac’s motive in translating the book, and supply the reason for his devoted labour. He firmly believed: 1. That the lawful kings of Ethiopia were descended from Solomon, King of Israel. 2. That the Tabernacle of the Law of God, *i.e.* the Ark of the Covenant, had been brought from Jerusalem to Aksûm by Menyelek, Solomon’s firstborn son, according to the Ethiopians. 3. That the God of Israel had transferred His place of abode on earth from Jerusalem to Aksûm (Aksum), the ecclesiastical and political capital of Ethiopia. The means employed by Menyelek for obtaining possession of the Ark of the Covenant did not disturb Isaac’s conscience in the least, nay he gloried in them, for manifestly Menyelek was performing the Will of God in removing the tabernacle of Zion from Jerusalem. God, according to Isaac, was satisfied that the Jews were unworthy to be custodians of the Ark wherein His Presence was, and the Ark wished to depart. Ethiopia had stretched out her hands to God (Psalm lxviii, 31), and He went to her, with the Ark, to preside over Menyelek’s kingdom, which was established in accordance with the commands that He had given to Moses and the prophets and priests of Israel.
+In the colophons Isaac says: “I have toiled much for the glory of the kingdom of Ethiopia, and for the going forth (manifestation?) of the heavenly Zion, and for the glory of the King of Ethiopia.” These words throw some light upon Isaac’s motive in translating the book, and supply the reason for his devoted labour. He firmly believed: 
+1.	That the lawful kings of Ethiopia were descended from Solomon, King of Israel.
+2.	That the Tabernacle of the Law of God, *i.e.* the Ark of the Covenant, had been brought from Jerusalem to Aksûm by Menyelek, Solomon’s firstborn son, according to the Ethiopians.
+3.	That the God of Israel had transferred His place of abode on earth from Jerusalem to Aksûm (Aksum), the ecclesiastical and political capital of Ethiopia. The means employed by Menyelek for obtaining possession of the Ark of the Covenant did not disturb Isaac’s conscience in the least, nay he gloried in them, for manifestly Menyelek was performing the Will of God in removing the tabernacle of Zion from Jerusalem. God, according to Isaac, was satisfied that the Jews were unworthy to be custodians of the Ark wherein His Presence was, and the Ark wished to depart. Ethiopia had stretched out her hands to God (Psalm 68:31), and He went to her, with the Ark, to preside over Menyelek’s kingdom, which was established in accordance with the commands that He had given to Moses and the prophets and priests of Israel.
 
 It will be remembered that the line of kings founded by Solomon continued to reign even after the Ethiopians became Christians under the teaching of Frumentius and Adesius, the slaves of the merchant Meropius, and that the line continued unbroken until the tenth century of our era. Isaac knew that God then permitted the line to be broken, and allowed the Zâguê kings to reign over Ethiopia until the reign of Yĕkûnô ’Amlâk, who restored the Solomonic line in 1270, and he makes no attempt to justify God’s action in this matter, or to explain it. We learn, however, from the first section of the colophon, that he wondered why God had neglected to have the Arabic version of the Kebra Nagast translated into the “speech of Abyssinia” at an earlier date, and why ’Abu’l-‘Izz and ’Abu’l-Faraj, who made the Arabic translation from the Coptic, did not make a rendering into Ethiopic also. In the explanation which he attempts to give, he reminds us that the Arabic translation appeared whilst the Zâguê kings were still reigning. As the Kebra Nagast was written to glorify the Solomonic line of kings, and its editors and translators regarded the Zâguê kings not only as non-Israelites, but as “transgressors of the Law,” the appearance of a translation of it in the vernacular whilst the Zâguê were still on the throne would be followed by the torture and death of its producers, and the destruction of their work.
 
@@ -317,9 +320,9 @@ The book opens with an interpretation and explanation of the Three Hundred and E
 In Chap. 2 Isaac, the translator of the Ethiopic text, next quotes Gregory the Illuminator, the son of Anag, a native of Balkh, who was born about 257 A.D. and died about 330. Whilst Gregory was suffering the tortures inflicted upon him by Tiridates III he pondered on the question: Of what doth the glory of kings consist? In the end he came to the conclusion that Adam’s kingship bestowed upon him by God was greater than that of any of the Kings of Armenia.
 
 Chaps. 3-6 deal with the birth of Cain and Abel; the face of Cain was sullen and that of Abel good-tempered, and Adam made Abel his heir because of his pleasing countenance. Cain and Abel had twin sisters. Cain’s sister Lĕbhûdhâ had a good-tempered face, and Adam gave her in marriage to Abel; Abel’s sister Ḳalîmath had a sullen face like Cain, and Adam gave her in marriage to Cain.[^fn23] Moved by Satan to envy, and filled with wrath against Adam for taking his twin sister from him, Cain rose up and slew Abel. Adam was consoled for Abel’s death by the birth of Seth. The descendants of Cain were wicked men, and neglected God, and passed their time in singing lewd songs to stringed instruments and pipes, and they lived lawless and abominable lives. Isaac credits them with having produced the mule, and condemns the crossing of mares with asses. In the tenth generation from Adam Noah lived, and he refused to deal in any way with the children of Cain, whose arrogance, pride, fraud, deceit, and uncleanness cried aloud to heaven. At length God sent the Flood, which destroyed everything on the earth except Eight Souls, and seven of every clean beast, and two of every unclean beast (Chap. 8). God made a covenant with Noah not to destroy the earth again by a flood, and when Noah died Shem succeeded him (Chaps. 9 and 10). In Chap. 11 we have another declaration by the 318 Orthodox Fathers that: 
-1. The Tabernacle of the Law (*i.e.* the Ark of the Covenant) was created before the heavens, the earth and its pillars, the sea, and men and angels;
-2. It was made by God for His own abode;
-3. It is on the earth. The Zion wherein God dwelt in heaven before the creation was the type and similitude of the Virgin Mary.
+1.	The Tabernacle of the Law (*i.e.* the Ark of the Covenant) was created before the heavens, the earth and its pillars, the sea, and men and angels;
+2.	It was made by God for His own abode;
+3.	It is on the earth. The Zion wherein God dwelt in heaven before the creation was the type and similitude of the Virgin Mary.
 
 The seven sons of Canaan, who were the sons of Ham, seized seven cities that belonged to Shem’s children, but eventually had to relinquish them. The nations seized by Canaan’s sons were the Canaanites, the Perizzites, the Hivites, the Hittites, the Amorites, the Jebusites, the Girgasites. In the days of Terah men made magical images, and placed on the tombs of their fathers statues, out of which devils spake and commanded them to offer up their sons and daughters as sacrifices to “filthy devils” (Chap. 12). Terah’s son Abraham, having proved for himself the powerlessness of idols, smashed the idols which his father sent him to sell, and then called upon the Creator of the Universe to be his God. A chariot of fire appeared (Chap. 13) and with it God, Who made a covenant with him, and told him to depart to another country. Abraham took his wife, and departed to Salem, where he reigned in righteousness according to God’s command. He had a bodyguard of eighteen[^fn24] stalwart men who wore crowns and belts of gold, and gold-embroidered tunics.
 
@@ -1629,7 +1632,7 @@ Judges *vi, 37,* [^fn214].
 
 Job *ix, 8,* [^fn209]; *xviii, 16,* [^fn266].
 
-Psalm *ii, —,* [^fn93]; *ii, 7,* [^fn213]; *vii, 16, *[^fn256]; *viii, 2,* [^fn240]; *viii, 6,* [^fn34]; *ix, 11,* [^fn48]; *ix, 15, 16,* [^fn255]; *xii, 5,* [^fn285]; *xiii, —, *(???); *xvi, 10,* [^fn291]; *xviii, 9,* [^fn210]; *xviii, 10,* [^fn298]; *xviii, 43,* [^fn219]; *xviii, 45, 46,* [^fn220]; *xxi, 13,* [^fn297]; *xxii, 16,* [^fn144], [^fn274]; *xxii, 20, 21,* [^fn250], [^fn251]; *xxiii, 8,* (???); *xxiv, 7, 8,* [^fn299]; *xxviii, 3, 4,* [^fn105]; *xxxiii, 6, *[^fn158]; *xxxiii, 9,* [^fn157]; *xxxiii, 13,* [^fn215]; *xxxv, 12,* [^fn282]; *xxxvi, 1,* [^fn261]; *xl, 7, *[^fn115]; *xli, 9,* [^fn258]; *xliv, 26,* [^fn287]; *xlv, —,* [^fn162]; *xlviii, 2, 3,* [^fn195]; *l, 2,* [^fn161], [^fn195]; *l, 3,* [^fn188]; *l, 7,* [^fn236]; *lviii, 7,* [^fn163]; *lxii, 11, 12,* [^fn301]; *lxviii, 1,* [^fn288]; *lxviii, 18,* [^fn293]; *lxviii, 21,* (???); *lxviii, 31,* [^fn72], [^fn308]; *lxviii, 32, 35,* [^fn295]; *lxix, 21,* [^fn145], [^fn278].; *lxxii, 1 ff.,* [^fn94]; *lxxii, 5, 17,* [^fn229]; *lxxii, 6,* [^fn214]; *lxxii, 6, 7,* [^fn198]; *lxxii, 9, 10,* [^fn71]; *lxxii, 11,* [^fn83]; *lxxii, 15,* [^fn208]; *lxxiii, 8, 9,* [^fn113]; *lxxv, 10,* [^fn253]; *lxxviii, 65,* [^fn289]; *lxxxi, 3,* [^fn242]; *lxxxii, 8,* [^fn286]; *lxxxiii, 7,* [^fn73]; *lxxxvii, 2, 3,* [^fn128], [^fn129]; *lxxxvii, 2–4,* [^fn74]; *lxxxvii, 5, 6,* [^fn196]; *lxxxix, 3, 4,* [^fn83]; *lxxxix, 35,* [^fn100]; *lxxxix, 37,* [^fn99]; *lxxxix, 27, 29,* [^fn83]; *xc, 3,* [^fn172]; *xcii, 10,* [^fn252]; *xcv, 1, 2,* [^fn227]; *xcv, 10,* [^fn16], [^fn64]; *xcvi, 5,* [^fn65], [^fn172]; *xcvi, 10,* [^fn222]; *xcviii, 9,* [^fn223]; *civ, 35,* [^fn260]; *cix, 5,* [^fn165]; *cix, 6–8,* [^fn268]; *cix, 17, *[^fn264]; *cx, 3,* [^fn151], [^fn212]; *cx, 4,* [^fn94]; *cxii, 10, *[^fn271]; *cxviii, 26,* [^fn191], [^fn245]; *cxxix, 8, *[^fn191]; *cxxxii, 11,* [^fn15], [^fn61], [^fn98]; *cxxxii, 11–13,* [^fn83]; *cxxxii, 17,* [^fn217].
+Psalm *ii, —,* [^fn93]; *ii, 7,* [^fn213]; *vii, 16, *[^fn256]; *viii, 2,* [^fn240]; *viii, 6,* [^fn34]; *ix, 11,* [^fn48]; *ix, 15, 16,* [^fn255]; *xii, 5,* [^fn285]; *xiii, —, *(???); *xvi, 10,* [^fn291]; *xviii, 9,* [^fn210]; *xviii, 10,* [^fn298]; *xviii, 43,* [^fn219]; *xviii, 45, 46,* [^fn220]; *xxi, 13,* [^fn297]; *xxii, 16,* [^fn144], [^fn274]; *xxii, 20, 21,* [^fn250], [^fn251]; *xxiii, 8,* (???); *xxiv, 7, 8,* [^fn299]; *xxviii, 3, 4,* [^fn105]; *xxxiii, 6, *[^fn158]; *xxxiii, 9,* [^fn157]; *xxxiii, 13,* [^fn215]; *xxxv, 12,* [^fn282]; *xxxvi, 1,* [^fn261]; *xl, 7, *[^fn115]; *xli, 9,* [^fn258]; *xliv, 26,* [^fn287]; *xlv, —,* [^fn162]; *xlviii, 2, 3,* [^fn195]; *l, 2,* [^fn161], [^fn195]; *l, 3,* [^fn188]; *l, 7,* [^fn236]; *lviii, 7,* [^fn163]; *lxii, 11, 12,* [^fn301]; *lxviii, 1,* [^fn288]; *lxviii, 18,* [^fn293]; *lxviii, 21,* (???); *lxviii, 31,* [^fn72], [^fn308]; *lxviii, 32, 35,* [^fn295]; *lxix, 21,* [^fn145], [^fn278].; *lxxii, 1 ff.,* [^fn94]; *lxxii, 5, 17,* [^fn229]; *lxxii, 6,* [^fn214]; *lxxii, 6, 7,* [^fn198]; *lxxii, 9, 10,* [^fn71]; *lxxii, 11,* [^fn83]; *lxxii, 15,* [^fn208]; *lxxiii, 8, 9,* [^fn113]; *lxxv, 10,* [^fn253]; *lxxviii, 65,* [^fn289]; *lxxxi, 3,* [^fn242]; *lxxxii, 8,* [^fn286]; *lxxxiii, 7,* [^fn73]; *lxxxvii, 2, 3,* [^fn128], [^fn129]; *lxxxvii, 2–4,* [^fn74]; *lxxxvii, 5, 6,* [^fn196]; *lxxxix, 3, 4,* [^fn83]; *lxxxix, 35,* [^fn100]; *lxxxix, 37,* [^fn99]; *lxxxix, 27, 29,* [^fn83]; *xc, 3,* [^fn172]; *xcii, 10,* [^fn252]; *xcv, 1, 2,* [^fn227]; *xcv, 10,* [^fn16], [^fn64]; *xcvi, 5,* [^fn65], [^fn172]; *xcvi, 10,* [^fn222]; *xcviii, 9,* [^fn223]; *civ, 35,* [^fn260]; *cix, 5,* [^fn165]; *cix, 6–8,* [^fn268]; *cix, 17, *[^fn264]; *cx, 3,* [^fn151], [^fn212]; *cx, 4,* [^fn94]; *cxii, 10, *[^fn271]; *cxviii, 26,* [^fn191], [^fn245]; *cxxix, 8, *[^fn191]; *132:11,* [^fn15], [^fn61], [^fn98]; *132:11–13,* [^fn83]; *132:17,* [^fn217].
 
 Proverbs *i, 10 ff.,* [^fn277]; *vi, 13,* [^fn257]; *viii, 22,* [^fn228]; *viii, 30,* [^fn230]; *xi, 1,* [^fn272]; *xi, 11,* [^fn262]; *xxx, 4,* [^fn233]; *xxx, 18,* [^fn106].
 
@@ -1960,11 +1963,11 @@ Levine, 1974
 
 [^fn13]: Translated from the Arabic text printed by Bezold, *op. cit.*, p. xliv ff. A French paraphrase of the Arabic was printed by Amélineau in his *Contes et Romans*, Paris, 1888, tom. I, p. 144 ff.
 
-[^fn14]: Luke xi, 31; see also 1 Kings x, 1; 2 Chron. ix, I.
+[^fn14]: Luke 11:31; see also 1 Kings 10:1; 2 Chronicles 9:1.
 
-[^fn15]: Psalm cxxxii, 11 f.
+[^fn15]: Psalm 132:11 f.
 
-[^fn16]: Psalm xcv (xcvi), 10. See the Douay Version, vol. ii, p. 176, and Swete, *Old Testament in Greek*, vol. ii, p. 342.
+[^fn16]: Psalm 95(96): 10. See the Douay Version, vol. ii, p. 176, and Swete, *Old Testament in Greek*, vol. ii, p. 342.
 
 
 
@@ -1986,9 +1989,9 @@ Levine, 1974
 
 [^fn23]: See Malan, *Book of Adam and Eve*, London, 1882, p. 92 ff., and Bezold, *Schatzhöhle*, Leipzig, 1883, p. 8.
 
-[^fn24]: In Genesis xiv, 14, Abraham’s home-born armed servants numbered 318.
+[^fn24]: In Genesis 14:14, Abraham’s home-born armed servants numbered 318.
 
-[^fn25]: 1 Kings xi, 3, says 700 wives, princesses, and 300 concubines.
+[^fn25]: 1 Kings 11:3, says 700 wives, princesses, and 300 concubines.
 
 [^fn26]: <img src="https://raw.githubusercontent.com/Octoven-Press/book-glory-of-the-kings-of-ethiopia/808adcca3cec6be60f49a98ded7e4c75877aa36e/Editions/Text-only/1922%20Kebra%20Nagast/intro.svg" alt="Hieroglyphics" /> Budge, *Annals of Nubian Kings*, p. 153.
 
@@ -2000,57 +2003,57 @@ Levine, 1974
 
 
 
-[^fn30]: Genesis i, 26.
+[^fn30]: Genesis 1:26.
 
-[^fn31]: Psalm lxxiv, 2.
+[^fn31]: Psalm 74:2.
 
 [^fn32]: *i.e.* the Virgin Mary, who is identified in Chapter 11 with the “Tabernacle of the Law of God, the heavenly and spiritual Zion.”
 
 [^fn33]: The Gregory here referred to is not Thaumaturgus, but the “Illuminator,” *i.e.*, Gregor Lusavoritch, who flourished in the first quarter of the fourth century.
 
-[^fn34]: Psalm viii, 6.
+[^fn34]: Psalm 8:6.
 
-[^fn35]: Compare Genesis ix, 25-27.
+[^fn35]: Compare Genesis 9:25-27.
 
-[^fn36]: Genesis viii, 21; and compare Genesis ix, 4.
+[^fn36]: Genesis 8:21; and compare Genesis 9:4.
 
-[^fn37]: Matthew xxiv, 35.
+[^fn37]: Matthew 24:35.
 
-[^fn38]: The son of Ham (Genesis x, 6).
+[^fn38]: The son of Ham (Genesis 10:6).
 
-[^fn39]: There is some confusion here; Cainan was the son of Enos (Gen. v, 9).
+[^fn39]: There is some confusion here; Cainan was the son of Enos (Genesis 5:9).
 
-[^fn40]: Compare Genesis xv, 1.
+[^fn40]: Compare Genesis 15:1.
 
-[^fn41]: Compare Genesis xii and xiii, 14-17.
+[^fn41]: Compare Genesis 12 and 13:14-17.
 
-[^fn42]: Genesis xxxv, 22; xlix, 4.
+[^fn42]: Genesis 25:22; 49:4.
 
-[^fn43]: 1 Chronicles v, 1.
+[^fn43]: 1 Chronicles 5:1.
 
 [^fn44]: Here the name Judah is considered to be derived from the Ethiopic root *hêd*, “to carry off by force.”
 
-[^fn45]: See 1 Chronicles ii, 25.
+[^fn45]: See 1 Chronicles 2:25.
 
-[^fn46]: Matthew i, 4; Luke iii, 33
+[^fn46]: Matthew 1:4; Luke 3:33
 
-[^fn47]: See Exodus xxv, 10 ff.
+[^fn47]: See Exodus 25:10 ff.
 
-[^fn48]: 1 Psalm ix, 11.
+[^fn48]: 1 Psalm 9:11.
 
-[^fn49]: Matthew xii, 42; Luke xi, 31.
+[^fn49]: Matthew 12:42; Luke 11:31.
 
-[^fn50]: 1 Kings xi, 1.
+[^fn50]: 1 Kings 11:1.
 
 [^fn51]: Upper Egypt.
 
 [^fn52]: See Yâḳût IV, p. 250.
 
-[^fn53]: Genesis xxii, 17.
+[^fn53]: Genesis 22:17.
 
-[^fn54]: Compare 1 Corinthians, vii.
+[^fn54]: Compare 1 Corinthians 7.
 
-[^fn55]: Compare Leviticus xviii, 18.
+[^fn55]: Compare Leviticus 18:18.
 
 [^fn56]: Guidi (apud Bezold) compares No. 19 of the Apocryphal *Canones Apostolorum*.
 
@@ -2058,307 +2061,307 @@ Levine, 1974
 
 [^fn58]: The remainder of this paragraph is a comment by the author of this work.
 
-[^fn59]: Acts viii, 27.
+[^fn59]: Acts 8:27.
 
-[^fn60]: 1 Corinthians i, 20.
+[^fn60]: 1 Corinthians 1:20.
 
-[^fn61]: 2 Samuel vii, 12; Psalm cxxxii, 11.
+[^fn61]: 2 Samuel 7:12; Psalm 132:11.
 
-[^fn62]: There is a mistake here. The author had in his mind Joab, the captain of David’s host. Several of the manuscripts have the reading “Benyâs,” *i.e.*, Benaiah, the son of Jehoiada (see 1 Kings ii, 35), who was put in Joab’s room.
+[^fn62]: There is a mistake here. The author had in his mind Joab, the captain of David’s host. Several of the manuscripts have the reading “Benyâs,” *i.e.*, Benaiah, the son of Jehoiada (see 1 Kings 2:35), who was put in Joab’s room.
 
-[^fn63]: See Genesis iii, 16.
+[^fn63]: See Genesis 3:16.
 
-[^fn64]: Compare Psalm xcv.
+[^fn64]: Compare Psalm 95.
 
-[^fn65]: Compare Psalm xcvi.
+[^fn65]: Compare Psalm 96.
 
-[^fn66]: See 1 Samuel, chap. xv.
+[^fn66]: See 1 Samuel 15.
 
-[^fn67]: 1 Kings, chap. xvii.
+[^fn67]: 1 Kings 17.
 
 [^fn68]: The name of the reigning king to be added by the copyist.
 
 [^fn69]: *i.e.* double drachmas.
 
-[^fn70]: Isaiah lxv, 1.
+[^fn70]: Isaiah 65:1.
 
-[^fn71]: Psalm lxxii, 9, 10.
+[^fn71]: Psalm 72:9-10.
 
-[^fn72]: Psalm lxviii, 31.
+[^fn72]: Psalm 68:31.
 
-[^fn73]: Psalm lxxxiii, 7 (?).
+[^fn73]: Psalm 83:7 (?).
 
-[^fn74]: Compare Psalm lxxxvii, 2-4; Isaiah li, 16.
+[^fn74]: Compare Psalm 87:2-4; Isaiah 51:16.
 
-[^fn75]: 1 Samuel vi, 4.
+[^fn75]: 1 Samuel 6:4.
 
-[^fn76]: The text of Samuel (vi, 4) gives “five emerods.”
+[^fn76]: The text of Samuel (6:4) gives “five emerods.”
 
-[^fn77]: 1 Samuel ii, 29-34.
+[^fn77]: 1 Samuel 2:29-34.
 
-[^fn78]: Matthew xvii, 4; Luke ix, 33.
+[^fn78]: Matthew 17:4; Luke 9:33.
 
-[^fn79]: Isaiah lxvi, 1.
+[^fn79]: Isaiah 66:1.
 
-[^fn80]: 1 Chronicles xxii, 8, 9.
+[^fn80]: 1 Chronicles 22:8-9.
 
 [^fn81]: Or, cringing, or, degraded. The ancient Egyptians often spoke of “Kesh, the vile.”
 
-[^fn82]: Probably a corruption of the name Ekron (2 Kings i, 2), the city-god of which was Baal-zebub.
+[^fn82]: Probably a corruption of the name Ekron (2 Kings 1:2), the city-god of which was Baal-zebub.
 
-[^fn83]: Psalms lxxii, 11; lxxxix, 3, 4, 27, 29; cxxxii, 11-13.
+[^fn83]: Psalms 72:11; 89:3-4, 27, 29; 132:11-13.
 
-[^fn84]: Five mice and five emerods; see 1 Sam. vi, 4.
+[^fn84]: Five mice and five emerods; see 1 Samuel 6:4.
 
-[^fn85]: “Two milch kine,” 1 Sam. vi, 7.
+[^fn85]: “Two milch kine,” 1 Samuel 6:7.
 
-[^fn86]: “A new cart,” 1 Sam. vi, 7.
+[^fn86]: “A new cart,” 1 Samuel 6:7.
 
-[^fn87]: 1 Kings ii, 5 ff.
+[^fn87]: 1 Kings 2:5 ff.
 
-[^fn88]: *i.e.* the “Shunammite woman” (see 1 Kings i, 3).
+[^fn88]: *i.e.* the “Shunammite woman” (see 1 Kings 1:3).
 
-[^fn89]: John ii. 19.
+[^fn89]: John 2:19.
 
-[^fn90]: Galatians iii, 28.
+[^fn90]: Galatians 3:28.
 
-[^fn91]: Song of Solomon iii, 7 ff.
+[^fn91]: Song of Solomon 3:7 ff.
 
-[^fn92]: Song of Solomon iii, 9.
+[^fn92]: Song of Solomon 3:9.
 
-[^fn93]: Psalm ii.
+[^fn93]: Psalm 2
 
-[^fn94]: Psalms lxxii, 1 ff.; cx, 4.
+[^fn94]: Psalms 72:1 ff.; 110:4.
 
 [^fn95]: *i.e.* Satan, the Devil.
 
 [^fn96]: David was the eighth of Jesse’s sons.
 
-[^fn97]: Compare Gen. xxii, 13.
+[^fn97]: Compare Genesis 22:13.
 
-[^fn98]: 2 Samuel vii, 12; Psalm cxxxii, 11.
+[^fn98]: 2 Samuel 7:12; Psalm 132:11.
 
-[^fn99]: Psalm lxxxix, 37.
+[^fn99]: Psalm 89:37.
 
-[^fn100]: Psalm lxxxix, 35.
+[^fn100]: Psalm 89:35.
 
-[^fn101]: Matthew i, 20.
+[^fn101]: Matthew 1:20.
 
-[^fn102]: Galatians v, 17.
+[^fn102]: Galatians 5:17.
 
-[^fn103]: Galatians v, 16.
+[^fn103]: Galatians 5:16.
 
-[^fn104]: Compare Matthew x, 8; xix, 28; Luke x, 19.
+[^fn104]: Compare Matthew 10:8; 19:28; Luke 10:19.
 
-[^fn105]: Psalm xxviii, 3, 4
+[^fn105]: Psalm 28:3-4
 
-[^fn106]: Proverbs xxx, 18.
+[^fn106]: Proverbs 30:18.
 
-[^fn107]: See chapters xv, xvi.
+[^fn107]: See chapters 15, 16.
 
-[^fn108]: Genesis xii ff.
+[^fn108]: Genesis 12 ff.
 
-[^fn109]: Compare Deuteronomy iv, 1.
+[^fn109]: Compare Deuteronomy 4:1.
 
-[^fn110]: Deuteronomy xxvii, 15 ff.
+[^fn110]: Deuteronomy 27:15 ff.
 
 [^fn111]: Compare Matthew xxv, 22.
 
-[^fn112]: Psalm lxxiii, 8, 9.
+[^fn112]: Psalm 73:8-9.
 
-[^fn113]: John xxi, 25.
+[^fn113]: John 21:25.
 
-[^fn114]: Psalm xl, 7.
+[^fn114]: Psalm 40:7.
 
-[^fn115]: Genesis i, 1.
+[^fn115]: Genesis 1:1.
 
-[^fn116]: Compare Deuteronomy xviii, 15.
+[^fn116]: Compare Deuteronomy 18:15.
 
-[^fn117]: Numbers xxi, 7.
+[^fn117]: Numbers 21:7.
 
-[^fn118]: Numbers xii, 2.
+[^fn118]: Numbers 12:2.
 
-[^fn119]: Numbers xi, 16-24; Exodus xix.
+[^fn119]: Numbers 11:16-24; Exodus 19.
 
-[^fn120]: Exodus xxxiii, 18-23.
+[^fn120]: Exodus 33:18-23.
 
-[^fn121]: Exodus xxxiv, 33.
+[^fn121]: Exodus 34:33.
 
-[^fn122]: Ezekiel xliii, 1.
+[^fn122]: Ezekiel 43:1.
 
-[^fn123]: Exodus iii, 2.
+[^fn123]: Exodus 3:2.
 
-[^fn124]: See Numbers xvi.
+[^fn124]: See Numbers 16.
 
-[^fn125]: Compare Exodus xvii, 4; Numbers xvi, 41.
+[^fn125]: Compare Exodus 17:4; Numbers 16:41.
 
-[^fn126]: Numbers xvii, 8.
+[^fn126]: Numbers 17:8.
 
-[^fn127]: Psalm lxxxvii, 2.
+[^fn127]: Psalm 87:2.
 
-[^fn128]: Psalm lxxxvii, 3.
+[^fn128]: Psalm 87:3.
 
-[^fn129]: Exodus xxv, 10, “an ark of shittim wood.”
+[^fn129]: Exodus 25:10, “an ark of shittim wood.”
 
-[^fn130]: Exodus xvi, 33, “take a pot, and put an omer full of manna therein.”
+[^fn130]: Exodus 16:33, “take a pot, and put an omer full of manna therein.”
 
-[^fn131]: Exodus xvii, 6.
+[^fn131]: Exodus 17:6.
 
-[^fn132]: Matthew vii, 24, 25.
+[^fn132]: Matthew 7:24-25.
 
-[^fn133]: John x, 7, 9.
+[^fn133]: John 10:7, 10:9.
 
-[^fn134]: Matthew xvi, 18.
+[^fn134]: Matthew 16:18.
 
-[^fn135]: John x, 11, 14.
+[^fn135]: John 10:11, 10:14.
 
-[^fn136]: John xxi, 17.
+[^fn136]: John 21:17.
 
-[^fn137]: John xv, 5, 16.
+[^fn137]: John 15:5, 15:16.
 
-[^fn138]: Exodus x, 21, 22.
+[^fn138]: Exodus 10:21-22.
 
-[^fn139]: Exodus vii, 10.
+[^fn139]: Exodus 7:10.
 
-[^fn140]: Exodus vii, 19; viii.
+[^fn140]: Exodus 7:19; 8.
 
-[^fn141]: Exodus xvii, 11, 12 ff.
+[^fn141]: Exodus 17:11-12 ff.
 
-[^fn142]: Compare Exodus xv, 25.
+[^fn142]: Compare Exodus 15:25.
 
-[^fn143]: Psalm xxii, 16.
+[^fn143]: Psalm 22:16.
 
-[^fn144]: Psalm lxix, 21.
+[^fn144]: Psalm 69:21.
 
-[^fn145]: Genesis ii, 17.
+[^fn145]: Genesis 2:17.
 
-[^fn146]: Compare Matthew xxiii, 13, and Luke xviii, 9 ff.
+[^fn146]: Compare Matthew 23:13, and Luke 18:9 ff.
 
-[^fn147]: 2 Peter ii, 4.
+[^fn147]: 2 Peter 2:4.
 
-[^fn148]: Genesis vi, 2-4.
+[^fn148]: Genesis 6:2-4.
 
-[^fn149]: Genesis vi, 14 ff.
+[^fn149]: Genesis 6:14 ff.
 
-[^fn150]: Psalm cx, 3.
+[^fn150]: Psalm 110:3.
 
-[^fn151]: Genesis i, 1.
+[^fn151]: Genesis 1:1.
 
-[^fn152]: John i, 1 ff.
+[^fn152]: John 1:1 ff.
 
-[^fn153]: Acts i.
+[^fn153]: Acts 1.
 
-[^fn154]: Mark i, 1.
+[^fn154]: Mark 1, 1.
 
-[^fn155]: John i, 1-3; 1 John i, 1.
+[^fn155]: John 1:1-3; 1 John 1:1.
 
-[^fn156]: Psalm xxxiii, 9.
+[^fn156]: Psalm 33:9.
 
-[^fn157]: Psalm xxxiii, 6.
+[^fn157]: Psalm 33:6.
 
-[^fn158]: Luke xxiii, 34.
+[^fn158]: Luke 23:34.
 
-[^fn159]: Isaiah liii, 2 ff.
+[^fn159]: Isaiah 53:2 ff.
 
-[^fn160]: Psalm l, 2.
+[^fn160]: Psalm 50:2.
 
-[^fn161]: Psalm xlv.
+[^fn161]: Psalm 45.
 
-[^fn162]: Compare Psalms xlv, 5; lviii, 7.
+[^fn162]: Compare Psalms 45:5; 58:7.
 
-[^fn163]: Isaiah xlv, 12.
+[^fn163]: Isaiah 45, 12.
 
-[^fn164]: Psalm cix, 5.
+[^fn164]: Psalm 109:5.
 
-[^fn165]: Isaiah xxix, 13.
+[^fn165]: Isaiah 29:13.
 
-[^fn166]: Deuteronomy xxxii, 21, 28.
+[^fn166]: Deuteronomy 32:21, 32:28.
 
-[^fn167]: Compare Acts vi, 3; vii, 34.
+[^fn167]: Compare Acts 6:3; 7: 34.
 
-[^fn168]: Acts vii, 53, 54.
+[^fn168]: Acts 7:53-54.
 
-[^fn169]: Matthew xxvi, 26.
+[^fn169]: Matthew 26:26.
 
-[^fn170]: Isaiah xliv, 16.
+[^fn170]: Isaiah 44:16.
 
-[^fn171]: Psalm xcvi, 5.
+[^fn171]: Psalm 96:5.
 
-[^fn172]: Compare Genesis xviii, 1.
+[^fn172]: Compare Genesis 18:1.
 
-[^fn173]: Genesis xxii, 13.
+[^fn173]: Genesis 22:13.
 
-[^fn174]: Genesis xxx, 37.
+[^fn174]: Genesis 30:37.
 
-[^fn175]: Genesis xlvii, 31; Hebrews xi, 21.
+[^fn175]: Genesis 47:31; Hebrews 11:21.
 
-[^fn176]: 2 Samuel vi, 3.
+[^fn176]: 2 Samuel 6:3.
 
-[^fn177]: Compare Matthew xii, 49; Mark iii, 34 ff.
+[^fn177]: Compare Matthew 12:49; Mark 3:34 ff.
 
-[^fn178]: Hebrews xi.
+[^fn178]: Hebrews 11.
 
-[^fn179]: Mark xvi, 16.
+[^fn179]: Mark 16:16.
 
-[^fn180]: Genesis xiv, 18.
+[^fn180]: Genesis 14:18.
 
-[^fn181]: Compare Isaiah vi, 10; xliv, 18.
+[^fn181]: Compare Isaiah 6:10; 44:18.
 
-[^fn182]: Isaiah ix, 6.
+[^fn182]: Isaiah 9:6.
 
-[^fn183]: Isaiah xlii, 1.
+[^fn183]: Isaiah 42:1.
 
-[^fn184]: Compare Jeremiah xxx, 6-9.
+[^fn184]: Compare Jeremiah 30:6-9.
 
-[^fn185]: Isaiah lx, 2, 3.
+[^fn185]: Isaiah 60:2-3.
 
-[^fn186]: Isaiah xxxv, 3 ff.
+[^fn186]: Isaiah 35:3 ff.
 
-[^fn187]: Psalm 1, 3.
+[^fn187]: Psalm 50:3.
 
-[^fn188]: Leviticus xxvi, 12; Zechariah ii, 10.
+[^fn188]: Leviticus 26:12; Zechariah 2:10.
 
-[^fn189]: Compare Jeremiah xxxii, 38; Ezekiel xi, 17, 20; xxxvi, 27, 28; 2 Corinthians vi, 16.
+[^fn189]: Compare Jeremiah 32:38; Ezekiel 11:17, 11:20; 36:27-28; 2 Corinthians 6:16.
 
-[^fn190]: Psalms cxviii, 26; cxxix, 8.
+[^fn190]: Psalms 118:26; 129:8.
 
-[^fn191]: Habakkuk iii, 3.
+[^fn191]: Habakkuk 3:3.
 
-[^fn192]: Compare Jeremiah xxxi, 31
+[^fn192]: Compare Jeremiah 31:31.
 
-[^fn193]: Compare 1 John iii, 5, 8.
+[^fn193]: Compare 1 John 3:5, 3:8.
 
-[^fn194]: Psalms xlviii, 2, 3; 1, 2.
+[^fn194]: Psalms 48:2-3; 50:2.
 
-[^fn195]: Psalm lxxxvii, 5, 6.
+[^fn195]: Psalm 87:5-6.
 
-[^fn196]: Compare 2 Corinthians vi, 16.
+[^fn196]: Compare 2 Corinthians 6:16.
 
-[^fn197]: Psalm lxxii, 6, 7.
+[^fn197]: Psalm 72:6-7.
 
-[^fn198]: Isaiah lix, 20.
+[^fn198]: Isaiah 59:20.
 
-[^fn199]: Compare Zechariah ii, 10.
+[^fn199]: Compare Zechariah 2:10.
 
-[^fn200]: Micah iv, 2.
+[^fn200]: Micah 4:2.
 
-[^fn201]: Compare Zechariah viii, 3.
+[^fn201]: Compare Zechariah 8:3.
 
-[^fn202]: Compare Jeremiah xxxi, 11, 12.
+[^fn202]: Compare Jeremiah 31:11-12.
 
-[^fn203]: Malachi iii, 1.
+[^fn203]: Malachi 3:1.
 
-[^fn204]: Zechariah ix, 9.
+[^fn204]: Zechariah 9:9.
 
-[^fn205]: Malachi iv, 2.
+[^fn205]: Malachi 4:2.
 
-[^fn206]: Zechariah i, 16.
+[^fn206]: Zechariah 1:16.
 
-[^fn207]: Psalm lxxii, 15.
+[^fn207]: Psalm 72:15.
 
-[^fn208]: Job ix, 8.
+[^fn208]: Job 9:8.
 
-[^fn209]: Psalm xviii, 9.
+[^fn209]: Psalm 18:9.
 
 [^fn210]: Isaiah vii, 14.
 
