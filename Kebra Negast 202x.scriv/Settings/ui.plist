@@ -902,10 +902,10 @@
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>2</real>
+		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>2027 312 1710 1823 0 0 3840 2135 </string>
+	<string>1960 312 1710 1823 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
