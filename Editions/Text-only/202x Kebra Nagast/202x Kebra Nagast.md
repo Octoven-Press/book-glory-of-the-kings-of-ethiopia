@@ -2495,6 +2495,7 @@ Levine, 1974
 
 [^fn272]: Zechariah xi, 12.
 
+
 [^fn273]: Psalm xxii, 16.
 
 [^fn274]: Isaiah liii, 1-3.
@@ -2517,6 +2518,7 @@ Levine, 1974
 
 [^fn283]: Acts iii, 20 ff.
 
+
 [^fn284]: Psalm xii, 5.
 
 [^fn285]: Psalm lxxxii, 8.
@@ -2533,41 +2535,46 @@ Levine, 1974
 
 [^fn291]: Compare Malachi iv, 2.
 
-[^fn292]: Psalm lxviii, 18.
 
-[^fn293]: Psalm lxviii, 22.
+[^fn292]: Psalm 68:18.
 
-[^fn294]: Psalm lxviii, 32, 33.
+[^fn293]: Psalm 68:22.
 
-[^fn295]: Amos iv, 13.
+[^fn294]: Psalm 68:32-33.
 
-[^fn296]: Psalm xxi, 13.
+[^fn295]: Amos 4:13.
 
-[^fn297]: Zechariah xiv, 4; Psalm xviii, 10.
+[^fn296]: Psalm 21:13.
 
-[^fn298]: Psalm xxiv, 7, 8.
+[^fn297]: Zechariah 14:4; Psalm 18:10.
 
-[^fn299]: Zechariah xiv, 5.
+[^fn298]: Psalm 24:7-8.
 
-[^fn300]: Psalm lxii, 11, 12.
+[^fn299]: Zechariah 14:5.
 
-[^fn301]: Daniel vii, 13 f.
+[^fn300]: Psalm 62:11-12.
 
-[^fn302]: Matthew xxii, 32.
+[^fn301]: Daniel 7:13 f.
 
-[^fn303]: Genesis xlvii, 29.
 
-[^fn304]: Genesis l, 25.
+[^fn302]: Matthew 22:32.
 
-[^fn305]: Matthew x, 15.
+[^fn303]: Genesis 47:29.
 
-[^fn306]: Matthew vii, 15.
+[^fn304]: Genesis 50:25.
 
-[^fn307]: Psalm lxviii, 31.
 
-[^fn308]: Deuteronomy xix, 15; Matthew xviii, 16; John viii, 17; 2 Corinthians xiii, 1.
+[^fn305]: Matthew 10:15.
 
-[^fn309]: Isaiah xxvi, 19.
+[^fn306]: Matthew 7:15.
+
+[^fn307]: Psalm 68:31.
+
+
+[^fn308]: Deuteronomy 19:15; Matthew 18:16; John 8:17; 2 Corinthians 13:1.
+
+[^fn309]: Isaiah 26:19.
+
 
 [^fn310]: Budge translated this as “It shall assuredly not disappear,” but other translations strongly disagree (including Carl Bezold’s German translation, which Budge’s work is based on, which translated as “No, it will disappear.” This replacement line is taken from Gerard Colin’s 2002 French translation.
 
