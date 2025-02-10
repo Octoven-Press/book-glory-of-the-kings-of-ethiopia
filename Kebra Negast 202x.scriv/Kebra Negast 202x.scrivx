@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-09 21:40:36 -0800" ModID="8459BE3F-0199-47D4-933A-72902A2C7323">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-09 22:08:38 -0800" ModID="D2119E77-EF01-40C8-A46E-A310FCC68817">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -321,14 +321,14 @@
                                 <TextSelection>326,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="FF9A7349-E20A-462B-8618-E765E59CFF8C" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-01 15:10:04 -0800">
+                        <BinderItem UUID="FF9A7349-E20A-462B-8618-E765E59CFF8C" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-09 22:02:09 -0800">
                             <Title>Concerning Reuben</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>380,4</TextSelection>
+                                <TextSelection>163,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E49D17C2-7192-4020-98E6-207D411D66AA" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 15:24:38 -0800">
@@ -821,14 +821,14 @@
                                 <TextSelection>1115,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EB37E37C-AC0E-443D-965F-629987BA4278" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 17:51:55 -0800">
+                        <BinderItem UUID="EB37E37C-AC0E-443D-965F-629987BA4278" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-09 22:08:37 -0800">
                             <Title>Concerning the prophecy of Christ</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3047,4</TextSelection>
+                                <TextSelection>302,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="23AC152F-1C90-499D-8EF1-B3947C3C0800" Type="Text" Created="2024-06-03 16:26:20 -0700" Modified="2025-02-02 21:21:15 -0800">
@@ -841,14 +841,14 @@
                                 <TextSelection>1117,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0B5DE028-7B13-4B9F-B9C3-86E0E3DFE2A0" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2025-02-01 17:55:02 -0800">
+                        <BinderItem UUID="0B5DE028-7B13-4B9F-B9C3-86E0E3DFE2A0" Type="Text" Created="2024-06-03 16:26:24 -0700" Modified="2025-02-09 22:06:48 -0800">
                             <Title>Concerning Mary, Our Lady of Salvation</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2441,4</TextSelection>
+                                <TextSelection>4640,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="126F4A09-B39F-46F1-BF75-F7AD64477AD9" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-01 17:55:40 -0800">
@@ -871,14 +871,14 @@
                                 <TextSelection>6699,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="02B79A53-0791-4ADE-9304-F365C506B0E9" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 17:59:41 -0800">
+                        <BinderItem UUID="02B79A53-0791-4ADE-9304-F365C506B0E9" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-09 22:05:58 -0800">
                             <Title>Concerning Mary, the daughter of David</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>715,0</TextSelection>
+                                <TextSelection>319,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E23D131B-5914-494E-9DAB-ED7AF3A24A54" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-02 21:17:42 -0800">
@@ -901,14 +901,14 @@
                                 <TextSelection>1634,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="39484EAC-FA98-424D-808D-CB91BCE7F548" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 18:04:04 -0800">
+                        <BinderItem UUID="39484EAC-FA98-424D-808D-CB91BCE7F548" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-09 22:04:56 -0800">
                             <Title>Concerning the King of Medyâm</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2080,0</TextSelection>
+                                <TextSelection>944,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="11055E8F-D544-43CA-AC3A-4CA9B05AAB13" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 18:04:37 -0800">
@@ -921,14 +921,14 @@
                                 <TextSelection>1150,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="08C6254A-532A-48C1-A5F1-0D9A45B38A9A" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-02 21:24:15 -0800">
+                        <BinderItem UUID="08C6254A-532A-48C1-A5F1-0D9A45B38A9A" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-09 22:04:14 -0800">
                             <Title>Concerning lying witnesses</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7149,4</TextSelection>
+                                <TextSelection>4207,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="88E7CDBE-AAA0-42DD-87C7-F96241F4C85B" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-02 21:18:04 -0800">
@@ -961,14 +961,14 @@
                                 <TextSelection>854,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="39633BF5-EF0B-47FA-82AB-04D7ADFCDCE3" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-01 18:41:47 -0800">
+                        <BinderItem UUID="39633BF5-EF0B-47FA-82AB-04D7ADFCDCE3" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-09 22:03:37 -0800">
                             <Title>Concerning the King of the Philistines</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1331,3</TextSelection>
+                                <TextSelection>879,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="D62E0C68-5D47-4AD5-8691-A5F34E9D7ED3" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 18:42:37 -0800">
@@ -981,14 +981,14 @@
                                 <TextSelection>3294,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="18374A47-A9CA-4DC8-86F3-4B6C8128E847" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-02 21:22:24 -0800">
+                        <BinderItem UUID="18374A47-A9CA-4DC8-86F3-4B6C8128E847" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-09 21:59:37 -0800">
                             <Title>Concerning Abraham going down into Egypt</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>555,4</TextSelection>
+                                <TextSelection>5560,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4839FBDE-3671-4584-B9FA-BAFE16A76EE3" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 18:47:12 -0800">
@@ -1061,14 +1061,14 @@
                                 <TextSelection>2848,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="84AD7E31-8568-4F6C-B493-2A5D999CD2AF" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-01 18:55:46 -0800">
+                        <BinderItem UUID="84AD7E31-8568-4F6C-B493-2A5D999CD2AF" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-09 21:59:17 -0800">
                             <Title>How Azariah praised the Queen and her city</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>887,4</TextSelection>
+                                <TextSelection>6609,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="25489320-1838-4FDC-B72C-048BDAD26743" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 19:02:45 -0800">
@@ -1091,14 +1091,14 @@
                                 <TextSelection>608,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8801C389-6FE6-4A11-9765-9008A9DCF3E8" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 19:04:23 -0800">
+                        <BinderItem UUID="8801C389-6FE6-4A11-9765-9008A9DCF3E8" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-09 21:58:26 -0800">
                             <Title>How the men of Byzantium destroyed the Faith</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2110,0</TextSelection>
+                                <TextSelection>1488,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="AD7AE4E7-7EF3-4330-94B0-79EDD1B7299E" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-01 19:05:16 -0800">
@@ -1111,14 +1111,14 @@
                                 <TextSelection>2981,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CB5E3EF6-6A26-4E1B-91E5-C3E0B3ADD5FB" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-01 19:07:12 -0800">
+                        <BinderItem UUID="CB5E3EF6-6A26-4E1B-91E5-C3E0B3ADD5FB" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-09 21:57:52 -0800">
                             <Title>How the honorable estate of the King of Ethiopia was universally accepted</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>16,12</TextSelection>
+                                <TextSelection>5113,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="74016A29-C426-4468-9D0B-357149297C95" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-01 22:58:58 -0800">
@@ -1161,14 +1161,14 @@
                                 <TextSelection>1202,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="601BA5F9-C19C-4168-A52C-56D98E8322CC" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-01 23:11:23 -0800">
+                        <BinderItem UUID="601BA5F9-C19C-4168-A52C-56D98E8322CC" Type="Text" Created="2024-06-03 16:26:27 -0700" Modified="2025-02-09 21:42:39 -0800">
                             <Title>Concerning the Angels who rebelled</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>817,4</TextSelection>
+                                <TextSelection>6485,1</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
@@ -1184,14 +1184,14 @@
                                 <TextSelection>1004,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2D874845-5CD7-4A9B-879F-5886DECA610B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-09 21:40:35 -0800">
+                        <BinderItem UUID="2D874845-5CD7-4A9B-879F-5886DECA610B" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-09 21:41:38 -0800">
                             <Title>Concerning the Beginning</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>108,1</TextSelection>
+                                <TextSelection>5448,1</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
