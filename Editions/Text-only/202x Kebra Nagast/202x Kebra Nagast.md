@@ -2457,117 +2457,124 @@ Levine, 1974
 [^fn253]: Habakkuk 3:4.
 
 
-[^fn254]: Psalm ix, 15, 16.
+[^fn254]: Psalm 9:15-16.
 
-[^fn255]: Psalm vii, 16.
+[^fn255]: Psalm 7:16.
 
-[^fn256]: Proverbs vi, 13.
+[^fn256]: Proverbs 6:13.
 
-[^fn257]: Psalm xli, 9.
+[^fn257]: Psalm 41:9.
 
-[^fn258]: Isaiah x, 1, 2.
+[^fn258]: Isaiah 10:1-2.
 
-[^fn259]: Psalm civ, 35.
+[^fn259]: Psalm 109:35.
 
-[^fn260]: Psalm xxxvi, 1.
+[^fn260]: Psalm 36:1.
 
-[^fn261]: Prov. xi, 11.
+[^fn261]: Proverbs 11:11.
 
-[^fn262]: Deuteronomy xxix, 20.
+[^fn262]: Deuteronomy 29:20.
 
-[^fn263]: Psalm cix, 17.
+[^fn263]: Psalm 109:17.
 
-[^fn264]: Compare Ezekiel xviii, 12, 31
+[^fn264]: Compare Ezekiel 18:12, 18:31.
 
-[^fn265]: Job xviii, 16 f.
+[^fn265]: Job 18:16 f.
 
-[^fn266]: Hosea iv, 1, 2.
+[^fn266]: Hosea 4:1-2.
 
-[^fn267]: Psalm cix, 6-8.
+[^fn267]: Psalm 109:6-8.
 
-[^fn268]: Exodus xxiii, 8; Deut. xxvii, 25,
+[^fn268]: Exodus 23:8; Deuteronomy 27:25.
 
-[^fn269]: Habakkuk i, 4.
+[^fn269]: Habakkuk 1:4.
 
-[^fn270]: Psalm cxii, 10.
+[^fn270]: Psalm 112:10.
 
-[^fn271]: Proverbs xi, 1.
+[^fn271]: Proverbs 11:1.
 
-[^fn272]: Zechariah xi, 12.
+[^fn272]: Zechariah 11:12.
 
-[^fn273]: Psalm xxii, 16.
 
-[^fn274]: Isaiah liii, 1-3.
+[^fn273]: Psalm 22:16.
 
-[^fn275]: Wisdom ii, 12.
+[^fn274]: Isaiah 53:1-3.
 
-[^fn276]: Proverbs i, 10 ff.
+[^fn275]: Wisdom 2:12.
 
-[^fn277]: Psalm lxix, 21.
+[^fn276]: Proverbs 1:10 ff.
 
-[^fn278]: Isaiah liii, 4 ff.
+[^fn277]: Psalm 69:21.
 
-[^fn279]: Zechariah xi, 13.
+[^fn278]: Isaiah 53:4 ff.
 
-[^fn280]: Isaiah liii, 12.
+[^fn279]: Zechariah 11:13.
 
-[^fn281]: Psalm xxxv, 12.
+[^fn280]: Isaiah 53:12.
 
-[^fn282]: Zechariah xii, 10.
+[^fn281]: Psalm 35:12.
 
-[^fn283]: Acts iii, 20 ff.
+[^fn282]: Zechariah 12:10.
 
-[^fn284]: Psalm xii, 5.
+[^fn283]: Acts 3:20 ff.
 
-[^fn285]: Psalm lxxxii, 8.
 
-[^fn286]: Psalm xliv, 26.
+[^fn284]: Psalm 7:5.
 
-[^fn287]: Psalm lxviii, 1.
+[^fn285]: Psalm 82:8.
 
-[^fn288]: Psalm lxxviii, 65.
+[^fn286]: Psalm 44:26.
 
-[^fn289]: Compare Isaiah liii, 4 ff.
+[^fn287]: Psalm 68:1.
 
-[^fn290]: Psalm xvi, 10.
+[^fn288]: Psalm 78:65.
 
-[^fn291]: Compare Malachi iv, 2.
+[^fn289]: Compare Isaiah 53:4 ff.
 
-[^fn292]: Psalm lxviii, 18.
+[^fn290]: Psalm 16:10.
 
-[^fn293]: Psalm lxviii, 22.
+[^fn291]: Compare Malachi 4:2.
 
-[^fn294]: Psalm lxviii, 32, 33.
 
-[^fn295]: Amos iv, 13.
+[^fn292]: Psalm 68:18.
 
-[^fn296]: Psalm xxi, 13.
+[^fn293]: Psalm 68:22.
 
-[^fn297]: Zechariah xiv, 4; Psalm xviii, 10.
+[^fn294]: Psalm 68:32-33.
 
-[^fn298]: Psalm xxiv, 7, 8.
+[^fn295]: Amos 4:13.
 
-[^fn299]: Zechariah xiv, 5.
+[^fn296]: Psalm 21:13.
 
-[^fn300]: Psalm lxii, 11, 12.
+[^fn297]: Zechariah 14:4; Psalm 18:10.
 
-[^fn301]: Daniel vii, 13 f.
+[^fn298]: Psalm 24:7-8.
 
-[^fn302]: Matthew xxii, 32.
+[^fn299]: Zechariah 14:5.
 
-[^fn303]: Genesis xlvii, 29.
+[^fn300]: Psalm 62:11-12.
 
-[^fn304]: Genesis l, 25.
+[^fn301]: Daniel 7:13 f.
 
-[^fn305]: Matthew x, 15.
 
-[^fn306]: Matthew vii, 15.
+[^fn302]: Matthew 22:32.
 
-[^fn307]: Psalm lxviii, 31.
+[^fn303]: Genesis 47:29.
 
-[^fn308]: Deuteronomy xix, 15; Matthew xviii, 16; John viii, 17; 2 Corinthians xiii, 1.
+[^fn304]: Genesis 50:25.
 
-[^fn309]: Isaiah xxvi, 19.
+
+[^fn305]: Matthew 10:15.
+
+[^fn306]: Matthew 7:15.
+
+[^fn307]: Psalm 68:31.
+
+
+[^fn308]: Deuteronomy 19:15; Matthew 18:16; John 8:17; 2 Corinthians 13:1.
+
+[^fn309]: Isaiah 26:19.
+
 
 [^fn310]: Budge translated this as “It shall assuredly not disappear,” but other translations strongly disagree (including Carl Bezold’s German translation, which Budge’s work is based on, which translated as “No, it will disappear.” This replacement line is taken from Gerard Colin’s 2002 French translation.
 
