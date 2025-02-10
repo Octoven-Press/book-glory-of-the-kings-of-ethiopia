@@ -2081,7 +2081,9 @@ Levine, 1974
 
 [^fn68]: The name of the reigning king to be added by the copyist.
 
+
 [^fn69]: *i.e.* double drachmas.
+
 
 [^fn70]: Isaiah 65:1.
 
@@ -2093,13 +2095,16 @@ Levine, 1974
 
 [^fn74]: Compare Psalm 87:2-4; Isaiah 51:16.
 
+
 [^fn75]: 1 Samuel 6:4.
 
 [^fn76]: The text of Samuel (6:4) gives “five emerods.”
 
 [^fn77]: 1 Samuel 2:29-34.
 
+
 [^fn78]: Matthew 17:4; Luke 9:33.
+
 
 [^fn79]: Isaiah 66:1.
 
@@ -2111,15 +2116,18 @@ Levine, 1974
 
 [^fn83]: Psalms 72:11; 89:3-4, 27, 29; 132:11-13.
 
+
 [^fn84]: Five mice and five emerods; see 1 Samuel 6:4.
 
 [^fn85]: “Two milch kine,” 1 Samuel 6:7.
 
 [^fn86]: “A new cart,” 1 Samuel 6:7.
 
+
 [^fn87]: 1 Kings 2:5 ff.
 
 [^fn88]: *i.e.* the “Shunammite woman” (see 1 Kings 1:3).
+
 
 [^fn89]: John 2:19.
 
@@ -2133,11 +2141,14 @@ Levine, 1974
 
 [^fn94]: Psalms 72:1 ff.; 110:4.
 
+
 [^fn95]: *i.e.* Satan, the Devil.
+
 
 [^fn96]: David was the eighth of Jesse’s sons.
 
 [^fn97]: Compare Genesis 22:13.
+
 
 [^fn98]: 2 Samuel 7:12; Psalm 132:11.
 
@@ -2145,7 +2156,9 @@ Levine, 1974
 
 [^fn100]: Psalm 89:35.
 
+
 [^fn101]: Matthew 1:20.
+
 
 [^fn102]: Galatians 5:17.
 
@@ -2153,27 +2166,34 @@ Levine, 1974
 
 [^fn104]: Compare Matthew 10:8; 19:28; Luke 10:19.
 
+
 [^fn105]: Psalm 28:3-4
 
 [^fn106]: Proverbs 30:18.
 
-[^fn107]: See chapters 15, 16.
+
+[^fn107]: Judges 15, 16.
+
 
 [^fn108]: Genesis 12 ff.
+
 
 [^fn109]: Compare Deuteronomy 4:1.
 
 [^fn110]: Deuteronomy 27:15 ff.
 
-[^fn111]: Compare Matthew xxv, 22.
+[^fn111]: Compare Matthew 25:22.
+
 
 [^fn112]: Psalm 73:8-9.
+
 
 [^fn113]: John 21:25.
 
 [^fn114]: Psalm 40:7.
 
 [^fn115]: Genesis 1:1.
+
 
 [^fn116]: Compare Deuteronomy 18:15.
 
@@ -2191,11 +2211,13 @@ Levine, 1974
 
 [^fn123]: Exodus 3:2.
 
+
 [^fn124]: See Numbers 16.
 
 [^fn125]: Compare Exodus 17:4; Numbers 16:41.
 
 [^fn126]: Numbers 17:8.
+
 
 [^fn127]: Psalm 87:2.
 
@@ -2233,6 +2255,7 @@ Levine, 1974
 
 [^fn144]: Psalm 69:21.
 
+
 [^fn145]: Genesis 2:17.
 
 [^fn146]: Compare Matthew 23:13, and Luke 18:9 ff.
@@ -2243,6 +2266,7 @@ Levine, 1974
 
 [^fn149]: Genesis 6:14 ff.
 
+
 [^fn150]: Psalm 110:3.
 
 [^fn151]: Genesis 1:1.
@@ -2251,7 +2275,7 @@ Levine, 1974
 
 [^fn153]: Acts 1.
 
-[^fn154]: Mark 1, 1.
+[^fn154]: Mark 1:1.
 
 [^fn155]: John 1:1-3; 1 John 1:1.
 
