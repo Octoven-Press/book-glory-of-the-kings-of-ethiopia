@@ -2457,83 +2457,83 @@ Levine, 1974
 [^fn253]: Habakkuk 3:4.
 
 
-[^fn254]: Psalm ix, 15, 16.
+[^fn254]: Psalm 9:15-16.
 
-[^fn255]: Psalm vii, 16.
+[^fn255]: Psalm 7:16.
 
-[^fn256]: Proverbs vi, 13.
+[^fn256]: Proverbs 6:13.
 
-[^fn257]: Psalm xli, 9.
+[^fn257]: Psalm 41:9.
 
-[^fn258]: Isaiah x, 1, 2.
+[^fn258]: Isaiah 10:1-2.
 
-[^fn259]: Psalm civ, 35.
+[^fn259]: Psalm 109:35.
 
-[^fn260]: Psalm xxxvi, 1.
+[^fn260]: Psalm 36:1.
 
-[^fn261]: Prov. xi, 11.
+[^fn261]: Proverbs 11:11.
 
-[^fn262]: Deuteronomy xxix, 20.
+[^fn262]: Deuteronomy 29:20.
 
-[^fn263]: Psalm cix, 17.
+[^fn263]: Psalm 109:17.
 
-[^fn264]: Compare Ezekiel xviii, 12, 31
+[^fn264]: Compare Ezekiel 18:12, 18:31.
 
-[^fn265]: Job xviii, 16 f.
+[^fn265]: Job 18:16 f.
 
-[^fn266]: Hosea iv, 1, 2.
+[^fn266]: Hosea 4:1-2.
 
-[^fn267]: Psalm cix, 6-8.
+[^fn267]: Psalm 109:6-8.
 
-[^fn268]: Exodus xxiii, 8; Deut. xxvii, 25,
+[^fn268]: Exodus 23:8; Deuteronomy 27:25.
 
-[^fn269]: Habakkuk i, 4.
+[^fn269]: Habakkuk 1:4.
 
-[^fn270]: Psalm cxii, 10.
+[^fn270]: Psalm 112:10.
 
-[^fn271]: Proverbs xi, 1.
+[^fn271]: Proverbs 11:1.
 
-[^fn272]: Zechariah xi, 12.
-
-
-[^fn273]: Psalm xxii, 16.
-
-[^fn274]: Isaiah liii, 1-3.
-
-[^fn275]: Wisdom ii, 12.
-
-[^fn276]: Proverbs i, 10 ff.
-
-[^fn277]: Psalm lxix, 21.
-
-[^fn278]: Isaiah liii, 4 ff.
-
-[^fn279]: Zechariah xi, 13.
-
-[^fn280]: Isaiah liii, 12.
-
-[^fn281]: Psalm xxxv, 12.
-
-[^fn282]: Zechariah xii, 10.
-
-[^fn283]: Acts iii, 20 ff.
+[^fn272]: Zechariah 11:12.
 
 
-[^fn284]: Psalm xii, 5.
+[^fn273]: Psalm 22:16.
 
-[^fn285]: Psalm lxxxii, 8.
+[^fn274]: Isaiah 53:1-3.
 
-[^fn286]: Psalm xliv, 26.
+[^fn275]: Wisdom 2:12.
 
-[^fn287]: Psalm lxviii, 1.
+[^fn276]: Proverbs 1:10 ff.
 
-[^fn288]: Psalm lxxviii, 65.
+[^fn277]: Psalm 69:21.
 
-[^fn289]: Compare Isaiah liii, 4 ff.
+[^fn278]: Isaiah 53:4 ff.
 
-[^fn290]: Psalm xvi, 10.
+[^fn279]: Zechariah 11:13.
 
-[^fn291]: Compare Malachi iv, 2.
+[^fn280]: Isaiah 53:12.
+
+[^fn281]: Psalm 35:12.
+
+[^fn282]: Zechariah 12:10.
+
+[^fn283]: Acts 3:20 ff.
+
+
+[^fn284]: Psalm 7:5.
+
+[^fn285]: Psalm 82:8.
+
+[^fn286]: Psalm 44:26.
+
+[^fn287]: Psalm 68:1.
+
+[^fn288]: Psalm 78:65.
+
+[^fn289]: Compare Isaiah 53:4 ff.
+
+[^fn290]: Psalm 16:10.
+
+[^fn291]: Compare Malachi 4:2.
 
 
 [^fn292]: Psalm 68:18.
