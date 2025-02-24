@@ -6,7 +6,7 @@
 	<dict>
 		<key>46DDA17B-2750-480D-A05E-4B55642FA590</key>
 		<array>
-			<string>973BE1B6-EC52-4C8E-B89E-8E02B889AE66</string>
+			<string>98A30640-0876-435D-B00C-82C70A18DF31</string>
 		</array>
 	</dict>
 	<key>CompileFolder</key>
@@ -65,8 +65,8 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {297, 1008}}</string>
-		<string>{{298, 0}, {1412, 1008}}</string>
+		<string>{{0, 0}, {297, 2074}}</string>
+		<string>{{298, 0}, {1412, 2074}}</string>
 	</array>
 	<key>bookmarksPreviewTextSettings</key>
 	<dict>
@@ -909,7 +909,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>2</integer>
+		<integer>0</integer>
 	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
@@ -929,8 +929,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1019, 978}}</string>
-		<string>{{1020, 0}, {392, 978}}</string>
+		<string>{{0, 0}, {1019, 2044}}</string>
+		<string>{{1020, 0}, {392, 2044}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -942,14 +942,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 177.33333333333331}, {354.33333333333331, 307.33333333333331}}</string>
+	<string>{{0, 1372.6666666666665}, {334.66666666666663, 662.66666666666674}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>202 253 1710 1036 0 0 3840 2135 </string>
+	<string>2066 32 1710 2102 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -959,7 +959,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>200</real>
+			<real>265</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>46DDA17B-2750-480D-A05E-4B55642FA590</key>
 		<array>
-			<string>51483619-1237-4861-B99E-F913E8F075E5</string>
+			<string>2D874845-5CD7-4A9B-879F-5886DECA610B</string>
 		</array>
 	</dict>
 	<key>CompileFolder</key>
@@ -65,8 +65,8 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {284, 1008}}</string>
-		<string>{{285, 0}, {1425, 1008}}</string>
+		<string>{{0, 0}, {284, 2066}}</string>
+		<string>{{285, 0}, {1485, 2066}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -865,7 +865,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>2</integer>
+		<integer>7</integer>
 	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
@@ -885,8 +885,8 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1131, 978}}</string>
-		<string>{{1132, 0}, {293, 978}}</string>
+		<string>{{0, 0}, {1191, 2036}}</string>
+		<string>{{1192, 0}, {293, 2036}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>335</real>
@@ -905,7 +905,7 @@
 		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 33 1710 1036 0 0 1710 1069 </string>
+	<string>2070 41 1770 2094 0 0 3840 2135 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>

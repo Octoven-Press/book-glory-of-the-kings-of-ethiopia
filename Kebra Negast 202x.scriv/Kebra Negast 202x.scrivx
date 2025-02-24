@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-10 20:05:50 -0800" ModID="C8B440BA-1B05-43D5-A800-FEAFFBE32E2C">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-23 18:01:16 -0800" ModID="6FCA5B9D-A1D2-4076-A474-A7664088E875">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -65,7 +65,7 @@
                                 <SectionType>E0EF8A33-42A7-4C88-BF0E-FB716D5756AB</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9962,5</TextSelection>
+                                <TextSelection>752,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C90EAA8E-DFDC-4F78-8ED4-B58EC714BCF0" Type="Text" Created="2024-06-03 18:57:07 -0700" Modified="2025-02-09 09:59:58 -0800">
@@ -178,7 +178,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1728,1</TextSelection>
+                                <TextSelection>505,3</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="78E66A75-50C3-4433-B300-12FBBD573D34" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-01-26 16:48:20 -0800">
@@ -518,7 +518,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1763,4</TextSelection>
+                                <TextSelection>1098,3</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="24F48E13-F1A1-4798-9D14-57783B482668" Type="Text" Created="2024-06-03 16:26:31 -0700" Modified="2025-02-01 16:44:47 -0800">
@@ -608,7 +608,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2603,4</TextSelection>
+                                <TextSelection>813,3</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="46378D25-95C8-4EEE-9914-06CB2CE2A9F9" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-02 17:03:37 -0800">
@@ -871,24 +871,24 @@
                                 <TextSelection>6699,4</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="02B79A53-0791-4ADE-9304-F365C506B0E9" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-09 22:05:58 -0800">
+                        <BinderItem UUID="02B79A53-0791-4ADE-9304-F365C506B0E9" Type="Text" Created="2024-06-03 16:14:53 -0700" Modified="2025-02-23 17:48:13 -0800">
                             <Title>Concerning Mary, the daughter of David</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>319,1</TextSelection>
+                                <TextSelection>725,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E23D131B-5914-494E-9DAB-ED7AF3A24A54" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-02 21:17:42 -0800">
+                        <BinderItem UUID="E23D131B-5914-494E-9DAB-ED7AF3A24A54" Type="Text" Created="2024-06-03 16:19:48 -0700" Modified="2025-02-23 17:57:28 -0800">
                             <Title>Concerning the King of Byzantium</Title>
                             <MetaData>
                                 <SectionType>5C5AD70A-282E-4EC6-9B2B-5670AC1BD50E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>174,0</TextSelection>
+                                <TextSelection>4406,31</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4668474F-A890-4257-AF44-5DE3156D72E1" Type="Text" Created="2024-06-03 16:20:08 -0700" Modified="2025-02-01 18:02:03 -0800">
@@ -1464,13 +1464,13 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="6A037F1A-129D-4F56-B056-0658D46A8D7C" Type="Text" Created="2024-09-07 23:55:04 -0700" Modified="2025-02-02 21:09:55 -0800">
+                <BinderItem UUID="6A037F1A-129D-4F56-B056-0658D46A8D7C" Type="Text" Created="2024-09-07 23:55:04 -0700" Modified="2025-02-23 17:47:58 -0800">
                     <Title>Modernization</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2262,12</TextSelection>
+                        <TextSelection>2427,6</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="973BE1B6-EC52-4C8E-B89E-8E02B889AE66" Type="Text" Created="2024-09-11 10:43:35 -0700" Modified="2024-09-28 14:08:50 -0700">
@@ -1612,7 +1612,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="46DDA17B-2750-480D-A05E-4B55642FA590" Color="0.190666 0.172706 0.216531">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Psalm</SearchSettings>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">whatsoever</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -1667,14 +1667,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-11 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-02-10 20:05:48 -0800"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-24 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1" Characters="8" Date="2025-02-23 17:45:51 -0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2025-02-10 00:00:00 -0800">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2025-02-23 00:00:00 -0800">
+        <DraftWordCount>1</DraftWordCount>
+        <DraftCharCount>8</DraftCharCount>
+        <OtherWordCount>2</OtherWordCount>
+        <OtherCharCount>19</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
