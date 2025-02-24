@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-23 18:01:16 -0800" ModID="6FCA5B9D-A1D2-4076-A474-A7664088E875">
+<ScrivenerProject Identifier="2F1CA850-F436-4522-805E-3D5E3BFF0267" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Featherwood" Author="" Modified="2025-02-23 19:33:04 -0800" ModID="92FC77FD-945F-421C-B144-AAF1DFD60E34">
     <Binder>
         <BinderItem UUID="6EBDB08B-FF60-43E2-8EF5-05A7EFC63F8A" Type="Folder" Created="2024-09-09 10:32:45 -0700" Modified="2024-09-09 10:32:48 -0700">
             <Title>Front Matter</Title>
@@ -1191,7 +1191,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5448,1</TextSelection>
+                                <TextSelection>1362,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C"/>
@@ -1381,7 +1381,7 @@
                         <SelectedSubdocumentUUIDs>536F384E-3EA4-4475-844F-23E724385FBE</SelectedSubdocumentUUIDs>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C" Type="Text" Created="2024-09-27 13:41:11 -0700" Modified="2024-10-26 18:25:55 -0700">
+                        <BinderItem UUID="BBAAF758-D916-448D-AAAE-8CC3D1F75F7C" Type="Text" Created="2024-09-27 13:41:11 -0700" Modified="2025-02-23 19:33:04 -0800">
                             <Title>A List of the Passages from the Old and New Testaments, Quoted or Referred to in the Kebra Nagast</Title>
                             <MetaData>
                                 <SectionType>858615A2-76B7-410C-8CC9-36D71045F024</SectionType>
@@ -1668,11 +1668,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-06-03 16:14:53 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-02-24 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1" Characters="8" Date="2025-02-23 17:45:51 -0800"/>
+        <PreviousSession Words="-7" Characters="-725" Date="2025-02-23 17:45:51 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-02-23 00:00:00 -0800">
-        <DraftWordCount>1</DraftWordCount>
-        <DraftCharCount>8</DraftCharCount>
+        <DraftWordCount>-7</DraftWordCount>
+        <DraftCharCount>-725</DraftCharCount>
         <OtherWordCount>2</OtherWordCount>
         <OtherCharCount>19</OtherCharCount>
     </RecentWritingHistory>
